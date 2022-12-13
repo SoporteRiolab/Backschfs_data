@@ -1,0 +1,1018 @@
+,Academic_Year,Current_Medical_Field_En,Current_Speciality_Name_En,Number_of_Trainees
+0,2021,Medicine and Surgery,Internal Medicine,2581
+1,2021,Medicine and Surgery,Family Medicine,2506
+2,2020,Medicine and Surgery,Family Medicine,2440
+3,2020,Medicine and Surgery,Internal Medicine,2213
+4,2019,Medicine and Surgery,Family Medicine,2175
+5,2019,Medicine and Surgery,Internal Medicine,1970
+6,2018,Medicine and Surgery,Family Medicine,1877
+7,2021,Medicine and Surgery,Pediatrics,1859
+8,2020,Medicine and Surgery,Pediatrics,1694
+9,2018,Medicine and Surgery,Internal Medicine,1483
+10,2017,Medicine and Surgery,Family Medicine,1431
+11,2019,Medicine and Surgery,Pediatrics,1408
+12,2016,Medicine and Surgery,Family Medicine,1140
+13,2021,Medicine and Surgery,Obstetrics & Gynecology,1063
+14,2018,Medicine and Surgery,Pediatrics,1055
+15,2021,Medicine and Surgery,General Surgery,1020
+16,2020,Medicine and Surgery,Obstetrics & Gynecology,1019
+17,2020,Medicine and Surgery,General Surgery,983
+18,2017,Medicine and Surgery,Internal Medicine,979
+19,2019,Medicine and Surgery,General Surgery,936
+20,2019,Medicine and Surgery,Obstetrics & Gynecology,901
+21,2018,Medicine and Surgery,General Surgery,889
+22,2018,Medicine and Surgery,Obstetrics & Gynecology,800
+23,2017,Medicine and Surgery,General Surgery,791
+25,2017,Medicine and Surgery,Obstetrics & Gynecology,733
+26,2017,Medicine and Surgery,Pediatrics,708
+27,2016,Medicine and Surgery,General Surgery,686
+28,2016,Medicine and Surgery,Internal Medicine,669
+30,2021,Medicine and Surgery,Diagnostic Radiology,639
+31,2016,Medicine and Surgery,Obstetrics & Gynecology,623
+35,2021,Medicine and Surgery,Emergency Medicine,599
+36,2020,Medicine and Surgery,Diagnostic Radiology,592
+38,2020,Medicine and Surgery,Emergency Medicine,545
+41,2021,Medicine and Surgery,Orthopedic Surgery,536
+44,2016,Medicine and Surgery,Pediatrics,512
+48,2019,Medicine and Surgery,Diagnostic Radiology,505
+49,2020,Medicine and Surgery,Orthopedic Surgery,502
+51,2021,Medicine and Surgery,Anesthesia,464
+52,2019,Medicine and Surgery,Emergency Medicine,463
+53,2021,Medicine and Surgery,Adult Critical Care Medicine,462
+55,2019,Medicine and Surgery,Orthopedic Surgery,459
+61,2018,Medicine and Surgery,Diagnostic Radiology,421
+63,2020,Medicine and Surgery,Anesthesia,414
+64,2018,Medicine and Surgery,Orthopedic Surgery,412
+67,2020,Medicine and Surgery,Adult Critical Care Medicine,408
+71,2018,Medicine and Surgery,Emergency Medicine,392
+77,2019,Medicine and Surgery,Adult Critical Care Medicine,359
+78,2019,Medicine and Surgery,Anesthesia,356
+79,2017,Medicine and Surgery,Orthopedic Surgery,353
+83,2021,Medicine and Surgery,Preventive Medicine,343
+84,2018,Medicine and Surgery,Adult Critical Care Medicine,342
+85,2017,Medicine and Surgery,Diagnostic Radiology,334
+86,2017,Medicine and Surgery,Adult Critical Care Medicine,333
+89,2017,Medicine and Surgery,Emergency Medicine,309
+90,2021,Medicine and Surgery,Neurology,308
+91,2018,Medicine and Surgery,Anesthesia,306
+93,2016,Medicine and Surgery,Adult Critical Care Medicine,295
+95,2020,Medicine and Surgery,Neurology,290
+96,2020,Medicine and Surgery,Preventive Medicine,290
+97,2016,Medicine and Surgery,Orthopedic Surgery,288
+99,2021,Medicine and Surgery,Urology,278
+100,2019,Medicine and Surgery,Otorhinolaryngology Head And Neck Surgery,276
+101,2018,Medicine and Surgery,Otorhinolaryngology Head And Neck Surgery,276
+102,2020,Medicine and Surgery,Urology,275
+103,2016,Medicine and Surgery,Diagnostic Radiology,269
+104,2021,Medicine and Surgery,Otorhinolaryngology Head And Neck Surgery,268
+106,2020,Medicine and Surgery,Otorhinolaryngology Head And Neck Surgery,266
+107,2019,Medicine and Surgery,Urology,257
+108,2017,Medicine and Surgery,Otorhinolaryngology Head And Neck Surgery,257
+111,2017,Medicine and Surgery,Anesthesia,249
+115,2018,Medicine and Surgery,Urology,236
+117,2016,Medicine and Surgery,Otorhinolaryngology Head And Neck Surgery,232
+118,2016,Medicine and Surgery,Emergency Medicine,230
+122,2017,Medicine and Surgery,Adult Cardiology,224
+123,2019,Medicine and Surgery,Neurology,224
+130,2021,Medicine and Surgery,Psychiatry,213
+134,2021,Medicine and Surgery,Ophthalmology,206
+138,2020,Medicine and Surgery,Psychiatry,202
+139,2019,Medicine and Surgery,Preventive Medicine,202
+141,2017,Medicine and Surgery,Urology,200
+142,2016,Medicine and Surgery,Anesthesia,200
+145,2019,Medicine and Surgery,Psychiatry,197
+146,2016,Medicine and Surgery,Adult Cardiology,196
+147,2016,Medicine and Surgery,Adults Endocrinology & Metabolism,196
+148,2017,Medicine and Surgery,Adults Endocrinology & Metabolism,194
+149,2018,Medicine and Surgery,Adult Cardiology,193
+152,2018,Medicine and Surgery,Neurology,191
+159,2022,Medicine and Surgery,Adult Cardiology,174
+160,2018,Medicine and Surgery,Psychiatry,173
+161,2016,Medicine and Surgery,Urology,172
+162,2017,Medicine and Surgery,Neurology,170
+164,2020,Medicine and Surgery,Ophthalmology,169
+169,2018,Medicine and Surgery,Adults Endocrinology & Metabolism,163
+171,2021,Dentistry and Related Specialties,Orthodontic and Dentofacial Orthopedics,162
+174,2021,Pharmacists and Pharmacy Technicians,Clinical Pharmacy,159
+175,2017,Medicine and Surgery,Psychiatry,158
+177,2019,Medicine and Surgery,Adult Cardiology,156
+178,2016,Medicine and Surgery,Pediatrics Emergency Medicine,155
+179,2017,Medicine and Surgery,Gastroenterology,154
+180,2017,Medicine and Surgery,Adult Hematology,154
+181,2021,Dentistry and Related Specialties,Restorative Dentistry,153
+183,2021,Nursing and Midwifery,Emergency Nursing,150
+185,2021,Nursing and Midwifery,Adult Critical Care Nursing,149
+186,2016,Medicine and Surgery,Gastroenterology,149
+187,2017,Medicine and Surgery,Pediatrics Emergency Medicine,149
+188,2021,Dentistry and Related Specialties,Endodontics,149
+189,2021,Medicine and Surgery,Dermatology,148
+190,2020,Medicine and Surgery,Dermatology,148
+192,2019,Medicine and Surgery,Dermatology,146
+194,2020,Nursing and Midwifery,Adult Critical Care Nursing,145
+195,2018,Medicine and Surgery,Dermatology,143
+196,2017,Medicine and Surgery,Dermatology,143
+198,2016,Medicine and Surgery,Adult Hematology,141
+204,2020,Dentistry and Related Specialties,Orthodontic and Dentofacial Orthopedics,138
+207,2021,Medicine and Surgery,Clinical Neurosurgery,138
+208,2018,Medicine and Surgery,Gastroenterology,137
+209,2021,Medicine and Surgery,Adult Cardiology,136
+211,2017,Medicine and Surgery,Adult Infectious Diseases,134
+213,2019,Dentistry and Related Specialties,Restorative Dentistry,133
+215,2019,Medicine and Surgery,Ophthalmology,133
+216,2020,Dentistry and Related Specialties,Restorative Dentistry,133
+217,2019,Medicine and Surgery,Adults Endocrinology & Metabolism,132
+218,2016,Medicine and Surgery,Adult Infectious Diseases,132
+219,2020,Medicine and Surgery,Clinical Neurosurgery,131
+224,2018,Dentistry and Related Specialties,Restorative Dentistry,129
+225,2020,Nursing and Midwifery,Emergency Nursing,128
+226,2016,Medicine and Surgery,Neurology,127
+227,2018,Medicine and Surgery,Pediatrics Emergency Medicine,127
+229,2020,Medicine and Surgery,Adult Cardiology,127
+231,2018,Medicine and Surgery,Adult Hematology,125
+233,2016,Medicine and Surgery,Psychiatry,123
+235,2018,Medicine and Surgery,Preventive Medicine,123
+238,2016,Medicine and Surgery,Community Medicine (Health Informatics),122
+240,2020,Dentistry and Related Specialties,Endodontics,121
+241,2021,Dentistry and Related Specialties,Pediatric Dentistry,120
+244,2019,Medicine and Surgery,Clinical Neurosurgery,119
+245,2017,Dentistry and Related Specialties,Restorative Dentistry,118
+248,2018,Medicine and Surgery,Adult Infectious Diseases,116
+251,2019,Medicine and Surgery,Gastroenterology,115
+252,2019,Nursing and Midwifery,Adult Critical Care Nursing,115
+254,2019,Dentistry and Related Specialties,Orthodontic and Dentofacial Orthopedics,114
+255,2022,Medicine and Surgery,Adult Critical Care Medicine,114
+256,2021,Dentistry and Related Specialties,Implant Dentistry,114
+258,2019,Dentistry and Related Specialties,Endodontics,114
+261,2021,Medicine and Surgery,Anatomic Pathology,113
+262,2020,Pharmacists and Pharmacy Technicians,Clinical Pharmacy,112
+263,2016,Medicine and Surgery,Dermatology,112
+265,2021,Dentistry and Related Specialties,Prosthodontics,112
+267,2017,Medicine and Surgery,Adult Respiratory Medicine,111
+268,2017,Medicine and Surgery,Adult Nephrology,111
+270,2021,Medicine and Surgery,Pediatric Neurology,110
+271,2019,Medicine and Surgery,Adult Hematology,109
+272,2016,Medicine and Surgery,Diabetes​,109
+274,2018,Medicine and Surgery,Clinical Neurosurgery,108
+275,2017,Medicine and Surgery,Diabetes​,108
+276,2020,Medicine and Surgery,Anatomic Pathology,107
+277,2019,Medicine and Surgery,Adult Infectious Diseases,107
+280,2016,Medicine and Surgery,Adult Nephrology,106
+282,2018,Medicine and Surgery,Anatomic Pathology,105
+285,2016,Dentistry and Related Specialties,Endodontics,105
+286,2020,Medicine and Surgery,Adults Endocrinology & Metabolism,105
+287,2020,Medicine and Surgery,Pediatric Neurology,104
+292,2017,Medicine and Surgery,Perinatal Neonatal Medicine,102
+294,2018,Dentistry and Related Specialties,Endodontics,102
+296,2019,Medicine and Surgery,Anatomic Pathology,102
+305,2020,Medicine and Surgery,Gastroenterology,101
+306,2018,Medicine and Surgery,Adult Nephrology,100
+307,2016,Medicine and Surgery,Adult Respiratory Medicine,100
+308,2017,Medicine and Surgery,Community Medicine (Health Informatics),99
+309,2019,Medicine and Surgery,Pediatric Neurology,99
+310,2017,Dentistry and Related Specialties,Endodontics,99
+312,2018,Nursing and Midwifery,Adult Critical Care Nursing,99
+313,2017,Medicine and Surgery,Clinical Neurosurgery,98
+314,2017,Medicine and Surgery,Adult Rheumatology,98
+315,2020,Dentistry and Related Specialties,Prosthodontics,98
+321,2019,Nursing and Midwifery,Emergency Nursing,97
+322,2022,Medicine and Surgery,Gastroenterology,96
+323,2016,Medicine and Surgery,Perinatal Neonatal Medicine,96
+326,2019,Medicine and Surgery,Pediatrics Emergency Medicine,94
+328,2017,Medicine and Surgery,Anatomic Pathology,94
+329,2016,Medicine and Surgery,Adult Rheumatology,93
+330,2016,Dentistry and Related Specialties,Restorative Dentistry,93
+332,2019,Dentistry and Related Specialties,Prosthodontics,93
+335,2018,Medicine and Surgery,Diabetes​,92
+336,2018,Medicine and Surgery,Adult Respiratory Medicine,91
+338,2018,Medicine and Surgery,Pediatric Neurology,91
+339,2022,Medicine and Surgery,Adults Endocrinology & Metabolism,91
+340,2022,Medicine and Surgery,Diabetes​,91
+343,2017,Medicine and Surgery,Pediatric Gastroenterology And Nutrition,90
+347,2018,Medicine and Surgery,Ophthalmology,89
+350,2017,Medicine and Surgery,Pediatric Hematology & Oncology,89
+359,2016,Medicine and Surgery,Pediatrics Intensive Care,87
+360,2020,Dentistry and Related Specialties,Pediatric Dentistry,86
+361,2021,Medicine and Surgery,Gastroenterology,86
+362,2019,Medicine and Surgery,Adult Nephrology,86
+363,2020,Medicine and Surgery,Pediatrics Emergency Medicine,85
+364,2022,Medicine and Surgery,Pediatrics Emergency Medicine,85
+367,2021,Medicine and Surgery,Adults Endocrinology & Metabolism,85
+375,2022,Medicine and Surgery,Adult Hematology,83
+376,2018,Medicine and Surgery,Perinatal Neonatal Medicine,83
+377,2019,Dentistry and Related Specialties,Pediatric Dentistry,83
+382,2017,Medicine and Surgery,General Medical Oncology,82
+385,2016,Medicine and Surgery,Pediatric Hematology & Oncology,81
+386,2016,Medicine and Surgery,Clinical Neurosurgery,81
+388,2018,Medicine and Surgery,Pediatric Hematology & Oncology,81
+392,2017,Medicine and Surgery,Pediatrics Intensive Care,80
+395,2018,Dentistry and Related Specialties,Orthodontic and Dentofacial Orthopedics,80
+396,2022,Medicine and Surgery,Adult Infectious Diseases,80
+398,2021,Medicine and Surgery,Diabetes​,80
+400,2018,Medicine and Surgery,Adult Rheumatology,79
+401,2017,Medicine and Surgery,Pediatric Neurology,79
+402,2020,Medicine and Surgery,Adult Hematology,79
+405,2019,Medicine and Surgery,Diabetes​,79
+406,2016,Medicine and Surgery,Pediatric Gastroenterology And Nutrition,79
+407,2018,Medicine and Surgery,Pediatric Gastroenterology And Nutrition,78
+408,2021,Medicine and Surgery,Pediatrics Emergency Medicine,78
+411,2017,Medicine and Surgery,Pediatric Endocrinology And Metabolism,76
+412,2016,Medicine and Surgery,Pediatric Endocrinology And Metabolism,76
+414,2019,Medicine and Surgery,Adult Respiratory Medicine,76
+415,2019,Medicine and Surgery,Perinatal Neonatal Medicine,75
+417,2018,Dentistry and Related Specialties,Prosthodontics,75
+424,2017,Dentistry and Related Specialties,Orthodontic and Dentofacial Orthopedics,74
+426,2016,Medicine and Surgery,Anatomic Pathology,73
+427,2020,Medicine and Surgery,Adult Nephrology,73
+430,2020,Medicine and Surgery,Adult Infectious Diseases,72
+431,2017,Medicine and Surgery,Pediatric Cardiology,72
+434,2018,Medicine and Surgery,General Medical Oncology,72
+437,2016,Medicine and Surgery,General Medical Oncology,71
+438,2019,Medicine and Surgery,Pediatric Gastroenterology And Nutrition,71
+439,2020,Medicine and Surgery,Diabetes​,71
+442,2018,Nursing and Midwifery,Emergency Nursing,70
+443,2018,Medicine and Surgery,Pediatric Endocrinology And Metabolism,70
+444,2022,Medicine and Surgery,Adult Nephrology,70
+448,2020,Nursing and Midwifery,Oncology Nursing,69
+451,2017,Dentistry and Related Specialties,Pediatric Dentistry,69
+459,2020,Dentistry and Related Specialties,Implant Dentistry,68
+461,2017,Medicine and Surgery,Pediatrics Infectious Diseases,68
+462,2019,Medicine and Surgery,Adult Rheumatology,68
+466,2022,Medicine and Surgery,Pediatric Hematology & Oncology,67
+467,2016,Medicine and Surgery,Pediatric Neurology,67
+469,2020,Dentistry and Related Specialties,Periodontics,66
+471,2020,Medicine and Surgery,Perinatal Neonatal Medicine,66
+472,2020,Nursing and Midwifery,Cardiac Care Nursing,66
+473,2017,Dentistry and Related Specialties,Prosthodontics,66
+474,2021,Dentistry and Related Specialties,Periodontics,66
+476,2016,Dentistry and Related Specialties,Orthodontic and Dentofacial Orthopedics,65
+477,2018,Nursing and Midwifery,Cardiac Care Nursing,65
+483,2020,Medicine and Surgery,Adult Respiratory Medicine,64
+484,2017,Medicine and Surgery,Preventive Medicine,64
+485,2018,Dentistry and Related Specialties,Pediatric Dentistry,64
+487,2018,Medicine and Surgery,Infection Control,63
+489,2016,Medicine and Surgery,Pediatrics Infectious Diseases,63
+490,2021,Nursing and Midwifery,Cardiac Care Nursing,62
+492,2019,Dentistry and Related Specialties,Periodontics,62
+494,2022,Medicine and Surgery,Pediatrics Intensive Care,62
+495,2021,Medicine and Surgery,Adult Hematology,61
+497,2021,Dentistry and Related Specialties,Family Dentistry,61
+501,2016,Medicine and Surgery,Pediatric Cardiology,61
+504,2017,Medicine and Surgery,Body Imaging & Non-Vascular Intervention,60
+505,2022,Medicine and Surgery,Perinatal Neonatal Medicine,60
+507,2019,Pharmacists and Pharmacy Technicians,Clinical Pharmacy,60
+508,2021,Medicine and Surgery,Adult Respiratory Medicine,60
+510,2021,Medicine and Surgery,Pediatric Surgery,60
+511,2018,Medicine and Surgery,Pediatrics Intensive Care,60
+512,2021,Dentistry and Related Specialties,Oral And Maxillofacial Surgery,60
+515,2020,Medicine and Surgery,Pediatric Gastroenterology And Nutrition,59
+517,2017,Nursing and Midwifery,Adult Critical Care Nursing,59
+519,2016,Medicine and Surgery,Palliative Care Medicine,59
+520,2019,Medicine and Surgery,Pediatric Hematology & Oncology,59
+521,2021,Medicine and Surgery,Saudi Postgraduate Diploma In Emergency Medicine,59
+522,2018,Medicine and Surgery,Pediatric Cardiology,59
+523,2018,Medicine and Surgery,Pediatrics Infectious Diseases,58
+525,2020,Medicine and Surgery,Physical Medicine And Rehabilitation,58
+526,2019,Nursing and Midwifery,Cardiac Care Nursing,58
+527,2022,Medicine and Surgery,Pediatric Gastroenterology And Nutrition,58
+530,2022,Medicine and Surgery,Saudi Postgraduate Diploma In Paediatrics,57
+532,2020,Medicine and Surgery,Pediatric Hematology & Oncology,57
+533,2022,Medicine and Surgery,Adult Respiratory Medicine,57
+534,2017,Medicine and Surgery,Palliative Care Medicine,57
+535,2021,Medicine and Surgery,Cardiac Surgery,57
+537,2020,Medicine and Surgery,Pediatric Surgery,57
+538,2021,Medicine and Surgery,Adult Nephrology,57
+540,2017,Medicine and Surgery,Interventional Neuro-Radiology,57
+542,2021,Medicine and Surgery,Adult Infectious Diseases,56
+544,2021,Medicine and Surgery,Physical Medicine And Rehabilitation,56
+545,2016,Medicine and Surgery,Body Imaging & Non-Vascular Intervention,56
+547,2021,Laboratories and Medical Technology,Radiology Technology & Medical Imaging,56
+550,2016,Dentistry and Related Specialties,Pediatric Dentistry,55
+552,2019,Medicine and Surgery,Physical Medicine And Rehabilitation,55
+554,2019,Medicine and Surgery,General Medical Oncology,55
+555,2019,Medicine and Surgery,Infection Control,55
+558,2021,Medicine and Surgery,Saudi Postgraduate Diploma In Paediatrics,55
+559,2016,Medicine and Surgery,Forensic Medicine,54
+560,2019,Medicine and Surgery,Pediatric Endocrinology And Metabolism,54
+562,2021,Nursing and Midwifery,Oncology Nursing,54
+563,2017,Medicine and Surgery,Forensic Medicine,54
+564,2019,Medicine and Surgery,Pediatric Cardiology,53
+566,2019,Medicine and Surgery,Pediatrics Intensive Care,53
+567,2021,Medicine and Surgery,Pediatrics Intensive Care,53
+571,2019,Dentistry and Related Specialties,Oral And Maxillofacial Surgery,53
+572,2022,Medicine and Surgery,Saudi Postgraduate Diploma In Emergency Medicine,53
+575,2018,Dentistry and Related Specialties,Periodontics,52
+578,2018,Medicine and Surgery,Forensic Medicine,52
+579,2020,Medicine and Surgery,Adult Rheumatology,52
+580,2020,Medicine and Surgery,Cardiac Surgery,52
+581,2017,Medicine and Surgery,Ophthalmology,52
+582,2021,Medicine and Surgery,Pediatric Hematology & Oncology,52
+583,2016,Medicine and Surgery,Plastic Surgery,52
+584,2017,Dentistry and Related Specialties,Periodontics,52
+586,2021,Medicine and Surgery,Perinatal Neonatal Medicine,52
+590,2020,Dentistry and Related Specialties,Oral And Maxillofacial Surgery,51
+592,2018,Medicine and Surgery,Body Imaging & Non-Vascular Intervention,51
+593,2022,Dentistry and Related Specialties,Implant Dentistry,51
+595,2021,Medicine and Surgery,Plastic Surgery,51
+596,2019,Medicine and Surgery,Pediatric Surgery,51
+597,2018,Medicine and Surgery,Community Medicine (Health Informatics),51
+598,2019,Medicine and Surgery,Cardiac Surgery,51
+599,2021,Medicine and Surgery,Pediatric Gastroenterology And Nutrition,51
+600,2019,Nursing and Midwifery,Oncology Nursing,50
+601,2020,Dentistry and Related Specialties,Advanced Education In General Dentistry,50
+605,2020,Medicine and Surgery,Pediatric Cardiology,50
+607,2017,Medicine and Surgery,Pediatric Nephrology,49
+610,2018,Medicine and Surgery,Physical Medicine And Rehabilitation,49
+612,2018,Medicine and Surgery,Interventional Neuro-Radiology,49
+613,2020,Medicine and Surgery,Forensic Medicine,49
+614,2020,Medicine and Surgery,Pediatric Endocrinology And Metabolism,48
+615,2020,Medicine and Surgery,Pediatrics Intensive Care,48
+617,2018,Dentistry and Related Specialties,Oral And Maxillofacial Surgery,48
+618,2018,Medicine and Surgery,Plastic Surgery,48
+620,2018,Medicine and Surgery,Cardiac Surgery,48
+622,2017,Medicine and Surgery,Pediatric Surgery,48
+623,2019,Medicine and Surgery,Pediatrics Infectious Diseases,48
+624,2019,Medicine and Surgery,Forensic Medicine,48
+626,2019,Medicine and Surgery,Plastic Surgery,47
+629,2016,Medicine and Surgery,Pediatric Surgery,47
+633,2017,Dentistry and Related Specialties,Oral And Maxillofacial Surgery,46
+634,2022,Medicine and Surgery,Pediatric Cardiology,46
+635,2018,Medicine and Surgery,Palliative Care Medicine,46
+636,2021,Medicine and Surgery,Forensic Medicine,46
+638,2016,Medicine and Surgery,Interventional Neuro-Radiology,46
+639,2017,Medicine and Surgery,Plastic Surgery,46
+641,2022,Medicine and Surgery,Palliative Care Medicine,46
+642,2018,Medicine and Surgery,Pediatric Surgery,46
+644,2021,Medicine and Surgery,General Medical Oncology,46
+649,2020,Medicine and Surgery,Plastic Surgery,45
+650,2017,Nursing and Midwifery,Cardiac Care Nursing,45
+654,2021,Nursing and Midwifery,Midwifery Nursing,44
+655,2016,Medicine and Surgery,Pediatric Nephrology,44
+658,2017,Medicine and Surgery,Physical Medicine And Rehabilitation,44
+663,2017,Nursing and Midwifery,Oncology Nursing,44
+666,2022,Medicine and Surgery,Adult Rheumatology,43
+667,2022,Medicine and Surgery,General Medical Oncology,43
+669,2016,Dentistry and Related Specialties,Oral And Maxillofacial Surgery,43
+670,2019,Medicine and Surgery,Body Imaging & Non-Vascular Intervention,43
+674,2020,Medicine and Surgery,Saudi Postgraduate Diploma In Emergency Medicine,42
+675,2021,Medicine and Surgery,Palliative Care Medicine,42
+677,2017,Medicine and Surgery,Cornea/ External Disease,42
+679,2017,Medicine and Surgery,Diagnostic Neuroradiology,42
+683,2018,Medicine and Surgery,Pediatric Nephrology,41
+687,2018,Medicine and Surgery,Cornea/ External Disease,41
+688,2021,Medicine and Surgery,Pediatric Cardiology,41
+690,2020,Medicine and Surgery,Pediatrics Infectious Diseases,40
+693,2016,Dentistry and Related Specialties,Prosthodontics,40
+694,2019,Laboratories and Medical Technology,Radiology Technology & Medical Imaging,40
+695,2017,Laboratories and Medical Technology,Radiology Technology & Medical Imaging,40
+697,2019,Medicine and Surgery,Community Medicine (Health Informatics),40
+701,2021,Dentistry and Related Specialties,Advanced Education In General Dentistry,40
+704,2020,Medicine and Surgery,General Medical Oncology,40
+705,2022,Medicine and Surgery,Pediatric Endocrinology And Metabolism,40
+710,2017,Medicine and Surgery,Cardiac Surgery,39
+711,2017,Medicine and Surgery,Infection Control,39
+714,2019,Medicine and Surgery,Interventional Neuro-Radiology,39
+717,2017,Medicine and Surgery,Clinical Genetics & Metabolic Disorders,38
+718,2017,Medicine and Surgery,Epilepsy & Electroencephalography,38
+720,2016,Medicine and Surgery,Diagnostic Neuroradiology,38
+724,2020,Laboratories and Medical Technology,Radiology Technology & Medical Imaging,38
+727,2020,Dentistry and Related Specialties,Family Dentistry,38
+728,2021,Medicine and Surgery,Adult Rheumatology,38
+730,2018,Nursing and Midwifery,Oncology Nursing,38
+732,2021,Medicine and Surgery,Pediatric Endocrinology And Metabolism,38
+733,2022,Medicine and Surgery,Body Imaging & Non-Vascular Intervention,38
+735,2016,Dentistry and Related Specialties,Periodontics,37
+736,2020,Medicine and Surgery,Body Imaging & Non-Vascular Intervention,37
+739,2019,Medicine and Surgery,Pediatric Nephrology,37
+742,2020,Medicine and Surgery,Palliative Care Medicine,37
+745,2020,Medicine and Surgery,Interventional Neuro-Radiology,36
+748,2016,Medicine and Surgery,Adult Echocardiography,36
+756,2019,Dentistry and Related Specialties,Advanced Education In General Dentistry,36
+766,2016,Medicine and Surgery,Clinical Genetics & Metabolic Disorders,35
+767,2016,Medicine and Surgery,Pain Medicine,35
+768,2022,Medicine and Surgery,Pediatrics Infectious Diseases,35
+771,2017,Nursing and Midwifery,Emergency Nursing,34
+773,2016,Medicine and Surgery,Physical Medicine And Rehabilitation,34
+774,2020,Medicine and Surgery,Saudi Postgraduate Diploma In Paediatrics,34
+779,2016,Medicine and Surgery,Epilepsy & Electroencephalography,34
+780,2018,Laboratories and Medical Technology,Radiology Technology & Medical Imaging,34
+781,2019,Medicine and Surgery,Palliative Care Medicine,34
+785,2021,Medicine and Surgery,Pediatrics Infectious Diseases,33
+786,2016,Medicine and Surgery,Cornea/ External Disease,33
+787,2017,Medicine and Surgery,Adult Echocardiography,33
+792,2017,Medicine and Surgery,Pediatrics Respiratory Medicine,32
+793,2016,Medicine and Surgery,Ophthalmology,32
+794,2016,Medicine and Surgery,Pediatric Anesthesia,32
+798,2019,Medicine and Surgery,Cornea/ External Disease,31
+800,2016,Medicine and Surgery,Pediatrics Respiratory Medicine,31
+802,2018,Medicine and Surgery,Diagnostic Neuroradiology,31
+803,2018,Medicine and Surgery,Retina Surgery,31
+806,2019,Medicine and Surgery,Maternal-Fetal Medicine,30
+808,2020,Nursing and Midwifery,Midwifery Nursing,30
+809,2020,Nursing and Midwifery,Neonatal Intensive Care Nursing,30
+810,2016,Medicine and Surgery,Cardiac Surgery,30
+811,2017,Medicine and Surgery,Retina Surgery,30
+816,2016,Medicine and Surgery,Pediatric Allergy And Immunology,30
+817,2018,Medicine and Surgery,Adult Echocardiography,30
+818,2018,Medicine and Surgery,Pediatrics Respiratory Medicine,30
+820,2017,Medicine and Surgery,Pain Medicine,30
+821,2017,Medicine and Surgery,Pediatric Allergy And Immunology,30
+822,2017,Medicine and Surgery,Pediatric Anesthesia,30
+823,2018,Pharmacists and Pharmacy Technicians,Clinical Pharmacy,30
+827,2019,Medicine and Surgery,Diagnostic Neuroradiology,29
+830,2016,Laboratories and Medical Technology,Radiology Technology & Medical Imaging,29
+832,2017,Medicine and Surgery,Cardiac Anesthesia,29
+834,2016,Medicine and Surgery,Diploma Family Medicine,29
+840,2018,Medicine and Surgery,Clinical Genetics & Metabolic Disorders,28
+842,2021,Medicine and Surgery,Oral Medicine & Pathology,28
+843,2017,Medicine and Surgery,Maternal-Fetal Medicine,28
+845,2020,Medicine and Surgery,Oral Medicine & Pathology,28
+846,2019,Medicine and Surgery,Clinical Genetics & Metabolic Disorders,28
+847,2020,Medicine and Surgery,Pediatric Nephrology,28
+852,2018,Medicine and Surgery,Adult Interventional Cardiology,27
+859,2022,Medicine and Surgery,Pediatric Nephrology,27
+864,2018,Medicine and Surgery,Maternal-Fetal Medicine,27
+865,2021,Nursing and Midwifery,Neonatal Intensive Care Nursing,27
+868,2019,Medicine and Surgery,Adult Interventional Cardiology,27
+870,2016,Medicine and Surgery,Preventive Medicine,26
+872,2018,Medicine and Surgery,Pediatric Allergy And Immunology,26
+873,2018,Medicine and Surgery,Pain Medicine,26
+874,2022,Medicine and Surgery,Interventional Neuro-Radiology,26
+875,2020,Medicine and Surgery,Diagnostic Neuroradiology,26
+881,2020,Medicine and Surgery,Maternal-Fetal Medicine,25
+883,2018,Medicine and Surgery,Pediatric Anesthesia,25
+885,2018,Dentistry and Related Specialties,Advanced Education In General Dentistry,25
+886,2019,Medicine and Surgery,Pediatrics Respiratory Medicine,25
+887,2016,Medicine and Surgery,Retina Surgery,25
+892,2016,Medicine and Surgery,Musculoskeletal Radiology,24
+897,2016,Medicine and Surgery,Cardiac Anesthesia,24
+899,2018,Medicine and Surgery,Cardiac Anesthesia,24
+900,2021,Medicine and Surgery,Interventional Neuro-Radiology,24
+912,2019,Medicine and Surgery,Retina Surgery,23
+913,2016,Nursing and Midwifery,Oncology Nursing,23
+914,2017,Medicine and Surgery,Pediatric Rheumatology,23
+920,2022,Medicine and Surgery,Diagnostic Neuroradiology,23
+922,2021,Medicine and Surgery,Clinical Genetics & Metabolic Disorders,23
+926,2016,Medicine and Surgery,Maternal-Fetal Medicine,23
+931,2016,Medicine and Surgery,Adult & Pediatric Orthopedic Spinal Surgery,23
+937,2016,Medicine and Surgery,Reproductive Medicine & Surgery,22
+942,2016,Medicine and Surgery,Pediatric Rheumatology,22
+944,2022,Medicine and Surgery,Clinical Genetics & Metabolic Disorders,22
+945,2016,Dentistry and Related Specialties,Implant Dentistry,22
+949,2021,Medicine and Surgery,Body Imaging & Non-Vascular Intervention,22
+950,2018,Medicine and Surgery,Epilepsy & Electroencephalography,22
+951,2019,Medicine and Surgery,Pain Medicine,22
+952,2020,Medicine and Surgery,Pain Medicine,22
+953,2020,Medicine and Surgery,Cornea/ External Disease,22
+954,2019,Medicine and Surgery,Adult Echocardiography,22
+957,2016,Medicine and Surgery,Colorectal Surgery,22
+959,2017,Medicine and Surgery,Musculoskeletal Radiology,22
+960,2017,Medicine and Surgery,Glaucoma,22
+962,2017,Medicine and Surgery,Adult & Pediatric Orthopedic Spinal Surgery,21
+964,2019,Medicine and Surgery,Pediatric Allergy And Immunology,21
+967,2020,Laboratories and Medical Technology,Blood Banking And Transfusion,21
+968,2020,Medicine and Surgery,Clinical Genetics & Metabolic Disorders,21
+973,2019,Medicine and Surgery,Epilepsy & Electroencephalography,21
+974,2021,Medicine and Surgery,Maternal-Fetal Medicine,21
+975,2016,Medicine and Surgery,Adult Interventional Cardiology,21
+977,2017,Medicine and Surgery,Adult Interventional Cardiology,21
+980,2016,Unknown,Nuclear Medicine,21
+982,2020,Medicine and Surgery,Pediatrics Respiratory Medicine,21
+984,2021,Laboratories and Medical Technology,Blood Banking And Transfusion,21
+985,2017,Unknown,Nuclear Medicine,21
+987,2021,Medicine and Surgery,Pediatric Nephrology,21
+988,2017,Medicine and Surgery,Pediatric Radiology,21
+990,2019,Medicine and Surgery,Oral Medicine & Pathology,20
+994,2019,Nursing and Midwifery,Neonatal Intensive Care Nursing,20
+997,2017,Medicine and Surgery,Reproductive Medicine & Surgery,20
+1002,2017,Medicine and Surgery,Pediatric Ophthalmology And Strabismus,19
+1007,2016,Pharmacists and Pharmacy Technicians,Clinical Pharmacy,19
+1009,2016,Medicine and Surgery,Glaucoma,19
+1011,2017,Dentistry and Related Specialties,Implant Dentistry,19
+1013,2019,Dentistry and Related Specialties,Family Dentistry,19
+1014,2018,Unknown,Nuclear Medicine,19
+1015,2022,Medicine and Surgery,Cornea/ External Disease,19
+1016,2022,Medicine and Surgery,Maternal-Fetal Medicine,19
+1017,2018,Medicine and Surgery,Pediatric Ophthalmology And Strabismus,19
+1020,2018,Medicine and Surgery,Musculoskeletal Radiology,19
+1021,2018,Medicine and Surgery,Glaucoma,19
+1031,2019,Nursing and Midwifery,Midwifery Nursing,19
+1033,2020,Medicine and Surgery,Adult Echocardiography,18
+1035,2020,Medicine and Surgery,Adult Interventional Cardiology,18
+1037,2022,Medicine and Surgery,Pediatric Surgery,18
+1038,2022,Medicine and Surgery,Adult & Pediatric Orthopedic Spinal Surgery,18
+1044,2018,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Cardiology,18
+1046,2018,Medicine and Surgery,Pediatric Radiology,18
+1047,2018,Medicine and Surgery,Pediatric Rheumatology,18
+1049,2021,Medicine and Surgery,Cornea/ External Disease,18
+1050,2022,Medicine and Surgery,Pediatrics Respiratory Medicine,18
+1052,2020,Medicine and Surgery,Epilepsy & Electroencephalography,17
+1053,2017,Pharmacists and Pharmacy Technicians,Clinical Pharmacy,17
+1054,2017,Medicine and Surgery,Vascular Neurology (Stroke),17
+1055,2019,Medicine and Surgery,Pediatric Anesthesia,17
+1058,2017,Medicine and Surgery,Colorectal Surgery,17
+1059,2016,Medicine and Surgery,Pediatric Radiology,17
+1063,2022,Medicine and Surgery,Pediatric Allergy And Immunology,17
+1067,2019,Medicine and Surgery,Pediatric Radiology,17
+1068,2018,Medicine and Surgery,Adult Allergy & Immunology,17
+1073,2016,Medicine and Surgery,Cardiothoracic Radiology,17
+1074,2016,Medicine and Surgery,Vascular Neurology (Stroke),17
+1075,2016,Medicine and Surgery,Ultrasound In Obstetrics & Gynecology,17
+1076,2017,Medicine and Surgery,Adult Allergy & Immunology,17
+1078,2016,Medicine and Surgery,Pediatrics Urology,17
+1079,2019,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Cardiology,17
+1081,2021,Medicine and Surgery,Adult & Pediatric Orthopedic Spinal Surgery,16
+1088,2019,Medicine and Surgery,Musculoskeletal Radiology,16
+1090,2016,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Cardiology,16
+1092,2018,Medicine and Surgery,Adult & Pediatric Orthopedic Spinal Surgery,16
+1096,2018,Medicine and Surgery,Cardiothoracic Radiology,16
+1098,2019,Medicine and Surgery,Glaucoma,16
+1099,2016,Medicine and Surgery,Adult Allergy & Immunology,16
+1100,2017,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Hematology Oncology,16
+1101,2019,Medicine and Surgery,Cardiac Anesthesia,16
+1107,2021,Medicine and Surgery,Radiation Oncology,16
+1112,2016,Medicine and Surgery,Pediatric Ophthalmology And Strabismus,16
+1113,2022,Medicine and Surgery,Retina Surgery,15
+1114,2020,Medicine and Surgery,Pediatric Radiology,15
+1115,2016,Medicine and Surgery,Breast and Endocrine Surgical Oncology,15
+1116,2018,Medicine and Surgery,Colorectal Surgery,15
+1118,2020,Medicine and Surgery,Retina Surgery,15
+1126,2021,Medicine and Surgery,Pediatric Anesthesia,15
+1127,2016,Medicine and Surgery,Vascular Surgery,15
+1128,2019,Unknown,Nuclear Medicine,15
+1130,2021,Medicine and Surgery,Diagnostic Neuroradiology,15
+1134,2020,Medicine and Surgery,Cardiac Anesthesia,15
+1135,2017,Medicine and Surgery,Vascular Surgery,15
+1141,2021,Laboratories and Medical Technology,Medical Microbiology,15
+1142,2018,Dentistry and Related Specialties,Implant Dentistry,15
+1144,2022,Medicine and Surgery,Epilepsy & Electroencephalography,15
+1145,2017,Medicine and Surgery,Cardiothoracic Radiology,15
+1152,2021,Medicine and Surgery,Pediatrics Respiratory Medicine,14
+1153,2019,Medicine and Surgery,Pediatric Rheumatology,14
+1156,2020,Unknown,Nuclear Medicine,14
+1157,2018,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Hematology Oncology,14
+1158,2017,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Cardiology,14
+1159,2020,Medicine and Surgery,Musculoskeletal Radiology,14
+1160,2019,Dentistry and Related Specialties,Implant Dentistry,14
+1162,2020,Medicine and Surgery,Adult & Pediatric Orthopedic Spinal Surgery,14
+1163,2019,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Pediatric,14
+1164,2019,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Hematology Oncology,14
+1165,2019,Medicine and Surgery,Vascular Neurology (Stroke),14
+1166,2018,Medicine and Surgery,Oculoplatic And Reconstructive Surgery,14
+1167,2018,Medicine and Surgery,Oral Medicine & Pathology,14
+1169,2017,Medicine and Surgery,Oculoplatic And Reconstructive Surgery,14
+1170,2018,Medicine and Surgery,Vascular Neurology (Stroke),14
+1172,2019,Medicine and Surgery,Oculoplatic And Reconstructive Surgery,14
+1173,2022,Medicine and Surgery,Pediatric Anesthesia,14
+1174,2017,Dentistry and Related Specialties,Advanced Education In General Dentistry,14
+1176,2019,Laboratories and Medical Technology,Medical Microbiology,13
+1177,2020,Medicine and Surgery,Pediatric Allergy And Immunology,13
+1178,2022,Medicine and Surgery,Pain Medicine,13
+1179,2020,Medicine and Surgery,Adult Allergy & Immunology,13
+1180,2022,Medicine and Surgery,Pediatric Radiology,13
+1181,2019,Medicine and Surgery,Cardiothoracic Radiology,13
+1183,2019,Medicine and Surgery,Colorectal Surgery,13
+1188,2022,Medicine and Surgery,Vascular Surgery,13
+1189,2019,Medicine and Surgery,Reproductive Medicine & Surgery,13
+1190,2018,Medicine and Surgery,Pediatrics Urology,13
+1191,2019,Medicine and Surgery,Saudi Postgraduate Diploma In Emergency Medicine,13
+1192,2018,Medicine and Surgery,Reproductive Medicine & Surgery,13
+1195,2020,Medicine and Surgery,Pediatric Anesthesia,13
+1198,2019,Medicine and Surgery,Medical Retina & Uveitis,13
+1202,2018,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Pediatric,13
+1204,2017,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Internal Medicine,13
+1205,2021,Medicine and Surgery,Retina Surgery,13
+1208,2017,Medicine and Surgery,Ultrasound In Obstetrics & Gynecology,13
+1213,2019,Medicine and Surgery,Pediatric Ophthalmology And Strabismus,12
+1214,2016,Medicine and Surgery,Medical Retina & Uveitis,12
+1215,2019,Medicine and Surgery,Saudi Postgraduate Diploma In Paediatrics,12
+1216,2020,Medicine and Surgery,Colorectal Surgery,12
+1219,2022,Medicine and Surgery,Pediatric Rheumatology,12
+1221,2022,Medicine and Surgery,Cardiac Anesthesia,12
+1223,2022,Medicine and Surgery,Adult Echocardiography,12
+1228,2021,Medicine and Surgery,Pediatric Allergy And Immunology,12
+1229,2021,Medicine and Surgery,Pain Medicine,12
+1230,2021,Medicine and Surgery,Cardiac Anesthesia,12
+1234,2016,Medicine and Surgery,Oculoplatic And Reconstructive Surgery,12
+1236,2016,Medicine and Surgery,Adult Psychosomatic Medicine,12
+1238,2018,Medicine and Surgery,Adult Psychosomatic Medicine,12
+1241,2019,Medicine and Surgery,Child And Adolescent Psychiatry,12
+1243,2017,Medicine and Surgery,Pediatrics Urology,12
+1245,2017,Medicine and Surgery,Pediatric Orthopedic Surgery,12
+1247,2016,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Hematology Oncology,12
+1248,2016,Medicine and Surgery,Women Imaging,12
+1250,2016,Medicine and Surgery,Gynecologic Oncology,12
+1251,2016,Medicine and Surgery,Renal Transplant Surgery,12
+1252,2016,Medicine and Surgery,Pediatric Orthopedic Surgery,12
+1256,2019,Medicine and Surgery,Adult Allergy & Immunology,12
+1257,2019,Medicine and Surgery,Adult & Pediatric Orthopedic Spinal Surgery,12
+1258,2019,Laboratories and Medical Technology,Blood Banking And Transfusion,12
+1260,2020,Laboratories and Medical Technology,Medical Microbiology,11
+1263,2018,Medicine and Surgery,Child And Adolescent Psychiatry,11
+1267,2017,Medicine and Surgery,Medical Retina & Uveitis,11
+1272,2017,Medicine and Surgery,Adult Psychosomatic Medicine,11
+1274,2021,Medicine and Surgery,Epilepsy & Electroencephalography,11
+1276,2022,Medicine and Surgery,Musculoskeletal Radiology,11
+1278,2016,Medicine and Surgery,Women's Health,11
+1281,2022,Medicine and Surgery,Vascular Neurology (Stroke),11
+1286,2017,Medicine and Surgery,Women's Health,11
+1287,2020,Laboratories and Medical Technology,Clinical Audiology,11
+1288,2020,Medicine and Surgery,Cardiothoracic Radiology,11
+1289,2020,Medicine and Surgery,Child And Adolescent Psychiatry,11
+1291,2020,Medicine and Surgery,Glaucoma,11
+1292,2018,Medicine and Surgery,Medical Retina & Uveitis,11
+1295,2020,Medicine and Surgery,Pediatric Rheumatology,11
+1297,2020,Medicine and Surgery,Reproductive Medicine & Surgery,11
+1299,2021,Medicine and Surgery,Colorectal Surgery,11
+1301,2016,Laboratories and Medical Technology,Medical Microbiology,11
+1303,2018,Medicine and Surgery,Women's Health,11
+1305,2021,Laboratories and Medical Technology,Clinical Biochemistry,11
+1306,2021,Medicine and Surgery,Adult Echocardiography,11
+1308,2018,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Internal Medicine,10
+1309,2018,Medicine and Surgery,Vascular Surgery,10
+1310,2022,Medicine and Surgery,Reproductive Medicine & Surgery,10
+1311,2021,Medicine and Surgery,Pediatric Radiology,10
+1312,2021,Medicine and Surgery,Pediatric Rheumatology,10
+1313,2017,Medicine and Surgery,Renal Transplant Surgery,10
+1314,2018,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Infectious Diseases,10
+1315,2020,Medicine and Surgery,Oculoplatic And Reconstructive Surgery,10
+1316,2017,Medicine and Surgery,Breast and Endocrine Surgical Oncology,10
+1317,2020,Medicine and Surgery,Pediatric Ophthalmology And Strabismus,10
+1318,2016,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Internal Medicine,10
+1319,2021,Medicine and Surgery,Vascular Surgery,10
+1320,2022,Medicine and Surgery,Cardiothoracic Radiology,10
+1321,2021,Laboratories and Medical Technology,Clinical Audiology,10
+1322,2017,Medicine and Surgery,Child And Adolescent Psychiatry,10
+1323,2021,Medicine and Surgery,Adult Interventional Cardiology,10
+1324,2022,Unknown,Nuclear Medicine,10
+1342,2018,Unknown,Cardiac Electrophysiology & Pacing,9
+1345,2020,Laboratories and Medical Technology,Clinical Biochemistry,9
+1346,2018,Medicine and Surgery,Ultrasound In Obstetrics & Gynecology,9
+1348,2017,Laboratories and Medical Technology,Medical Microbiology,9
+1349,2018,Medicine and Surgery,Renal Transplant Surgery,9
+1350,2021,Nursing and Midwifery,Home Healthcare Nursing,9
+1352,2016,Medicine and Surgery,Orthopedic Trauma Surgery,9
+1354,2021,Medicine and Surgery,Glaucoma,9
+1355,2016,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Infectious Diseases,9
+1356,2021,Medicine and Surgery,Adult Allergy & Immunology,9
+1357,2020,Medicine and Surgery,Gynecologic Oncology,9
+1358,2020,Medicine and Surgery,Radiation Oncology,9
+1360,2020,Medicine and Surgery,Ultrasound In Obstetrics & Gynecology,9
+1361,2016,Medicine and Surgery,Musculoskeletal Surgical Oncology,9
+1363,2020,Medicine and Surgery,Vascular Neurology (Stroke),9
+1365,2016,Medicine and Surgery,Infertility-Andrology,9
+1368,2019,Unknown,Cardiac Electrophysiology & Pacing,9
+1369,2019,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Infectious Diseases,9
+1370,2021,Medicine and Surgery,Cardiothoracic Radiology,9
+1371,2019,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Critical Care,9
+1373,2019,Medicine and Surgery,Vascular Surgery,9
+1375,2018,Medicine and Surgery,Pediatric Orthopedic Surgery,9
+1378,2017,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Critical Care,9
+1380,2016,Dentistry and Related Specialties,Advanced Education In General Dentistry,9
+1381,2018,Laboratories and Medical Technology,Medical Microbiology,9
+1385,2017,Medicine and Surgery,Women Imaging,9
+1388,2018,Medicine and Surgery,Adult Stem Cell Transplantation,9
+1390,2022,Medicine and Surgery,Glaucoma,9
+1391,2022,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Cardiology,9
+1398,2017,Medicine and Surgery,Oral Medicine & Pathology,9
+1399,2022,Medicine and Surgery,Child And Adolescent Psychiatry,9
+1401,2022,Medicine and Surgery,Renal Transplant Surgery,9
+1403,2021,Unknown,Nuclear Medicine,9
+1407,2017,Medicine and Surgery,Pediatric Otolaryngology,8
+1408,2016,Medicine and Surgery,Pediatric Otolaryngology,8
+1410,2016,Medicine and Surgery,Pediatric Neurosurgery,8
+1412,2017,Medicine and Surgery,Orthopedic Trauma Surgery,8
+1413,2016,Medicine and Surgery,Pediatric Echocardiography,8
+1415,2020,Medicine and Surgery,Medical Retina & Uveitis,8
+1417,2017,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Pediatric,8
+1418,2017,Medicine and Surgery,Renal Transplant,8
+1420,2018,Medicine and Surgery,Pediatric Otolaryngology,8
+1424,2018,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Critical Care,8
+1428,2016,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Critical Care,8
+1432,2019,Medicine and Surgery,Renal Transplant,8
+1433,2018,Medicine and Surgery,Obstetric Anesthesiology,8
+1436,2021,Medicine and Surgery,Reproductive Medicine & Surgery,8
+1437,2022,Medicine and Surgery,Adult Allergy & Immunology,8
+1439,2022,Medicine and Surgery,Oculoplatic And Reconstructive Surgery,8
+1441,2022,Medicine and Surgery,Medical Retina & Uveitis,8
+1442,2021,Medicine and Surgery,Gynecologic Oncology,8
+1445,2021,Medicine and Surgery,Musculoskeletal Radiology,8
+1451,2021,Medicine and Surgery,Vascular Neurology (Stroke),8
+1454,2022,Medicine and Surgery,Pediatric Ophthalmology And Strabismus,8
+1456,2021,Medicine and Surgery,Pediatric Ophthalmology And Strabismus,8
+1462,2020,Medicine and Surgery,Vascular Surgery,8
+1465,2020,Unknown,Cardiac Electrophysiology & Pacing,8
+1466,2022,Medicine and Surgery,Urogynecology And Pelvic Reconstructive Surgery,8
+1467,2018,Medicine and Surgery,Infertility-Andrology,7
+1468,2022,Medicine and Surgery,Adult Interventional Cardiology,7
+1469,2017,Medicine and Surgery,Adult Stem Cell Transplantation,7
+1471,2021,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Hematology Oncology,7
+1473,2021,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Cardiology,7
+1474,2022,Medicine and Surgery,Adult Psychosomatic Medicine,7
+1476,2017,Medicine and Surgery,Obstetric Anesthesiology,7
+1477,2022,Medicine and Surgery,Women's Health,7
+1478,2018,Nursing and Midwifery,Neonatal Intensive Care Nursing,7
+1479,2017,Medicine and Surgery,Pediatric Echocardiography,7
+1483,2018,Medicine and Surgery,Gynecologic Oncology,7
+1484,2017,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Solid Organ Transplant,7
+1485,2022,Medicine and Surgery,Pediatrics Urology,7
+1487,2017,Medicine and Surgery,Gynecologic Oncology,7
+1491,2017,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Infectious Diseases,7
+1492,2017,Unknown,Cardiac Electrophysiology & Pacing,7
+1496,2022,Medicine and Surgery,Gynecologic Oncology,7
+1499,2018,Medicine and Surgery,Breast and Endocrine Surgical Oncology,7
+1500,2017,Medicine and Surgery,Infertility-Andrology,7
+1503,2019,Medicine and Surgery,Pediatrics Urology,7
+1509,2016,Medicine and Surgery,Urogynecology And Pelvic Reconstructive Surgery,7
+1511,2019,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Internal Medicine,7
+1519,2019,Medicine and Surgery,Gynecologic Oncology,7
+1520,2019,Medicine and Surgery,Ultrasound In Obstetrics & Gynecology,7
+1521,2020,Medicine and Surgery,Renal Transplant,7
+1523,2016,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Solid Organ Transplant,7
+1527,2016,Unknown,Cardiac Electrophysiology & Pacing,7
+1529,2017,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Nephrology,6
+1530,2022,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Hematology Oncology,6
+1531,2022,Medicine and Surgery,Orthopedic Trauma Surgery,6
+1532,2022,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Internal Medicine,6
+1533,2021,Medicine and Surgery,Child And Adolescent Psychiatry,6
+1534,2019,Medicine and Surgery,Women's Health,6
+1535,2019,Medicine and Surgery,Women Imaging,6
+1536,2021,Medicine and Surgery,Breast and Endocrine Surgical Oncology,6
+1537,2020,Medicine and Surgery,Breast and Endocrine Surgical Oncology,6
+1541,2021,Medicine and Surgery,Adult Psychosomatic Medicine,6
+1545,2017,Medicine and Surgery,Urogynecology And Pelvic Reconstructive Surgery,6
+1546,2022,Medicine and Surgery,Obstetric Anesthesiology,6
+1549,2017,Medicine and Surgery,Thoracic Surgery,6
+1553,2018,Medicine and Surgery,Women Imaging,6
+1555,2021,Medicine and Surgery,Oculoplatic And Reconstructive Surgery,6
+1559,2021,Medicine and Surgery,Urogynecology And Pelvic Reconstructive Surgery,6
+1562,2019,Medicine and Surgery,Adult Stem Cell Transplantation,6
+1564,2019,Medicine and Surgery,Adult Psychosomatic Medicine,6
+1565,2021,Medicine and Surgery,Renal Transplant Surgery,6
+1566,2018,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Nephrology,6
+1568,2018,Medicine and Surgery,Orthopedic Trauma Surgery,6
+1569,2021,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Infectious Diseases,6
+1570,2019,Medicine and Surgery,Renal Transplant Surgery,6
+1576,2022,Medicine and Surgery,Breast and Endocrine Surgical Oncology,6
+1579,2021,Unknown,Cardiac Electrophysiology & Pacing,6
+1582,2019,Medicine and Surgery,Pediatric Orthopedic Surgery,6
+1583,2019,Medicine and Surgery,Pediatric Echocardiography,6
+1585,2021,Medicine and Surgery,Medical Retina & Uveitis,6
+1587,2019,Medicine and Surgery,Breast and Endocrine Surgical Oncology,6
+1589,2016,Medicine and Surgery,Hepatobiliary-Pancreatic Surgery,6
+1590,2016,Medicine and Surgery,Obstetric Anesthesiology,6
+1592,2017,Medicine and Surgery,Musculoskeletal Surgical Oncology,6
+1593,2016,Medicine and Surgery,Thoracic Surgery,6
+1597,2016,Medicine and Surgery,Renal Transplant,6
+1600,2016,Medicine and Surgery,Child And Adolescent Psychiatry,6
+1612,2017,Medicine and Surgery,Arthroscopy And Orthopedic Sport Injuries,6
+1614,2018,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Medication Safety,5
+1619,2018,Medicine and Surgery,Urogynecology And Pelvic Reconstructive Surgery,5
+1623,2022,Medicine and Surgery,Advanced General Pediatric,5
+1624,2021,Medicine and Surgery,Renal Transplant,5
+1628,2016,Medicine and Surgery,Adult Stem Cell Transplantation,5
+1629,2021,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Pediatric,5
+1630,2018,Medicine and Surgery,Musculoskeletal Surgical Oncology,5
+1632,2021,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Internal Medicine,5
+1640,2018,Medicine and Surgery,Pediatric Echocardiography,5
+1641,2018,Medicine and Surgery,Pediatric Neurosurgery,5
+1644,2018,Nursing and Midwifery,Midwifery Nursing,5
+1645,2018,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Solid Organ Transplant,5
+1650,2020,Medicine and Surgery,Renal Transplant Surgery,5
+1652,2020,Medicine and Surgery,Pediatric Orthopedic Surgery,5
+1654,2019,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Medication Safety,5
+1655,2019,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Nephrology,5
+1656,2019,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Parental Nutrition,5
+1659,2020,Medicine and Surgery,Movement Disorder,5
+1660,2020,Medicine and Surgery,Infertility-Andrology,5
+1663,2020,Medicine and Surgery,Adult Psychosomatic Medicine,5
+1665,2019,Medicine and Surgery,Pediatric Otolaryngology,5
+1671,2019,Laboratories and Medical Technology,Clinical Audiology,5
+1672,2017,Medicine and Surgery,Clinical Neurophysiology,5
+1676,2016,Medicine and Surgery,Movement Disorder,5
+1679,2019,Medicine and Surgery,Musculoskeletal Surgical Oncology,5
+1681,2019,Medicine and Surgery,Orthopedic Trauma Surgery,5
+1683,2019,Medicine and Surgery,Pediatric Neurosurgery,5
+1684,2019,Laboratories and Medical Technology,Clinical Biochemistry,5
+1687,2022,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Pediatric,5
+1688,2022,Medicine and Surgery,Pediatric Otolaryngology,5
+1690,2022,Medicine and Surgery,Pediatric Orthopedic Surgery,5
+1691,2022,Medicine and Surgery,Pediatric Neurosurgery,5
+1692,2022,Medicine and Surgery,Thoracic Surgery,5
+1693,2017,Medicine and Surgery,Pediatric Neurosurgery,5
+1694,2022,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Infectious Diseases,5
+1698,2017,Medicine and Surgery,Diploma Family Medicine,5
+1699,2017,Medicine and Surgery,Movement Disorder,5
+1701,2022,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Critical Care,5
+1703,2022,Medicine and Surgery,Musculoskeletal Surgical Oncology,5
+1704,2017,Medicine and Surgery,Pediatric Stem Cell Transplantation,5
+1716,2021,Medicine and Surgery,Infertility-Andrology,4
+1718,2016,Medicine and Surgery,Military Field Medicine,4
+1719,2016,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Nephrology,4
+1721,2021,Medicine and Surgery,Pediatrics Urology,4
+1724,2020,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Hematology Oncology,4
+1725,2018,Medicine and Surgery,Renal Transplant,4
+1729,2016,Medicine and Surgery,Breast And Gynecologic Pathology,4
+1732,2020,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Cardiology,4
+1733,2019,Medicine and Surgery,Neuro-Ophthalmology,4
+1735,2016,Medicine and Surgery,Clinical Neurophysiology,4
+1738,2017,Medicine and Surgery,Hepatobiliary-Pancreatic Surgery,4
+1739,2019,Medicine and Surgery,Infertility-Andrology,4
+1741,2021,Medicine and Surgery,Pediatric Echocardiography,4
+1742,2019,Medicine and Surgery,Obstetric Anesthesiology,4
+1744,2021,Medicine and Surgery,Obstetric Anesthesiology,4
+1745,2018,Medicine and Surgery,Pediatric Stem Cell Transplantation,4
+1746,2018,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Ambulatory Care,4
+1748,2020,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Pediatric,4
+1753,2021,Medicine and Surgery,Pediatric Orthopedic Surgery,4
+1754,2021,Medicine and Surgery,Pediatric Otolaryngology,4
+1755,2021,Medicine and Surgery,Movement Disorder,4
+1756,2017,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Medication Safety,4
+1759,2018,Laboratories and Medical Technology,Blood Banking And Transfusion,4
+1761,2022,Medicine and Surgery,Infertility-Andrology,4
+1763,2020,Medicine and Surgery,Pediatric Neurosurgery,4
+1764,2020,Medicine and Surgery,Pediatric Echocardiography,4
+1765,2019,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Ambulatory Care,4
+1768,2017,Medicine and Surgery,Advanced General Pediatric,4
+1770,2020,Medicine and Surgery,Orthopedic Trauma Surgery,4
+1773,2020,Medicine and Surgery,Musculoskeletal Surgical Oncology,4
+1783,2018,Medicine and Surgery,Advanced General Pediatric,4
+1785,2021,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Critical Care,4
+1787,2020,Medicine and Surgery,Pediatrics Urology,4
+1791,2016,Medicine and Surgery,Arthroscopy And Orthopedic Sport Injuries,4
+1792,2020,Medicine and Surgery,Pediatric Otolaryngology,4
+1796,2016,Nursing and Midwifery,Cardiac Care Nursing,3
+1797,2016,Medicine and Surgery,Pediatric Stem Cell Transplantation,3
+1799,2019,Medicine and Surgery,Movement Disorder,3
+1802,2019,Medicine and Surgery,Breast Imaging,3
+1804,2019,Medicine and Surgery,Interventional Nephrology,3
+1805,2017,Medicine and Surgery,Neuro-Ophthalmology,3
+1811,2019,Medicine and Surgery,Radiation Oncology,3
+1812,2022,Medicine and Surgery,Renal Transplant,3
+1813,2020,Medicine and Surgery,Community Medicine (Health Informatics),3
+1814,2021,Medicine and Surgery,Arthroscopy And Orthopedic Sport Injuries,3
+1816,2020,Medicine and Surgery,Adult Stem Cell Transplantation,3
+1819,2016,Medicine and Surgery,Skull Base Neurosurgery,3
+1820,2022,Unknown,Cardiac Electrophysiology & Pacing,3
+1823,2020,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Critical Care,3
+1824,2016,Medicine and Surgery,Reconstructive Surgery,3
+1826,2020,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Infectious Diseases,3
+1828,2017,Medicine and Surgery,Reconstructive Surgery,3
+1832,2020,Medicine and Surgery,Pediatric Stem Cell Transplantation,3
+1835,2019,Medicine and Surgery,Urogynecology And Pelvic Reconstructive Surgery,3
+1837,2020,Medicine and Surgery,Obstetric Anesthesiology,3
+1839,2022,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Parental Nutrition,3
+1840,2019,Medicine and Surgery,Pediatric Stem Cell Transplantation,3
+1841,2020,Medicine and Surgery,Urogynecology And Pelvic Reconstructive Surgery,3
+1843,2020,Medicine and Surgery,Women Imaging,3
+1852,2021,Medicine and Surgery,Women's Health,3
+1853,2022,Medicine and Surgery,Movement Disorder,3
+1854,2021,Medicine and Surgery,Women Imaging,3
+1856,2021,Medicine and Surgery,Ultrasound In Obstetrics & Gynecology,3
+1857,2021,Medicine and Surgery,Thoracic Surgery,3
+1859,2018,Medicine and Surgery,Reconstructive Surgery,3
+1861,2018,Medicine and Surgery,Thoracic Surgery,3
+1865,2020,Medicine and Surgery,Arthroscopy And Orthopedic Sport Injuries,3
+1868,2021,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Parental Nutrition,3
+1871,2018,Medicine and Surgery,Arthroscopy And Orthopedic Sport Injuries,3
+1872,2022,Medicine and Surgery,Breast Imaging,3
+1873,2018,Medicine and Surgery,Breast And Gynecologic Pathology,3
+1874,2018,Medicine and Surgery,Breast Imaging,3
+1875,2022,Medicine and Surgery,Arthroscopy And Orthopedic Sport Injuries,3
+1877,2018,Medicine and Surgery,Clinical Neurophysiology,3
+1878,2017,Medicine and Surgery,Breast Imaging,3
+1879,2017,Medicine and Surgery,Breast And Gynecologic Pathology,3
+1885,2022,Medicine and Surgery,Colorectal Surgery,3
+1887,2018,Medicine and Surgery,Hepatobiliary-Pancreatic Surgery,3
+1893,2019,Medicine and Surgery,Arthroscopy And Orthopedic Sport Injuries,3
+1896,2019,Medicine and Surgery,Advanced General Pediatric,3
+1898,2017,Dentistry and Related Specialties,Family Dentistry,3
+1903,2021,Medicine and Surgery,Musculoskeletal Surgical Oncology,3
+1904,2016,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Pediatric,3
+1906,2022,Medicine and Surgery,Geriatric Medicine,2
+1912,2021,Medicine and Surgery,Hepatobiliary-Pancreatic Surgery,2
+1913,2020,Medicine and Surgery,Neuro-Ophthalmology,2
+1914,2021,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Solid Organ Transplant,2
+1916,2022,Medicine and Surgery,Addiction Psychiatry,2
+1917,2016,Medicine and Surgery,Interventional Nephrology,2
+1919,2021,Medicine and Surgery,Addiction Psychiatry,2
+1921,2022,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Medication Safety,2
+1922,2022,Medicine and Surgery,Pediatric Echocardiography,2
+1923,2020,Medicine and Surgery,Interventional Nephrology,2
+1925,2020,Medicine and Surgery,Breast And Gynecologic Pathology,2
+1926,2022,Medicine and Surgery,Reconstructive Surgery,2
+1927,2021,Medicine and Surgery,Clinical Neurophysiology,2
+1928,2020,Medicine and Surgery,Breast Imaging,2
+1929,2022,Medicine and Surgery,Breast And Gynecologic Pathology,2
+1930,2016,Medicine and Surgery,Geriatric Medicine,2
+1931,2020,Medicine and Surgery,Clinical Neurophysiology,2
+1932,2022,Medicine and Surgery,Regional Anesthesia,2
+1933,2021,Medicine and Surgery,Breast And Gynecologic Pathology,2
+1935,2022,Medicine and Surgery,Adult Stem Cell Transplantation,2
+1941,2016,Medicine and Surgery,Head And Neck Oncology Surgery,2
+1942,2021,Medicine and Surgery,Adult Stem Cell Transplantation,2
+1943,2020,Medicine and Surgery,Hepatobiliary-Pancreatic Surgery,2
+1944,2016,Medicine and Surgery,Hematopathology,2
+1946,2021,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Nephrology,2
+1947,2022,Medicine and Surgery,Clinical Neurophysiology,2
+1949,2021,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Medication Safety,2
+1951,2020,Medicine and Surgery,Thoracic Surgery,2
+1952,2022,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Ambulatory Care,2
+1954,2016,Medicine and Surgery,Nephropathology Renal Transplant Pathology,2
+1956,2016,Dentistry and Related Specialties,Family Dentistry,2
+1959,2021,Medicine and Surgery,Orthopedic Trauma Surgery,2
+1960,2022,Medicine and Surgery,Pediatric Neurology,2
+1964,2022,Medicine and Surgery,Transplant Hepatology,2
+1966,2020,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Ambulatory Care,2
+1968,2021,Medicine and Surgery,Pediatric Neurosurgery,2
+1970,2021,Medicine and Surgery,Reconstructive Surgery,2
+1971,2022,Medicine and Surgery,Skull Base Neurosurgery,2
+1972,2022,Medicine and Surgery,Hepatobiliary-Pancreatic Surgery,2
+1974,2016,Medicine and Surgery,Advanced General Pediatric,2
+1975,2020,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Internal Medicine,2
+1976,2021,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Ambulatory Care,2
+1979,2021,Medicine and Surgery,Neuro-Ophthalmology,2
+1981,2022,Medicine and Surgery,Mental Health,2
+1990,2016,Medicine and Surgery,Neuro-Ophthalmology,2
+1992,2021,Medicine and Surgery,Skull Base Neurosurgery,2
+1999,2018,Laboratories and Medical Technology,Clinical Audiology,2
+2000,2019,Medicine and Surgery,Clinical Neurophysiology,2
+2003,2019,Medicine and Surgery,Thoracic Surgery,2
+2014,2017,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Ambulatory Care,2
+2016,2019,Medicine and Surgery,Reconstructive Surgery,2
+2020,2016,Nursing and Midwifery,Adult Critical Care Nursing,2
+2021,2019,Medicine and Surgery,Hepatobiliary-Pancreatic Surgery,2
+2022,2019,Medicine and Surgery,Head And Neck Oncology Surgery,2
+2028,2018,Medicine and Surgery,Movement Disorder,2
+2030,2018,Medicine and Surgery,Nephropathology Renal Transplant Pathology,2
+2031,2018,Medicine and Surgery,Neuro-Ophthalmology,2
+2039,2017,Medicine and Surgery,Geriatric Medicine,2
+2042,2017,Medicine and Surgery,Skull Base Neurosurgery,2
+2046,2017,Medicine and Surgery,Nephropathology Renal Transplant Pathology,2
+2054,2018,Medicine and Surgery,Skull Base Neurosurgery,2
+2060,2017,Medicine and Surgery,Head And Neck Oncology Surgery,2
+2063,2020,Medicine and Surgery,Advanced General Pediatric,2
+2064,2019,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Solid Organ Transplant,2
+2065,2018,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Parental Nutrition,2
+2075,2018,Medicine and Surgery,Mental Health,1
+2076,2018,Medicine and Surgery,Interventional Nephrology,1
+2080,2021,Medicine and Surgery,Pediatric Cardiac Critical Care,1
+2081,2017,Medicine and Surgery,Anesthesia and Intensive Care,1
+2082,2018,Medicine and Surgery,Head And Neck Oncology Surgery,1
+2086,2016,Medicine and Surgery,Anesthesia and Intensive Care,1
+2087,2018,Medicine and Surgery,Radiation Oncology,1
+2089,2018,Medicine and Surgery,Regional Anesthesia,1
+2093,2016,Medicine and Surgery,Breast Imaging,1
+2096,2018,Medicine and Surgery,Transplant Hepatology,1
+2100,2016,Medicine and Surgery,Bone And Soft Tissue Pathology,1
+2109,2017,Medicine and Surgery,Addiction Psychiatry,1
+2123,2017,Medicine and Surgery,Hematopathology,1
+2126,2022,Medicine and Surgery,Pediatric Stem Cell Transplantation,1
+2135,2022,Medicine and Surgery,Pediatric Cardiac Critical Care,1
+2136,2017,Medicine and Surgery,Transplant Hepatology,1
+2141,2022,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Solid Organ Transplant,1
+2142,2017,Medicine and Surgery,Pediatric Cardiac Critical Care,1
+2143,2022,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Nephrology,1
+2146,2017,Medicine and Surgery,Military Field Medicine,1
+2147,2017,Medicine and Surgery,Mental Health,1
+2148,2017,Medicine and Surgery,Regional Anesthesia,1
+2150,2022,Medicine and Surgery,Ultrasound In Obstetrics & Gynecology,1
+2153,2017,Medicine and Surgery,Saudi Postgraduate Diploma In Emergency Medicine,1
+2154,2017,Medicine and Surgery,Saudi Postgraduate Diploma In Paediatrics,1
+2161,2018,Medicine and Surgery,Anesthesia and Intensive Care,1
+2162,2018,Medicine and Surgery,Bone And Soft Tissue Pathology,1
+2163,2022,Medicine and Surgery,Bone And Soft Tissue Pathology,1
+2172,2017,Medicine and Surgery,Bone And Soft Tissue Pathology,1
+2174,2016,Medicine and Surgery,Addiction Psychiatry,1
+2178,2022,Medicine and Surgery,Neuro-Ophthalmology,1
+2179,2022,Medicine and Surgery,Nephropathology Renal Transplant Pathology,1
+2180,2018,Dentistry and Related Specialties,Family Dentistry,1
+2185,2022,Medicine and Surgery,Interventional Nephrology,1
+2186,2018,Laboratories and Medical Technology,Clinical Biochemistry,1
+2187,2022,Medicine and Surgery,Head And Neck Oncology Surgery,1
+2199,2016,Medicine and Surgery,Regional Anesthesia,1
+2211,2020,Medicine and Surgery,Pediatric Cardiac Critical Care,1
+2216,2019,Medicine and Surgery,Skull Base Neurosurgery,1
+2218,2016,Medicine and Surgery,Saudi Postgraduate Diploma In Emergency Medicine,1
+2221,2016,Medicine and Surgery,Transplant Hepatology,1
+2223,2020,Medicine and Surgery,Skull Base Neurosurgery,1
+2225,2016,Medicine and Surgery,Saudi Postgraduate Diploma In Paediatrics,1
+2229,2020,Medicine and Surgery,Regional Anesthesia,1
+2230,2020,Medicine and Surgery,Reconstructive Surgery,1
+2231,2019,Medicine and Surgery,Regional Anesthesia,1
+2259,2020,Medicine and Surgery,Addiction Psychiatry,1
+2267,2020,Medicine and Surgery,Nephropathology Renal Transplant Pathology,1
+2273,2016,Medicine and Surgery,Pediatric Cardiac Critical Care,1
+2278,2020,Medicine and Surgery,Head And Neck Oncology Surgery,1
+2284,2019,Medicine and Surgery,Bone And Soft Tissue Pathology,1
+2290,2019,Medicine and Surgery,Breast And Gynecologic Pathology,1
+2291,2016,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Ambulatory Care,1
+2293,2019,Medicine and Surgery,Anesthesia and Intensive Care,1
+2315,2021,Medicine and Surgery,Head And Neck Oncology Surgery,1
+2321,2021,Medicine and Surgery,Interventional Nephrology,1
+2323,2016,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Medication Safety,1
+2327,2020,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Parental Nutrition,1
+2330,2019,Medicine and Surgery,Nephropathology Renal Transplant Pathology,1
+2336,2020,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Nephrology,1
+2338,2020,Pharmacists and Pharmacy Technicians,Clinical Pharmacy - Medication Safety,1
+2343,2019,Medicine and Surgery,Pediatric Cardiac Critical Care,1
+2345,2016,Medicine and Surgery,Mental Health,1

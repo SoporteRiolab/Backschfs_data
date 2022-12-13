@@ -1,0 +1,81 @@
+,Academic_Year,Current_Medical_Field_En,Gender_En,Number_of_Trainees
+0,2021,Medicine and Surgery,Male,8737
+1,2020,Medicine and Surgery,Male,8339
+2,2019,Medicine and Surgery,Male,7831
+3,2021,Medicine and Surgery,Female,7168
+4,2018,Medicine and Surgery,Male,7143
+5,2020,Medicine and Surgery,Female,6721
+6,2017,Medicine and Surgery,Male,6373
+7,2019,Medicine and Surgery,Female,6132
+8,2018,Medicine and Surgery,Female,5472
+9,2016,Medicine and Surgery,Male,5447
+10,2017,Medicine and Surgery,Female,4739
+13,2016,Medicine and Surgery,Female,3939
+27,2022,Medicine and Surgery,Male,1257
+32,2022,Medicine and Surgery,Female,887
+39,2021,Dentistry and Related Specialties,Female,549
+41,2021,Dentistry and Related Specialties,Male,488
+42,2020,Dentistry and Related Specialties,Female,439
+44,2020,Dentistry and Related Specialties,Male,410
+45,2019,Dentistry and Related Specialties,Male,380
+47,2019,Dentistry and Related Specialties,Female,341
+48,2021,Nursing and Midwifery,Female,341
+49,2018,Dentistry and Related Specialties,Male,328
+50,2017,Dentistry and Related Specialties,Male,315
+54,2016,Dentistry and Related Specialties,Male,281
+56,2020,Nursing and Midwifery,Female,279
+59,2018,Dentistry and Related Specialties,Female,263
+60,2017,Dentistry and Related Specialties,Female,245
+64,2019,Nursing and Midwifery,Female,198
+66,2016,Dentistry and Related Specialties,Female,190
+67,2020,Nursing and Midwifery,Male,189
+75,2019,Nursing and Midwifery,Male,161
+76,2021,Nursing and Midwifery,Male,154
+78,2021,Pharmacists and Pharmacy Technicians,Female,148
+82,2018,Nursing and Midwifery,Female,143
+83,2018,Nursing and Midwifery,Male,141
+91,2020,Pharmacists and Pharmacy Technicians,Female,98
+92,2017,Nursing and Midwifery,Female,98
+95,2019,Pharmacists and Pharmacy Technicians,Female,87
+96,2017,Nursing and Midwifery,Male,84
+100,2018,Pharmacists and Pharmacy Technicians,Female,68
+102,2019,Pharmacists and Pharmacy Technicians,Male,64
+103,2021,Laboratories and Medical Technology,Male,63
+104,2020,Laboratories and Medical Technology,Male,62
+105,2016,Pharmacists and Pharmacy Technicians,Female,62
+106,2017,Pharmacists and Pharmacy Technicians,Female,59
+108,2018,Pharmacists and Pharmacy Technicians,Male,57
+109,2021,Pharmacists and Pharmacy Technicians,Male,56
+110,2019,Laboratories and Medical Technology,Male,54
+113,2021,Laboratories and Medical Technology,Female,50
+117,2017,Pharmacists and Pharmacy Technicians,Male,44
+119,2022,Dentistry and Related Specialties,Male,40
+120,2020,Pharmacists and Pharmacy Technicians,Male,39
+121,2018,Laboratories and Medical Technology,Male,37
+122,2017,Laboratories and Medical Technology,Male,35
+125,2022,Pharmacists and Pharmacy Technicians,Female,32
+127,2016,Laboratories and Medical Technology,Male,28
+129,2020,Laboratories and Medical Technology,Female,28
+130,2016,Pharmacists and Pharmacy Technicians,Male,26
+136,2016,Nursing and Midwifery,Female,21
+137,2018,Unknown,Male,21
+138,2019,Laboratories and Medical Technology,Female,21
+144,2019,Unknown,Male,18
+145,2017,Unknown,Male,17
+147,2020,Unknown,Male,17
+149,2016,Unknown,Male,16
+152,2017,Laboratories and Medical Technology,Female,14
+153,2018,Laboratories and Medical Technology,Female,13
+155,2022,Pharmacists and Pharmacy Technicians,Male,13
+156,2016,Unknown,Female,12
+157,2016,Laboratories and Medical Technology,Female,12
+158,2017,Unknown,Female,11
+160,2022,Dentistry and Related Specialties,Female,11
+163,2021,Unknown,Male,8
+166,2021,Unknown,Female,7
+167,2018,Unknown,Female,7
+168,2022,Unknown,Male,7
+169,2016,Nursing and Midwifery,Male,7
+176,2022,Unknown,Female,6
+177,2019,Unknown,Female,6
+180,2020,Unknown,Female,5

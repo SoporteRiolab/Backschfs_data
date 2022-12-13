@@ -1,0 +1,179 @@
+,Academic_Year,Current_Medical_Field_En,Age_Group_En,Number_of_Trainees
+0,2021,Medicine and Surgery,From 20 to 29,10799
+1,2020,Medicine and Surgery,From 20 to 29,7971
+2,2017,Medicine and Surgery,Unknown,7900
+3,2018,Medicine and Surgery,Unknown,6909
+4,2016,Medicine and Surgery,Unknown,6579
+7,2019,Medicine and Surgery,Unknown,5598
+8,2019,Medicine and Surgery,From 20 to 29,5403
+11,2020,Medicine and Surgery,Unknown,4614
+15,2021,Medicine and Surgery,Unknown,2822
+16,2018,Medicine and Surgery,From 20 to 29,2758
+17,2019,Medicine and Surgery,From 30 to 39,2700
+19,2018,Medicine and Surgery,From 30 to 39,2531
+20,2020,Medicine and Surgery,From 30 to 39,2281
+21,2017,Medicine and Surgery,From 30 to 39,2203
+22,2021,Medicine and Surgery,From 30 to 39,2150
+24,2016,Medicine and Surgery,From 30 to 39,2045
+25,2022,Medicine and Surgery,Unknown,1573
+35,2021,Dentistry and Related Specialties,From 20 to 29,732
+36,2017,Medicine and Surgery,From 20 to 29,533
+37,2020,Dentistry and Related Specialties,From 20 to 29,517
+38,2017,Medicine and Surgery,From 40 to 49,457
+42,2016,Medicine and Surgery,From 20 to 29,391
+43,2018,Medicine and Surgery,From 40 to 49,390
+44,2022,Medicine and Surgery,From 30 to 39,382
+45,2017,Dentistry and Related Specialties,Unknown,378
+46,2016,Medicine and Surgery,From 40 to 49,366
+51,2016,Dentistry and Related Specialties,Unknown,331
+54,2018,Dentistry and Related Specialties,Unknown,321
+56,2021,Nursing and Midwifery,From 20 to 29,297
+60,2019,Dentistry and Related Specialties,Unknown,251
+62,2019,Dentistry and Related Specialties,From 20 to 29,244
+64,2019,Medicine and Surgery,From 40 to 49,240
+65,2020,Nursing and Midwifery,From 30 to 39,238
+67,2019,Nursing and Midwifery,From 30 to 39,223
+68,2019,Dentistry and Related Specialties,From 30 to 39,215
+69,2020,Nursing and Midwifery,From 20 to 29,212
+70,2020,Dentistry and Related Specialties,From 30 to 39,194
+71,2021,Nursing and Midwifery,From 30 to 39,190
+73,2020,Medicine and Surgery,From 40 to 49,180
+76,2018,Dentistry and Related Specialties,From 30 to 39,160
+78,2017,Nursing and Midwifery,Unknown,157
+79,2021,Dentistry and Related Specialties,From 30 to 39,156
+80,2021,Pharmacists and Pharmacy Technicians,From 20 to 29,149
+82,2021,Dentistry and Related Specialties,Unknown,141
+83,2018,Nursing and Midwifery,Unknown,137
+84,2020,Dentistry and Related Specialties,Unknown,129
+85,2021,Medicine and Surgery,From 40 to 49,128
+87,2022,Medicine and Surgery,From 20 to 29,126
+90,2017,Dentistry and Related Specialties,From 30 to 39,120
+91,2019,Nursing and Midwifery,From 20 to 29,117
+93,2018,Nursing and Midwifery,From 30 to 39,102
+94,2020,Pharmacists and Pharmacy Technicians,From 20 to 29,97
+96,2016,Dentistry and Related Specialties,From 30 to 39,89
+97,2018,Dentistry and Related Specialties,From 20 to 29,86
+100,2019,Pharmacists and Pharmacy Technicians,From 20 to 29,75
+101,2021,Laboratories and Medical Technology,From 30 to 39,65
+102,2022,Medicine and Surgery,From 40 to 49,63
+104,2020,Laboratories and Medical Technology,From 30 to 39,59
+108,2017,Pharmacists and Pharmacy Technicians,Unknown,55
+111,2022,Dentistry and Related Specialties,Unknown,47
+112,2017,Dentistry and Related Specialties,From 40 to 49,46
+113,2018,Pharmacists and Pharmacy Technicians,Unknown,46
+114,2019,Laboratories and Medical Technology,From 30 to 39,44
+115,2016,Pharmacists and Pharmacy Technicians,Unknown,44
+117,2021,Laboratories and Medical Technology,From 20 to 29,43
+118,2019,Pharmacists and Pharmacy Technicians,From 30 to 39,41
+120,2018,Pharmacists and Pharmacy Technicians,From 20 to 29,41
+122,2020,Pharmacists and Pharmacy Technicians,From 30 to 39,40
+123,2016,Dentistry and Related Specialties,From 40 to 49,40
+124,2021,Pharmacists and Pharmacy Technicians,From 30 to 39,39
+125,2018,Nursing and Midwifery,From 20 to 29,38
+128,2018,Pharmacists and Pharmacy Technicians,From 30 to 39,35
+129,2019,Pharmacists and Pharmacy Technicians,Unknown,35
+132,2017,Laboratories and Medical Technology,Unknown,31
+135,2016,Pharmacists and Pharmacy Technicians,From 30 to 39,27
+136,2017,Pharmacists and Pharmacy Technicians,From 30 to 39,26
+139,2022,Pharmacists and Pharmacy Technicians,From 20 to 29,25
+140,2018,Laboratories and Medical Technology,Unknown,25
+142,2017,Medicine and Surgery,From 50 to 59,23
+143,2018,Dentistry and Related Specialties,From 40 to 49,23
+147,2017,Unknown,Unknown,21
+148,2016,Unknown,Unknown,21
+150,2019,Laboratories and Medical Technology,Unknown,20
+151,2018,Medicine and Surgery,From 50 to 59,20
+154,2016,Laboratories and Medical Technology,Unknown,19
+155,2018,Unknown,Unknown,19
+156,2017,Nursing and Midwifery,From 30 to 39,19
+157,2016,Nursing and Midwifery,From 30 to 39,19
+158,2018,Laboratories and Medical Technology,From 30 to 39,19
+159,2020,Laboratories and Medical Technology,From 20 to 29,18
+161,2020,Unknown,Unknown,18
+164,2019,Medicine and Surgery,From 50 to 59,17
+165,2019,Unknown,Unknown,16
+166,2017,Pharmacists and Pharmacy Technicians,From 20 to 29,15
+168,2017,Dentistry and Related Specialties,From 20 to 29,15
+169,2020,Nursing and Midwifery,From 40 to 49,14
+170,2016,Pharmacists and Pharmacy Technicians,From 20 to 29,14
+171,2021,Pharmacists and Pharmacy Technicians,Unknown,13
+172,2016,Laboratories and Medical Technology,From 30 to 39,13
+173,2021,Unknown,Unknown,13
+174,2019,Nursing and Midwifery,From 40 to 49,12
+175,2017,Laboratories and Medical Technology,From 30 to 39,12
+177,2019,Dentistry and Related Specialties,From 40 to 49,11
+178,2022,Pharmacists and Pharmacy Technicians,Unknown,11
+179,2016,Medicine and Surgery,From 50 to 59,11
+180,2016,Dentistry and Related Specialties,From 20 to 29,11
+181,2020,Medicine and Surgery,From 50 to 59,10
+182,2020,Laboratories and Medical Technology,Unknown,10
+187,2022,Unknown,Unknown,9
+190,2021,Dentistry and Related Specialties,From 40 to 49,9
+191,2020,Dentistry and Related Specialties,From 40 to 49,9
+193,2022,Pharmacists and Pharmacy Technicians,From 30 to 39,9
+197,2021,Nursing and Midwifery,From 40 to 49,8
+198,2016,Laboratories and Medical Technology,From 40 to 49,8
+200,2017,Pharmacists and Pharmacy Technicians,From 40 to 49,7
+201,2018,Nursing and Midwifery,From 40 to 49,7
+203,2017,Laboratories and Medical Technology,From 40 to 49,6
+204,2018,Medicine and Surgery,Less Than 20,6
+205,2019,Nursing and Midwifery,Unknown,6
+206,2019,Laboratories and Medical Technology,From 20 to 29,6
+207,2016,Unknown,From 30 to 39,6
+208,2019,Laboratories and Medical Technology,From 40 to 49,5
+213,2019,Medicine and Surgery,Less Than 20,5
+214,2020,Medicine and Surgery,Less Than 20,5
+216,2021,Laboratories and Medical Technology,From 40 to 49,5
+217,2017,Unknown,From 30 to 39,5
+222,2017,Medicine and Surgery,Less Than 20,5
+223,2016,Nursing and Midwifery,From 20 to 29,5
+224,2016,Pharmacists and Pharmacy Technicians,From 40 to 49,5
+226,2018,Unknown,From 30 to 39,4
+229,2016,Medicine and Surgery,From 60 to 69,4
+234,2021,Medicine and Surgery,Less Than 20,4
+235,2018,Laboratories and Medical Technology,From 40 to 49,4
+238,2017,Medicine and Surgery,From 60 to 69,3
+239,2018,Unknown,From 40 to 49,3
+240,2021,Pharmacists and Pharmacy Technicians,From 40 to 49,3
+244,2022,Dentistry and Related Specialties,From 30 to 39,3
+247,2017,Nursing and Midwifery,From 40 to 49,3
+248,2019,Unknown,From 30 to 39,3
+249,2019,Unknown,From 40 to 49,3
+251,2020,Nursing and Midwifery,Unknown,3
+252,2020,Laboratories and Medical Technology,From 40 to 49,3
+253,2018,Pharmacists and Pharmacy Technicians,From 40 to 49,3
+254,2017,Nursing and Midwifery,From 20 to 29,3
+259,2018,Medicine and Surgery,From 60 to 69,2
+263,2019,Unknown,From 20 to 29,2
+267,2022,Medicine and Surgery,From 50 to 59,2
+269,2018,Laboratories and Medical Technology,From 20 to 29,2
+270,2022,Unknown,From 20 to 29,2
+271,2021,Medicine and Surgery,From 50 to 59,2
+272,2016,Nursing and Midwifery,Unknown,2
+273,2016,Nursing and Midwifery,From 40 to 49,2
+276,2020,Unknown,From 30 to 39,2
+279,2018,Unknown,From 20 to 29,2
+284,2017,Unknown,From 20 to 29,2
+288,2020,Unknown,From 40 to 49,1
+289,2021,Unknown,From 20 to 29,1
+290,2020,Nursing and Midwifery,From 50 to 59,1
+291,2021,Medicine and Surgery,From 60 to 69,1
+292,2021,Unknown,From 40 to 49,1
+293,2020,Unknown,From 20 to 29,1
+294,2020,Medicine and Surgery,From 80 to 89,1
+295,2020,Medicine and Surgery,From 70 to 79,1
+296,2022,Unknown,From 30 to 39,1
+297,2022,Unknown,From 40 to 49,1
+298,2022,Dentistry and Related Specialties,From 40 to 49,1
+299,2021,Medicine and Surgery,From 80 to 89,1
+301,2019,Nursing and Midwifery,From 50 to 59,1
+316,2019,Medicine and Surgery,From 80 to 89,1
+333,2019,Medicine and Surgery,From 70 to 79,1
+334,2018,Medicine and Surgery,From 80 to 89,1
+335,2018,Medicine and Surgery,From 70 to 79,1
+336,2018,Dentistry and Related Specialties,From 50 to 59,1
+337,2017,Unknown,From 40 to 49,1
+338,2017,Dentistry and Related Specialties,From 50 to 59,1
+339,2016,Unknown,From 40 to 49,1
+340,2016,Unknown,From 20 to 29,1
+341,2016,Medicine and Surgery,Less Than 20,1

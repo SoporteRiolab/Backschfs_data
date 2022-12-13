@@ -1,0 +1,980 @@
+,Academic_Year,City_Name_En,Current_Training_Center_Name_En,Total_Trainees,Graduated_Trainees,Success_Rate
+1,2017,Unknown - Saudi Arabia,JointProgram for Psychiatry in East,1,1,1.0
+2,2016,Riyadh,King Abdullah bin Abdulaziz University Hospital at Princess Nora Bint Abdulrahmsn University in Riyadh,1,1,1.0
+3,2016,Riyadh,Specialized Dental Healthcare Center in Eastern Riyadh,1,1,1.0
+4,2016,Unknown,The joint program for endodontics and endodontics,1,1,1.0
+5,2016,Unknown - Saudi Arabia,JointProgram for Psychiatry in East,1,1,1.0
+10,2016,Yanbu,The program of the Ministry of Health Yanbu,1,1,1.0
+11,2018,Riyadh,JointProgram for Endodontic in Central region,23,23,1.0
+12,2016,Unknown - Saudi Arabia,The joint program in the Central and Western region,2,2,1.0
+13,2017,Riyadh,JointProgram for Endodontic in Central region,23,23,1.0
+15,2018,Unknown - Saudi Arabia,JointProgram for Psychiatry in East,1,1,1.0
+17,2019,Al-Ahsa,"Al-Jabr Hospital for ophthalmology,ear, nose and throat in Alahsa",1,1,1.0
+18,2019,Hofuf,Prince Sultan Center for Cardiac Diseases and Surgery in Hofuf,1,1,1.0
+19,2019,Jeddah,Ophthalmology Hospital in Jeddah,1,1,1.0
+20,2019,Madinah,General Directorate of Health Affairs in Madinah,1,1,1.0
+23,2017,Madinah,Eradah Mental Health Complex in Medina,3,3,1.0
+24,2019,Madinah,"Joint training program in the Western Region, Madinah",1,1,1.0
+25,2016,Dammam,Imam Abdulrahman Al Faisal Hospital in Dammam,12,12,1.0
+26,2016,Makkah,Teaching Dental Hospital at Dentistry College in Umm Al-Qura University in Mecca,1,1,1.0
+28,2017,Madinah,General Directorate of Health Affairs in Madinah,1,1,1.0
+33,2017,Madinah,"Joint training program in the Western Region, Madinah",1,1,1.0
+35,2017,Riyadh,Joint Otolaryngology Program - Riyadh,3,3,1.0
+36,2017,Madinah,Specialized Dental Center at King Fahd Hospital in Medina,1,1,1.0
+37,2017,Makkah,Joint Family and Community Medicine Program,12,12,1.0
+38,2017,Makkah,Pedodontics Combind Prg(Jedd),1,1,1.0
+42,2016,Makkah,Pedodontics Combind Prg(Jedd),1,1,1.0
+44,2016,Madinah,Eradah Mental Health Complex in Medina,1,1,1.0
+46,2017,Riyadh,Specialized Dental Healthcare Center in Eastern Riyadh,1,1,1.0
+48,2017,Buraidah,Al-Fayezia Health Center in Buraidah,1,1,1.0
+49,2017,Arar,Prince Abdullah bin Abdulaziz bin Musaed Dental Center in Arar,1,1,1.0
+51,2017,Riyadh,General Directorate of Health Affairs -for Family Medicine in Riyadh,7,7,1.0
+53,2016,Madinah,"Joint training program in the Western Region, Madinah",1,1,1.0
+54,2019,Madinah,Specialized Dental Center at King Fahd Hospital in Medina,1,1,1.0
+56,2018,Unknown - Saudi Arabia,Joint Training Program in the Eastern Province,1,1,1.0
+57,2021,Dammam,Saud AlBabtain Cardiac Center in Dammam,1,1,1.0
+59,2018,Riyadh,JointProgram for Orthodontics- Riyadh,9,9,1.0
+60,2016,Unknown - Saudi Arabia,Pedodontics Combind Prg(Dam),2,2,1.0
+69,2016,Jeddah,Ophthalmology Hospital in Jeddah,1,1,1.0
+70,2017,Unknown - Saudi Arabia,Pedodontics Combind Prg(Dam),1,1,1.0
+71,2020,Hofuf,Prince Sultan Center for Cardiac Diseases and Surgery in Hofuf,1,1,1.0
+72,2018,Riyadh,King Abdullah bin Abdulaziz University Hospital at Princess Nora Bint Abdulrahmsn University in Riyadh,3,3,1.0
+74,2019,Dammam,Dammam Regional Laboratory and Blood Bank,2,2,1.0
+78,2019,Alkharj  ,King Khalid Hospital and Prince Sultan Center for Curative Services in Al-Kharj,2,2,1.0
+83,2020,Jeddah,JointProgram for Orthodontics- Jeddah,1,1,1.0
+85,2021,Madinah,Medina Cardiac Center,1,1,1.0
+86,2018,Taif,Prince Mansour Military Hospital for Community Medicine in Taif,1,1,1.0
+87,2016,Buraidah,Al-Fayezia Health Center in Buraidah,3,3,1.0
+89,2018,Hofuf,Prince Sultan Center for Cardiac Diseases and Surgery in Hofuf,1,1,1.0
+92,2018,Madinah,Forensic Medicine Center in Medina,3,3,1.0
+93,2018,Madinah,General Directorate of Health Affairs in Madinah,1,1,1.0
+94,2018,Madinah,Eradah Mental Health Complex in Medina,3,3,1.0
+96,2021,Buraidah,The program of the Ministry of Health in Al-Qassim,1,1,1.0
+97,2019,Riyadh,JointProgram for Preventive medicine-Riyadh,11,11,1.0
+99,2019,Unknown - Saudi Arabia,JointProgram for Psychiatry in East,1,1,1.0
+100,2018,Madinah,"Joint training program in the Western Region, Madinah",1,1,1.0
+104,2018,Madinah,Specialized Dental Center at King Fahd Hospital in Medina,1,1,1.0
+105,2016,Madinah,General Directorate of Health Affairs in Madinah,1,1,1.0
+106,2016,Jeddah,The program of the Ministry of Health in Jeddah,1,1,1.0
+107,2019,Unknown - Saudi Arabia,Joint Training Program in the Eastern Province,1,1,1.0
+112,2021,Unknown - Saudi Arabia,The joint program in the Central and Western region,2,2,1.0
+117,2016,Riyadh,JointProgram for Preventive medicine-Riyadh,12,12,1.0
+135,2016,Hail,Family Medicine Postgraduate Program in Hail,2,2,1.0
+160,2020,Taif,Prince Mansour Military Hospital for Community Medicine in Taif,3,3,1.0
+172,2016,Jeddah,JointProgram for Restorative Dentistry- West,9,9,1.0
+173,2016,Dammam,Dammam Regional Laboratory and Blood Bank,2,2,1.0
+190,2017,Hail,The joint training program in Hail,1,1,1.0
+191,2020,Riyadh,Dentistry College at King Saud bin Abdulaziz University for Health Sciences in Riyadh,13,13,1.0
+192,2017,Jeddah,Joint Program of Ophthalmology - Jeddah,1,1,1.0
+207,2020,Makkah,Teaching Dental Hospital at Dentistry College in Umm Al-Qura University in Mecca,3,3,1.0
+210,2018,Riyadh,General Directorate of Health Affairs -for Family Medicine in Riyadh,7,7,1.0
+213,2021,Riyadh,"Joint training program in the central region, Riyadh",3,3,1.0
+215,2018,Riyadh,Dentistry College at King Saud bin Abdulaziz University for Health Sciences in Riyadh,12,12,1.0
+216,2016,Riyadh,University Dental Hospital at King Saud University in Riyadh,3,3,1.0
+222,2016,Buraidah,Prince Sultan Cardiac Center in Buraidah,6,6,1.0
+223,2017,Riyadh,JointProgram for Orthodontics- Riyadh,10,10,1.0
+225,2016,Riyadh,Dr. Sulaiman AlHabib Medical Group in Riyadh,5,5,1.0
+226,2019,Riyadh,JointProgram for Orthodontics- Riyadh,5,5,1.0
+227,2016,Al-Ahsa,"Al-Jabr Hospital for ophthalmology,ear, nose and throat in Alahsa",5,5,1.0
+228,2017,Jeddah,JointProgram for Restorative Dentistry- West,7,7,1.0
+229,2016,Jouf,Dumat Al-Jandal General Hospital in Aljowf,2,2,1.0
+230,2016,Madinah,University clinics at Taibah University in Medina,2,2,1.0
+231,2016,Alkharj  ,King Khalid Hospital and Prince Sultan Center for Curative Services in Al-Kharj,5,5,1.0
+232,2016,Jeddah,College of Dentistry and University Dental Hospital in King Abdulaziz University in Jeddah,5,5,1.0
+238,2017,Dammam,Dammam Regional Laboratory and Blood Bank,2,2,1.0
+239,2016,Jeddah,"Joint training program in the Western Region, Jeddah",5,5,1.0
+242,2017,Al-Ahsa,"Al-Jabr Hospital for ophthalmology,ear, nose and throat in Alahsa",5,5,1.0
+244,2021,Buraidah,Prince Sultan Cardiac Center in Buraidah,5,5,1.0
+245,2018,Jeddah,"Joint training program in the Western Region, Jeddah",5,5,1.0
+248,2017,Jubail,Royal Commission Medical Center in Jubail,4,4,1.0
+249,2018,Al-Ahsa,"Al-Jabr Hospital for ophthalmology,ear, nose and throat in Alahsa",2,2,1.0
+250,2016,Riyadh,Joint Otolaryngology Program - Riyadh,4,4,1.0
+252,2017,Riyadh,Dentistry College at King Saud bin Abdulaziz University for Health Sciences in Riyadh,4,4,1.0
+258,2016,Abha,The Medical City at King Khalid University,18,18,1.0
+259,2018,Riyadh,Specialized Dental Healthcare Center in Eastern Riyadh,2,2,1.0
+262,2020,Riyadh,King Saud bin Abdulaziz University for Health Sciences-Riyadh,4,4,1.0
+263,2020,Alkharj  ,King Khalid Hospital and Prince Sultan Center for Curative Services in Al-Kharj,2,2,1.0
+269,2016,Jeddah,Specialized Dental Center in North Jeddah,2,2,1.0
+270,2018,Makkah,Teaching Dental Hospital at Dentistry College in Umm Al-Qura University in Mecca,4,4,1.0
+273,2016,Riyadh,JointProgram for Endodontic in Central region,16,16,1.0
+275,2020,Abha,The Medical City at King Khalid University,4,4,1.0
+281,2021,Jeddah,Maternity and Children Hospital in Jeddah,2,2,1.0
+282,2017,Madinah,University clinics at Taibah University in Medina,2,2,1.0
+283,2019,Hail,The joint training program in Hail,2,2,1.0
+285,2020,Riyadh,Regional laboratory and blood bank in Riyadh,2,2,1.0
+289,2018,Jeddah,Specialized Dental Center in North Jeddah,2,2,1.0
+294,2019,Taif,Prince Mansour Military Hospital for Community Medicine in Taif,2,2,1.0
+296,2019,Jeddah,Specialized Dental Center in North Jeddah,2,2,1.0
+297,2021,Khamis Mushait,King Fahd Hospital of the Armed Forces in the south,2,2,1.0
+299,2020,Madinah,Eradah Mental Health Complex in Medina,2,2,1.0
+300,2020,Unknown - Saudi Arabia,The joint program in the Central and Western region,2,2,1.0
+303,2017,Alkharj  ,King Khalid Hospital and Prince Sultan Center for Curative Services in Al-Kharj,5,5,1.0
+304,2017,Jeddah,"Joint training program in the Western Region, Jeddah",5,5,1.0
+305,2020,Dammam,"Joint training program in the eastern region, Dammam",2,2,1.0
+306,2017,Jeddah,Ophthalmology Hospital in Jeddah,2,2,1.0
+307,2018,Jeddah,JointProgram for Restorative Dentistry- West,5,5,1.0
+310,2017,Makkah,Teaching Dental Hospital at Dentistry College in Umm Al-Qura University in Mecca,2,2,1.0
+316,2020,Dammam,Imam Abdulrahman Al Faisal Hospital in Dammam,5,5,1.0
+319,2018,Jeddah,Ophthalmology Hospital in Jeddah,2,2,1.0
+322,2018,Dammam,Dammam Regional Laboratory and Blood Bank,2,2,1.0
+323,2017,Jeddah,Specialized Dental Center in North Jeddah,2,2,1.0
+326,2019,Riyadh,Joint Otolaryngology Program - Riyadh,2,2,1.0
+327,2018,Alkharj  ,King Khalid Hospital and Prince Sultan Center for Curative Services in Al-Kharj,4,4,1.0
+328,2021,Taif,Prince Mansour Military Hospital for Community Medicine in Taif,2,2,1.0
+331,2019,Madinah,Eradah Mental Health Complex in Medina,3,3,1.0
+332,2019,Riyadh,JointProgram for Endodontic in Central region,20,20,1.0
+334,2016,Riyadh,General Directorate of Health Affairs -for Family Medicine in Riyadh,11,11,1.0
+335,2017,Riyadh,JointProgram for Preventive medicine-Riyadh,11,11,1.0
+340,2016,Dammam,"Joint training program in the eastern region, Dammam",1,1,1.0
+341,2020,Hail,The joint training program in Hail,1,1,1.0
+342,2016,Dhahran,Johns Hopkins Aramco Healthcare Center in Dhahran,1,1,1.0
+344,2017,Taif,Prince Mansour Military Hospital for Community Medicine in Taif,3,3,1.0
+345,2020,Al-Ahsa,"Al-Jabr Hospital for ophthalmology,ear, nose and throat in Alahsa",1,1,1.0
+346,2020,Dammam,Saud AlBabtain Cardiac Center in Dammam,6,6,1.0
+347,2020,Riyadh,JointProgram for Preventive medicine-Riyadh,1,1,1.0
+356,2020,Madinah,"Joint training program in the Western Region, Madinah",1,1,1.0
+358,2020,Madinah,General Directorate of Health Affairs in Madinah,1,1,1.0
+360,2016,Makkah,Joint Family and Community Medicine Program,13,13,1.0
+362,2019,Dammam,"Joint training program in the eastern region, Dammam",3,3,1.0
+363,2020,Dammam,Dammam Regional Laboratory and Blood Bank,1,1,1.0
+364,2016,Taif,Prince Mansour Military Hospital for Community Medicine in Taif,4,4,1.0
+366,2019,Riyadh,Regional laboratory and blood bank in Riyadh,2,2,1.0
+368,2016,Jeddah,King Abdullah Medical Complex in Jeddah,1,1,1.0
+372,2018,Hail,The joint training program in Hail,2,2,1.0
+376,2018,Riyadh,Joint Otolaryngology Program - Riyadh,3,3,1.0
+379,2021,Jeddah,"Joint training program in the Western Region, Jeddah",1,1,1.0
+386,2019,Dammam,Saud AlBabtain Cardiac Center in Dammam,11,11,1.0
+396,2016,Riyadh,Joint Psychiatry Program - Riyadh,6,6,1.0
+398,2019,Makkah,Teaching Dental Hospital at Dentistry College in Umm Al-Qura University in Mecca,4,4,1.0
+403,2018,Riyadh,JointProgram for Preventive medicine-Riyadh,11,11,1.0
+408,2021,Riyadh,King Saud bin Abdulaziz University for Health Sciences-Riyadh,2,2,1.0
+409,2020,Jeddah,Ophthalmology Hospital in Jeddah,1,1,1.0
+410,2019,Abha,The Medical City at King Khalid University,27,26,0.96
+415,2016,Riyadh,University Hospitals of Riyadh Alam University in Riyadh,36,34,0.94
+419,2017,Dammam,Imam Abdulrahman Al Faisal Hospital in Dammam,18,17,0.94
+422,2019,Riyadh,JointProgram for Prosthodontics in Riyadh,15,14,0.93
+423,2018,Abha,The Medical City at King Khalid University,29,27,0.93
+424,2019,Riyadh,Dentistry College at King Saud bin Abdulaziz University for Health Sciences in Riyadh,14,13,0.93
+430,2017,Jeddah,Joint Program for Family and Community Medicine - Jeddah,13,12,0.92
+437,2017,Taif,The program of the Ministry of Health in Taif ,12,11,0.92
+445,2016,Madinah,Joint Family Medicine Program - Medina,25,23,0.92
+447,2016,Riyadh,JointProgram for Orthodontics- Riyadh,11,10,0.91
+449,2018,Dammam,Saud AlBabtain Cardiac Center in Dammam,11,10,0.91
+454,2019,Jeddah,"Joint training program in the Western Region, Jeddah",11,10,0.91
+464,2017,Al-Ahsa,MOH Graduate Studies Program for Family Medicine,70,63,0.9
+467,2018,Riyadh,Joint Training Program in the Central Region,21,19,0.9
+470,2018,Riyadh,University Hospitals of Riyadh Alam University in Riyadh,59,53,0.9
+477,2017,Jeddah,College of Dentistry and University Dental Hospital in King Abdulaziz University in Jeddah,9,8,0.89
+478,2018,Al-Ahsa,MOH Graduate Studies Program for Family Medicine,76,68,0.89
+479,2016,Al-Ahsa,MOH Graduate Studies Program for Family Medicine,64,57,0.89
+480,2016,Riyadh,JointProgram for Pediatric Dentistry- Riyadh,9,8,0.89
+481,2016,Riyadh,JointProgram for Prosthodontics in Riyadh,9,8,0.89
+492,2020,Jeddah,"Joint training program in the Western Region, Jeddah",8,7,0.88
+494,2016,Unknown - Saudi Arabia,Joint Program for Family and Community Medicine in the South,8,7,0.88
+495,2019,Riyadh,JointProgram for Pediatric Dentistry- Riyadh,16,14,0.88
+496,2018,Riyadh,JointProgram for Prosthodontics in Riyadh,16,14,0.88
+498,2016,Jeddah,Joint Program for Family and Community Medicine - Jeddah,81,71,0.88
+500,2017,Riyadh,JointProgram for Prosthodontics in Riyadh,16,14,0.88
+505,2016,Madinah,JointProgram for Preventive Medicine in Madinah,25,22,0.88
+506,2017,Madinah,JointProgram for Preventive Medicine in Madinah,25,22,0.88
+507,2019,Jeddah,JointProgram for Orthodontics- Jeddah,8,7,0.88
+510,2018,Riyadh,JointProgram for Restorative Dentistry- Central,30,26,0.87
+513,2018,Dammam,Imam Abdulrahman Al Faisal Hospital in Dammam,15,13,0.87
+514,2017,Madinah,Joint Family Medicine Program - Medina,15,13,0.87
+527,2019,Makkah,JointProgram for Preventive Medicine in Makkah,7,6,0.86
+532,2017,Makkah,JointProgram for Preventive Medicine in Makkah,7,6,0.86
+533,2019,Riyadh,JointProgram for Restorative Dentistry- Central,21,18,0.86
+535,2019,Riyadh,Joint Training Program in the Central Region,14,12,0.86
+537,2018,Makkah,JointProgram for Preventive Medicine in Makkah,7,6,0.86
+538,2016,Makkah,JointProgram for Preventive Medicine in Makkah,7,6,0.86
+539,2017,Dammam,Saud AlBabtain Cardiac Center in Dammam,7,6,0.86
+540,2016,Alqatif  ,AlQatif Central Hospital,80,69,0.86
+546,2020,Riyadh,Dr. Sulaiman AlHabib Medical Group in Riyadh,7,6,0.86
+549,2016,Jeddah,JointProgram for Family Medicine in Jeddah,67,57,0.85
+550,2016,Jubail,Armed Forces Hospital at King Abdulaziz Base in Jubail,13,11,0.85
+553,2018,Taif,The program of the Ministry of Health in Taif ,13,11,0.85
+555,2018,Buraidah,Prince Sultan Cardiac Center in Buraidah,20,17,0.85
+556,2019,Al-Ahsa,MOH Graduate Studies Program for Family Medicine,52,44,0.85
+563,2017,Abha,The Medical City at King Khalid University,34,29,0.85
+564,2020,Taif,The program of the Ministry of Health in Taif ,13,11,0.85
+566,2019,Taif,The program of the Ministry of Health in Taif ,13,11,0.85
+569,2016,Riyadh,JointProgram for Restorative Dentistry- Central,32,27,0.84
+571,2016,Riyadh,King Khalid University Hospital in Riyadh,408,343,0.84
+572,2017,Buraidah,Prince Sultan Cardiac Center in Buraidah,19,16,0.84
+577,2018,Jeddah,International Medical Center in Jeddah,43,36,0.84
+579,2016,Unknown - Saudi Arabia,Family Medicine Academy in the First Health Cluster,89,75,0.84
+580,2016,Hofuf,King Fahad Hospital in Hofuf,61,51,0.84
+581,2016,Riyadh,JointProgram for Periodontics- Riyadh,6,5,0.83
+584,2018,Madinah,Medina Cardiac Center,12,10,0.83
+586,2019,Riyadh,King Abdulaziz University Hospital in Riyadh,6,5,0.83
+594,2017,Riyadh,Dr. Sulaiman AlHabib Medical Group in Riyadh,6,5,0.83
+597,2017,Riyadh,University Hospitals of Riyadh Alam University in Riyadh,69,57,0.83
+598,2018,Jeddah,College of Dentistry and University Dental Hospital in King Abdulaziz University in Jeddah,6,5,0.83
+600,2018,Unknown,Unknown,6,5,0.83
+605,2016,Madinah,JointProgram for Family Medicine in Madinah,58,48,0.83
+607,2018,Jubail,Royal Commission Medical Center in Jubail,6,5,0.83
+608,2019,Jeddah,College of Dentistry and University Dental Hospital in King Abdulaziz University in Jeddah,6,5,0.83
+609,2017,Alqatif  ,AlQatif Central Hospital,87,72,0.83
+610,2020,Riyadh,King Abdulaziz Medical City for National Guard in Riyadh,302,248,0.82
+616,2017,Riyadh,King Khalid University Hospital in Riyadh,341,278,0.82
+619,2017,Unknown - Saudi Arabia,Family Medicine Academy in the First Health Cluster,100,82,0.82
+621,2016,Dammam,Security Forces Hospital in Dammam,11,9,0.82
+622,2017,Jeddah,International Medical Center in Jeddah,49,40,0.82
+624,2019,Jeddah,Dr. Soliman Fakeeh Hospital in Jeddah,28,23,0.82
+625,2018,Riyadh,King Abdulaziz Medical City for National Guard in Riyadh,511,419,0.82
+626,2016,Madinah,Prince Muhammad bin Abdulaziz Hospital for the National Guard in Medina,11,9,0.82
+627,2018,Alqatif  ,AlQatif Central Hospital,73,60,0.82
+628,2017,Riyadh,King Abdulaziz Medical City for National Guard in Riyadh,594,489,0.82
+629,2016,Riyadh,King Abdulaziz Medical City for National Guard in Riyadh,589,484,0.82
+632,2016,Dhahran,King Fahd Military Medical Complex in Dhahran,73,59,0.81
+638,2019,Jeddah,International Medical Center in Jeddah,32,26,0.81
+642,2017,Riyadh,JointProgram for Restorative Dentistry- Central,36,29,0.81
+646,2016,Riyadh,Joint Training Program in the Central Region,21,17,0.81
+649,2017,Riyadh,Joint Training Program in the Central Region,16,13,0.81
+651,2017,Hofuf,King Fahad Hospital in Hofuf,62,50,0.81
+656,2016,Khobar,King Fahd University Hospital in Khobar,221,179,0.81
+657,2017,Khobar,King Fahd University Hospital in Khobar,203,165,0.81
+658,2016,Jouf,The program of the Ministry of Health in Al-Jouf,5,4,0.8
+662,2016,Dhahran,King Abdulaziz Air Base Hospital in Dhahran,20,16,0.8
+664,2019,Jubail,Armed Forces Hospital at King Abdulaziz Base in Jubail,15,12,0.8
+665,2018,Madinah,JointProgram for Preventive Medicine in Madinah,15,12,0.8
+668,2016,Dammam,Saud AlBabtain Cardiac Center in Dammam,5,4,0.8
+670,2017,Jeddah,King Abdullah Medical Complex in Jeddah,5,4,0.8
+672,2019,Madinah,JointProgram for Preventive Medicine in Madinah,15,12,0.8
+673,2017,Madinah,Forensic Medicine Center in Medina,5,4,0.8
+676,2016,Unaizah,King Saud Hospital in Unaizah,5,4,0.8
+680,2020,Jouf,The program of the Ministry of Health in Al-Jouf,10,8,0.8
+682,2018,Khobar,King Fahd University Hospital in Khobar,167,134,0.8
+683,2019,Riyadh,King Khalid University Hospital in Riyadh,188,150,0.8
+685,2019,Dammam,Imam Abdulrahman Al Faisal Hospital in Dammam,10,8,0.8
+691,2018,Riyadh,King Khalid University Hospital in Riyadh,247,197,0.8
+697,2017,Madinah,JointProgram for Family Medicine in Madinah,86,69,0.8
+698,2016,Riyadh,Pedodontics Combind Prg(Riyad),10,8,0.8
+701,2016,Jeddah,International Medical Center in Jeddah,45,36,0.8
+705,2018,Unknown - Saudi Arabia,Family Medicine Academy in the First Health Cluster,90,71,0.79
+706,2017,Jeddah,Dr. Soliman Fakeeh Hospital in Jeddah,39,31,0.79
+707,2018,Hofuf,King Fahad Hospital in Hofuf,52,41,0.79
+710,2016,Buraidah,The program of the Ministry of Health in Al-Qassim,24,19,0.79
+715,2018,Madinah,JointProgram for Family Medicine in Madinah,85,67,0.79
+717,2016,Al-Ahsa,King Abdulaziz Medical City of National Guard in Alahsa,104,82,0.79
+718,2018,Riyadh,JointProgram for Pediatric Dentistry- Riyadh,19,15,0.79
+719,2020,Al-Ahsa,MOH Graduate Studies Program for Family Medicine,29,23,0.79
+725,2016,Riyadh,King Fahad Medical City in Riyadh,485,384,0.79
+729,2019,Riyadh,Dr. Sulaiman AlHabib Medical Group in Riyadh,9,7,0.78
+732,2021,Riyadh,King Salman bin Abdulaziz Hospital in Riyadh,9,7,0.78
+735,2019,Riyadh,King Abdulaziz Medical City for National Guard in Riyadh,412,323,0.78
+740,2017,Riyadh,King Fahad Medical City in Riyadh,496,385,0.78
+743,2019,Alqatif  ,AlQatif Central Hospital,54,42,0.78
+749,2020,Jeddah,International Medical Center in Jeddah,18,14,0.78
+751,2017,Dammam,King Fahd Specialist Hospital in Dammam,188,146,0.78
+753,2019,Khobar,King Fahd University Hospital in Khobar,130,102,0.78
+755,2016,Madinah,Forensic Medicine Center in Medina,9,7,0.78
+762,2017,Riyadh,University Dental Hospital at King Saud University in Riyadh,9,7,0.78
+763,2016,Jeddah,King Abdulaziz Medical City for National Guard in Jeddah,320,248,0.78
+764,2017,Jeddah,King Abdulaziz Medical City for National Guard in Jeddah,327,255,0.78
+770,2016,Riyadh,"Joint training program in the central region, Riyadh",40,31,0.78
+779,2016,Jeddah,Dr. Soliman Fakeeh Hospital in Jeddah,35,27,0.77
+780,2019,Madinah,JointProgram for Family Medicine in Madinah,62,48,0.77
+788,2021,Jeddah,King Faisal Specialist Hospital and Research Center in Jeddah,31,24,0.77
+792,2019,Riyadh,University Hospitals of Riyadh Alam University in Riyadh,52,40,0.77
+795,2018,Jeddah,Dr. Soliman Fakeeh Hospital in Jeddah,35,27,0.77
+796,2016,Dammam,King Fahd Specialist Hospital in Dammam,179,137,0.77
+797,2019,Madinah,Medina Cardiac Center,13,10,0.77
+801,2019,Jeddah,King Abdulaziz Medical City for National Guard in Jeddah,201,153,0.76
+806,2019,Buraidah,Prince Sultan Cardiac Center in Buraidah,25,19,0.76
+810,2020,Jeddah,King Abdulaziz Medical City for National Guard in Jeddah,150,114,0.76
+812,2016,Riyadh,Security Forces Hospital in Riyadh,165,125,0.76
+818,2021,Riyadh,King Abdulaziz Medical City for National Guard in Riyadh,107,81,0.76
+821,2019,Buraidah,King Fahd Specialist Hospital in Buraidah,17,13,0.76
+826,2018,Jeddah,King Abdulaziz Medical City for National Guard in Jeddah,271,207,0.76
+831,2018,Riyadh,Security Forces Hospital in Riyadh,124,94,0.76
+834,2020,Riyadh,JointProgram for Oral Maxillofacial Surgery - Riyadh,4,3,0.75
+841,2017,Al-Ahsa,King Abdulaziz Medical City of National Guard in Alahsa,106,80,0.75
+843,2017,Dammam,"Joint training program in the eastern region, Dammam",4,3,0.75
+845,2016,Buraidah,King Fahd Specialist Hospital in Buraidah,40,30,0.75
+850,2018,Jeddah,The program of the Ministry of Health in Jeddah,12,9,0.75
+852,2018,Jubail,Armed Forces Hospital at King Abdulaziz Base in Jubail,16,12,0.75
+860,2017,Riyadh,Security Forces Hospital in Riyadh,157,118,0.75
+867,2019,Riyadh,King Abdullah bin Abdulaziz University Hospital at Princess Nora Bint Abdulrahmsn University in Riyadh,4,3,0.75
+873,2018,Riyadh,JointProgram for Oral Maxillofacial Surgery - Riyadh,4,3,0.75
+875,2020,Riyadh,King Abdullah bin Abdulaziz University Hospital at Princess Nora Bint Abdulrahmsn University in Riyadh,4,3,0.75
+882,2019,Riyadh,JointProgram for Oral Maxillofacial Surgery - Riyadh,4,3,0.75
+884,2021,Dammam,Eastern Health Cluster,4,3,0.75
+886,2016,Riyadh,Al-Iman Hospital in Riyadh,12,9,0.75
+889,2018,Riyadh,Al-Iman Hospital in Riyadh,12,9,0.75
+892,2021,Riyadh,Prince Sultan Center for Cardiac Diseases and Surgery in Riyadh,12,9,0.75
+899,2020,Jeddah,King Abdullah Medical Complex in Jeddah,12,9,0.75
+900,2018,Riyadh,Dr. Sulaiman AlHabib Medical Group in Riyadh,8,6,0.75
+902,2019,Dammam,Maternity and Children Hospital in Dammam,24,18,0.75
+904,2017,Jeddah,JointProgram for Family Medicine in Jeddah,95,71,0.75
+905,2016,Riyadh,King Salman bin Abdulaziz Hospital in Riyadh,24,18,0.75
+908,2017,Al-Ahsa,Maternity and Children Hospital in Mubarraz,54,40,0.74
+909,2016,Riyadh,Prince Sultan Military Medical City in Riyadh,493,364,0.74
+910,2019,Riyadh,Security Forces Hospital in Riyadh,102,75,0.74
+913,2017,Riyadh,Prince Sultan Military Medical City in Riyadh,474,349,0.74
+914,2016,Dammam,Maternity and Children Hospital in Dammam,34,25,0.74
+921,2016,Riyadh,Prince Mohammed bin Abdulaziz Hospital in Riyadh,54,40,0.74
+922,2018,Dubai,Rashed Hospital in Dubai,34,25,0.74
+923,2016,Manama,Bahrain Defense Force Hospital in the Kingdom of Bahrain,19,14,0.74
+926,2017,Riyadh,"Joint training program in the central region, Riyadh",34,25,0.74
+927,2017,Dammam,Maternity and Children Hospital in Dammam,39,29,0.74
+933,2017,Dubai,Rashed Hospital in Dubai,35,26,0.74
+935,2016,Dammam,Dammam Medical Complex,105,78,0.74
+944,2018,Jeddah,JointProgram for Family Medicine in Jeddah,97,72,0.74
+946,2017,Jeddah,King Abdulaziz University Hospital in Jeddah,389,284,0.73
+950,2018,Riyadh,King Fahad Medical City in Riyadh,408,297,0.73
+951,2016,Abha,General Directorate of Health Affairs in Aseer Region,218,159,0.73
+953,2018,Dammam,King Fahd Specialist Hospital in Dammam,164,119,0.73
+954,2017,Jubail,Armed Forces Hospital at King Abdulaziz Base in Jubail,15,11,0.73
+956,2017,Jeddah,JointProgram for Community Medicine in Jeddah,11,8,0.73
+957,2016,Jeddah,King Abdulaziz University Hospital in Jeddah,380,277,0.73
+960,2018,Jeddah,JointProgram for Community Medicine in Jeddah,11,8,0.73
+964,2018,Manama,Bahrain Defense Force Hospital in the Kingdom of Bahrain,15,11,0.73
+966,2018,Riyadh,University Dental Hospital at King Saud University in Riyadh,11,8,0.73
+967,2016,Jeddah,King Fahd Hospital of Armed Forces in Jeddah,135,99,0.73
+969,2019,Riyadh,University Dental Hospital at King Saud University in Riyadh,11,8,0.73
+971,2018,Riyadh,Prince Mohammed bin Abdulaziz Hospital in Riyadh,55,40,0.73
+972,2018,Riyadh,Prince Sultan Center for Cardiac Diseases and Surgery in Riyadh,41,30,0.73
+973,2016,Jeddah,JointProgram for Community Medicine in Jeddah,11,8,0.73
+974,2017,Madinah,Prince Muhammad bin Abdulaziz Hospital for the National Guard in Medina,18,13,0.72
+976,2017,Dammam,Dammam Medical Complex,102,73,0.72
+977,2016,Riyadh,King Saud Medical City in Riyadh,265,191,0.72
+984,2018,Al-Ahsa,Maternity and Children Hospital in Mubarraz,46,33,0.72
+985,2017,Dhahran,King Abdulaziz Air Base Hospital in Dhahran,25,18,0.72
+988,2018,Jeddah,King Abdulaziz University Hospital in Jeddah,329,237,0.72
+989,2017,Riyadh,Medical City of King Saud University in Riyadh,68,49,0.72
+990,2016,Riyadh,Medical City of King Saud University in Riyadh,43,31,0.72
+992,2020,Khobar,King Fahd University Hospital in Khobar,85,61,0.72
+997,2016,Taif,Armed Forces Hospital in Al-Hada in Taif,129,93,0.72
+1000,2019,Hofuf,King Fahad Hospital in Hofuf,40,29,0.72
+1001,2017,Dhahran,King Fahd Military Medical Complex in Dhahran,75,54,0.72
+1002,2017,Riyadh,Dallah Hospital in Riyadh,18,13,0.72
+1003,2016,Dubai,Rashed Hospital in Dubai,25,18,0.72
+1010,2019,Jubail,Royal Commission Medical Center in Jubail,7,5,0.71
+1017,2017,Riyadh,Prince Sultan Center for Cardiac Diseases and Surgery in Riyadh,48,34,0.71
+1019,2020,Riyadh,King Khalid University Hospital in Riyadh,119,85,0.71
+1020,2016,Jazan,General Directorate of Health Affairs in Jazan Region,93,66,0.71
+1022,2017,Riyadh,JointProgram for Pediatric Dentistry- Riyadh,21,15,0.71
+1025,2017,Manama,Bahrain Defense Force Hospital in the Kingdom of Bahrain,21,15,0.71
+1026,2019,Riyadh,Al-Iman Hospital in Riyadh,21,15,0.71
+1030,2016,Dammam,Forensic Medicine Center in Dammam,14,10,0.71
+1037,2020,Madinah,Prince Muhammad bin Abdulaziz Hospital for the National Guard in Medina,14,10,0.71
+1042,2018,Riyadh,Prince Sultan Military Medical City in Riyadh,393,279,0.71
+1045,2020,Jubail,Royal Commission Medical Center in Jubail,7,5,0.71
+1046,2019,Jeddah,JointProgram for Family Medicine in Jeddah,80,57,0.71
+1047,2020,Dhahran,King Abdulaziz Air Base Hospital in Dhahran,14,10,0.71
+1049,2017,Madinah,Medina Cardiac Center,7,5,0.71
+1050,2017,Riyadh,Pedodontics Combind Prg(Riyad),7,5,0.71
+1052,2020,Riyadh,King Faisal Specialist Hospital and Research Center in Riyadh,316,224,0.71
+1057,2019,Riyadh,King Faisal Specialist Hospital and Research Center in Riyadh,402,282,0.7
+1058,2019,Riyadh,Prince Sultan Center for Cardiac Diseases and Surgery in Riyadh,33,23,0.7
+1060,2018,Dammam,Maternity and Children Hospital in Dammam,33,23,0.7
+1063,2018,Riyadh,JointProgram for Psychiatry in Riyadh,10,7,0.7
+1064,2016,Riyadh,Dallah Hospital in Riyadh,23,16,0.7
+1065,2016,Madinah,Uhud General Hospital in Medina,23,16,0.7
+1069,2018,Al-Ahsa,King Abdulaziz Medical City of National Guard in Alahsa,86,60,0.7
+1072,2019,Dammam,King Fahd Specialist Hospital in Dammam,128,89,0.7
+1076,2019,Madinah,Prince Muhammad bin Abdulaziz Hospital for the National Guard in Medina,20,14,0.7
+1078,2017,Riyadh,King Saud Medical City in Riyadh,314,220,0.7
+1088,2018,Dhahran,King Abdulaziz Air Base Hospital in Dhahran,30,21,0.7
+1089,2016,Taif,MOH JointProgram for Family Medicine -Taif,30,21,0.7
+1093,2017,Jeddah,The program of the Ministry of Health in Jeddah,13,9,0.69
+1097,2019,Manama,Bahrain Defense Force Hospital in the Kingdom of Bahrain,13,9,0.69
+1099,2017,Riyadh,Al-Iman Hospital in Riyadh,13,9,0.69
+1101,2019,Jeddah,King Faisal Specialist Hospital and Research Center in Jeddah,105,72,0.69
+1103,2018,Dhahran,King Fahd Military Medical Complex in Dhahran,64,44,0.69
+1104,2017,Buraidah,The program of the Ministry of Health in Al-Qassim,29,20,0.69
+1110,2016,Madinah,Maternity and Children Hospital in Medina,51,35,0.69
+1111,2020,Jeddah,King Faisal Specialist Hospital and Research Center in Jeddah,83,57,0.69
+1114,2019,Riyadh,King Fahad Medical City in Riyadh,358,248,0.69
+1116,2020,Buraidah,Prince Sultan Cardiac Center in Buraidah,16,11,0.69
+1117,2016,Riyadh,King Faisal Specialist Hospital and Research Center in Riyadh,624,428,0.69
+1120,2016,Jeddah,King Fahd General Hospital in Jeddah,173,120,0.69
+1124,2017,Riyadh,King Faisal Specialist Hospital and Research Center in Riyadh,591,406,0.69
+1126,2019,Jeddah,King Abdulaziz University Hospital in Jeddah,261,180,0.69
+1129,2020,Riyadh,King Fahad Medical City in Riyadh,281,191,0.68
+1131,2020,Hofuf,King Fahad Hospital in Hofuf,25,17,0.68
+1133,2017,Jeddah,King Fahd Hospital of Armed Forces in Jeddah,154,105,0.68
+1140,2018,Buraidah,The program of the Ministry of Health in Al-Qassim,34,23,0.68
+1142,2018,Jeddah,King Faisal Specialist Hospital and Research Center in Jeddah,124,84,0.68
+1144,2017,Makkah,JointProgram for Family Medicine in Makkah,96,65,0.68
+1146,2020,Jeddah,Dr. Soliman Fakeeh Hospital in Jeddah,19,13,0.68
+1147,2016,Makkah,King Abdullah Medical City in the Holy Capital,128,87,0.68
+1148,2020,Riyadh,University Hospitals of Riyadh Alam University in Riyadh,31,21,0.68
+1149,2021,Riyadh,King Fahad Medical City in Riyadh,82,56,0.68
+1150,2019,Makkah,Maternity and Children Hospital in Mecca,28,19,0.68
+1151,2017,Madinah,Uhud General Hospital in Medina,25,17,0.68
+1156,2017,Manama,King Hamad University Hospital in Kingdom of Bahrain,34,23,0.68
+1159,2020,Madinah,JointProgram for Family Medicine in Madinah,28,19,0.68
+1161,2017,Buraidah,King Fahd Specialist Hospital in Buraidah,39,26,0.67
+1162,2020,Alqatif  ,AlQatif Central Hospital,39,26,0.67
+1163,2017,Jeddah,King Fahd General Hospital in Jeddah,183,123,0.67
+1169,2021,Abha,General Directorate of Health Affairs in Aseer Region,9,6,0.67
+1171,2018,Riyadh,Medical City of King Saud University in Riyadh,86,58,0.67
+1173,2016,Tabuk,King Salman Hospital for North West Armed Forces in Tabuk,78,52,0.67
+1177,2018,Jeddah,King Fahd General Hospital in Jeddah,147,99,0.67
+1180,2020,Riyadh,Security Forces Hospital in Riyadh,66,44,0.67
+1181,2016,Riyadh,King Saud bin Abdulaziz University for Health Sciences-Riyadh,12,8,0.67
+1190,2019,Unknown - Saudi Arabia,Family Medicine Academy in the First Health Cluster,54,36,0.67
+1192,2019,Riyadh,Prince Mohammed bin Abdulaziz Hospital in Riyadh,48,32,0.67
+1193,2016,Jeddah,King Faisal Specialist Hospital and Research Center in Jeddah,165,111,0.67
+1195,2017,Jeddah,JointProgram for Orthodontics- Jeddah,12,8,0.67
+1197,2021,Jeddah,King Fahd Hospital of Armed Forces in Jeddah,15,10,0.67
+1200,2020,Dammam,Eastern Health Cluster,6,4,0.67
+1202,2018,Madinah,Prince Muhammad bin Abdulaziz Hospital for the National Guard in Medina,21,14,0.67
+1203,2019,Hail,Dental Center in Hail,3,2,0.67
+1204,2019,Riyadh,Specialized Dental Healthcare Center in Eastern Riyadh,3,2,0.67
+1206,2021,Dammam,Dammam Medical Complex,3,2,0.67
+1210,2018,Dammam,"Joint training program in the eastern region, Dammam",6,4,0.67
+1211,2018,Riyadh,Medical Center at King Fahd Security College in Riyadh,3,2,0.67
+1214,2017,Unaizah,King Saud Hospital in Unaizah,6,4,0.67
+1215,2019,Dubai,Al Jalila Pediatric Hospital in Dubai,3,2,0.67
+1217,2018,Unaizah,King Saud Hospital in Unaizah,6,4,0.67
+1221,2017,Jeddah,Forensic Medicine center in Jeddah,15,10,0.67
+1224,2019,Madinah,Uhud General Hospital in Medina,18,12,0.67
+1226,2018,Hail,Dental Center in Hail,3,2,0.67
+1227,2018,Jeddah,King Abdullah Medical Complex in Jeddah,6,4,0.67
+1229,2020,Dammam,Eradah Mental Health Hospital in Dammam,3,2,0.67
+1231,2017,Riyadh,JointProgram for Oral Maxillofacial Surgery - Riyadh,6,4,0.67
+1233,2016,Manama,Salmaniya Medical Complex in Manama,6,4,0.67
+1236,2019,Dhahran,King Abdulaziz Air Base Hospital in Dhahran,24,16,0.67
+1243,2017,Jouf,The program of the Ministry of Health in Al-Jouf,3,2,0.67
+1249,2016,Manama,King Hamad University Hospital in Kingdom of Bahrain,30,20,0.67
+1256,2018,Jouf,The program of the Ministry of Health in Al-Jouf,3,2,0.67
+1259,2019,Riyadh,Medical Center at King Fahd Security College in Riyadh,3,2,0.67
+1260,2020,Riyadh,"Joint training program in the central region, Riyadh",30,20,0.67
+1261,2016,Riyadh,JointProgram for Oral Maxillofacial Surgery - Riyadh,3,2,0.67
+1262,2016,Riyadh,JointProgram for Ophthalmology - Central,3,2,0.67
+1263,2020,Dubai,Al Jalila Pediatric Hospital in Dubai,3,2,0.67
+1269,2018,Riyadh,King Saud Medical City in Riyadh,304,200,0.66
+1271,2017,Taif,Armed Forces Hospital in Al-Hada in Taif,137,91,0.66
+1273,2016,Khamis Mushait,King Fahd Hospital of the Armed Forces in the south,127,84,0.66
+1276,2017,Riyadh,Prince Mohammed bin Abdulaziz Hospital in Riyadh,62,41,0.66
+1278,2019,Al-Ahsa,Maternity and Children Hospital in Mubarraz,32,21,0.66
+1279,2018,Makkah,Maternity and Children Hospital in Mecca,35,23,0.66
+1281,2021,Riyadh,Prince Sultan Military Medical City in Riyadh,47,31,0.66
+1283,2021,Jeddah,King Abdulaziz Medical City for National Guard in Jeddah,53,35,0.66
+1286,2016,Al-Ahsa,Maternity and Children Hospital in Mubarraz,50,33,0.66
+1288,2016,Makkah,JointProgram for Family Medicine in Makkah,83,55,0.66
+1291,2018,Makkah,JointProgram for Family Medicine in Makkah,97,64,0.66
+1293,2017,Abha,General Directorate of Health Affairs in Aseer Region,239,156,0.65
+1294,2021,Makkah,Alnoor Specialist Hospital in Mecca,17,11,0.65
+1298,2020,Riyadh,Prince Sultan Center for Cardiac Diseases and Surgery in Riyadh,20,13,0.65
+1299,2016,Najran,General Directorate of Health Affairs in Najran Region,20,13,0.65
+1303,2017,Tabuk,King Salman Hospital for North West Armed Forces in Tabuk,91,59,0.65
+1311,2017,Jeddah,King Faisal Specialist Hospital and Research Center in Jeddah,162,106,0.65
+1312,2017,Jazan,General Directorate of Health Affairs in Jazan Region,133,87,0.65
+1313,2018,Jeddah,King Fahd Hospital of Armed Forces in Jeddah,139,90,0.65
+1318,2020,Manama,Salmaniya Medical Complex in Manama,11,7,0.64
+1320,2020,Dammam,King Fahd Specialist Hospital in Dammam,101,65,0.64
+1321,2018,Jeddah,JointProgram for Orthodontics- Jeddah,11,7,0.64
+1323,2019,Al-Ahsa,King Abdulaziz Medical City of National Guard in Alahsa,61,39,0.64
+1328,2017,Dammam,Security Forces Hospital in Dammam,14,9,0.64
+1331,2017,Riyadh,JointProgram for Periodontics- Riyadh,11,7,0.64
+1334,2017,Riyadh,JointProgram for Psychiatry in Riyadh,11,7,0.64
+1336,2018,Jeddah,Forensic Medicine center in Jeddah,11,7,0.64
+1338,2021,Riyadh,Medical City of King Saud University in Riyadh,22,14,0.64
+1342,2018,Riyadh,JointProgram for Periodontics- Riyadh,11,7,0.64
+1343,2018,Riyadh,King Faisal Specialist Hospital and Research Center in Riyadh,472,301,0.64
+1344,2019,Riyadh,Prince Sultan Military Medical City in Riyadh,307,198,0.64
+1348,2017,Makkah,Maternity and Children Hospital in Mecca,42,27,0.64
+1350,2017,Makkah,King Abdullah Medical City in the Holy Capital,152,98,0.64
+1353,2020,Riyadh,King Salman bin Abdulaziz Hospital in Riyadh,19,12,0.63
+1354,2018,Makkah,King Abdullah Medical City in the Holy Capital,138,87,0.63
+1355,2020,Riyadh,Prince Sultan Military Medical City in Riyadh,223,141,0.63
+1356,2017,Riyadh,King Salman bin Abdulaziz Hospital in Riyadh,27,17,0.63
+1364,2017,Najran,General Directorate of Health Affairs in Najran Region,19,12,0.63
+1376,2021,Riyadh,King Saud Medical City in Riyadh,37,23,0.62
+1377,2018,Taif,Armed Forces Hospital in Al-Hada in Taif,106,66,0.62
+1379,2018,Dhahran,Johns Hopkins Aramco Healthcare Center in Dhahran,16,10,0.62
+1381,2021,Jouf,The program of the Ministry of Health in Al-Jouf,8,5,0.62
+1382,2021,Madinah,Maternity and Children Hospital in Medina,8,5,0.62
+1389,2019,Jouf,The program of the Ministry of Health in Al-Jouf,8,5,0.62
+1391,2018,Riyadh,King Salman bin Abdulaziz Hospital in Riyadh,26,16,0.62
+1394,2019,Jeddah,King Fahd Hospital of Armed Forces in Jeddah,125,77,0.62
+1397,2018,Jazan,General Directorate of Health Affairs in Jazan Region,125,78,0.62
+1398,2021,Jeddah,King Abdullah Medical Complex in Jeddah,8,5,0.62
+1399,2019,Dhahran,King Fahd Military Medical Complex in Dhahran,55,34,0.62
+1402,2016,Makkah,Alnoor Specialist Hospital in Mecca,89,55,0.62
+1406,2019,Jeddah,King Fahd General Hospital in Jeddah,120,74,0.62
+1407,2017,Madinah,Maternity and Children Hospital in Medina,48,30,0.62
+1408,2019,Riyadh,"Joint training program in the central region, Riyadh",32,20,0.62
+1409,2019,Dhahran,Johns Hopkins Aramco Healthcare Center in Dhahran,18,11,0.61
+1412,2018,Dammam,Dammam Medical Complex,94,57,0.61
+1419,2019,Riyadh,King Saud Medical City in Riyadh,241,148,0.61
+1420,2018,Abha,General Directorate of Health Affairs in Aseer Region,191,117,0.61
+1421,2019,Makkah,JointProgram for Family Medicine in Makkah,74,45,0.61
+1422,2021,Riyadh,King Faisal Specialist Hospital and Research Center in Riyadh,134,82,0.61
+1426,2018,Tabuk,King Salman Hospital for North West Armed Forces in Tabuk,82,50,0.61
+1431,2017,Makkah,Alnoor Specialist Hospital in Mecca,87,53,0.61
+1434,2020,Madinah,JointProgram for Preventive Medicine in Madinah,5,3,0.6
+1437,2021,Riyadh,Prince Mohammed bin Abdulaziz Hospital in Riyadh,5,3,0.6
+1438,2021,Najran,General Directorate of Health Affairs in Najran Region,5,3,0.6
+1440,2016,Riyadh,Prince Sultan Center for Cardiac Diseases and Surgery in Riyadh,53,32,0.6
+1441,2019,Makkah,Alnoor Specialist Hospital in Mecca,62,37,0.6
+1442,2017,Taif,MOH JointProgram for Family Medicine -Taif,50,30,0.6
+1443,2019,Jeddah,The program of the Ministry of Health in Jeddah,15,9,0.6
+1445,2020,Jeddah,The program of the Ministry of Health in Jeddah,15,9,0.6
+1446,2016,Jeddah,Eradah Complex - Psychological Services in Jeddah,15,9,0.6
+1447,2018,Dammam,Security Forces Hospital in Dammam,15,9,0.6
+1449,2019,Dammam,Eradah Mental Health Hospital in Dammam,5,3,0.6
+1451,2019,Dammam,Forensic Medicine Center in Dammam,5,3,0.6
+1463,2021,Taif,Armed Forces Hospital in Al-Hada in Taif,5,3,0.6
+1468,2017,Khamis Mushait,King Fahd Hospital of the Armed Forces in the south,129,78,0.6
+1474,2016,Madinah,King Fahd Hospital in Medina,84,50,0.6
+1475,2017,Riyadh,Joint Psychiatry Program - Riyadh,10,6,0.6
+1476,2021,Khobar,King Fahd University Hospital in Khobar,10,6,0.6
+1477,2019,Riyadh,JointProgram for Psychiatry in Riyadh,10,6,0.6
+1480,2021,Madinah,King Fahd Hospital in Medina,5,3,0.6
+1482,2016,Dammam,Eradah Mental Health Hospital in Dammam,10,6,0.6
+1485,2016,Riyadh,JointProgram for Psychiatry in Riyadh,10,6,0.6
+1486,2020,Madinah,Medina Cardiac Center,10,6,0.6
+1488,2019,Jazan,General Directorate of Health Affairs in Jazan Region,96,57,0.59
+1493,2019,Dubai,Rashed Hospital in Dubai,32,19,0.59
+1494,2019,Makkah,King Abdullah Medical City in the Holy Capital,95,56,0.59
+1495,2018,Riyadh,Dallah Hospital in Riyadh,17,10,0.59
+1497,2019,Manama,Salmaniya Medical Complex in Manama,17,10,0.59
+1498,2019,Riyadh,King Salman bin Abdulaziz Hospital in Riyadh,17,10,0.59
+1499,2017,Makkah,King Faisal Hospital in Mecca,34,20,0.59
+1500,2020,Dhahran,Johns Hopkins Aramco Healthcare Center in Dhahran,17,10,0.59
+1501,2018,Makkah,Alnoor Specialist Hospital in Mecca,81,48,0.59
+1503,2017,Dhahran,Johns Hopkins Aramco Healthcare Center in Dhahran,17,10,0.59
+1504,2019,Dammam,Dammam Medical Complex,73,43,0.59
+1505,2020,Jeddah,King Fahd Hospital of Armed Forces in Jeddah,88,52,0.59
+1508,2018,Khamis Mushait,King Fahd Hospital of the Armed Forces in the south,113,66,0.58
+1511,2020,Riyadh,King Saud Medical City in Riyadh,171,100,0.58
+1512,2019,Tabuk,King Salman Hospital for North West Armed Forces in Tabuk,67,39,0.58
+1517,2019,Riyadh,JointProgram for Periodontics- Riyadh,12,7,0.58
+1518,2020,Riyadh,King Abdulaziz University Hospital in Riyadh,12,7,0.58
+1522,2016,Makkah,Maternity and Children Hospital in Mecca,43,25,0.58
+1523,2018,Makkah,King Faisal Hospital in Mecca,31,18,0.58
+1526,2020,Jubail,Armed Forces Hospital at King Abdulaziz Base in Jubail,7,4,0.57
+1527,2020,Jeddah,King Abdulaziz University Hospital in Jeddah,143,82,0.57
+1531,2016,Jeddah,East Jeddah Hospital in Jeddah,23,13,0.57
+1532,2020,Buraidah,King Fahd Specialist Hospital in Buraidah,14,8,0.57
+1533,2019,Khamis Mushait,King Fahd Hospital of the Armed Forces in the south,91,52,0.57
+1534,2016,Taif,King Faisal Medical Complex in Taif,23,13,0.57
+1539,2020,Dhahran,King Fahd Military Medical Complex in Dhahran,37,21,0.57
+1540,2018,Manama,King Hamad University Hospital in Kingdom of Bahrain,30,17,0.57
+1541,2019,Riyadh,Medical City of King Saud University in Riyadh,106,60,0.57
+1544,2017,Jeddah,Maternity and Children Hospital in Jeddah,35,20,0.57
+1545,2018,Dammam,Forensic Medicine Center in Dammam,7,4,0.57
+1546,2020,Makkah,Alnoor Specialist Hospital in Mecca,54,31,0.57
+1547,2016,Jeddah,Forensic Medicine center in Jeddah,14,8,0.57
+1550,2020,Manama,Bahrain Defense Force Hospital in the Kingdom of Bahrain,7,4,0.57
+1554,2019,Jeddah,Forensic Medicine center in Jeddah,7,4,0.57
+1557,2020,Taif,Armed Forces Hospital in Al-Hada in Taif,43,24,0.56
+1558,2017,Jeddah,Eradah Complex - Psychological Services in Jeddah,18,10,0.56
+1568,2020,Makkah,King Faisal Hospital in Mecca,16,9,0.56
+1569,2019,Manama,King Hamad University Hospital in Kingdom of Bahrain,18,10,0.56
+1570,2021,Jeddah,King Fahd General Hospital in Jeddah,16,9,0.56
+1571,2018,Riyadh,King Saud bin Abdulaziz University for Health Sciences-Riyadh,18,10,0.56
+1572,2016,Makkah,Security Forces Hospital in Mecca,18,10,0.56
+1573,2020,Jeddah,King Abdulaziz Hospital in Jeddah,36,20,0.56
+1574,2016,Jeddah,Maternity and Children Hospital in Jeddah,43,24,0.56
+1575,2019,Buraidah,The program of the Ministry of Health in Al-Qassim,25,14,0.56
+1576,2020,Madinah,Uhud General Hospital in Medina,9,5,0.56
+1578,2021,Riyadh,Specialized Dental Healthcare Center in Eastern Riyadh,9,5,0.56
+1581,2018,Taif,MOH JointProgram for Family Medicine -Taif,45,25,0.56
+1583,2016,Bisha,Directorate of Health Affairs in Bisha Governorate,9,5,0.56
+1584,2019,Riyadh,Dallah Hospital in Riyadh,9,5,0.56
+1587,2019,Jeddah,Eradah Complex - Psychological Services in Jeddah,9,5,0.56
+1591,2020,Jazan,General Directorate of Health Affairs in Jazan Region,60,33,0.55
+1594,2017,Jeddah,East Jeddah Hospital in Jeddah,40,22,0.55
+1598,2020,Riyadh,Al-Iman Hospital in Riyadh,22,12,0.55
+1599,2020,Al-Ahsa,Maternity and Children Hospital in Mubarraz,22,12,0.55
+1602,2019,Abha,General Directorate of Health Affairs in Aseer Region,138,76,0.55
+1603,2020,Jeddah,JointProgram for Family Medicine in Jeddah,42,23,0.55
+1605,2017,Madinah,King Fahd Hospital in Medina,82,45,0.55
+1607,2018,Jeddah,East Jeddah Hospital in Jeddah,42,23,0.55
+1608,2020,Najran,General Directorate of Health Affairs in Najran Region,11,6,0.55
+1610,2020,Buraidah,The program of the Ministry of Health in Al-Qassim,20,11,0.55
+1612,2020,Riyadh,Specialized Dental Healthcare Center in Eastern Riyadh,11,6,0.55
+1614,2018,Buraidah,King Fahd Specialist Hospital in Buraidah,33,18,0.55
+1616,2020,Unknown - Saudi Arabia,Family Medicine Academy in the First Health Cluster,35,19,0.54
+1618,2018,Jeddah,Eradah Complex - Psychological Services in Jeddah,13,7,0.54
+1620,2016,Riyadh,JointProgram for Forensic Medicine-Riyadh,13,7,0.54
+1622,2016,Jeddah,JointProgram for Orthodontics- Jeddah,13,7,0.54
+1624,2019,Jeddah,King Abdulaziz Hospital in Jeddah,57,31,0.54
+1629,2017,Taif,King Faisal Medical Complex in Taif,28,15,0.54
+1631,2020,Jeddah,East Jeddah Hospital in Jeddah,28,15,0.54
+1632,2020,Makkah,King Abdullah Medical City in the Holy Capital,70,37,0.53
+1635,2020,Dammam,Dammam Medical Complex,43,23,0.53
+1636,2017,Jeddah,King Abdulaziz Hospital in Jeddah,85,45,0.53
+1637,2019,Riyadh,King Saud bin Abdulaziz University for Health Sciences-Riyadh,15,8,0.53
+1638,2019,Taif,Armed Forces Hospital in Al-Hada in Taif,89,47,0.53
+1640,2018,Madinah,King Fahd Hospital in Medina,77,41,0.53
+1642,2020,Jeddah,King Fahd General Hospital in Jeddah,81,43,0.53
+1648,2020,Riyadh,Prince Mohammed bin Abdulaziz Hospital in Riyadh,32,17,0.53
+1649,2020,Al-Ahsa,King Abdulaziz Medical City of National Guard in Alahsa,32,17,0.53
+1651,2021,Dammam,King Fahd Specialist Hospital in Dammam,30,16,0.53
+1653,2018,Jeddah,King Abdulaziz Hospital in Jeddah,78,41,0.53
+1654,2016,Jeddah,King Abdulaziz Hospital in Jeddah,78,41,0.53
+1655,2021,Riyadh,King Khalid University Hospital in Riyadh,34,18,0.53
+1666,2020,Khamis Mushait,King Fahd Hospital of the Armed Forces in the south,60,31,0.52
+1674,2019,Jeddah,East Jeddah Hospital in Jeddah,41,21,0.51
+1675,2019,Madinah,King Fahd Hospital in Medina,65,33,0.51
+1676,2016,Albahah,General Directorate of Health Affairs in Al-Baha Region,51,26,0.51
+1677,2018,Madinah,Maternity and Children Hospital in Medina,39,20,0.51
+1689,2017,Hail,Family Medicine Postgraduate Program in Hail,12,6,0.5
+1691,2020,Alkharj  ,The program of the Ministry of Health in Al-Kharj,4,2,0.5
+1692,2016,Riyadh,King Abdulaziz University Hospital in Riyadh,4,2,0.5
+1693,2018,Madinah,Uhud General Hospital in Medina,30,15,0.5
+1694,2020,Jeddah,Forensic Medicine center in Jeddah,4,2,0.5
+1700,2021,Riyadh,Security Forces Hospital in Riyadh,18,9,0.5
+1702,2019,Hail,Family Medicine Postgraduate Program in Hail,12,6,0.5
+1706,2021,Makkah,Hera General Hospital in Mecca,4,2,0.5
+1716,2016,Taif,King Abdulaziz Specialist Hospital in Taif,26,13,0.5
+1717,2019,Dammam,JointProgram for Prosthodontics - Dammam,2,1,0.5
+1718,2020,Madinah,King Fahd Hospital in Medina,42,21,0.5
+1721,2017,Dammam,Forensic Medicine Center in Dammam,10,5,0.5
+1722,2018,Riyadh,King Abdulaziz University Hospital in Riyadh,10,5,0.5
+1724,2018,Dammam,Eastern Health Cluster,6,3,0.5
+1728,2016,Taif,Pediatric Hospital in Taif,10,5,0.5
+1731,2020,Riyadh,University Dental Hospital at King Saud University in Riyadh,6,3,0.5
+1732,2016,Hail,Dental Center in Hail,2,1,0.5
+1734,2020,Makkah,Maternity and Children Hospital in Mecca,22,11,0.5
+1736,2017,Riyadh,King Abdulaziz University Hospital in Riyadh,6,3,0.5
+1737,2018,Hail,Family Medicine Postgraduate Program in Hail,12,6,0.5
+1742,2019,Arar,Prince Abdullah bin Abdulaziz bin Musaed Dental Center in Arar,2,1,0.5
+1744,2020,Riyadh,JointProgram for Psychiatry in Riyadh,2,1,0.5
+1745,2017,Dammam,Eastern Health Cluster,6,3,0.5
+1746,2017,Manama,Salmaniya Medical Complex in Manama,20,10,0.5
+1747,2016,Riyadh,Joint Family Medicine Program - Riyadh,2,1,0.5
+1748,2019,Makkah,King Abdulaziz Hospital in Mecca,32,16,0.5
+1749,2017,Arar,MOH JointProgram for Family Medicine -Arar,4,2,0.5
+1752,2018,Dammam,JointProgram for Prosthodontics - Dammam,2,1,0.5
+1753,2020,Jeddah,Maternity and Children Hospital in Jeddah,8,4,0.5
+1754,2020,Taif,"Joint training program in the Western Region, Taif",2,1,0.5
+1755,2018,Arar,MOH JointProgram for Family Medicine -Arar,4,2,0.5
+1756,2017,Riyadh,King Saud bin Abdulaziz University for Health Sciences-Riyadh,18,9,0.5
+1761,2021,Hail,King Khalid Hospital in Hail,2,1,0.5
+1765,2020,Dammam,Maternity and Children Hospital in Dammam,18,9,0.5
+1771,2019,Unaizah,King Saud Hospital in Unaizah,8,4,0.5
+1774,2018,Riyadh,"Joint training program in the central region, Riyadh",8,4,0.5
+1778,2020,Riyadh,Medical Center at King Fahd Security College in Riyadh,2,1,0.5
+1780,2016,Arar,MOH JointProgram for Family Medicine -Arar,8,4,0.5
+1783,2017,Dammam,JointProgram for Prosthodontics - Dammam,2,1,0.5
+1784,2020,Tabuk,The program of the Ministry of Health in Tabuk,2,1,0.5
+1785,2017,Riyadh,Medical Center at King Fahd Security College in Riyadh,2,1,0.5
+1786,2018,Arar,Prince Abdullah bin Abdulaziz bin Musaed Dental Center in Arar,2,1,0.5
+1790,2021,Buraidah,King Fahd Specialist Hospital in Buraidah,4,2,0.5
+1791,2021,Tabuk,The program of the Ministry of Health in Tabuk,2,1,0.5
+1797,2020,Dammam,Forensic Medicine Center in Dammam,2,1,0.5
+1798,2019,Taif,MOH JointProgram for Family Medicine -Taif,35,17,0.49
+1799,2020,Riyadh,Medical City of King Saud University in Riyadh,76,37,0.49
+1804,2018,Makkah,Security Forces Hospital in Mecca,27,13,0.48
+1805,2018,Manama,Salmaniya Medical Complex in Manama,21,10,0.48
+1807,2020,Tabuk,King Salman Hospital for North West Armed Forces in Tabuk,48,23,0.48
+1808,2018,Taif,King Faisal Medical Complex in Taif,23,11,0.48
+1810,2016,Makkah,Hera General Hospital in Mecca,31,15,0.48
+1817,2020,Abha,General Directorate of Health Affairs in Aseer Region,77,36,0.47
+1819,2019,Makkah,King Faisal Hospital in Mecca,30,14,0.47
+1821,2016,Riyadh,AlYamamah Hospital in Riyadh,28,13,0.46
+1823,2017,Makkah,Security Forces Hospital in Mecca,28,13,0.46
+1824,2018,Makkah,King Abdulaziz Hospital in Mecca,39,18,0.46
+1825,2017,Dammam,Eradah Mental Health Hospital in Dammam,13,6,0.46
+1826,2016,Makkah,King Faisal Hospital in Mecca,24,11,0.46
+1827,2019,Makkah,Security Forces Hospital in Mecca,24,11,0.46
+1828,2019,Makkah,Hera General Hospital in Mecca,26,12,0.46
+1831,2016,Yanbu,Royal Commission Medical Center in Yanbu,13,6,0.46
+1837,2019,Yanbu,Royal Commission Medical Center in Yanbu,22,10,0.45
+1840,2019,Madinah,Maternity and Children Hospital in Medina,29,13,0.45
+1841,2021,Makkah,King Abdullah Medical City in the Holy Capital,22,10,0.45
+1843,2021,Riyadh,King Abdulaziz University Hospital in Riyadh,9,4,0.44
+1844,2017,Taif,King Abdulaziz Specialist Hospital in Taif,27,12,0.44
+1846,2018,Riyadh,JointProgram for Forensic Medicine-Riyadh,9,4,0.44
+1852,2017,Taif,Pediatric Hospital in Taif,18,8,0.44
+1854,2021,Riyadh,Joint Training Program in the Central Region,9,4,0.44
+1855,2016,Buraidah,Maternity and Pediatric Hospital in Buraidah,32,14,0.44
+1857,2019,Taif,King Abdulaziz Specialist Hospital in Taif,18,8,0.44
+1858,2017,Makkah,King Abdulaziz Hospital in Mecca,39,17,0.44
+1859,2017,Makkah,Hera General Hospital in Mecca,32,14,0.44
+1861,2019,Jeddah,Maternity and Children Hospital in Jeddah,9,4,0.44
+1863,2017,Buraidah,Maternity and Pediatric Hospital in Buraidah,23,10,0.43
+1864,2019,Riyadh,JointProgram for Forensic Medicine-Riyadh,7,3,0.43
+1867,2020,Makkah,Hera General Hospital in Mecca,23,10,0.43
+1870,2021,Dhahran,King Fahd Military Medical Complex in Dhahran,7,3,0.43
+1871,2016,Arar,The program of the Ministry of Health in Arar,14,6,0.43
+1874,2017,Riyadh,JointProgram for Forensic Medicine-Riyadh,14,6,0.43
+1876,2018,Yanbu,Royal Commission Medical Center in Yanbu,21,9,0.43
+1878,2018,Makkah,Hera General Hospital in Mecca,28,12,0.43
+1880,2018,Jeddah,Maternity and Children Hospital in Jeddah,21,9,0.43
+1883,2019,Dammam,Security Forces Hospital in Dammam,12,5,0.42
+1885,2018,Najran,General Directorate of Health Affairs in Najran Region,24,10,0.42
+1887,2017,Albahah,General Directorate of Health Affairs in Al-Baha Region,48,20,0.42
+1889,2020,Makkah,JointProgram for Family Medicine in Makkah,40,17,0.42
+1899,2017,Yanbu,Royal Commission Medical Center in Yanbu,17,7,0.41
+1901,2016,Makkah,King Abdulaziz Hospital in Mecca,29,12,0.41
+1904,2020,Madinah,Maternity and Children Hospital in Medina,25,10,0.4
+1906,2019,Najran,General Directorate of Health Affairs in Najran Region,25,10,0.4
+1909,2020,Taif,MOH JointProgram for Family Medicine -Taif,25,10,0.4
+1910,2016,Dammam,Eastern Health Cluster,5,2,0.4
+1912,2020,Hail,Family Medicine Postgraduate Program in Hail,10,4,0.4
+1913,2021,Riyadh,Comprehensive Specialized Clinics West of Riyadh,5,2,0.4
+1918,2020,Riyadh,Comprehensive Specialized Clinics West of Riyadh,5,2,0.4
+1919,2021,Taif,King Abdulaziz Specialist Hospital in Taif,5,2,0.4
+1923,2020,Riyadh,Joint Training Program in the Central Region,10,4,0.4
+1924,2020,Makkah,King Abdulaziz Hospital in Mecca,20,8,0.4
+1925,2016,Hafr Albatin,Armed Forces Hospital in the North in Hafar Albatin,5,2,0.4
+1928,2016,Hail,King Khalid Hospital in Hail,10,4,0.4
+1929,2018,Taif,King Abdulaziz Specialist Hospital in Taif,23,9,0.39
+1931,2019,Albahah,General Directorate of Health Affairs in Al-Baha Region,33,13,0.39
+1936,2018,Albahah,General Directorate of Health Affairs in Al-Baha Region,44,17,0.39
+1941,2020,Yanbu,Royal Commission Medical Center in Yanbu,13,5,0.38
+1944,2017,Bisha,Directorate of Health Affairs in Bisha Governorate,13,5,0.38
+1946,2018,Dammam,Eradah Mental Health Hospital in Dammam,8,3,0.38
+1948,2020,Dubai,Rashed Hospital in Dubai,24,9,0.38
+1949,2018,Jeddah,Azizia Maternity and Pediatric Hospital in Jeddah,24,9,0.38
+1953,2020,Hail,Dental Center in Hail,8,3,0.38
+1954,2021,Jeddah,King Abdulaziz University Hospital in Jeddah,26,10,0.38
+1962,2019,Taif,King Faisal Medical Complex in Taif,25,9,0.36
+1963,2017,Hail,King Khalid Hospital in Hail,11,4,0.36
+1968,2017,Riyadh,AlYamamah Hospital in Riyadh,28,10,0.36
+1972,2020,Manama,King Hamad University Hospital in Kingdom of Bahrain,14,5,0.36
+1973,2019,Jeddah,Azizia Maternity and Pediatric Hospital in Jeddah,22,8,0.36
+1974,2019,Hail,King Khalid Hospital in Hail,14,5,0.36
+1976,2016,Jeddah,Azizia Maternity and Pediatric Hospital in Jeddah,20,7,0.35
+1979,2020,Riyadh,Dental complex in north of Riyadh,6,2,0.33
+1980,2017,Unknown - Saudi Arabia,The joint program in the Central and Eastern region,3,1,0.33
+1982,2020,Hail,King Khalid Hospital in Hail,9,3,0.33
+1983,2020,Taif,Pediatric Hospital in Taif,9,3,0.33
+1984,2020,Riyadh,Dental Healthcare Center in West Riyadh,6,2,0.33
+1985,2020,Makkah,Security Forces Hospital in Mecca,15,5,0.33
+1987,2020,Taif,King Abdulaziz Specialist Hospital in Taif,15,5,0.33
+1988,2020,Jazan,University Medical Center in Jazan University,3,1,0.33
+1989,2021,Riyadh,Dental complex in north of Riyadh,6,2,0.33
+1990,2021,Alkharj  ,The program of the Ministry of Health in Al-Kharj,6,2,0.33
+1991,2021,Riyadh,Al-Iman Hospital in Riyadh,6,2,0.33
+1995,2017,Al-Ahsa,Almousa Specialist Hospital in Alahsa,3,1,0.33
+2001,2019,Dhahran,Eye Specialist Hospital in Dhahran,6,2,0.33
+2002,2019,Taif,"Joint training program in the Western Region, Taif",3,1,0.33
+2003,2019,Dammam,Eastern Health Cluster,3,1,0.33
+2006,2018,Unknown - Saudi Arabia,The joint program in the Central and Eastern region,3,1,0.33
+2007,2018,Jazan,University Medical Center in Jazan University,3,1,0.33
+2008,2019,Al-Ahsa,Almousa Specialist Hospital in Alahsa,3,1,0.33
+2012,2020,Al-Ahsa,Almousa Specialist Hospital in Alahsa,3,1,0.33
+2021,2018,Buraidah,Maternity and Pediatric Hospital in Buraidah,21,7,0.33
+2022,2020,Hafr Albatin,Armed Forces Hospital in the North in Hafar Albatin,3,1,0.33
+2023,2021,Riyadh,Dental Healthcare Center in West Riyadh,6,2,0.33
+2024,2017,Taif,"Joint training program in the Western Region, Taif",3,1,0.33
+2025,2019,Jazan,University Medical Center in Jazan University,3,1,0.33
+2027,2020,Jeddah,Eradah Complex - Psychological Services in Jeddah,6,2,0.33
+2030,2019,Buraidah,Maternity and Pediatric Hospital in Buraidah,19,6,0.32
+2031,2017,Jeddah,Azizia Maternity and Pediatric Hospital in Jeddah,25,8,0.32
+2036,2019,Jeddah,King Abdullah Medical Complex in Jeddah,13,4,0.31
+2044,2020,Yanbu,The program of the Ministry of Health Yanbu,7,2,0.29
+2045,2017,Yanbu,The program of the Ministry of Health Yanbu,7,2,0.29
+2048,2020,Riyadh,Dallah Hospital in Riyadh,7,2,0.29
+2050,2020,Unaizah,King Saud Hospital in Unaizah,7,2,0.29
+2052,2020,Riyadh,JointProgram for Periodontics- Riyadh,7,2,0.29
+2053,2018,Taif,Pediatric Hospital in Taif,14,4,0.29
+2056,2019,Yanbu,The program of the Ministry of Health Yanbu,7,2,0.29
+2057,2018,Yanbu,The program of the Ministry of Health Yanbu,7,2,0.29
+2064,2018,Riyadh,AlYamamah Hospital in Riyadh,25,7,0.28
+2066,2020,Taif,King Faisal Medical Complex in Taif,15,4,0.27
+2068,2020,Riyadh,AlYamamah Hospital in Riyadh,15,4,0.27
+2069,2018,Bisha,Directorate of Health Affairs in Bisha Governorate,11,3,0.27
+2070,2020,Riyadh,Prince Abdulrahman bin Abdulaziz Institute for Graduate Studies in Dentistry in Riyadh,15,4,0.27
+2072,2020,Albahah,General Directorate of Health Affairs in Al-Baha Region,19,5,0.26
+2074,2019,Arar,The program of the Ministry of Health in Arar,28,7,0.25
+2075,2017,Alkharj  ,The General Organization for Military Industries Hospital in Alkharj,4,1,0.25
+2077,2018,Dhahran,Eye Specialist Hospital in Dhahran,8,2,0.25
+2079,2018,Taif,"Joint training program in the Western Region, Taif",4,1,0.25
+2080,2021,Taif,Specislized Dental Center in Taif,4,1,0.25
+2081,2018,Jouf,Muktt 5 primary health care center in Aljowf,4,1,0.25
+2082,2019,Jouf,Muktt 5 primary health care center in Aljowf,4,1,0.25
+2083,2017,Arar,The program of the Ministry of Health in Arar,28,7,0.25
+2084,2019,Hafr Albatin,Armed Forces Hospital in the North in Hafar Albatin,4,1,0.25
+2085,2021,Makkah,Maternity and Children Hospital in Mecca,4,1,0.25
+2087,2018,Arar,The program of the Ministry of Health in Arar,28,7,0.25
+2088,2021,Jazan,General Directorate of Health Affairs in Jazan Region,8,2,0.25
+2090,2020,Jeddah,Azizia Maternity and Pediatric Hospital in Jeddah,8,2,0.25
+2092,2021,Unknown - Saudi Arabia,The joint program in the Central and Eastern region,4,1,0.25
+2098,2016,Alkharj  ,The General Organization for Military Industries Hospital in Alkharj,4,1,0.25
+2100,2020,Unknown - Saudi Arabia,The joint program in the Central and Eastern region,4,1,0.25
+2101,2018,Al-Ahsa,Almousa Specialist Hospital in Alahsa,4,1,0.25
+2103,2020,Taif,Specislized Dental Center in Taif,4,1,0.25
+2105,2021,Al-Ahsa,Al Ahsa Specialized Dental Center,4,1,0.25
+2107,2020,Buraidah,Maternity and Pediatric Hospital in Buraidah,12,3,0.25
+2110,2019,Taif,Pediatric Hospital in Taif,12,3,0.25
+2113,2016,Unknown - Saudi Arabia,The joint program in the Central and Eastern region,4,1,0.25
+2114,2020,Jouf,Muktt 5 primary health care center in Aljowf,4,1,0.25
+2117,2017,Jouf,Muktt 5 primary health care center in Aljowf,4,1,0.25
+2120,2018,Hail,King Khalid Hospital in Hail,17,4,0.24
+2122,2019,Riyadh,AlYamamah Hospital in Riyadh,22,5,0.23
+2126,2017,Dhahran,Eye Specialist Hospital in Dhahran,9,2,0.22
+2132,2021,Jeddah,King Abdulaziz Hospital in Jeddah,5,1,0.2
+2134,2018,Hafr Albatin,Armed Forces Hospital in the North in Hafar Albatin,5,1,0.2
+2135,2020,Dhahran,Eye Specialist Hospital in Dhahran,5,1,0.2
+2138,2017,Hafr Albatin,Armed Forces Hospital in the North in Hafar Albatin,5,1,0.2
+2141,2021,Jeddah,Dr. Soliman Fakeeh Hospital in Jeddah,5,1,0.2
+2142,2021,Hail,Dental Center in Hail,5,1,0.2
+2143,2019,Bisha,Directorate of Health Affairs in Bisha Governorate,10,2,0.2
+2144,2020,Riyadh,JointProgram for Forensic Medicine-Riyadh,5,1,0.2
+2151,2020,Al-Ahsa,Al Ahsa Specialized Dental Center,6,1,0.17
+2161,2018,Riyadh,Prince Abdulrahman bin Abdulaziz Institute for Graduate Studies in Dentistry in Riyadh,22,3,0.14
+2162,2020,Dammam,Security Forces Hospital in Dammam,7,1,0.14
+2163,2016,Dhahran,Eye Specialist Hospital in Dhahran,7,1,0.14
+2164,2020,Arar,The program of the Ministry of Health in Arar,21,3,0.14
+2168,2019,Riyadh,Prince Abdulrahman bin Abdulaziz Institute for Graduate Studies in Dentistry in Riyadh,23,3,0.13
+2180,2017,Riyadh,King Khalid Eye Specialist Hospital in Riyadh,69,3,0.04
+2182,2016,Riyadh,King Khalid Eye Specialist Hospital in Riyadh,68,3,0.04
+2187,2018,Riyadh,Riyadh Second Health Cluster,1,0,0.0
+2194,2018,Riyadh,The program of the Ministry of Health in Riyadh,1,0,0.0
+2197,2018,Riyadh,Riyadh First Health Cluster,1,0,0.0
+2198,2016,Jeddah,Dr. Erfan and Bagedo General Hospital in Jeddah,1,0,0.0
+2200,2018,Riyadh,National CARE Hospital in Riyadh,1,0,0.0
+2201,2018,Riyadh,JointProgram for Ophthalmology - Central,1,0,0.0
+2202,2016,Arar,Arar Health Center of the National Guard in Arar,1,0,0.0
+2203,2018,Riyadh,Eradah Mental Health Complex in Riyadh,1,0,0.0
+2208,2018,Riyadh,Completed Family Medicine Program at the Ministry of Defense in Riyadh,1,0,0.0
+2210,2018,Najran,King Khaled Hospital in Najran,1,0,0.0
+2225,2016,Riyadh,Prince Abdulrahman bin Abdulaziz Institute for Graduate Studies in Dentistry in Riyadh,9,0,0.0
+2248,2019,Taif,Rehabilitation Healthcare Center for Armed Forces in Taif,7,0,0.0
+2250,2019,Al-Ahsa,"Joint training program in the eastern region, Al-Ahsa",1,0,0.0
+2253,2017,Riyadh,The program of the Ministry of Health in Riyadh,1,0,0.0
+2254,2017,Unknown,Without Center,1,0,0.0
+2255,2021,Tabuk,King Salman Hospital for North West Armed Forces in Tabuk,8,0,0.0
+2257,2019,Alrass,Al-Rass General Hospital,1,0,0.0
+2258,2016,Riyadh,Riyadh Second Health Cluster,1,0,0.0
+2259,2019,Jeddah,Dr. Erfan and Bagedo General Hospital in Jeddah,1,0,0.0
+2261,2017,Jeddah,Dr. Erfan and Bagedo General Hospital in Jeddah,1,0,0.0
+2262,2017,Hail,Dental Center in Hail,1,0,0.0
+2263,2019,Madinah,College of Dentistry Taibah University in Medina,1,0,0.0
+2264,2017,Makkah,"Joint training program in the Western Region, Makkah",1,0,0.0
+2265,2017,Najran,King Khaled Hospital in Najran,1,0,0.0
+2266,2017,Riyadh,JointProgram for Ophthalmology - Central,1,0,0.0
+2269,2017,Riyadh,National CARE Hospital in Riyadh,1,0,0.0
+2270,2016,Unknown - Saudi Arabia,Joint training program in the Western Region,1,0,0.0
+2271,2017,Riyadh,Riyadh First Health Cluster,1,0,0.0
+2272,2016,Taif,The program of the Ministry of Health in Taif ,1,0,0.0
+2274,2017,Riyadh,Specialized Medical Center Hospital in Riyadh,1,0,0.0
+2275,2017,Buraidah,Eradah Mental Health Hospital in Buraidah,1,0,0.0
+2276,2016,Taif,"Joint training program in the Western Region, Taif",1,0,0.0
+2277,2017,Abha,JointProgram for Family Medicine in Abha,1,0,0.0
+2279,2016,Riyadh,The program of the Ministry of Health in Riyadh,1,0,0.0
+2280,2016,Makkah,Orthodontics Combined Jeddah,1,0,0.0
+2281,2016,Riyadh,Specialized Medical Center Hospital in Riyadh,1,0,0.0
+2286,2018,Madinah,College of Dentistry Taibah University in Medina,1,0,0.0
+2292,2018,Jeddah,Dr. Erfan and Bagedo General Hospital in Jeddah,1,0,0.0
+2293,2018,Abha,JointProgram for Family Medicine in Abha,1,0,0.0
+2296,2019,Abha,JointProgram for Family Medicine in Abha,1,0,0.0
+2300,2019,Riyadh,Eradah Mental Health Complex in Riyadh,1,0,0.0
+2301,2019,Madinah,Forensic Medicine Center in Medina,1,0,0.0
+2304,2019,Riyadh,Completed Family Medicine Program at the Ministry of Defense in Riyadh,1,0,0.0
+2306,2019,Najran,King Khaled Hospital in Najran,1,0,0.0
+2308,2019,Madinah,Joint Family Medicine Program - Medina,1,0,0.0
+2313,2018,Riyadh,King Khalid Eye Specialist Hospital in Riyadh,65,0,0.0
+2316,2017,Riyadh,Riyadh Second Health Cluster,1,0,0.0
+2317,2021,Jubail,Royal Commission Medical Center in Jubail,1,0,0.0
+2320,2017,Makkah,The program of the Ministry of Health in Makkah Al-Mukarramah,2,0,0.0
+2325,2018,Riyadh,Joint Psychiatry Program - Riyadh,4,0,0.0
+2329,2018,Makkah,The program of the Ministry of Health in Makkah Al-Mukarramah,2,0,0.0
+2331,2021,Albahah,General Directorate of Health Affairs in Al-Baha Region,4,0,0.0
+2333,2018,Alkharj  ,The General Organization for Military Industries Hospital in Alkharj,4,0,0.0
+2334,2018,Buraidah,Eradah Mental Health Hospital in Buraidah,2,0,0.0
+2341,2021,Taif,King Faisal Medical Complex in Taif,2,0,0.0
+2344,2019,Sakaka,King Abdulaziz Specialist Hospital in Aljowf,5,0,0.0
+2347,2021,Makkah,King Faisal Hospital in Mecca,1,0,0.0
+2348,2020,Madinah,College of Dentistry Taibah University in Medina,1,0,0.0
+2349,2022,Jeddah,King Faisal Specialist Hospital and Research Center in Jeddah,1,0,0.0
+2350,2020,Unknown - Saudi Arabia,Johns Hopkins Aramco Healthcare for Family Medicine,1,0,0.0
+2351,2022,Riyadh,Riyadh Second Health Cluster,1,0,0.0
+2353,2021,Dammam,Security Forces Hospital in Dammam,2,0,0.0
+2354,2020,Taif,Rehabilitation Healthcare Center for Armed Forces in Taif,5,0,0.0
+2360,2020,Arar,Prince Abdullah bin Abdulaziz bin Musaed Dental Center in Arar,5,0,0.0
+2361,2018,Al-Ahsa,Al Ahsa Specialized Dental Center,2,0,0.0
+2363,2021,Jeddah,East Jeddah Hospital in Jeddah,2,0,0.0
+2367,2020,Unknown,Unknown,2,0,0.0
+2368,2022,Makkah,King Abdullah Medical City in the Holy Capital,2,0,0.0
+2369,2022,Makkah,Alnoor Specialist Hospital in Mecca,2,0,0.0
+2370,2021,Madinah,General Directorate of Health Affairs in Madinah,2,0,0.0
+2371,2021,Arar,Prince Abdullah bin Abdulaziz bin Musaed Dental Center in Arar,4,0,0.0
+2375,2022,Riyadh,King Salman bin Abdulaziz Hospital in Riyadh,2,0,0.0
+2378,2020,Makkah,The program of the Ministry of Health in Makkah Al-Mukarramah,2,0,0.0
+2384,2019,Alkharj  ,The General Organization for Military Industries Hospital in Alkharj,3,0,0.0
+2385,2016,Madinah,Joint Training Program in the Western Region - Medina,2,0,0.0
+2386,2021,Unknown,Unknown,2,0,0.0
+2389,2021,Manama,Salmaniya Medical Complex in Manama,3,0,0.0
+2391,2021,Riyadh,King Khalid Eye Specialist Hospital in Riyadh,24,0,0.0
+2393,2016,Taif,Rehabilitation Healthcare Center for Armed Forces in Taif,3,0,0.0
+2396,2022,Alkharj  ,The program of the Ministry of Health in Al-Kharj,3,0,0.0
+2397,2021,Yanbu,Royal Commission Medical Center in Yanbu,2,0,0.0
+2398,2019,Al-Ahsa,Al Ahsa Specialized Dental Center,2,0,0.0
+2399,2021,Dhahran,Eye Specialist Hospital in Dhahran,4,0,0.0
+2401,2021,Unknown - Saudi Arabia,Family Medicine Academy in the First Health Cluster,2,0,0.0
+2403,2021,Jeddah,The program of the Ministry of Health in Jeddah,2,0,0.0
+2405,2016,Makkah,The program of the Ministry of Health in Makkah Al-Mukarramah,2,0,0.0
+2407,2019,Makkah,The program of the Ministry of Health in Makkah Al-Mukarramah,2,0,0.0
+2409,2019,Riyadh,Joint Psychiatry Program - Riyadh,4,0,0.0
+2410,2021,Makkah,Security Forces Hospital in Mecca,2,0,0.0
+2413,2016,Jouf,Muktt 5 primary health care center in Aljowf,2,0,0.0
+2421,2019,Buraidah,Eradah Mental Health Hospital in Buraidah,2,0,0.0
+2424,2020,Unknown - Saudi Arabia,Joint Psychiatry Program - Dammam,1,0,0.0
+2425,2021,Riyadh,University Hospitals of Riyadh Alam University in Riyadh,1,0,0.0
+2426,2021,Manama,Bahrain Defense Force Hospital in the Kingdom of Bahrain,1,0,0.0
+2428,2019,Riyadh,Riyadh First Health Cluster,1,0,0.0
+2432,2021,Dubai,Rashed Hospital in Dubai,6,0,0.0
+2440,2020,Riyadh,Joint Psychiatry Program - Riyadh,6,0,0.0
+2450,2019,Riyadh,The program of the Ministry of Health in Riyadh,1,0,0.0
+2453,2020,Unknown - Saudi Arabia,Joint training program in the Western Region,1,0,0.0
+2455,2017,Taif,Rehabilitation Healthcare Center for Armed Forces in Taif,7,0,0.0
+2464,2017,Riyadh,Prince Abdulrahman bin Abdulaziz Institute for Graduate Studies in Dentistry in Riyadh,14,0,0.0
+2467,2018,Taif,Rehabilitation Healthcare Center for Armed Forces in Taif,7,0,0.0
+2471,2019,Riyadh,King Khalid Eye Specialist Hospital in Riyadh,51,0,0.0
+2474,2020,Bisha,Directorate of Health Affairs in Bisha Governorate,6,0,0.0
+2476,2020,Riyadh,King Khalid Eye Specialist Hospital in Riyadh,49,0,0.0
+2479,2021,Bisha,Directorate of Health Affairs in Bisha Governorate,1,0,0.0
+2480,2020,Buraidah,Eradah Mental Health Hospital in Buraidah,1,0,0.0
+2481,2021,Madinah,Forensic Medicine Center in Medina,1,0,0.0
+2482,2021,Riyadh,Riyadh Second Health Cluster,1,0,0.0
+2483,2021,Alqatif  ,AlQatif Central Hospital,5,0,0.0
+2484,2021,Dubai,Al Jalila Pediatric Hospital in Dubai,1,0,0.0
+2485,2020,Alrass,Al-Rass General Hospital,1,0,0.0
+2486,2020,Riyadh,Completed Family Medicine Program at the Ministry of Defense in Riyadh,1,0,0.0
+2487,2021,Dhahran,King Abdulaziz Air Base Hospital in Dhahran,1,0,0.0
+2488,2020,Riyadh,JointProgram for Prosthodontics in Riyadh,1,0,0.0
+2489,2021,Taif,MOH JointProgram for Family Medicine -Taif,1,0,0.0
+2490,2021,Riyadh,Dallah Hospital in Riyadh,1,0,0.0
+2491,2022,Riyadh,Dr. Sulaiman AlHabib Medical Group in Riyadh,1,0,0.0
+2492,2021,Makkah,King Abdulaziz Hospital in Mecca,1,0,0.0
+2493,2021,Jeddah,Eradah Complex - Psychological Services in Jeddah,1,0,0.0
+2494,2021,Riyadh,Eradah Mental Health Complex in Riyadh,1,0,0.0
+2495,2021,Makkah,The program of the Ministry of Health in Makkah Al-Mukarramah,1,0,0.0
+2496,2020,Madinah,Forensic Medicine Center in Medina,1,0,0.0
+2497,2021,Al-Ahsa,Almousa Specialist Hospital in Alahsa,1,0,0.0
+2498,2022,Riyadh,Riyadh First Health Cluster,1,0,0.0
+2499,2020,Madinah,Joint Family Medicine Program - Medina,1,0,0.0
+2500,2021,Manama,King Hamad University Hospital in Kingdom of Bahrain,1,0,0.0
+2501,2021,Al-Ahsa,King Abdulaziz Medical City of National Guard in Alahsa,1,0,0.0
+2502,2022,Jeddah,King Abdulaziz Medical City for National Guard in Jeddah,1,0,0.0
+2503,2022,Jeddah,King Fahd General Hospital in Jeddah,1,0,0.0
+2504,2021,Alkharj  ,The General Organization for Military Industries Hospital in Alkharj,1,0,0.0
+2505,2020,Jeddah,Dr. Erfan and Bagedo General Hospital in Jeddah,1,0,0.0
+2506,2022,Alquriyat,The program of the Ministry of Health in Al-Qurayyat,1,0,0.0
+2507,2022,Riyadh,King Faisal Specialist Hospital and Research Center in Riyadh,1,0,0.0
+2508,2021,Arar,The program of the Ministry of Health in Arar,1,0,0.0
+2509,2022,Riyadh,Al-Iman Hospital in Riyadh,1,0,0.0
+2510,2021,Madinah,Joint Family Medicine Program - Medina,1,0,0.0
+2511,2022,Arar,The program of the Ministry of Health in Arar,1,0,0.0
+2512,2021,Riyadh,Completed Family Medicine Program at the Ministry of Defense in Riyadh,1,0,0.0
+2513,2020,Riyadh,Riyadh Care Hospital,1,0,0.0
+2514,2022,Riyadh,Medical City of King Saud University in Riyadh,1,0,0.0
+2515,2020,Riyadh,Riyadh First Health Cluster,1,0,0.0
+2516,2021,Riyadh,Riyadh Care Hospital,1,0,0.0
+2517,2021,Riyadh,King Abdullah bin Abdulaziz University Hospital at Princess Nora Bint Abdulrahmsn University in Riyadh,1,0,0.0
+2518,2022,Riyadh,Prince Sultan Military Medical City in Riyadh,1,0,0.0
+2519,2022,Dammam,Eastern Health Cluster,1,0,0.0
+2520,2021,Hofuf,King Fahad Hospital in Hofuf,1,0,0.0
+2521,2022,Madinah,King Fahd Hospital in Medina,1,0,0.0
+2522,2021,Madinah,Uhud General Hospital in Medina,1,0,0.0
+2523,2021,Alquriyat,The program of the Ministry of Health in Al-Qurayyat,1,0,0.0
+2524,2021,Makkah,General Directorate of Health Affairs in Mecca,1,0,0.0
+2525,2021,Riyadh,JointProgram for Periodontics- Riyadh,1,0,0.0
+2526,2020,Riyadh,Eradah Mental Health Complex in Riyadh,1,0,0.0
+2527,2021,Jeddah,Directorate of Health Affairs in Jeddah Governorate,1,0,0.0
+2528,2020,Jeddah,College of Dentistry and University Dental Hospital in King Abdulaziz University in Jeddah,1,0,0.0
+2529,2020,Riyadh,JointProgram for Ophthalmology - Central,1,0,0.0
+2530,2020,Jeddah,Directorate of Health Affairs in Jeddah Governorate,1,0,0.0
+2531,2022,Taif,King Abdulaziz Specialist Hospital in Taif,1,0,0.0

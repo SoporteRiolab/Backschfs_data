@@ -1,0 +1,211 @@
+,Year,Type_En,Number_of_Cases_within_Service_Type,Status_Group_Name_En,Number_of_Cases_within_Service_Type_and_Status
+0,2020,Re-Registration,231650,Issued,224515
+1,2020,Re-Registration,231650,Rejected ,5892
+2,2020,Re-Registration,231650,Need More Documents,1012
+3,2020,Re-Registration,231650,In-Progress,231
+4,2022,Re-Registration,226608,Issued,215145
+5,2022,Re-Registration,226608,Rejected ,7390
+6,2022,Re-Registration,226608,Need More Documents,2912
+7,2022,Re-Registration,226608,In-Progress,1161
+8,2021,Re-Registration,221057,Issued,212673
+9,2021,Re-Registration,221057,Rejected ,7168
+10,2021,Re-Registration,221057,Need More Documents,1209
+11,2021,Re-Registration,221057,In-Progress,7
+12,2019,Re-Registration,136071,Issued,130263
+13,2019,Re-Registration,136071,Rejected ,3693
+14,2019,Re-Registration,136071,Need More Documents,1428
+15,2019,Re-Registration,136071,In-Progress,687
+16,2019,Classification,88815,Issued,65492
+17,2019,Classification,88815,Rejected ,18183
+18,2019,Classification,88815,Need More Documents,3076
+19,2019,Classification,88815,Pending Payment,1925
+20,2019,Classification,88815,In-Progress,77
+21,2019,Classification,88815,Exam,58
+22,2019,Classification,88815,Committee,3
+23,2019,Classification,88815,Evaluation,1
+24,2021,Classification,82475,Issued,57221
+25,2021,Classification,82475,Rejected ,15628
+26,2021,Classification,82475,Need More Documents,4878
+27,2021,Classification,82475,Exam,2987
+28,2021,Classification,82475,Pending Payment,1737
+29,2021,Classification,82475,In-Progress,19
+30,2021,Classification,82475,Evaluation,5
+31,2022,Classification,78003,Issued,46312
+32,2022,Classification,78003,Exam,15977
+33,2022,Classification,78003,Rejected ,7690
+34,2022,Classification,78003,Need More Documents,4061
+35,2022,Classification,78003,Pending Payment,2623
+36,2022,Classification,78003,In-Progress,1031
+37,2022,Classification,78003,Evaluation,303
+38,2022,Classification,78003,Committee,6
+39,2021,Registration,74302,Issued,69191
+40,2021,Registration,74302,Rejected ,4115
+41,2021,Registration,74302,Need More Documents,995
+42,2021,Registration,74302,In-Progress,1
+43,2020,Classification,66155,Issued,45628
+44,2020,Classification,66155,Rejected ,16253
+45,2020,Classification,66155,Need More Documents,2428
+46,2020,Classification,66155,Pending Payment,1812
+47,2020,Classification,66155,In-Progress,24
+48,2020,Classification,66155,Exam,8
+49,2020,Classification,66155,Evaluation,2
+50,2022,Registration,65583,Issued,61712
+51,2022,Registration,65583,Rejected ,2600
+52,2022,Registration,65583,Need More Documents,1039
+53,2022,Registration,65583,In-Progress,232
+54,2019,Registration,64357,Issued,61043
+55,2019,Registration,64357,Rejected ,1995
+56,2019,Registration,64357,Need More Documents,1087
+57,2019,Registration,64357,In-Progress,232
+58,2020,Registration,58269,Issued,54794
+59,2020,Registration,58269,Rejected ,2535
+60,2020,Registration,58269,Need More Documents,863
+61,2020,Registration,58269,In-Progress,77
+62,2019,Update BIO Data,36601,Issued,23577
+63,2019,Update BIO Data,36601,Rejected ,13015
+64,2019,Update BIO Data,36601,In-Progress,9
+65,2021,Re-Classification,31170,Issued,20647
+66,2021,Re-Classification,31170,Rejected ,6774
+67,2021,Re-Classification,31170,Need More Documents,2235
+68,2021,Re-Classification,31170,Pending Payment,919
+69,2021,Re-Classification,31170,Exam,582
+70,2021,Re-Classification,31170,Evaluation,10
+71,2021,Re-Classification,31170,In-Progress,3
+72,2019,Re-Classification,26810,Issued,17017
+73,2019,Re-Classification,26810,Rejected ,7560
+74,2019,Re-Classification,26810,Need More Documents,1341
+75,2019,Re-Classification,26810,Pending Payment,760
+76,2019,Re-Classification,26810,In-Progress,123
+77,2019,Re-Classification,26810,Committee,4
+78,2019,Re-Classification,26810,Evaluation,3
+79,2019,Re-Classification,26810,Exam,2
+80,2021,Update BIO Data,26740,Issued,19408
+81,2021,Update BIO Data,26740,Rejected ,7325
+82,2021,Update BIO Data,26740,In-Progress,7
+83,2022,Re-Classification,26589,Issued,15163
+84,2022,Re-Classification,26589,Rejected ,4289
+85,2022,Re-Classification,26589,Exam,2980
+86,2022,Re-Classification,26589,Need More Documents,2130
+87,2022,Re-Classification,26589,Pending Payment,1042
+88,2022,Re-Classification,26589,In-Progress,630
+89,2022,Re-Classification,26589,Evaluation,332
+90,2022,Re-Classification,26589,Committee,23
+91,2020,Re-Classification,26525,Issued,18196
+92,2020,Re-Classification,26525,Rejected ,6544
+93,2020,Re-Classification,26525,Need More Documents,940
+94,2020,Re-Classification,26525,Pending Payment,828
+95,2020,Re-Classification,26525,In-Progress,16
+96,2020,Re-Classification,26525,Exam,1
+97,2021,Training Letter,23516,Issued,16165
+98,2021,Training Letter,23516,Rejected ,6224
+99,2021,Training Letter,23516,Need More Documents,969
+100,2021,Training Letter,23516,Canceled,147
+101,2021,Training Letter,23516,In-Progress,11
+102,2022,Update BIO Data,23353,Issued,18089
+103,2022,Update BIO Data,23353,Rejected ,5120
+104,2022,Update BIO Data,23353,In-Progress,144
+105,2020,Update BIO Data,20953,Issued,13319
+106,2020,Update BIO Data,20953,Rejected ,7623
+107,2020,Update BIO Data,20953,In-Progress,11
+108,2022,Training Letter,18702,Issued,12161
+109,2022,Training Letter,18702,Rejected ,5396
+110,2022,Training Letter,18702,Canceled,554
+111,2022,Training Letter,18702,In-Progress,385
+112,2022,Training Letter,18702,Need More Documents,206
+113,2020,Training Letter,13088,Issued,9026
+114,2020,Training Letter,13088,Rejected ,3498
+115,2020,Training Letter,13088,Need More Documents,554
+116,2020,Training Letter,13088,In-Progress,10
+117,2021,Certificate Of Good Standing,12141,Issued,12141
+118,2022,Certificate Of Good Standing,11156,Issued,11155
+119,2022,Certificate Of Good Standing,11156,Need More Documents,1
+120,2019,Certificate Of Good Standing,10420,Issued,10335
+121,2019,Certificate Of Good Standing,10420,In-Progress,85
+122,2020,Certificate Of Good Standing,10267,Issued,10245
+123,2020,Certificate Of Good Standing,10267,In-Progress,22
+124,2019,CME Recognition,10138,Issued,6645
+125,2019,CME Recognition,10138,Rejected ,3161
+126,2019,CME Recognition,10138,Need More Documents,327
+127,2019,CME Recognition,10138,In-Progress,5
+128,2019,Qualification Study,9746,Issued,8132
+129,2019,Qualification Study,9746,Rejected ,1443
+130,2019,Qualification Study,9746,Need More Documents,166
+131,2019,Qualification Study,9746,In-Progress,4
+132,2019,Qualification Study,9746,Aborted,1
+133,2021,Qualification Study,5985,Issued,3562
+134,2021,Qualification Study,5985,Rejected ,2423
+135,2021,CME Recognition,5971,Issued,2951
+136,2021,CME Recognition,5971,Rejected ,2766
+137,2021,CME Recognition,5971,Need More Documents,252
+138,2021,CME Recognition,5971,In-Progress,2
+139,2020,Qualification Study,5616,Issued,3424
+140,2020,Qualification Study,5616,Rejected ,2138
+141,2020,Qualification Study,5616,In-Progress,48
+142,2020,Qualification Study,5616,Committee,3
+143,2020,Qualification Study,5616,Aborted,2
+144,2020,Qualification Study,5616,Need More Documents,1
+145,2020,CME Recognition,5422,Issued,2981
+146,2020,CME Recognition,5422,Rejected ,2321
+147,2020,CME Recognition,5422,Need More Documents,115
+148,2020,CME Recognition,5422,In-Progress,5
+149,2022,Qualification Study,4526,Issued,2153
+150,2022,Qualification Study,4526,Rejected ,1872
+151,2022,Qualification Study,4526,In-Progress,360
+152,2022,Qualification Study,4526,Committee,113
+153,2022,Qualification Study,4526,Aborted,28
+154,2022,CME Recognition,4385,Issued,2388
+155,2022,CME Recognition,4385,Rejected ,1516
+156,2022,CME Recognition,4385,Need More Documents,332
+157,2022,CME Recognition,4385,In-Progress,149
+158,2019,Training Letter,2117,Issued,1530
+159,2019,Training Letter,2117,Rejected ,454
+160,2019,Training Letter,2117,Need More Documents,133
+161,2021,Recognition Letter,1582,Issued,839
+162,2021,Recognition Letter,1582,Rejected ,598
+163,2021,Recognition Letter,1582,Need More Documents,67
+164,2021,Recognition Letter,1582,Pending Payment,62
+165,2021,Recognition Letter,1582,Canceled,15
+166,2021,Recognition Letter,1582,In-Progress,1
+167,2022,Recognition Letter,1424,Issued,725
+168,2022,Recognition Letter,1424,Rejected ,511
+169,2022,Recognition Letter,1424,Canceled,74
+170,2022,Recognition Letter,1424,In-Progress,55
+171,2022,Recognition Letter,1424,Pending Payment,41
+172,2022,Recognition Letter,1424,Need More Documents,18
+173,2020,Recognition Letter,1420,Issued,700
+174,2020,Recognition Letter,1420,Rejected ,625
+175,2020,Recognition Letter,1420,Need More Documents,50
+176,2020,Recognition Letter,1420,Pending Payment,45
+177,2019,Recognition Letter,974,Issued,477
+178,2019,Recognition Letter,974,Rejected ,433
+179,2019,Recognition Letter,974,Need More Documents,45
+180,2019,Recognition Letter,974,Pending Payment,19
+181,2021,Appeal Management,428,Rejected ,355
+182,2021,Appeal Management,428,Issued,47
+183,2021,Appeal Management,428,Need More Documents,15
+184,2021,Appeal Management,428,In-Progress,11
+185,2022,Appeal Management,344,Rejected ,244
+186,2022,Appeal Management,344,Issued,64
+187,2022,Appeal Management,344,In-Progress,36
+188,2020,Appeal Management,190,Rejected ,78
+189,2020,Appeal Management,190,Issued,54
+190,2020,Appeal Management,190,Need More Documents,54
+191,2020,Appeal Management,190,In-Progress,4
+192,2018,Classification,90,Issued,80
+193,2018,Classification,90,Rejected ,7
+194,2018,Classification,90,Pending Payment,2
+195,2018,Classification,90,In-Progress,1
+196,2019,Appeal Management,74,Rejected ,53
+197,2019,Appeal Management,74,Need More Documents,10
+198,2019,Appeal Management,74,Issued,10
+199,2019,Appeal Management,74,In-Progress,1
+200,2018,Registration,50,Issued,50
+201,2018,Re-Classification,5,Issued,5
+202,2019,Unknown,3,Issued,3
+203,2018,Re-Registration,3,Issued,3
+204,2018,Certificate Of Good Standing,2,Issued,2
+205,2018,Recognition Letter,1,Issued,1
+206,2018,Training Letter,1,Issued,1
+207,2018,Update BIO Data,1,Issued,1
+208,2018,CME Recognition,1,Issued,1
+209,2018,Appeal Management,1,Issued,1

@@ -1,0 +1,300 @@
+,Academic_Year,Region_Name_En,Current_Medical_Field_En,Number_of_Training_programs
+0,2019,Riyadh,Medicine and Surgery,132
+1,2017,Riyadh,Medicine and Surgery,132
+2,2016,Riyadh,Medicine and Surgery,130
+3,2018,Riyadh,Medicine and Surgery,129
+5,2020,Riyadh,Medicine and Surgery,124
+9,2021,Riyadh,Medicine and Surgery,118
+12,2022,Riyadh,Medicine and Surgery,96
+14,2017,Makkah,Medicine and Surgery,78
+15,2019,Makkah,Medicine and Surgery,77
+17,2016,Makkah,Medicine and Surgery,76
+18,2018,Makkah,Medicine and Surgery,76
+19,2020,Makkah,Medicine and Surgery,74
+22,2021,Makkah,Medicine and Surgery,72
+25,2016,Eastern Province,Medicine and Surgery,62
+26,2017,Eastern Province,Medicine and Surgery,61
+28,2018,Eastern Province,Medicine and Surgery,61
+30,2019,Eastern Province,Medicine and Surgery,58
+31,2021,Eastern Province,Medicine and Surgery,57
+33,2020,Eastern Province,Medicine and Surgery,57
+38,2022,Makkah,Medicine and Surgery,48
+41,2017,Al Madinah,Medicine and Surgery,37
+42,2018,Al Madinah,Medicine and Surgery,37
+43,2022,Eastern Province,Medicine and Surgery,36
+44,2019,Al Madinah,Medicine and Surgery,36
+47,2016,Asir,Medicine and Surgery,34
+50,2020,Al Madinah,Medicine and Surgery,34
+52,2021,Al Madinah,Medicine and Surgery,33
+53,2017,Asir,Medicine and Surgery,33
+54,2016,Al Madinah,Medicine and Surgery,32
+56,2020,Asir,Medicine and Surgery,31
+57,2019,Asir,Medicine and Surgery,31
+58,2018,Asir,Medicine and Surgery,31
+61,2021,Asir,Medicine and Surgery,29
+73,2019,Outside KSA,Medicine and Surgery,22
+75,2018,Outside KSA,Medicine and Surgery,21
+77,2017,Outside KSA,Medicine and Surgery,21
+79,2020,Outside KSA,Medicine and Surgery,20
+81,2016,Outside KSA,Medicine and Surgery,20
+82,2019,Al-Qassim,Medicine and Surgery,19
+85,2020,Al-Qassim,Medicine and Surgery,19
+87,2021,Outside KSA,Medicine and Surgery,18
+89,2021,Al-Qassim,Medicine and Surgery,17
+93,2017,Al-Qassim,Medicine and Surgery,17
+95,2021,Jizan,Medicine and Surgery,16
+97,2018,Al-Qassim,Medicine and Surgery,16
+99,2018,Jizan,Medicine and Surgery,16
+100,2016,Al-Qassim,Medicine and Surgery,16
+106,2017,Jizan,Medicine and Surgery,16
+108,2020,Jizan,Medicine and Surgery,15
+110,2022,Asir,Medicine and Surgery,15
+113,2021,Tabuk,Medicine and Surgery,15
+114,2021,Najran,Medicine and Surgery,14
+116,2022,Al Madinah,Medicine and Surgery,14
+119,2018,Riyadh,Dentistry and Related Specialties,14
+120,2019,Jizan,Medicine and Surgery,14
+122,2021,Riyadh,Dentistry and Related Specialties,14
+123,2019,Riyadh,Dentistry and Related Specialties,14
+124,2016,Riyadh,Dentistry and Related Specialties,14
+125,2017,Riyadh,Dentistry and Related Specialties,14
+126,2020,Tabuk,Medicine and Surgery,14
+128,2020,Riyadh,Dentistry and Related Specialties,14
+129,2016,Jizan,Medicine and Surgery,13
+131,2019,Tabuk,Medicine and Surgery,13
+135,2020,Najran,Medicine and Surgery,12
+136,2021,Riyadh,Pharmacists and Pharmacy Technicians,12
+137,2016,Tabuk,Medicine and Surgery,12
+138,2018,Tabuk,Medicine and Surgery,12
+139,2018,Riyadh,Pharmacists and Pharmacy Technicians,12
+144,2019,Riyadh,Pharmacists and Pharmacy Technicians,12
+146,2021,Makkah,Dentistry and Related Specialties,12
+147,2017,Tabuk,Medicine and Surgery,12
+150,2020,Makkah,Dentistry and Related Specialties,12
+152,2016,Riyadh,Pharmacists and Pharmacy Technicians,11
+153,2018,Makkah,Dentistry and Related Specialties,11
+156,2017,Riyadh,Pharmacists and Pharmacy Technicians,11
+157,2017,Eastern Province,Dentistry and Related Specialties,11
+159,2020,Riyadh,Pharmacists and Pharmacy Technicians,11
+160,2022,Riyadh,Pharmacists and Pharmacy Technicians,11
+161,2019,Makkah,Dentistry and Related Specialties,11
+164,2021,Eastern Province,Dentistry and Related Specialties,10
+165,2021,Al Bahah,Medicine and Surgery,10
+166,2019,Najran,Medicine and Surgery,10
+167,2017,Makkah,Dentistry and Related Specialties,10
+168,2022,Al-Qassim,Medicine and Surgery,10
+169,2020,Eastern Province,Dentistry and Related Specialties,10
+170,2018,Eastern Province,Dentistry and Related Specialties,10
+178,2018,Unknown,Medicine and Surgery,10
+182,2021,Unknown,Medicine and Surgery,9
+183,2016,Makkah,Dentistry and Related Specialties,9
+188,2020,Al Bahah,Medicine and Surgery,9
+191,2018,Al Bahah,Medicine and Surgery,9
+196,2019,Eastern Province,Dentistry and Related Specialties,9
+197,2019,Al Bahah,Medicine and Surgery,9
+204,2016,Unknown,Medicine and Surgery,8
+208,2020,Unknown,Medicine and Surgery,8
+212,2021,Al Madinah,Dentistry and Related Specialties,8
+214,2016,Al Bahah,Medicine and Surgery,8
+221,2017,Al Bahah,Medicine and Surgery,8
+225,2019,Unknown,Medicine and Surgery,8
+226,2017,Unknown,Medicine and Surgery,8
+233,2021,Riyadh,Nursing and Midwifery,7
+235,2019,Asir,Dentistry and Related Specialties,7
+238,2021,Al-Qassim,Dentistry and Related Specialties,7
+239,2021,Asir,Dentistry and Related Specialties,7
+240,2018,Najran,Medicine and Surgery,7
+243,2018,Hail,Medicine and Surgery,7
+251,2019,Riyadh,Nursing and Midwifery,6
+252,2017,Hail,Medicine and Surgery,6
+253,2016,Eastern Province,Dentistry and Related Specialties,6
+257,2020,Hail,Medicine and Surgery,6
+258,2020,Asir,Dentistry and Related Specialties,6
+259,2019,Hail,Medicine and Surgery,6
+260,2018,Asir,Dentistry and Related Specialties,6
+263,2021,Hail,Medicine and Surgery,6
+264,2020,Al-Qassim,Dentistry and Related Specialties,6
+267,2021,Al-Qassim,Nursing and Midwifery,6
+268,2019,Al Madinah,Dentistry and Related Specialties,6
+269,2020,Al Madinah,Dentistry and Related Specialties,6
+271,2018,Riyadh,Nursing and Midwifery,6
+273,2017,Asir,Dentistry and Related Specialties,6
+277,2020,Riyadh,Nursing and Midwifery,6
+286,2017,Al Madinah,Dentistry and Related Specialties,5
+290,2021,Makkah,Nursing and Midwifery,5
+291,2018,Al Madinah,Dentistry and Related Specialties,5
+292,2020,Makkah,Nursing and Midwifery,5
+295,2021,Riyadh,Laboratories and Medical Technology,5
+299,2022,Outside KSA,Medicine and Surgery,5
+302,2017,Najran,Medicine and Surgery,5
+303,2016,Al Madinah,Dentistry and Related Specialties,5
+304,2019,Makkah,Nursing and Midwifery,5
+306,2018,Makkah,Nursing and Midwifery,5
+309,2021,Makkah,Pharmacists and Pharmacy Technicians,4
+310,2022,Makkah,Pharmacists and Pharmacy Technicians,4
+311,2021,Najran,Dentistry and Related Specialties,4
+312,2021,Tabuk,Dentistry and Related Specialties,4
+313,2022,Jizan,Medicine and Surgery,4
+314,2018,Riyadh,Laboratories and Medical Technology,4
+315,2021,Makkah,Laboratories and Medical Technology,4
+316,2020,Al-Qassim,Nursing and Midwifery,4
+317,2018,Makkah,Pharmacists and Pharmacy Technicians,4
+318,2019,Al Jawf,Medicine and Surgery,4
+319,2019,Al-Qassim,Nursing and Midwifery,4
+320,2019,Eastern Province,Nursing and Midwifery,4
+321,2019,Makkah,Pharmacists and Pharmacy Technicians,4
+322,2019,Riyadh,Laboratories and Medical Technology,4
+323,2017,Riyadh,Nursing and Midwifery,4
+324,2020,Al Jawf,Medicine and Surgery,4
+325,2017,Makkah,Nursing and Midwifery,4
+326,2020,Eastern Province,Nursing and Midwifery,4
+327,2021,Hail,Dentistry and Related Specialties,4
+328,2020,Hail,Dentistry and Related Specialties,4
+329,2020,Makkah,Pharmacists and Pharmacy Technicians,4
+330,2020,Riyadh,Laboratories and Medical Technology,4
+331,2016,Najran,Medicine and Surgery,4
+332,2021,Al Jawf,Medicine and Surgery,4
+333,2016,Al Jawf,Medicine and Surgery,4
+334,2021,Al Madinah,Nursing and Midwifery,4
+336,2021,Eastern Province,Nursing and Midwifery,4
+337,2020,Makkah,Laboratories and Medical Technology,4
+338,2022,Unknown,Medicine and Surgery,4
+369,2019,Makkah,Laboratories and Medical Technology,3
+370,2017,Makkah,Pharmacists and Pharmacy Technicians,3
+375,2017,Eastern Province,Nursing and Midwifery,3
+380,2020,Al Madinah,Nursing and Midwifery,3
+382,2021,Najran,Nursing and Midwifery,3
+389,2019,Al Madinah,Nursing and Midwifery,3
+393,2021,Northern Borders,Dentistry and Related Specialties,3
+394,2018,Hail,Dentistry and Related Specialties,3
+395,2018,Eastern Province,Nursing and Midwifery,3
+398,2018,Al Madinah,Nursing and Midwifery,3
+401,2019,Hail,Dentistry and Related Specialties,3
+402,2018,Makkah,Laboratories and Medical Technology,3
+405,2016,Makkah,Pharmacists and Pharmacy Technicians,3
+407,2016,Hail,Medicine and Surgery,3
+412,2016,Asir,Dentistry and Related Specialties,3
+413,2016,Makkah,Nursing and Midwifery,3
+418,2021,Northern Borders,Medicine and Surgery,3
+420,2022,Tabuk,Medicine and Surgery,3
+422,2022,Makkah,Dentistry and Related Specialties,2
+423,2020,Riyadh,Unknown,2
+424,2018,Riyadh,Unknown,2
+427,2021,Al Madinah,Laboratories and Medical Technology,2
+429,2018,Northern Borders,Dentistry and Related Specialties,2
+430,2021,Al Jawf,Dentistry and Related Specialties,2
+431,2018,Jizan,Dentistry and Related Specialties,2
+437,2018,Northern Borders,Medicine and Surgery,2
+438,2020,Northern Borders,Medicine and Surgery,2
+440,2019,Northern Borders,Dentistry and Related Specialties,2
+442,2020,Al Madinah,Laboratories and Medical Technology,2
+444,2020,Jizan,Dentistry and Related Specialties,2
+447,2019,Riyadh,Unknown,2
+448,2022,Riyadh,Unknown,2
+450,2019,Northern Borders,Medicine and Surgery,2
+452,2022,Najran,Medicine and Surgery,2
+453,2020,Najran,Dentistry and Related Specialties,2
+454,2019,Najran,Dentistry and Related Specialties,2
+457,2020,Najran,Nursing and Midwifery,2
+459,2020,Northern Borders,Dentistry and Related Specialties,2
+460,2022,Riyadh,Dentistry and Related Specialties,2
+461,2019,Jizan,Dentistry and Related Specialties,2
+465,2017,Al Madinah,Nursing and Midwifery,2
+466,2017,Riyadh,Unknown,2
+470,2016,Makkah,Laboratories and Medical Technology,2
+473,2017,Northern Borders,Medicine and Surgery,2
+475,2017,Hail,Dentistry and Related Specialties,2
+476,2021,Riyadh,Unknown,2
+478,2021,Jizan,Nursing and Midwifery,2
+481,2017,Makkah,Laboratories and Medical Technology,2
+483,2021,Jizan,Dentistry and Related Specialties,2
+485,2016,Riyadh,Unknown,2
+486,2016,Northern Borders,Medicine and Surgery,2
+487,2017,Al Jawf,Medicine and Surgery,2
+488,2016,Unknown,Dentistry and Related Specialties,2
+490,2018,Al Jawf,Medicine and Surgery,2
+494,2021,Najran,Pharmacists and Pharmacy Technicians,1
+495,2021,Jizan,Pharmacists and Pharmacy Technicians,1
+496,2020,Eastern Province,Pharmacists and Pharmacy Technicians,1
+497,2020,Eastern Province,Unknown,1
+501,2020,Najran,Pharmacists and Pharmacy Technicians,1
+503,2022,Tabuk,Dentistry and Related Specialties,1
+504,2020,Najran,Laboratories and Medical Technology,1
+505,2021,Outside KSA,Dentistry and Related Specialties,1
+511,2020,Hail,Pharmacists and Pharmacy Technicians,1
+514,2020,Jizan,Pharmacists and Pharmacy Technicians,1
+515,2021,Najran,Laboratories and Medical Technology,1
+516,2020,Jizan,Nursing and Midwifery,1
+517,2022,Al Jawf,Dentistry and Related Specialties,1
+518,2022,Najran,Dentistry and Related Specialties,1
+519,2021,Jizan,Laboratories and Medical Technology,1
+521,2022,Asir,Dentistry and Related Specialties,1
+523,2021,Eastern Province,Pharmacists and Pharmacy Technicians,1
+526,2021,Al Bahah,Nursing and Midwifery,1
+528,2022,Al Madinah,Dentistry and Related Specialties,1
+530,2021,Asir,Nursing and Midwifery,1
+531,2021,Unknown,Dentistry and Related Specialties,1
+533,2022,Al Jawf,Medicine and Surgery,1
+535,2021,Al Madinah,Pharmacists and Pharmacy Technicians,1
+536,2022,Al Bahah,Dentistry and Related Specialties,1
+537,2021,Eastern Province,Unknown,1
+538,2021,Al Bahah,Dentistry and Related Specialties,1
+541,2022,Northern Borders,Medicine and Surgery,1
+546,2021,Hail,Pharmacists and Pharmacy Technicians,1
+548,2021,Hail,Nursing and Midwifery,1
+549,2022,Jizan,Dentistry and Related Specialties,1
+550,2020,Tabuk,Dentistry and Related Specialties,1
+551,2022,Hail,Medicine and Surgery,1
+552,2022,Eastern Province,Unknown,1
+553,2020,Unknown,Dentistry and Related Specialties,1
+558,2020,Asir,Nursing and Midwifery,1
+559,2017,Al Bahah,Dentistry and Related Specialties,1
+561,2016,Eastern Province,Nursing and Midwifery,1
+562,2016,Eastern Province,Pharmacists and Pharmacy Technicians,1
+563,2016,Eastern Province,Unknown,1
+564,2016,Hail,Dentistry and Related Specialties,1
+565,2016,Jizan,Dentistry and Related Specialties,1
+569,2016,Riyadh,Laboratories and Medical Technology,1
+570,2016,Riyadh,Nursing and Midwifery,1
+574,2017,Al Madinah,Laboratories and Medical Technology,1
+575,2017,Al Madinah,Pharmacists and Pharmacy Technicians,1
+577,2017,Al-Qassim,Nursing and Midwifery,1
+580,2017,Eastern Province,Pharmacists and Pharmacy Technicians,1
+581,2017,Eastern Province,Unknown,1
+583,2017,Jizan,Dentistry and Related Specialties,1
+584,2017,Jizan,Nursing and Midwifery,1
+585,2017,Jizan,Pharmacists and Pharmacy Technicians,1
+587,2016,Al Madinah,Laboratories and Medical Technology,1
+614,2016,Al Bahah,Dentistry and Related Specialties,1
+615,2017,Northern Borders,Dentistry and Related Specialties,1
+620,2019,Eastern Province,Pharmacists and Pharmacy Technicians,1
+621,2019,Eastern Province,Unknown,1
+622,2019,Hail,Pharmacists and Pharmacy Technicians,1
+623,2019,Jizan,Nursing and Midwifery,1
+624,2019,Jizan,Pharmacists and Pharmacy Technicians,1
+626,2019,Makkah,Unknown,1
+628,2019,Najran,Nursing and Midwifery,1
+629,2019,Najran,Pharmacists and Pharmacy Technicians,1
+634,2019,Tabuk,Dentistry and Related Specialties,1
+636,2020,Al Bahah,Nursing and Midwifery,1
+637,2020,Al Jawf,Dentistry and Related Specialties,1
+640,2020,Al Madinah,Pharmacists and Pharmacy Technicians,1
+644,2019,Asir,Nursing and Midwifery,1
+645,2019,Al-Qassim,Dentistry and Related Specialties,1
+646,2017,Riyadh,Laboratories and Medical Technology,1
+647,2019,Al Madinah,Pharmacists and Pharmacy Technicians,1
+650,2017,Unknown,Dentistry and Related Specialties,1
+652,2018,Al Bahah,Dentistry and Related Specialties,1
+653,2018,Al Madinah,Laboratories and Medical Technology,1
+655,2018,Al Madinah,Pharmacists and Pharmacy Technicians,1
+656,2018,Al-Qassim,Dentistry and Related Specialties,1
+657,2018,Al-Qassim,Nursing and Midwifery,1
+658,2018,Asir,Nursing and Midwifery,1
+659,2018,Eastern Province,Pharmacists and Pharmacy Technicians,1
+660,2018,Eastern Province,Unknown,1
+662,2018,Jizan,Nursing and Midwifery,1
+663,2018,Jizan,Pharmacists and Pharmacy Technicians,1
+665,2018,Makkah,Unknown,1
+667,2018,Najran,Nursing and Midwifery,1
+669,2019,Al Bahah,Dentistry and Related Specialties,1
+671,2019,Al Madinah,Laboratories and Medical Technology,1

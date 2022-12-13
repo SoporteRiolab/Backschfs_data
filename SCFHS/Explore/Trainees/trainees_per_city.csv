@@ -1,0 +1,2416 @@
+,Academic_Year,Gender_En,Nationality_Name_En,Current_Medical_Field_En,City_Name_En,Longitude,Latitude,Number_of_Trainees
+0,2021,Male,Saudi Arabia,Medicine and Surgery,Riyadh,46.675296,24.713552,3276
+1,2020,Male,Saudi Arabia,Medicine and Surgery,Riyadh,46.675296,24.713552,3220
+2,2019,Male,Saudi Arabia,Medicine and Surgery,Riyadh,46.675296,24.713552,3169
+3,2018,Male,Saudi Arabia,Medicine and Surgery,Riyadh,46.675296,24.713552,2953
+4,2017,Male,Saudi Arabia,Medicine and Surgery,Riyadh,46.675296,24.713552,2788
+5,2021,Female,Saudi Arabia,Medicine and Surgery,Riyadh,46.675296,24.713552,2490
+6,2016,Male,Saudi Arabia,Medicine and Surgery,Riyadh,46.675296,24.713552,2452
+7,2020,Female,Saudi Arabia,Medicine and Surgery,Riyadh,46.675296,24.713552,2346
+9,2019,Female,Saudi Arabia,Medicine and Surgery,Riyadh,46.675296,24.713552,2080
+11,2018,Female,Saudi Arabia,Medicine and Surgery,Riyadh,46.675296,24.713552,1856
+12,2017,Female,Saudi Arabia,Medicine and Surgery,Riyadh,46.675296,24.713552,1657
+14,2016,Female,Saudi Arabia,Medicine and Surgery,Riyadh,46.675296,24.713552,1405
+16,2021,Female,Saudi Arabia,Medicine and Surgery,Jeddah,39.192505,21.485811,1346
+17,2021,Male,Saudi Arabia,Medicine and Surgery,Jeddah,39.192505,21.485811,1263
+18,2020,Female,Saudi Arabia,Medicine and Surgery,Jeddah,39.192505,21.485811,1244
+19,2020,Male,Saudi Arabia,Medicine and Surgery,Jeddah,39.192505,21.485811,1239
+21,2019,Female,Saudi Arabia,Medicine and Surgery,Jeddah,39.192505,21.485811,1168
+23,2019,Male,Saudi Arabia,Medicine and Surgery,Jeddah,39.192505,21.485811,1139
+24,2018,Female,Saudi Arabia,Medicine and Surgery,Jeddah,39.192505,21.485811,1039
+25,2018,Male,Saudi Arabia,Medicine and Surgery,Jeddah,39.192505,21.485811,1039
+28,2017,Male,Saudi Arabia,Medicine and Surgery,Jeddah,39.192505,21.485811,942
+29,2017,Female,Saudi Arabia,Medicine and Surgery,Jeddah,39.192505,21.485811,913
+31,2016,Female,Saudi Arabia,Medicine and Surgery,Jeddah,39.192505,21.485811,787
+32,2016,Male,Saudi Arabia,Medicine and Surgery,Jeddah,39.192505,21.485811,781
+34,2022,Male,Saudi Arabia,Medicine and Surgery,Riyadh,46.675296,24.713552,761
+45,2022,Female,Saudi Arabia,Medicine and Surgery,Riyadh,46.675296,24.713552,506
+46,2021,Male,Saudi Arabia,Medicine and Surgery,Makkah,39.857912,21.389082,502
+48,2020,Male,Saudi Arabia,Medicine and Surgery,Makkah,39.857912,21.389082,478
+50,2021,Female,Saudi Arabia,Medicine and Surgery,Makkah,39.857912,21.389082,452
+52,2019,Male,Saudi Arabia,Medicine and Surgery,Makkah,39.857912,21.389082,440
+53,2020,Female,Saudi Arabia,Medicine and Surgery,Makkah,39.857912,21.389082,433
+55,2021,Male,Saudi Arabia,Medicine and Surgery,Taif,40.424819,21.284078,428
+57,2019,Female,Saudi Arabia,Medicine and Surgery,Makkah,39.857912,21.389082,410
+61,2020,Male,Saudi Arabia,Medicine and Surgery,Taif,40.424819,21.284078,395
+63,2018,Female,Saudi Arabia,Medicine and Surgery,Makkah,39.857912,21.389082,376
+64,2018,Male,Saudi Arabia,Medicine and Surgery,Makkah,39.857912,21.389082,369
+66,2019,Male,Saudi Arabia,Medicine and Surgery,Taif,40.424819,21.284078,365
+67,2021,Male,Saudi Arabia,Medicine and Surgery,Madinah,39.569184,24.524654,353
+71,2021,Female,Saudi Arabia,Medicine and Surgery,Dammam,50.088794,26.420683,324
+73,2020,Female,Saudi Arabia,Medicine and Surgery,Dammam,50.088794,26.420683,320
+74,2020,Male,Saudi Arabia,Medicine and Surgery,Madinah,39.569184,24.524654,318
+76,2017,Male,Saudi Arabia,Medicine and Surgery,Makkah,39.857912,21.389082,304
+77,2017,Female,Saudi Arabia,Medicine and Surgery,Makkah,39.857912,21.389082,302
+78,2021,Female,Saudi Arabia,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,300
+79,2021,Female,Saudi Arabia,Medicine and Surgery,Madinah,39.569184,24.524654,299
+81,2019,Female,Saudi Arabia,Medicine and Surgery,Dammam,50.088794,26.420683,297
+84,2021,Male,Saudi Arabia,Medicine and Surgery,Abha,42.511724,18.246468,290
+85,2019,Male,Saudi Arabia,Medicine and Surgery,Madinah,39.569184,24.524654,287
+87,2018,Male,Saudi Arabia,Medicine and Surgery,Taif,40.424819,21.284078,286
+88,2021,Male,Saudi Arabia,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,283
+89,2021,Male,Saudi Arabia,Medicine and Surgery,Dammam,50.088794,26.420683,282
+90,2018,Female,Saudi Arabia,Medicine and Surgery,Dammam,50.088794,26.420683,279
+91,2021,Female,Saudi Arabia,Medicine and Surgery,Taif,40.424819,21.284078,272
+93,2020,Male,Saudi Arabia,Medicine and Surgery,Abha,42.511724,18.246468,264
+94,2020,Male,Saudi Arabia,Medicine and Surgery,Dammam,50.088794,26.420683,263
+95,2020,Female,Saudi Arabia,Medicine and Surgery,Madinah,39.569184,24.524654,262
+96,2018,Male,Saudi Arabia,Medicine and Surgery,Madinah,39.569184,24.524654,260
+97,2017,Female,Saudi Arabia,Medicine and Surgery,Dammam,50.088794,26.420683,252
+98,2019,Male,Saudi Arabia,Medicine and Surgery,Dammam,50.088794,26.420683,250
+99,2020,Male,Saudi Arabia,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,249
+100,2020,Female,Saudi Arabia,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,249
+101,2018,Male,Saudi Arabia,Medicine and Surgery,Dammam,50.088794,26.420683,247
+102,2019,Male,Saudi Arabia,Medicine and Surgery,Abha,42.511724,18.246468,245
+103,2020,Female,Saudi Arabia,Medicine and Surgery,Taif,40.424819,21.284078,243
+104,2021,Male,Saudi Arabia,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,242
+106,2019,Female,Saudi Arabia,Medicine and Surgery,Madinah,39.569184,24.524654,240
+107,2016,Female,Saudi Arabia,Medicine and Surgery,Makkah,39.857912,21.389082,236
+110,2019,Male,Saudi Arabia,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,233
+111,2016,Male,Saudi Arabia,Medicine and Surgery,Makkah,39.857912,21.389082,233
+112,2017,Male,Saudi Arabia,Medicine and Surgery,Taif,40.424819,21.284078,232
+113,2018,Male,Saudi Arabia,Medicine and Surgery,Abha,42.511724,18.246468,228
+114,2021,Female,Saudi Arabia,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,228
+115,2017,Male,Saudi Arabia,Medicine and Surgery,Dammam,50.088794,26.420683,225
+116,2020,Female,Saudi Arabia,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,224
+117,2020,Male,Saudi Arabia,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,221
+118,2017,Male,Saudi Arabia,Medicine and Surgery,Madinah,39.569184,24.524654,208
+119,2018,Female,Saudi Arabia,Medicine and Surgery,Madinah,39.569184,24.524654,208
+120,2019,Female,Saudi Arabia,Medicine and Surgery,Taif,40.424819,21.284078,204
+121,2019,Female,Saudi Arabia,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,202
+122,2017,Male,Saudi Arabia,Medicine and Surgery,Abha,42.511724,18.246468,199
+123,2016,Female,Saudi Arabia,Medicine and Surgery,Dammam,50.088794,26.420683,197
+124,2018,Male,Saudi Arabia,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,196
+125,2016,Male,Saudi Arabia,Medicine and Surgery,Dammam,50.088794,26.420683,196
+126,2019,Male,Saudi Arabia,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,195
+127,2019,Female,Saudi Arabia,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,191
+129,2018,Female,Saudi Arabia,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,184
+130,2021,Male,Saudi Arabia,Medicine and Surgery,Buraidah,43.981812,26.359231,183
+131,2017,Male,Saudi Arabia,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,181
+134,2021,Male,Saudi Arabia,Medicine and Surgery,Tabuk,36.566191,28.383508,175
+135,2016,Male,Saudi Arabia,Medicine and Surgery,Madinah,39.569184,24.524654,172
+136,2021,Male,Saudi Arabia,Medicine and Surgery,Jazan,42.570567,16.889359,172
+137,2021,Male,Saudi Arabia,Medicine and Surgery,Dhahran,50.039302,26.236125,171
+138,2018,Male,Saudi Arabia,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,169
+140,2016,Male,Saudi Arabia,Medicine and Surgery,Taif,40.424819,21.284078,167
+141,2018,Female,Saudi Arabia,Medicine and Surgery,Taif,40.424819,21.284078,167
+144,2021,Female,Saudi Arabia,Medicine and Surgery,Dhahran,50.039302,26.236125,165
+145,2020,Female,Saudi Arabia,Medicine and Surgery,Khobar,50.080072,26.182911,164
+146,2021,Male,Saudi Arabia,Medicine and Surgery,Khobar,50.080072,26.182911,161
+147,2016,Male,Saudi Arabia,Medicine and Surgery,Abha,42.511724,18.246468,160
+148,2021,Male,Saudi Arabia,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,160
+150,2017,Female,Saudi Arabia,Medicine and Surgery,Madinah,39.569184,24.524654,159
+151,2020,Male,Saudi Arabia,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,158
+152,2021,Female,Saudi Arabia,Medicine and Surgery,Abha,42.511724,18.246468,158
+153,2020,Female,Saudi Arabia,Medicine and Surgery,Dhahran,50.039302,26.236125,158
+155,2020,Male,Saudi Arabia,Medicine and Surgery,Jazan,42.570567,16.889359,157
+156,2017,Female,Saudi Arabia,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,157
+157,2020,Male,Saudi Arabia,Medicine and Surgery,Buraidah,43.981812,26.359231,156
+158,2021,Female,Saudi Arabia,Medicine and Surgery,Khobar,50.080072,26.182911,156
+159,2016,Male,Saudi Arabia,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,153
+162,2019,Female,Saudi Arabia,Medicine and Surgery,Khobar,50.080072,26.182911,150
+164,2020,Male,Saudi Arabia,Medicine and Surgery,Khobar,50.080072,26.182911,148
+165,2018,Female,Saudi Arabia,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,147
+166,2020,Male,Saudi Arabia,Medicine and Surgery,Tabuk,36.566191,28.383508,146
+167,2022,Female,Saudi Arabia,Medicine and Surgery,Jeddah,39.192505,21.485811,146
+168,2020,Male,Saudi Arabia,Medicine and Surgery,Dhahran,50.039302,26.236125,145
+169,2021,Female,Saudi Arabia,Medicine and Surgery,Unknown - Saudi Arabia,45.079162,23.885942,143
+171,2018,Female,Saudi Arabia,Medicine and Surgery,Khobar,50.080072,26.182911,143
+172,2019,Male,Saudi Arabia,Medicine and Surgery,Khobar,50.080072,26.182911,142
+173,2019,Male,Saudi Arabia,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,139
+174,2021,Female,Saudi Arabia,Dentistry and Related Specialties,Jeddah,39.192505,21.485811,139
+175,2022,Male,Saudi Arabia,Medicine and Surgery,Jeddah,39.192505,21.485811,138
+178,2017,Female,Saudi Arabia,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,135
+180,2021,Female,Saudi Arabia,Nursing and Midwifery,Riyadh,46.675296,24.713552,134
+181,2016,Female,Saudi Arabia,Medicine and Surgery,Madinah,39.569184,24.524654,134
+182,2019,Male,Saudi Arabia,Medicine and Surgery,Buraidah,43.981812,26.359231,133
+184,2020,Female,Saudi Arabia,Medicine and Surgery,Abha,42.511724,18.246468,133
+186,2021,Female,Saudi Arabia,Medicine and Surgery,Jazan,42.570567,16.889359,131
+187,2019,Male,Saudi Arabia,Medicine and Surgery,Jazan,42.570567,16.889359,130
+189,2017,Female,Saudi Arabia,Medicine and Surgery,Khobar,50.080072,26.182911,127
+190,2018,Male,Saudi Arabia,Medicine and Surgery,Khobar,50.080072,26.182911,125
+191,2017,Male,Saudi Arabia,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,125
+193,2020,Female,Saudi Arabia,Medicine and Surgery,Jazan,42.570567,16.889359,124
+194,2019,Female,Saudi Arabia,Medicine and Surgery,Abha,42.511724,18.246468,124
+196,2019,Female,Saudi Arabia,Medicine and Surgery,Dhahran,50.039302,26.236125,123
+197,2018,Male,Saudi Arabia,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,123
+198,2019,Male,Saudi Arabia,Medicine and Surgery,Dhahran,50.039302,26.236125,123
+200,2016,Male,Saudi Arabia,Medicine and Surgery,Khobar,50.080072,26.182911,122
+202,2018,Male,Saudi Arabia,Medicine and Surgery,Buraidah,43.981812,26.359231,120
+203,2020,Female,Saudi Arabia,Nursing and Midwifery,Riyadh,46.675296,24.713552,120
+204,2017,Female,Saudi Arabia,Medicine and Surgery,Taif,40.424819,21.284078,120
+205,2021,Female,Saudi Arabia,Medicine and Surgery,Tabuk,36.566191,28.383508,119
+207,2017,Male,Saudi Arabia,Medicine and Surgery,Khobar,50.080072,26.182911,118
+208,2020,Female,Saudi Arabia,Medicine and Surgery,Unknown - Saudi Arabia,45.079162,23.885942,117
+212,2019,Male,Saudi Arabia,Medicine and Surgery,Tabuk,36.566191,28.383508,111
+214,2018,Female,Saudi Arabia,Medicine and Surgery,Abha,42.511724,18.246468,111
+215,2016,Male,Saudi Arabia,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,110
+218,2016,Female,Saudi Arabia,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,108
+220,2021,Male,Saudi Arabia,Medicine and Surgery,Albahah,41.471273,20.021741,107
+221,2018,Male,Saudi Arabia,Medicine and Surgery,Jazan,42.570567,16.889359,106
+222,2019,Female,Saudi Arabia,Medicine and Surgery,Jazan,42.570567,16.889359,106
+226,2021,Female,Saudi Arabia,Medicine and Surgery,Alqatif  ,49.998236,26.576492,104
+227,2020,Female,Saudi Arabia,Dentistry and Related Specialties,Jeddah,39.192505,21.485811,104
+229,2020,Female,Saudi Arabia,Medicine and Surgery,Alqatif  ,49.998236,26.576492,104
+237,2020,Female,Saudi Arabia,Medicine and Surgery,Tabuk,36.566191,28.383508,101
+239,2018,Male,Saudi Arabia,Medicine and Surgery,Dhahran,50.039302,26.236125,101
+240,2019,Female,Saudi Arabia,Medicine and Surgery,Alqatif  ,49.998236,26.576492,101
+242,2016,Female,Saudi Arabia,Medicine and Surgery,Khobar,50.080072,26.182911,100
+245,2021,Male,Saudi Arabia,Medicine and Surgery,Hofuf,49.588765,25.380026,99
+248,2017,Male,Saudi Arabia,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,98
+250,2021,Female,Saudi Arabia,Medicine and Surgery,Buraidah,43.981812,26.359231,96
+251,2021,Male,Saudi Arabia,Medicine and Surgery,Najran,44.228944,17.565604,96
+254,2018,Female,Saudi Arabia,Medicine and Surgery,Alqatif  ,49.998236,26.576492,95
+256,2016,Female,Saudi Arabia,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,95
+258,2019,Female,Saudi Arabia,Medicine and Surgery,Unknown - Saudi Arabia,45.079162,23.885942,94
+259,2017,Female,Saudi Arabia,Medicine and Surgery,Abha,42.511724,18.246468,94
+260,2018,Female,Saudi Arabia,Medicine and Surgery,Dhahran,50.039302,26.236125,94
+263,2020,Male,Saudi Arabia,Medicine and Surgery,Hofuf,49.588765,25.380026,93
+264,2020,Male,Saudi Arabia,Medicine and Surgery,Albahah,41.471273,20.021741,93
+266,2018,Female,Saudi Arabia,Medicine and Surgery,Unknown - Saudi Arabia,45.079162,23.885942,92
+268,2018,Female,Saudi Arabia,Medicine and Surgery,Jazan,42.570567,16.889359,91
+270,2021,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Riyadh,46.675296,24.713552,89
+272,2019,Female,Saudi Arabia,Dentistry and Related Specialties,Jeddah,39.192505,21.485811,87
+276,2019,Female,Saudi Arabia,Nursing and Midwifery,Riyadh,46.675296,24.713552,86
+277,2016,Male,Saudi Arabia,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,86
+286,2019,Male,Saudi Arabia,Medicine and Surgery,Hofuf,49.588765,25.380026,82
+287,2018,Male,Saudi Arabia,Medicine and Surgery,Hofuf,49.588765,25.380026,81
+291,2019,Female,Saudi Arabia,Medicine and Surgery,Tabuk,36.566191,28.383508,80
+292,2019,Male,Saudi Arabia,Medicine and Surgery,Albahah,41.471273,20.021741,80
+295,2018,Male,Saudi Arabia,Medicine and Surgery,Tabuk,36.566191,28.383508,79
+296,2017,Female,Saudi Arabia,Medicine and Surgery,Unknown - Saudi Arabia,45.079162,23.885942,79
+297,2017,Female,Saudi Arabia,Medicine and Surgery,Dhahran,50.039302,26.236125,79
+298,2017,Female,Saudi Arabia,Medicine and Surgery,Alqatif  ,49.998236,26.576492,79
+299,2020,Female,Saudi Arabia,Medicine and Surgery,Buraidah,43.981812,26.359231,79
+300,2016,Male,Yemen,Medicine and Surgery,Riyadh,46.675296,24.713552,79
+301,2016,Female,Saudi Arabia,Medicine and Surgery,Unknown - Saudi Arabia,45.079162,23.885942,79
+303,2016,Female,Saudi Arabia,Medicine and Surgery,Abha,42.511724,18.246468,79
+305,2017,Male,Saudi Arabia,Medicine and Surgery,Buraidah,43.981812,26.359231,78
+307,2021,Male,Saudi Arabia,Medicine and Surgery,Manama,50.5831,26.2167,77
+311,2017,Male,Saudi Arabia,Medicine and Surgery,Jazan,42.570567,16.889359,76
+313,2017,Female,Saudi Arabia,Dentistry and Related Specialties,Jeddah,39.192505,21.485811,76
+318,2020,Male,Saudi Arabia,Medicine and Surgery,Najran,44.228944,17.565604,75
+320,2021,Female,Bahrain,Medicine and Surgery,Manama,50.5831,26.2167,73
+324,2016,Female,Sudan,Medicine and Surgery,Riyadh,46.675296,24.713552,72
+325,2021,Female,Saudi Arabia,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,71
+326,2021,Male,Saudi Arabia,Dentistry and Related Specialties,Jeddah,39.192505,21.485811,71
+332,2018,Male,Saudi Arabia,Medicine and Surgery,Albahah,41.471273,20.021741,70
+333,2017,Male,Saudi Arabia,Medicine and Surgery,Dhahran,50.039302,26.236125,70
+336,2017,Female,Sudan,Medicine and Surgery,Riyadh,46.675296,24.713552,69
+337,2021,Male,Saudi Arabia,Medicine and Surgery,Unknown - Saudi Arabia,45.079162,23.885942,69
+340,2016,Male,Saudi Arabia,Dentistry and Related Specialties,Jeddah,39.192505,21.485811,69
+341,2018,Female,Saudi Arabia,Dentistry and Related Specialties,Jeddah,39.192505,21.485811,69
+342,2020,Female,Saudi Arabia,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,69
+344,2017,Male,Yemen,Medicine and Surgery,Riyadh,46.675296,24.713552,68
+347,2021,Male,Saudi Arabia,Medicine and Surgery,Alqatif  ,49.998236,26.576492,68
+351,2019,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Riyadh,46.675296,24.713552,67
+353,2017,Male,Saudi Arabia,Medicine and Surgery,Hofuf,49.588765,25.380026,67
+354,2016,Female,Saudi Arabia,Medicine and Surgery,Taif,40.424819,21.284078,67
+356,2020,Male,Saudi Arabia,Medicine and Surgery,Unknown - Saudi Arabia,45.079162,23.885942,66
+357,2020,Female,Bahrain,Medicine and Surgery,Manama,50.5831,26.2167,66
+360,2020,Male,Saudi Arabia,Nursing and Midwifery,Riyadh,46.675296,24.713552,65
+361,2019,Female,Saudi Arabia,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,65
+364,2020,Male,Saudi Arabia,Medicine and Surgery,Alqatif  ,49.998236,26.576492,65
+367,2019,Male,Saudi Arabia,Nursing and Midwifery,Riyadh,46.675296,24.713552,64
+369,2019,Female,Saudi Arabia,Medicine and Surgery,Buraidah,43.981812,26.359231,64
+371,2018,Female,Saudi Arabia,Nursing and Midwifery,Riyadh,46.675296,24.713552,64
+373,2016,Male,Saudi Arabia,Medicine and Surgery,Buraidah,43.981812,26.359231,63
+375,2017,Female,Saudi Arabia,Medicine and Surgery,Jazan,42.570567,16.889359,63
+378,2016,Female,Saudi Arabia,Dentistry and Related Specialties,Jeddah,39.192505,21.485811,62
+381,2021,Female,Saudi Arabia,Nursing and Midwifery,Jeddah,39.192505,21.485811,62
+382,2019,Male,Saudi Arabia,Medicine and Surgery,Unknown - Saudi Arabia,45.079162,23.885942,62
+383,2020,Male,Saudi Arabia,Dentistry and Related Specialties,Jeddah,39.192505,21.485811,61
+388,2017,Male,Saudi Arabia,Dentistry and Related Specialties,Jeddah,39.192505,21.485811,59
+390,2020,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Riyadh,46.675296,24.713552,59
+394,2016,Female,Saudi Arabia,Medicine and Surgery,Alqatif  ,49.998236,26.576492,58
+395,2017,Male,Saudi Arabia,Medicine and Surgery,Tabuk,36.566191,28.383508,58
+401,2018,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Riyadh,46.675296,24.713552,57
+402,2018,Female,Saudi Arabia,Medicine and Surgery,Tabuk,36.566191,28.383508,56
+403,2019,Male,Saudi Arabia,Dentistry and Related Specialties,Jeddah,39.192505,21.485811,56
+404,2018,Male,Saudi Arabia,Medicine and Surgery,Unknown - Saudi Arabia,45.079162,23.885942,56
+410,2018,Female,Sudan,Medicine and Surgery,Riyadh,46.675296,24.713552,54
+413,2019,Male,Saudi Arabia,Medicine and Surgery,Alqatif  ,49.998236,26.576492,54
+414,2016,Male,Saudi Arabia,Medicine and Surgery,Dhahran,50.039302,26.236125,54
+415,2019,Male,Saudi Arabia,Medicine and Surgery,Najran,44.228944,17.565604,53
+417,2016,Female,Saudi Arabia,Medicine and Surgery,Dhahran,50.039302,26.236125,53
+418,2020,Female,Saudi Arabia,Nursing and Midwifery,Jeddah,39.192505,21.485811,53
+419,2018,Female,Saudi Arabia,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,52
+421,2020,Male,Saudi Arabia,Medicine and Surgery,Manama,50.5831,26.2167,52
+424,2018,Female,Saudi Arabia,Medicine and Surgery,Buraidah,43.981812,26.359231,51
+426,2016,Male,Sudan,Medicine and Surgery,Riyadh,46.675296,24.713552,51
+428,2016,Male,Saudi Arabia,Medicine and Surgery,Jazan,42.570567,16.889359,51
+430,2017,Male,Sudan,Medicine and Surgery,Riyadh,46.675296,24.713552,50
+431,2016,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Riyadh,46.675296,24.713552,50
+432,2018,Male,Yemen,Medicine and Surgery,Riyadh,46.675296,24.713552,50
+434,2017,Male,Saudi Arabia,Medicine and Surgery,Albahah,41.471273,20.021741,49
+442,2017,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Riyadh,46.675296,24.713552,48
+443,2018,Male,Saudi Arabia,Dentistry and Related Specialties,Jeddah,39.192505,21.485811,48
+444,2016,Male,Saudi Arabia,Medicine and Surgery,Hofuf,49.588765,25.380026,48
+445,2018,Male,Saudi Arabia,Nursing and Midwifery,Riyadh,46.675296,24.713552,48
+447,2021,Male,Saudi Arabia,Nursing and Midwifery,Riyadh,46.675296,24.713552,47
+449,2017,Female,Saudi Arabia,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,47
+450,2019,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Riyadh,46.675296,24.713552,47
+451,2019,Female,Bahrain,Medicine and Surgery,Manama,50.5831,26.2167,47
+452,2019,Male,Yemen,Medicine and Surgery,Riyadh,46.675296,24.713552,46
+454,2022,Female,Saudi Arabia,Medicine and Surgery,Dammam,50.088794,26.420683,46
+455,2021,Male,Saudi Arabia,Medicine and Surgery,Hail,41.720824,27.51141,46
+461,2022,Male,Saudi Arabia,Medicine and Surgery,Makkah,39.857912,21.389082,45
+466,2018,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Riyadh,46.675296,24.713552,44
+468,2018,Male,Saudi Arabia,Medicine and Surgery,Alqatif  ,49.998236,26.576492,44
+469,2020,Male,Saudi Arabia,Medicine and Surgery,Hail,41.720824,27.51141,44
+472,2019,Male,Saudi Arabia,Medicine and Surgery,Manama,50.5831,26.2167,44
+477,2018,Male,Sudan,Medicine and Surgery,Riyadh,46.675296,24.713552,43
+478,2017,Female,Saudi Arabia,Medicine and Surgery,Tabuk,36.566191,28.383508,43
+481,2021,Female,Saudi Arabia,Medicine and Surgery,Jubail,49.568742,26.959771,42
+487,2019,Female,Sudan,Medicine and Surgery,Riyadh,46.675296,24.713552,41
+490,2021,Female,Saudi Arabia,Medicine and Surgery,Hofuf,49.588765,25.380026,40
+492,2021,Male,Saudi Arabia,Medicine and Surgery,Jubail,49.568742,26.959771,40
+495,2019,Female,Saudi Arabia,Medicine and Surgery,Hofuf,49.588765,25.380026,39
+501,2017,Male,Saudi Arabia,Medicine and Surgery,Unknown - Saudi Arabia,45.079162,23.885942,38
+503,2016,Female,Saudi Arabia,Medicine and Surgery,Jazan,42.570567,16.889359,38
+506,2020,Female,Saudi Arabia,Medicine and Surgery,Hofuf,49.588765,25.380026,37
+508,2017,Female,Saudi Arabia,Nursing and Midwifery,Riyadh,46.675296,24.713552,37
+512,2017,Female,Saudi Arabia,Medicine and Surgery,Buraidah,43.981812,26.359231,37
+514,2018,Male,Saudi Arabia,Medicine and Surgery,Najran,44.228944,17.565604,37
+516,2020,Female,Saudi Arabia,Medicine and Surgery,Jubail,49.568742,26.959771,36
+517,2020,Male,Saudi Arabia,Medicine and Surgery,Jubail,49.568742,26.959771,36
+520,2021,Female,Saudi Arabia,Medicine and Surgery,Hail,41.720824,27.51141,36
+521,2016,Male,Saudi Arabia,Medicine and Surgery,Tabuk,36.566191,28.383508,36
+527,2017,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Riyadh,46.675296,24.713552,35
+531,2016,Female,Saudi Arabia,Medicine and Surgery,Buraidah,43.981812,26.359231,35
+532,2020,Male,Saudi Arabia,Medicine and Surgery,Yanbu,38.155484,24.056528,35
+534,2019,Male,Saudi Arabia,Medicine and Surgery,Hail,41.720824,27.51141,35
+538,2016,Male,Saudi Arabia,Medicine and Surgery,Albahah,41.471273,20.021741,34
+540,2021,Female,Saudi Arabia,Medicine and Surgery,Manama,50.5831,26.2167,34
+541,2016,Female,Saudi Arabia,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,34
+542,2021,Male,Saudi Arabia,Medicine and Surgery,Yanbu,38.155484,24.056528,34
+545,2021,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Riyadh,46.675296,24.713552,34
+546,2016,Male,Saudi Arabia,Medicine and Surgery,Unknown - Saudi Arabia,45.079162,23.885942,34
+551,2020,Male,Saudi Arabia,Laboratories and Medical Technology,Riyadh,46.675296,24.713552,34
+555,2022,Male,Saudi Arabia,Medicine and Surgery,Dammam,50.088794,26.420683,33
+558,2021,Male,Saudi Arabia,Laboratories and Medical Technology,Riyadh,46.675296,24.713552,33
+562,2019,Female,Saudi Arabia,Medicine and Surgery,Jubail,49.568742,26.959771,33
+563,2017,Male,Saudi Arabia,Medicine and Surgery,Alqatif  ,49.998236,26.576492,33
+564,2018,Female,Saudi Arabia,Medicine and Surgery,Arar,41.059564,30.959945,33
+569,2019,Female,Saudi Arabia,Medicine and Surgery,Arar,41.059564,30.959945,32
+570,2020,Male,Yemen,Medicine and Surgery,Riyadh,46.675296,24.713552,32
+572,2020,Female,Saudi Arabia,Medicine and Surgery,Hail,41.720824,27.51141,32
+574,2018,Female,Bahrain,Medicine and Surgery,Manama,50.5831,26.2167,31
+579,2021,Male,Saudi Arabia,Medicine and Surgery,Alkharj  ,47.324788,24.157604,31
+581,2021,Female,Saudi Arabia,Nursing and Midwifery,Makkah,39.857912,21.389082,30
+582,2020,Female,Saudi Arabia,Medicine and Surgery,Arar,41.059564,30.959945,30
+583,2021,Female,Saudi Arabia,Medicine and Surgery,Yanbu,38.155484,24.056528,30
+587,2020,Female,Yemen,Medicine and Surgery,Jeddah,39.192505,21.485811,30
+588,2018,Male,Saudi Arabia,Medicine and Surgery,Hail,41.720824,27.51141,30
+592,2018,Male,Saudi Arabia,Medicine and Surgery,Manama,50.5831,26.2167,29
+593,2021,Male,Bahrain,Medicine and Surgery,Manama,50.5831,26.2167,29
+597,2018,Female,Saudi Arabia,Medicine and Surgery,Hofuf,49.588765,25.380026,29
+598,2021,Male,Saudi Arabia,Medicine and Surgery,Bisha,42.590167,19.976352,29
+601,2020,Male,Saudi Arabia,Medicine and Surgery,Bisha,42.590167,19.976352,29
+602,2022,Male,Saudi Arabia,Medicine and Surgery,Buraidah,43.981812,26.359231,29
+604,2017,Male,Saudi Arabia,Nursing and Midwifery,Riyadh,46.675296,24.713552,29
+608,2022,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Riyadh,46.675296,24.713552,28
+609,2016,Female,Yemen,Medicine and Surgery,Riyadh,46.675296,24.713552,28
+612,2017,Female,Yemen,Medicine and Surgery,Jeddah,39.192505,21.485811,28
+613,2021,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Jeddah,39.192505,21.485811,28
+615,2019,Female,Saudi Arabia,Nursing and Midwifery,Jeddah,39.192505,21.485811,28
+616,2016,Female,Yemen,Medicine and Surgery,Jeddah,39.192505,21.485811,28
+618,2019,Female,Yemen,Medicine and Surgery,Jeddah,39.192505,21.485811,27
+620,2016,Male,Syria,Medicine and Surgery,Riyadh,46.675296,24.713552,27
+623,2019,Male,Saudi Arabia,Medicine and Surgery,Yanbu,38.155484,24.056528,27
+626,2018,Female,Yemen,Medicine and Surgery,Jeddah,39.192505,21.485811,27
+628,2017,Female,Saudi Arabia,Nursing and Midwifery,Makkah,39.857912,21.389082,27
+630,2019,Male,Saudi Arabia,Medicine and Surgery,Jubail,49.568742,26.959771,27
+632,2019,Male,Sudan,Medicine and Surgery,Riyadh,46.675296,24.713552,26
+633,2016,Female,Saudi Arabia,Medicine and Surgery,Tabuk,36.566191,28.383508,26
+637,2020,Male,Saudi Arabia,Medicine and Surgery,Alkharj  ,47.324788,24.157604,26
+639,2019,Female,Saudi Arabia,Medicine and Surgery,Hail,41.720824,27.51141,26
+640,2020,Female,Saudi Arabia,Medicine and Surgery,Manama,50.5831,26.2167,26
+641,2020,Male,Saudi Arabia,Nursing and Midwifery,Jeddah,39.192505,21.485811,26
+642,2020,Female,Sudan,Medicine and Surgery,Riyadh,46.675296,24.713552,26
+643,2019,Male,Saudi Arabia,Laboratories and Medical Technology,Riyadh,46.675296,24.713552,26
+656,2018,Female,Saudi Arabia,Medicine and Surgery,Hail,41.720824,27.51141,25
+659,2020,Female,Saudi Arabia,Medicine and Surgery,Yanbu,38.155484,24.056528,25
+662,2018,Female,Saudi Arabia,Nursing and Midwifery,Makkah,39.857912,21.389082,24
+663,2016,Male,Palestine,Medicine and Surgery,Riyadh,46.675296,24.713552,24
+665,2016,Male,Saudi Arabia,Medicine and Surgery,Alqatif  ,49.998236,26.576492,24
+666,2021,Female,Yemen,Medicine and Surgery,Jeddah,39.192505,21.485811,24
+667,2018,Female,Saudi Arabia,Medicine and Surgery,Jubail,49.568742,26.959771,24
+669,2017,Male,Egypt,Medicine and Surgery,Riyadh,46.675296,24.713552,24
+671,2017,Female,Yemen,Medicine and Surgery,Riyadh,46.675296,24.713552,24
+673,2020,Male,Bahrain,Medicine and Surgery,Manama,50.5831,26.2167,24
+688,2017,Male,Syria,Medicine and Surgery,Riyadh,46.675296,24.713552,23
+692,2021,Female,Saudi Arabia,Nursing and Midwifery,Dammam,50.088794,26.420683,23
+693,2021,Female,Saudi Arabia,Medicine and Surgery,Arar,41.059564,30.959945,23
+699,2018,Male,Syria,Medicine and Surgery,Riyadh,46.675296,24.713552,23
+700,2021,Male,Yemen,Medicine and Surgery,Riyadh,46.675296,24.713552,23
+704,2021,Female,Saudi Arabia,Laboratories and Medical Technology,Riyadh,46.675296,24.713552,22
+707,2019,Male,Yemen,Medicine and Surgery,Jeddah,39.192505,21.485811,22
+709,2022,Male,Saudi Arabia,Medicine and Surgery,Abha,42.511724,18.246468,22
+711,2016,Male,Yemen,Medicine and Surgery,Jeddah,39.192505,21.485811,22
+714,2020,Female,Saudi Arabia,Nursing and Midwifery,Makkah,39.857912,21.389082,22
+718,2019,Male,Saudi Arabia,Medicine and Surgery,Bisha,42.590167,19.976352,22
+719,2019,Male,Bahrain,Medicine and Surgery,Manama,50.5831,26.2167,22
+721,2016,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Riyadh,46.675296,24.713552,22
+730,2018,Male,Yemen,Medicine and Surgery,Jeddah,39.192505,21.485811,22
+734,2018,Female,Yemen,Medicine and Surgery,Riyadh,46.675296,24.713552,22
+737,2018,Male,Egypt,Medicine and Surgery,Riyadh,46.675296,24.713552,22
+741,2021,Male,Saudi Arabia,Dentistry and Related Specialties,Madinah,39.569184,24.524654,21
+742,2017,Male,Yemen,Medicine and Surgery,Jeddah,39.192505,21.485811,21
+745,2019,Female,Saudi Arabia,Medicine and Surgery,Yanbu,38.155484,24.056528,21
+746,2019,Female,Saudi Arabia,Nursing and Midwifery,Makkah,39.857912,21.389082,21
+747,2017,Female,Saudi Arabia,Medicine and Surgery,Arar,41.059564,30.959945,21
+748,2017,Female,Saudi Arabia,Medicine and Surgery,Hofuf,49.588765,25.380026,21
+749,2021,Female,Saudi Arabia,Medicine and Surgery,Najran,44.228944,17.565604,21
+752,2016,Male,Syria,Medicine and Surgery,Jeddah,39.192505,21.485811,21
+754,2020,Male,Yemen,Medicine and Surgery,Jeddah,39.192505,21.485811,21
+756,2020,Male,Sudan,Medicine and Surgery,Riyadh,46.675296,24.713552,21
+762,2019,Male,Saudi Arabia,Nursing and Midwifery,Jeddah,39.192505,21.485811,21
+766,2020,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Riyadh,46.675296,24.713552,20
+767,2019,Male,Saudi Arabia,Medicine and Surgery,Alkharj  ,47.324788,24.157604,20
+771,2017,Male,Saudi Arabia,Medicine and Surgery,Hail,41.720824,27.51141,20
+776,2019,Female,Yemen,Medicine and Surgery,Riyadh,46.675296,24.713552,20
+777,2016,Male,Jordan,Medicine and Surgery,Riyadh,46.675296,24.713552,20
+783,2021,Male,Yemen,Medicine and Surgery,Jeddah,39.192505,21.485811,19
+786,2018,Male,Saudi Arabia,Medicine and Surgery,Arar,41.059564,30.959945,19
+790,2021,Female,Saudi Arabia,Dentistry and Related Specialties,Makkah,39.857912,21.389082,19
+792,2017,Male,Egypt,Medicine and Surgery,Jeddah,39.192505,21.485811,19
+793,2020,Female,United Arab Emirates,Medicine and Surgery,Dubai,55.28,25.252,19
+798,2019,Male,Saudi Arabia,Laboratories and Medical Technology,Jeddah,39.192505,21.485811,19
+800,2019,Male,Saudi Arabia,Dentistry and Related Specialties,Dammam,50.088794,26.420683,19
+801,2019,Male,Syria,Medicine and Surgery,Riyadh,46.675296,24.713552,19
+802,2021,Female,Saudi Arabia,Nursing and Midwifery,Buraidah,43.981812,26.359231,19
+803,2018,Male,Saudi Arabia,Medicine and Surgery,Yanbu,38.155484,24.056528,19
+807,2019,Male,Saudi Arabia,Medicine and Surgery,Arar,41.059564,30.959945,19
+809,2018,Female,Saudi Arabia,Nursing and Midwifery,Dammam,50.088794,26.420683,19
+812,2019,Female,Saudi Arabia,Nursing and Midwifery,Dammam,50.088794,26.420683,18
+815,2016,Male,Egypt,Medicine and Surgery,Jeddah,39.192505,21.485811,18
+818,2018,Male,Saudi Arabia,Medicine and Surgery,Alkharj  ,47.324788,24.157604,18
+819,2018,Male,Saudi Arabia,Nursing and Midwifery,Jeddah,39.192505,21.485811,18
+821,2020,Male,Saudi Arabia,Medicine and Surgery,Arar,41.059564,30.959945,18
+831,2017,Male,Saudi Arabia,Medicine and Surgery,Najran,44.228944,17.565604,18
+832,2020,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Jeddah,39.192505,21.485811,18
+833,2018,Male,Syria,Medicine and Surgery,Jeddah,39.192505,21.485811,18
+835,2017,Male,Syria,Medicine and Surgery,Jeddah,39.192505,21.485811,18
+836,2017,Male,Palestine,Medicine and Surgery,Riyadh,46.675296,24.713552,18
+837,2021,Female,United Arab Emirates,Medicine and Surgery,Dubai,55.28,25.252,18
+840,2019,Male,Egypt,Medicine and Surgery,Jeddah,39.192505,21.485811,17
+841,2020,Male,Saudi Arabia,Laboratories and Medical Technology,Jeddah,39.192505,21.485811,17
+843,2018,Male,Saudi Arabia,Dentistry and Related Specialties,Dammam,50.088794,26.420683,17
+847,2022,Male,Saudi Arabia,Medicine and Surgery,Taif,40.424819,21.284078,17
+850,2021,Female,Saudi Arabia,Dentistry and Related Specialties,Abha,42.511724,18.246468,17
+851,2021,Female,Saudi Arabia,Nursing and Midwifery,Madinah,39.569184,24.524654,17
+853,2018,Male,Saudi Arabia,Medicine and Surgery,Jubail,49.568742,26.959771,17
+854,2020,Male,Egypt,Medicine and Surgery,Jeddah,39.192505,21.485811,17
+855,2016,Female,Saudi Arabia,Medicine and Surgery,Hofuf,49.588765,25.380026,17
+856,2020,Female,Saudi Arabia,Dentistry and Related Specialties,Abha,42.511724,18.246468,17
+857,2018,Male,Palestine,Medicine and Surgery,Riyadh,46.675296,24.713552,17
+858,2018,Female,Egypt,Medicine and Surgery,Riyadh,46.675296,24.713552,17
+859,2018,Female,Saudi Arabia,Nursing and Midwifery,Jeddah,39.192505,21.485811,17
+860,2021,Male,Saudi Arabia,Medicine and Surgery,Hafr Albatin,45.962711,28.378415,17
+863,2022,Female,Saudi Arabia,Medicine and Surgery,Makkah,39.857912,21.389082,17
+868,2017,Female,Egypt,Medicine and Surgery,Riyadh,46.675296,24.713552,16
+870,2020,Male,Palestine,Medicine and Surgery,Riyadh,46.675296,24.713552,16
+872,2019,Female,Saudi Arabia,Medicine and Surgery,Manama,50.5831,26.2167,16
+873,2016,Female,Egypt,Medicine and Surgery,Riyadh,46.675296,24.713552,16
+875,2022,Male,Saudi Arabia,Medicine and Surgery,Madinah,39.569184,24.524654,16
+878,2016,Female,Sudan,Medicine and Surgery,Jeddah,39.192505,21.485811,16
+879,2018,Male,Bahrain,Medicine and Surgery,Manama,50.5831,26.2167,16
+880,2021,Female,Saudi Arabia,Laboratories and Medical Technology,Jeddah,39.192505,21.485811,16
+881,2017,Male,Jordan,Medicine and Surgery,Riyadh,46.675296,24.713552,16
+884,2018,Male,Egypt,Medicine and Surgery,Jeddah,39.192505,21.485811,16
+886,2017,Female,Bahrain,Medicine and Surgery,Manama,50.5831,26.2167,16
+890,2020,Female,Saudi Arabia,Medicine and Surgery,Najran,44.228944,17.565604,16
+891,2019,Female,United Arab Emirates,Medicine and Surgery,Dubai,55.28,25.252,16
+893,2020,Female,Saudi Arabia,Nursing and Midwifery,Dammam,50.088794,26.420683,16
+894,2018,Male,Saudi Arabia,Dentistry and Related Specialties,Abha,42.511724,18.246468,16
+895,2016,Male,Pakistan,Medicine and Surgery,Riyadh,46.675296,24.713552,16
+896,2022,Male,Saudi Arabia,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,16
+898,2021,Female,Sudan,Medicine and Surgery,Riyadh,46.675296,24.713552,16
+902,2018,Male,Saudi Arabia,Medicine and Surgery,Bisha,42.590167,19.976352,16
+904,2022,Female,Saudi Arabia,Medicine and Surgery,Khobar,50.080072,26.182911,16
+906,2021,Male,Saudi Arabia,Laboratories and Medical Technology,Jeddah,39.192505,21.485811,16
+909,2021,Male,Saudi Arabia,Nursing and Midwifery,Jeddah,39.192505,21.485811,15
+910,2016,Female,Palestine,Medicine and Surgery,Jeddah,39.192505,21.485811,15
+912,2017,Male,Saudi Arabia,Dentistry and Related Specialties,Abha,42.511724,18.246468,15
+913,2017,Male,Saudi Arabia,Dentistry and Related Specialties,Dammam,50.088794,26.420683,15
+915,2016,Male,Palestine,Medicine and Surgery,Jeddah,39.192505,21.485811,15
+916,2020,Female,Saudi Arabia,Nursing and Midwifery,Madinah,39.569184,24.524654,15
+917,2018,Male,Saudi Arabia,Laboratories and Medical Technology,Jeddah,39.192505,21.485811,15
+918,2020,Male,Saudi Arabia,Medicine and Surgery,Jouf,39.320624,29.887356,15
+922,2018,Female,Saudi Arabia,Medicine and Surgery,Yanbu,38.155484,24.056528,15
+924,2019,Male,Saudi Arabia,Dentistry and Related Specialties,Abha,42.511724,18.246468,15
+925,2019,Male,Palestine,Medicine and Surgery,Riyadh,46.675296,24.713552,15
+926,2021,Male,Egypt,Medicine and Surgery,Jeddah,39.192505,21.485811,15
+928,2016,Male,Kuwait,Medicine and Surgery,Riyadh,46.675296,24.713552,15
+930,2017,Male,Palestine,Medicine and Surgery,Jeddah,39.192505,21.485811,15
+931,2017,Male,Saudi Arabia,Laboratories and Medical Technology,Riyadh,46.675296,24.713552,15
+933,2019,Female,Egypt,Medicine and Surgery,Jeddah,39.192505,21.485811,15
+937,2016,Male,Egypt,Medicine and Surgery,Riyadh,46.675296,24.713552,15
+940,2017,Male,Pakistan,Medicine and Surgery,Riyadh,46.675296,24.713552,15
+942,2019,Male,Saudi Arabia,Nursing and Midwifery,Dammam,50.088794,26.420683,15
+943,2017,Female,Egypt,Medicine and Surgery,Jeddah,39.192505,21.485811,15
+944,2020,Female,Saudi Arabia,Dentistry and Related Specialties,Dammam,50.088794,26.420683,14
+945,2020,Male,Saudi Arabia,Nursing and Midwifery,Madinah,39.569184,24.524654,14
+946,2020,Male,Saudi Arabia,Nursing and Midwifery,Dammam,50.088794,26.420683,14
+948,2018,Male,Saudi Arabia,Nursing and Midwifery,Makkah,39.857912,21.389082,14
+949,2019,Male,Egypt,Medicine and Surgery,Riyadh,46.675296,24.713552,14
+950,2020,Male,Saudi Arabia,Nursing and Midwifery,Taif,40.424819,21.284078,14
+951,2019,Male,Syria,Medicine and Surgery,Jeddah,39.192505,21.485811,14
+955,2017,Male,Saudi Arabia,Nursing and Midwifery,Makkah,39.857912,21.389082,14
+956,2019,Female,Egypt,Medicine and Surgery,Riyadh,46.675296,24.713552,14
+960,2021,Male,Sudan,Medicine and Surgery,Riyadh,46.675296,24.713552,14
+963,2021,Male,Saudi Arabia,Dentistry and Related Specialties,Taif,40.424819,21.284078,14
+964,2020,Female,Saudi Arabia,Nursing and Midwifery,Buraidah,43.981812,26.359231,14
+966,2017,Male,Saudi Arabia,Medicine and Surgery,Arar,41.059564,30.959945,14
+969,2021,Female,Saudi Arabia,Dentistry and Related Specialties,Dammam,50.088794,26.420683,14
+971,2019,Female,Saudi Arabia,Laboratories and Medical Technology,Jeddah,39.192505,21.485811,14
+974,2017,Female,Sudan,Medicine and Surgery,Jeddah,39.192505,21.485811,14
+976,2021,Male,Saudi Arabia,Medicine and Surgery,Unaizah,43.987546,26.090731,14
+978,2021,Male,Palestine,Medicine and Surgery,Riyadh,46.675296,24.713552,14
+980,2018,Female,Egypt,Medicine and Surgery,Jeddah,39.192505,21.485811,14
+982,2021,Male,Saudi Arabia,Medicine and Surgery,Jouf,39.320624,29.887356,14
+983,2021,Female,Saudi Arabia,Medicine and Surgery,Albahah,41.471273,20.021741,14
+985,2016,Male,Yemen,Medicine and Surgery,Makkah,39.857912,21.389082,14
+991,2018,Male,Jordan,Medicine and Surgery,Riyadh,46.675296,24.713552,13
+992,2017,Male,Saudi Arabia,Nursing and Midwifery,Jeddah,39.192505,21.485811,13
+993,2021,Male,Saudi Arabia,Nursing and Midwifery,Taif,40.424819,21.284078,13
+995,2021,Male,Saudi Arabia,Nursing and Midwifery,Makkah,39.857912,21.389082,13
+996,2020,Female,Saudi Arabia,Laboratories and Medical Technology,Riyadh,46.675296,24.713552,13
+999,2019,Female,Saudi Arabia,Dentistry and Related Specialties,Dammam,50.088794,26.420683,13
+1000,2019,Male,Kuwait,Medicine and Surgery,Riyadh,46.675296,24.713552,13
+1001,2021,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Dammam,50.088794,26.420683,13
+1003,2020,Male,Syria,Medicine and Surgery,Riyadh,46.675296,24.713552,13
+1004,2016,Male,Saudi Arabia,Dentistry and Related Specialties,Dammam,50.088794,26.420683,13
+1005,2019,Female,Palestine,Medicine and Surgery,Jeddah,39.192505,21.485811,13
+1006,2021,Female,Saudi Arabia,Medicine and Surgery,Jouf,39.320624,29.887356,13
+1009,2020,Male,Saudi Arabia,Medicine and Surgery,Hafr Albatin,45.962711,28.378415,13
+1010,2019,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Jeddah,39.192505,21.485811,13
+1012,2018,Male,Saudi Arabia,Laboratories and Medical Technology,Riyadh,46.675296,24.713552,13
+1014,2017,Male,Kuwait,Medicine and Surgery,Riyadh,46.675296,24.713552,13
+1018,2020,Male,Saudi Arabia,Medicine and Surgery,Unaizah,43.987546,26.090731,13
+1021,2020,Male,Saudi Arabia,Dentistry and Related Specialties,Dammam,50.088794,26.420683,13
+1022,2019,Female,Saudi Arabia,Dentistry and Related Specialties,Abha,42.511724,18.246468,13
+1023,2021,Female,Saudi Arabia,Dentistry and Related Specialties,Madinah,39.569184,24.524654,13
+1024,2020,Female,Saudi Arabia,Dentistry and Related Specialties,Makkah,39.857912,21.389082,13
+1025,2018,Female,Palestine,Medicine and Surgery,Jeddah,39.192505,21.485811,13
+1028,2017,Female,Palestine,Medicine and Surgery,Jeddah,39.192505,21.485811,13
+1031,2018,Male,Palestine,Medicine and Surgery,Jeddah,39.192505,21.485811,12
+1033,2017,Male,Saudi Arabia,Unknown,Riyadh,46.675296,24.713552,12
+1035,2018,Male,Saudi Arabia,Nursing and Midwifery,Dammam,50.088794,26.420683,12
+1036,2017,Female,Saudi Arabia,Medicine and Surgery,Hail,41.720824,27.51141,12
+1040,2016,Male,Saudi Arabia,Laboratories and Medical Technology,Jeddah,39.192505,21.485811,12
+1042,2017,Male,Saudi Arabia,Laboratories and Medical Technology,Jeddah,39.192505,21.485811,12
+1043,2019,Male,Saudi Arabia,Medicine and Surgery,Jouf,39.320624,29.887356,12
+1044,2020,Female,Egypt,Medicine and Surgery,Jeddah,39.192505,21.485811,12
+1045,2020,Male,Saudi Arabia,Nursing and Midwifery,Makkah,39.857912,21.389082,12
+1046,2020,Female,Yemen,Medicine and Surgery,Riyadh,46.675296,24.713552,12
+1049,2016,Female,Sudan,Medicine and Surgery,Buraidah,43.981812,26.359231,12
+1050,2018,Female,Saudi Arabia,Medicine and Surgery,Manama,50.5831,26.2167,12
+1052,2020,Male,Egypt,Medicine and Surgery,Riyadh,46.675296,24.713552,12
+1053,2020,Female,Egypt,Medicine and Surgery,Riyadh,46.675296,24.713552,12
+1055,2017,Female,Sudan,Medicine and Surgery,Buraidah,43.981812,26.359231,12
+1056,2019,Female,Saudi Arabia,Medicine and Surgery,Najran,44.228944,17.565604,12
+1057,2016,Female,Saudi Arabia,Nursing and Midwifery,Makkah,39.857912,21.389082,12
+1058,2017,Female,Saudi Arabia,Nursing and Midwifery,Dammam,50.088794,26.420683,12
+1059,2016,Male,Saudi Arabia,Unknown,Riyadh,46.675296,24.713552,12
+1060,2018,Male,Saudi Arabia,Unknown,Riyadh,46.675296,24.713552,12
+1061,2017,Male,Saudi Arabia,Medicine and Surgery,Manama,50.5831,26.2167,12
+1062,2017,Female,Saudi Arabia,Medicine and Surgery,Yanbu,38.155484,24.056528,12
+1065,2022,Male,Yemen,Medicine and Surgery,Riyadh,46.675296,24.713552,12
+1068,2021,Male,Saudi Arabia,Dentistry and Related Specialties,Makkah,39.857912,21.389082,12
+1069,2022,Male,Sudan,Medicine and Surgery,Riyadh,46.675296,24.713552,12
+1072,2021,Male,Saudi Arabia,Medicine and Surgery,Alquriyat,37.361353,31.329635,12
+1076,2022,Female,Saudi Arabia,Medicine and Surgery,Madinah,39.569184,24.524654,12
+1077,2021,Male,Saudi Arabia,Nursing and Midwifery,Madinah,39.569184,24.524654,12
+1078,2020,Female,Saudi Arabia,Laboratories and Medical Technology,Jeddah,39.192505,21.485811,11
+1079,2020,Female,Saudi Arabia,Dentistry and Related Specialties,Madinah,39.569184,24.524654,11
+1082,2017,Female,Saudi Arabia,Laboratories and Medical Technology,Jeddah,39.192505,21.485811,11
+1083,2016,Male,Saudi Arabia,Laboratories and Medical Technology,Riyadh,46.675296,24.713552,11
+1090,2020,Female,Saudi Arabia,Medicine and Surgery,Albahah,41.471273,20.021741,11
+1093,2022,Male,Saudi Arabia,Medicine and Surgery,Khobar,50.080072,26.182911,11
+1095,2016,Female,Saudi Arabia,Unknown,Riyadh,46.675296,24.713552,11
+1097,2021,Male,Saudi Arabia,Medicine and Surgery,Arar,41.059564,30.959945,11
+1098,2018,Male,Kuwait,Medicine and Surgery,Riyadh,46.675296,24.713552,11
+1099,2020,Male,Saudi Arabia,Unknown,Riyadh,46.675296,24.713552,11
+1101,2017,Female,Jordan,Medicine and Surgery,Riyadh,46.675296,24.713552,11
+1104,2021,Male,Saudi Arabia,Nursing and Midwifery,Dammam,50.088794,26.420683,11
+1105,2020,Male,Kuwait,Medicine and Surgery,Riyadh,46.675296,24.713552,11
+1106,2016,Female,Egypt,Medicine and Surgery,Jeddah,39.192505,21.485811,11
+1109,2018,Female,Pakistan,Medicine and Surgery,Dubai,55.28,25.252,11
+1110,2021,Male,Saudi Arabia,Dentistry and Related Specialties,Dammam,50.088794,26.420683,11
+1111,2017,Male,Yemen,Medicine and Surgery,Makkah,39.857912,21.389082,11
+1118,2020,Male,Saudi Arabia,Dentistry and Related Specialties,Makkah,39.857912,21.389082,11
+1120,2017,Female,Saudi Arabia,Medicine and Surgery,Jubail,49.568742,26.959771,11
+1123,2021,Female,Egypt,Medicine and Surgery,Riyadh,46.675296,24.713552,11
+1124,2017,Male,Saudi Arabia,Medicine and Surgery,Yanbu,38.155484,24.056528,11
+1128,2019,Male,Saudi Arabia,Unknown,Riyadh,46.675296,24.713552,11
+1129,2020,Male,Saudi Arabia,Dentistry and Related Specialties,Madinah,39.569184,24.524654,11
+1132,2017,Female,Saudi Arabia,Unknown,Riyadh,46.675296,24.713552,10
+1133,2018,Female,Jordan,Medicine and Surgery,Riyadh,46.675296,24.713552,10
+1134,2016,Female,India,Medicine and Surgery,Riyadh,46.675296,24.713552,10
+1135,2022,Female,Sudan,Medicine and Surgery,Riyadh,46.675296,24.713552,10
+1137,2016,Male,Saudi Arabia,Medicine and Surgery,Hail,41.720824,27.51141,10
+1138,2018,Female,Saudi Arabia,Laboratories and Medical Technology,Jeddah,39.192505,21.485811,10
+1141,2022,Male,Saudi Arabia,Medicine and Surgery,Dhahran,50.039302,26.236125,10
+1144,2019,Female,Bahrain,Medicine and Surgery,Riyadh,46.675296,24.713552,10
+1145,2019,Male,Saudi Arabia,Nursing and Midwifery,Najran,44.228944,17.565604,10
+1147,2016,Female,Saudi Arabia,Medicine and Surgery,Arar,41.059564,30.959945,10
+1148,2022,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Riyadh,46.675296,24.713552,10
+1149,2016,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Jeddah,39.192505,21.485811,10
+1152,2019,Male,Saudi Arabia,Dentistry and Related Specialties,Madinah,39.569184,24.524654,10
+1155,2019,Female,Jordan,Medicine and Surgery,Riyadh,46.675296,24.713552,10
+1156,2018,Female,Saudi Arabia,Dentistry and Related Specialties,Abha,42.511724,18.246468,10
+1157,2018,Male,Saudi Arabia,Dentistry and Related Specialties,Madinah,39.569184,24.524654,10
+1159,2017,Male,Bahrain,Medicine and Surgery,Manama,50.5831,26.2167,10
+1160,2019,Female,Saudi Arabia,Nursing and Midwifery,Madinah,39.569184,24.524654,10
+1163,2019,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Jeddah,39.192505,21.485811,10
+1165,2019,Male,Saudi Arabia,Dentistry and Related Specialties,Makkah,39.857912,21.389082,10
+1166,2017,Female,Pakistan,Medicine and Surgery,Dubai,55.28,25.252,10
+1169,2021,Male,Saudi Arabia,Dentistry and Related Specialties,Dhahran,50.039302,26.236125,10
+1170,2019,Male,Jordan,Medicine and Surgery,Riyadh,46.675296,24.713552,10
+1171,2020,Female,Saudi Arabia,Medicine and Surgery,Jouf,39.320624,29.887356,10
+1177,2016,Female,Pakistan,Medicine and Surgery,Riyadh,46.675296,24.713552,10
+1179,2017,Male,Saudi Arabia,Medicine and Surgery,Jubail,49.568742,26.959771,10
+1180,2019,Female,Saudi Arabia,Dentistry and Related Specialties,Madinah,39.569184,24.524654,10
+1181,2017,Male,Saudi Arabia,Medicine and Surgery,Bisha,42.590167,19.976352,10
+1182,2019,Female,Saudi Arabia,Dentistry and Related Specialties,Makkah,39.857912,21.389082,10
+1187,2021,Female,Saudi Arabia,Medicine and Surgery,Alkharj  ,47.324788,24.157604,10
+1192,2019,Male,Saudi Arabia,Nursing and Midwifery,Madinah,39.569184,24.524654,10
+1194,2017,Female,Saudi Arabia,Nursing and Midwifery,Jeddah,39.192505,21.485811,10
+1195,2018,Male,Saudi Arabia,Nursing and Midwifery,Buraidah,43.981812,26.359231,10
+1196,2017,Male,Saudi Arabia,Medicine and Surgery,Alkharj  ,47.324788,24.157604,10
+1197,2018,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Jeddah,39.192505,21.485811,10
+1201,2021,Male,Egypt,Medicine and Surgery,Riyadh,46.675296,24.713552,9
+1204,2016,Female,Saudi Arabia,Dentistry and Related Specialties,Dammam,50.088794,26.420683,9
+1205,2016,Female,Saudi Arabia,Laboratories and Medical Technology,Jeddah,39.192505,21.485811,9
+1211,2018,Female,United Arab Emirates,Medicine and Surgery,Dubai,55.28,25.252,9
+1212,2016,Female,Saudi Arabia,Medicine and Surgery,Jubail,49.568742,26.959771,9
+1214,2017,Female,United Arab Emirates,Medicine and Surgery,Dubai,55.28,25.252,9
+1216,2018,Female,Syria,Medicine and Surgery,Riyadh,46.675296,24.713552,9
+1217,2020,Male,Saudi Arabia,Dentistry and Related Specialties,Taif,40.424819,21.284078,9
+1221,2016,Female,Jordan,Medicine and Surgery,Riyadh,46.675296,24.713552,9
+1223,2016,Female,Saudi Arabia,Medicine and Surgery,Yanbu,38.155484,24.056528,9
+1225,2020,Male,Saudi Arabia,Medicine and Surgery,Alquriyat,37.361353,31.329635,9
+1227,2021,Female,Egypt,Medicine and Surgery,Jeddah,39.192505,21.485811,9
+1230,2019,Female,Pakistan,Medicine and Surgery,Dubai,55.28,25.252,9
+1231,2019,Female,Syria,Medicine and Surgery,Riyadh,46.675296,24.713552,9
+1234,2022,Male,Egypt,Medicine and Surgery,Riyadh,46.675296,24.713552,9
+1235,2016,Female,Syria,Medicine and Surgery,Riyadh,46.675296,24.713552,9
+1239,2017,Male,Saudi Arabia,Dentistry and Related Specialties,Makkah,39.857912,21.389082,9
+1240,2018,Male,Saudi Arabia,Nursing and Midwifery,Madinah,39.569184,24.524654,9
+1241,2021,Female,Saudi Arabia,Nursing and Midwifery,Najran,44.228944,17.565604,9
+1243,2019,Male,Saudi Arabia,Medicine and Surgery,Unaizah,43.987546,26.090731,9
+1244,2021,Male,Syria,Medicine and Surgery,Riyadh,46.675296,24.713552,9
+1245,2021,Female,Saudi Arabia,Nursing and Midwifery,Jazan,42.570567,16.889359,9
+1247,2021,Female,Bahrain,Medicine and Surgery,Riyadh,46.675296,24.713552,9
+1248,2021,Male,Saudi Arabia,Dentistry and Related Specialties,Najran,44.228944,17.565604,9
+1250,2018,Male,Saudi Arabia,Nursing and Midwifery,Yanbu,38.155484,24.056528,9
+1256,2017,Male,Saudi Arabia,Nursing and Midwifery,Buraidah,43.981812,26.359231,9
+1259,2020,Female,Bahrain,Medicine and Surgery,Riyadh,46.675296,24.713552,9
+1271,2022,Male,Saudi Arabia,Medicine and Surgery,Alkharj  ,47.324788,24.157604,9
+1272,2019,Male,Saudi Arabia,Nursing and Midwifery,Yanbu,38.155484,24.056528,9
+1274,2021,Female,Saudi Arabia,Dentistry and Related Specialties,Buraidah,43.981812,26.359231,9
+1275,2021,Male,Kuwait,Medicine and Surgery,Riyadh,46.675296,24.713552,9
+1277,2020,Male,Saudi Arabia,Laboratories and Medical Technology,Madinah,39.569184,24.524654,8
+1280,2016,Female,Saudi Arabia,Nursing and Midwifery,Riyadh,46.675296,24.713552,8
+1281,2020,Male,Saudi Arabia,Dentistry and Related Specialties,Al-Ahsa,49.365315,21.91133,8
+1282,2021,Male,Saudi Arabia,Nursing and Midwifery,Albahah,41.471273,20.021741,8
+1283,2019,Male,Saudi Arabia,Medicine and Surgery,Hafr Albatin,45.962711,28.378415,8
+1285,2017,Female,Saudi Arabia,Medicine and Surgery,Manama,50.5831,26.2167,8
+1287,2019,Female,Saudi Arabia,Nursing and Midwifery,Buraidah,43.981812,26.359231,8
+1288,2020,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Jeddah,39.192505,21.485811,8
+1289,2018,Male,Saudi Arabia,Dentistry and Related Specialties,Makkah,39.857912,21.389082,8
+1292,2016,Female,Pakistan,Medicine and Surgery,Dubai,55.28,25.252,8
+1293,2022,Male,Saudi Arabia,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,8
+1294,2020,Male,Pakistan,Medicine and Surgery,Jeddah,39.192505,21.485811,8
+1295,2018,Male,Saudi Arabia,Laboratories and Medical Technology,Madinah,39.569184,24.524654,8
+1296,2022,Female,Yemen,Medicine and Surgery,Riyadh,46.675296,24.713552,8
+1297,2020,Male,Saudi Arabia,Nursing and Midwifery,Buraidah,43.981812,26.359231,8
+1298,2021,Male,Saudi Arabia,Dentistry and Related Specialties,Abha,42.511724,18.246468,8
+1299,2017,Female,Pakistan,Medicine and Surgery,Riyadh,46.675296,24.713552,8
+1301,2020,Female,Jordan,Medicine and Surgery,Riyadh,46.675296,24.713552,8
+1305,2019,Female,Saudi Arabia,Nursing and Midwifery,Dhahran,50.039302,26.236125,8
+1308,2021,Male,Pakistan,Medicine and Surgery,Jeddah,39.192505,21.485811,8
+1309,2017,Male,Saudi Arabia,Laboratories and Medical Technology,Madinah,39.569184,24.524654,8
+1310,2017,Male,Saudi Arabia,Dentistry and Related Specialties,Madinah,39.569184,24.524654,8
+1314,2016,Male,Saudi Arabia,Dentistry and Related Specialties,Makkah,39.857912,21.389082,8
+1316,2022,Male,Kuwait,Medicine and Surgery,Riyadh,46.675296,24.713552,8
+1319,2021,Male,Syria,Medicine and Surgery,Jeddah,39.192505,21.485811,8
+1321,2018,Female,Saudi Arabia,Medicine and Surgery,Najran,44.228944,17.565604,8
+1322,2017,Male,Yemen,Medicine and Surgery,Dammam,50.088794,26.420683,8
+1323,2021,Male,Saudi Arabia,Laboratories and Medical Technology,Madinah,39.569184,24.524654,8
+1326,2020,Female,Palestine,Medicine and Surgery,Jeddah,39.192505,21.485811,8
+1329,2020,Male,United Arab Emirates,Medicine and Surgery,Dubai,55.28,25.252,8
+1330,2018,Male,Saudi Arabia,Nursing and Midwifery,Jazan,42.570567,16.889359,8
+1333,2019,Male,Pakistan,Medicine and Surgery,Jeddah,39.192505,21.485811,8
+1334,2018,Female,Sudan,Medicine and Surgery,Buraidah,43.981812,26.359231,8
+1335,2021,Female,India,Medicine and Surgery,Dubai,55.28,25.252,8
+1337,2021,Female,Yemen,Medicine and Surgery,Riyadh,46.675296,24.713552,8
+1338,2021,Male,Jordan,Medicine and Surgery,Riyadh,46.675296,24.713552,8
+1339,2018,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Jeddah,39.192505,21.485811,8
+1340,2018,Male,Saudi Arabia,Medicine and Surgery,Jouf,39.320624,29.887356,8
+1343,2019,Male,Saudi Arabia,Nursing and Midwifery,Jazan,42.570567,16.889359,8
+1345,2018,Male,Pakistan,Medicine and Surgery,Riyadh,46.675296,24.713552,8
+1350,2016,Female,Sudan,Medicine and Surgery,Tabuk,36.566191,28.383508,8
+1352,2022,Female,Egypt,Medicine and Surgery,Riyadh,46.675296,24.713552,8
+1356,2018,Female,Yemen,Medicine and Surgery,Makkah,39.857912,21.389082,8
+1358,2016,Male,Yemen,Medicine and Surgery,Najran,44.228944,17.565604,8
+1361,2018,Female,Bahrain,Medicine and Surgery,Riyadh,46.675296,24.713552,8
+1362,2020,Male,Syria,Medicine and Surgery,Jeddah,39.192505,21.485811,8
+1364,2021,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Jeddah,39.192505,21.485811,8
+1371,2019,Female,Yemen,Medicine and Surgery,Makkah,39.857912,21.389082,7
+1373,2018,Female,Sudan,Medicine and Surgery,Jeddah,39.192505,21.485811,7
+1374,2020,Female,Saudi Arabia,Nursing and Midwifery,Jazan,42.570567,16.889359,7
+1376,2020,Male,Immigrant Tribes,Medicine and Surgery,Riyadh,46.675296,24.713552,7
+1384,2022,Female,Saudi Arabia,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,7
+1389,2018,Female,Saudi Arabia,Unknown,Riyadh,46.675296,24.713552,7
+1391,2019,Male,Palestine,Medicine and Surgery,Jeddah,39.192505,21.485811,7
+1394,2021,Female,Saudi Arabia,Medicine and Surgery,Unaizah,43.987546,26.090731,7
+1396,2019,Male,Saudi Arabia,Medicine and Surgery,Alquriyat,37.361353,31.329635,7
+1399,2018,Male,Yemen,Medicine and Surgery,Dammam,50.088794,26.420683,7
+1401,2021,Female,Saudi Arabia,Nursing and Midwifery,Taif,40.424819,21.284078,7
+1402,2020,Female,Syria,Medicine and Surgery,Riyadh,46.675296,24.713552,7
+1404,2017,Female,Saudi Arabia,Dentistry and Related Specialties,Abha,42.511724,18.246468,7
+1407,2018,Female,Kuwait,Medicine and Surgery,Riyadh,46.675296,24.713552,7
+1408,2019,Male,Immigrant Tribes,Medicine and Surgery,Riyadh,46.675296,24.713552,7
+1410,2016,Female,United Arab Emirates,Medicine and Surgery,Dubai,55.28,25.252,7
+1413,2019,Female,Kuwait,Medicine and Surgery,Riyadh,46.675296,24.713552,7
+1414,2019,Male,Saudi Arabia,Dentistry and Related Specialties,Khamis Mushait,42.766233,18.309339,7
+1415,2022,Female,Saudi Arabia,Medicine and Surgery,Dhahran,50.039302,26.236125,7
+1418,2018,Female,Saudi Arabia,Nursing and Midwifery,Dhahran,50.039302,26.236125,7
+1419,2020,Male,Jordan,Medicine and Surgery,Riyadh,46.675296,24.713552,7
+1420,2021,Male,Saudi Arabia,Dentistry and Related Specialties,Al-Ahsa,49.365315,21.91133,7
+1422,2022,Male,Saudi Arabia,Medicine and Surgery,Jouf,39.320624,29.887356,7
+1427,2021,Female,Saudi Arabia,Unknown,Riyadh,46.675296,24.713552,7
+1429,2016,Male,Saudi Arabia,Medicine and Surgery,Alkharj  ,47.324788,24.157604,7
+1430,2022,Male,Saudi Arabia,Dentistry and Related Specialties,Madinah,39.569184,24.524654,7
+1431,2021,Male,Saudi Arabia,Dentistry and Related Specialties,Buraidah,43.981812,26.359231,7
+1432,2020,Female,Pakistan,Medicine and Surgery,Dubai,55.28,25.252,7
+1433,2016,Male,Saudi Arabia,Medicine and Surgery,Najran,44.228944,17.565604,7
+1434,2020,Male,Saudi Arabia,Dentistry and Related Specialties,Dhahran,50.039302,26.236125,7
+1436,2018,Male,Saudi Arabia,Dentistry and Related Specialties,Khamis Mushait,42.766233,18.309339,7
+1438,2017,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Jeddah,39.192505,21.485811,7
+1442,2019,Female,Saudi Arabia,Medicine and Surgery,Jouf,39.320624,29.887356,7
+1443,2021,Female,Jordan,Medicine and Surgery,Riyadh,46.675296,24.713552,7
+1446,2017,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Jeddah,39.192505,21.485811,7
+1447,2018,Female,India,Medicine and Surgery,Jeddah,39.192505,21.485811,7
+1449,2017,Male,India,Medicine and Surgery,Riyadh,46.675296,24.713552,7
+1455,2019,Female,Saudi Arabia,Medicine and Surgery,Albahah,41.471273,20.021741,7
+1460,2020,Male,Saudi Arabia,Nursing and Midwifery,Yanbu,38.155484,24.056528,7
+1462,2017,Female,Syria,Medicine and Surgery,Riyadh,46.675296,24.713552,7
+1464,2017,Male,Yemen,Medicine and Surgery,Najran,44.228944,17.565604,7
+1467,2022,Female,Saudi Arabia,Medicine and Surgery,Unknown - Saudi Arabia,45.079162,23.885942,7
+1469,2019,Female,India,Medicine and Surgery,Dubai,55.28,25.252,7
+1474,2019,Female,Sudan,Medicine and Surgery,Jeddah,39.192505,21.485811,7
+1475,2021,Male,Saudi Arabia,Dentistry and Related Specialties,Hail,41.720824,27.51141,6
+1477,2016,Female,Sudan,Medicine and Surgery,Abha,42.511724,18.246468,6
+1478,2021,Female,Saudi Arabia,Dentistry and Related Specialties,Dhahran,50.039302,26.236125,6
+1479,2017,Female,Bahrain,Medicine and Surgery,Riyadh,46.675296,24.713552,6
+1481,2020,Male,Federated States Of Micronesia,Medicine and Surgery,Riyadh,46.675296,24.713552,6
+1485,2016,Male,Saudi Arabia,Dentistry and Related Specialties,Madinah,39.569184,24.524654,6
+1487,2018,Female,Saudi Arabia,Dentistry and Related Specialties,Madinah,39.569184,24.524654,6
+1489,2018,Male,Saudi Arabia,Nursing and Midwifery,Najran,44.228944,17.565604,6
+1490,2018,Female,Saudi Arabia,Dentistry and Related Specialties,Dammam,50.088794,26.420683,6
+1491,2018,Male,India,Medicine and Surgery,Riyadh,46.675296,24.713552,6
+1493,2016,Male,Sudan,Medicine and Surgery,Buraidah,43.981812,26.359231,6
+1495,2022,Male,Palestine,Medicine and Surgery,Riyadh,46.675296,24.713552,6
+1500,2018,Male,Pakistan,Medicine and Surgery,Jeddah,39.192505,21.485811,6
+1503,2019,Female,Saudi Arabia,Laboratories and Medical Technology,Riyadh,46.675296,24.713552,6
+1505,2021,Male,Saudi Arabia,Dentistry and Related Specialties,Arar,41.059564,30.959945,6
+1509,2016,Male,Saudi Arabia,Dentistry and Related Specialties,Abha,42.511724,18.246468,6
+1510,2016,Male,Sudan,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,6
+1511,2018,Female,Saudi Arabia,Dentistry and Related Specialties,Makkah,39.857912,21.389082,6
+1521,2022,Female,Saudi Arabia,Medicine and Surgery,Taif,40.424819,21.284078,6
+1528,2016,Female,Palestine,Medicine and Surgery,Riyadh,46.675296,24.713552,6
+1531,2020,Female,Saudi Arabia,Dentistry and Related Specialties,Hail,41.720824,27.51141,6
+1534,2019,Male,Saudi Arabia,Laboratories and Medical Technology,Madinah,39.569184,24.524654,6
+1537,2018,Male,Jordan,Medicine and Surgery,Jeddah,39.192505,21.485811,6
+1540,2021,Female,Bahrain,Medicine and Surgery,Dammam,50.088794,26.420683,6
+1542,2019,Female,India,Medicine and Surgery,Jeddah,39.192505,21.485811,6
+1544,2021,Male,Saudi Arabia,Dentistry and Related Specialties,Tabuk,36.566191,28.383508,6
+1553,2016,Male,Yemen,Medicine and Surgery,Dammam,50.088794,26.420683,6
+1554,2022,Female,Bahrain,Medicine and Surgery,Riyadh,46.675296,24.713552,6
+1556,2017,Female,India,Medicine and Surgery,Jeddah,39.192505,21.485811,6
+1559,2021,Female,Saudi Arabia,Nursing and Midwifery,Hofuf,49.588765,25.380026,6
+1562,2017,Female,Saudi Arabia,Dentistry and Related Specialties,Makkah,39.857912,21.389082,6
+1565,2021,Female,Saudi Arabia,Nursing and Midwifery,Khamis Mushait,42.766233,18.309339,6
+1566,2018,Female,India,Medicine and Surgery,Dubai,55.28,25.252,6
+1567,2019,Female,Jordan,Medicine and Surgery,Dubai,55.28,25.252,6
+1568,2017,Female,Saudi Arabia,Dentistry and Related Specialties,Dammam,50.088794,26.420683,6
+1569,2017,Female,Sudan,Medicine and Surgery,Abha,42.511724,18.246468,6
+1571,2020,Female,Saudi Arabia,Nursing and Midwifery,Dhahran,50.039302,26.236125,6
+1573,2021,Female,Saudi Arabia,Nursing and Midwifery,Yanbu,38.155484,24.056528,6
+1574,2021,Female,Pakistan,Medicine and Surgery,Dubai,55.28,25.252,6
+1576,2018,Male,Egypt,Medicine and Surgery,Makkah,39.857912,21.389082,6
+1577,2017,Female,Palestine,Medicine and Surgery,Riyadh,46.675296,24.713552,6
+1581,2019,Female,Sudan,Medicine and Surgery,Dubai,55.28,25.252,6
+1582,2020,Male,Palestine,Medicine and Surgery,Jeddah,39.192505,21.485811,6
+1583,2018,Male,Yemen,Medicine and Surgery,Makkah,39.857912,21.389082,6
+1584,2021,Male,Palestine,Medicine and Surgery,Jeddah,39.192505,21.485811,6
+1587,2022,Female,Saudi Arabia,Medicine and Surgery,Abha,42.511724,18.246468,6
+1589,2019,Female,Sudan,Medicine and Surgery,Buraidah,43.981812,26.359231,6
+1593,2022,Male,Saudi Arabia,Medicine and Surgery,Unknown - Saudi Arabia,45.079162,23.885942,6
+1596,2020,Male,Saudi Arabia,Dentistry and Related Specialties,Arar,41.059564,30.959945,6
+1597,2020,Female,Jordan,Medicine and Surgery,Dubai,55.28,25.252,6
+1602,2016,Male,Egypt,Medicine and Surgery,Makkah,39.857912,21.389082,6
+1606,2020,Male,Saudi Arabia,Nursing and Midwifery,Jazan,42.570567,16.889359,6
+1607,2018,Female,Saudi Arabia,Nursing and Midwifery,Madinah,39.569184,24.524654,6
+1609,2021,Male,Saudi Arabia,Nursing and Midwifery,Buraidah,43.981812,26.359231,6
+1612,2020,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Dammam,50.088794,26.420683,6
+1616,2021,Female,Jordan,Medicine and Surgery,Dubai,55.28,25.252,6
+1617,2022,Female,Saudi Arabia,Unknown,Riyadh,46.675296,24.713552,6
+1618,2020,Female,Saudi Arabia,Nursing and Midwifery,Khamis Mushait,42.766233,18.309339,6
+1621,2019,Female,Saudi Arabia,Nursing and Midwifery,Khamis Mushait,42.766233,18.309339,6
+1623,2016,Male,Saudi Arabia,Medicine and Surgery,Jouf,39.320624,29.887356,5
+1626,2016,Male,Sudan,Medicine and Surgery,Abha,42.511724,18.246468,5
+1628,2018,Female,Sudan,Medicine and Surgery,Abha,42.511724,18.246468,5
+1629,2020,Female,Sudan,Medicine and Surgery,Jeddah,39.192505,21.485811,5
+1631,2019,Female,Pakistan,Medicine and Surgery,Jeddah,39.192505,21.485811,5
+1632,2016,Male,Saudi Arabia,Medicine and Surgery,Jubail,49.568742,26.959771,5
+1633,2016,Female,Yemen,Medicine and Surgery,Dammam,50.088794,26.420683,5
+1635,2018,Female,Sudan,Medicine and Surgery,Dubai,55.28,25.252,5
+1637,2020,Female,Syria,Medicine and Surgery,Jeddah,39.192505,21.485811,5
+1638,2016,Male,India,Medicine and Surgery,Riyadh,46.675296,24.713552,5
+1642,2017,Male,Sudan,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,5
+1644,2017,Male,Sudan,Medicine and Surgery,Jeddah,39.192505,21.485811,5
+1645,2017,Male,Sudan,Medicine and Surgery,Jazan,42.570567,16.889359,5
+1647,2018,Male,Sudan,Medicine and Surgery,Abha,42.511724,18.246468,5
+1648,2019,Male,Saudi Arabia,Nursing and Midwifery,Buraidah,43.981812,26.359231,5
+1649,2021,Female,Sudan,Medicine and Surgery,Jeddah,39.192505,21.485811,5
+1651,2017,Male,Saudi Arabia,Dentistry and Related Specialties,Khamis Mushait,42.766233,18.309339,5
+1652,2020,Female,Saudi Arabia,Nursing and Midwifery,Hofuf,49.588765,25.380026,5
+1655,2022,Female,Saudi Arabia,Medicine and Surgery,Buraidah,43.981812,26.359231,5
+1656,2017,Male,Saudi Arabia,Medicine and Surgery,Jouf,39.320624,29.887356,5
+1657,2022,Male,Syria,Medicine and Surgery,Riyadh,46.675296,24.713552,5
+1661,2018,Male,Saudi Arabia,Medicine and Surgery,Unaizah,43.987546,26.090731,5
+1662,2021,Female,Syria,Medicine and Surgery,Jeddah,39.192505,21.485811,5
+1663,2022,Female,Saudi Arabia,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,5
+1667,2020,Female,Saudi Arabia,Medicine and Surgery,Alkharj  ,47.324788,24.157604,5
+1673,2016,Male,Saudi Arabia,Medicine and Surgery,Arar,41.059564,30.959945,5
+1680,2019,Male,Saudi Arabia,Nursing and Midwifery,Taif,40.424819,21.284078,5
+1681,2016,Male,Saudi Arabia,Medicine and Surgery,Bisha,42.590167,19.976352,5
+1684,2019,Male,Saudi Arabia,Nursing and Midwifery,Makkah,39.857912,21.389082,5
+1685,2020,Female,Saudi Arabia,Medicine and Surgery,Unaizah,43.987546,26.090731,5
+1686,2018,Male,Saudi Arabia,Medicine and Surgery,Hafr Albatin,45.962711,28.378415,5
+1687,2016,Female,Yemen,Medicine and Surgery,Taif,40.424819,21.284078,5
+1688,2018,Female,Syria,Medicine and Surgery,Jeddah,39.192505,21.485811,5
+1690,2019,Female,Palestine,Medicine and Surgery,Riyadh,46.675296,24.713552,5
+1691,2016,Male,Saudi Arabia,Laboratories and Medical Technology,Madinah,39.569184,24.524654,5
+1692,2021,Male,United Arab Emirates,Medicine and Surgery,Dubai,55.28,25.252,5
+1693,2016,Female,Sudan,Medicine and Surgery,Taif,40.424819,21.284078,5
+1694,2020,Female,Saudi Arabia,Dentistry and Related Specialties,Buraidah,43.981812,26.359231,5
+1695,2022,Male,Saudi Arabia,Medicine and Surgery,Jazan,42.570567,16.889359,5
+1697,2022,Female,Yemen,Medicine and Surgery,Jeddah,39.192505,21.485811,5
+1701,2022,Male,Saudi Arabia,Unknown,Riyadh,46.675296,24.713552,5
+1704,2020,Male,Saudi Arabia,Nursing and Midwifery,Dhahran,50.039302,26.236125,5
+1705,2017,Female,Sudan,Medicine and Surgery,Tabuk,36.566191,28.383508,5
+1706,2021,Male,Federated States Of Micronesia,Medicine and Surgery,Riyadh,46.675296,24.713552,5
+1707,2018,Female,Pakistan,Medicine and Surgery,Riyadh,46.675296,24.713552,5
+1708,2021,Female,Saudi Arabia,Dentistry and Related Specialties,Khamis Mushait,42.766233,18.309339,5
+1710,2017,Female,Kuwait,Medicine and Surgery,Riyadh,46.675296,24.713552,5
+1715,2018,Male,United Arab Emirates,Medicine and Surgery,Dubai,55.28,25.252,5
+1716,2016,Female,Kuwait,Medicine and Surgery,Riyadh,46.675296,24.713552,5
+1718,2021,Male,Saudi Arabia,Nursing and Midwifery,Hofuf,49.588765,25.380026,5
+1720,2020,Female,Bahrain,Medicine and Surgery,Dammam,50.088794,26.420683,5
+1721,2019,Female,Saudi Arabia,Medicine and Surgery,Unaizah,43.987546,26.090731,5
+1725,2019,Female,Saudi Arabia,Unknown,Riyadh,46.675296,24.713552,5
+1726,2021,Female,Saudi Arabia,Dentistry and Related Specialties,Taif,40.424819,21.284078,5
+1727,2018,Female,Saudi Arabia,Dentistry and Related Specialties,Dhahran,50.039302,26.236125,5
+1729,2021,Female,Saudi Arabia,Medicine and Surgery,Bisha,42.590167,19.976352,5
+1732,2019,Female,Bahrain,Medicine and Surgery,Dammam,50.088794,26.420683,5
+1734,2022,Male,Saudi Arabia,Medicine and Surgery,Tabuk,36.566191,28.383508,5
+1735,2020,Male,Saudi Arabia,Dentistry and Related Specialties,Najran,44.228944,17.565604,5
+1741,2020,Female,India,Medicine and Surgery,Dubai,55.28,25.252,5
+1743,2020,Female,India,Medicine and Surgery,Jeddah,39.192505,21.485811,5
+1744,2020,Male,Saudi Arabia,Dentistry and Related Specialties,Hail,41.720824,27.51141,5
+1746,2021,Male,Immigrant Tribes,Medicine and Surgery,Riyadh,46.675296,24.713552,5
+1747,2018,Male,Yemen,Medicine and Surgery,Najran,44.228944,17.565604,5
+1749,2020,Male,Saudi Arabia,Dentistry and Related Specialties,Buraidah,43.981812,26.359231,5
+1754,2021,Female,Saudi Arabia,Laboratories and Medical Technology,Madinah,39.569184,24.524654,5
+1759,2018,Female,Palestine,Medicine and Surgery,Riyadh,46.675296,24.713552,5
+1763,2017,Male,Kuwait,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,5
+1766,2017,Male,Jordan,Medicine and Surgery,Jeddah,39.192505,21.485811,5
+1771,2020,Female,Palestine,Medicine and Surgery,Riyadh,46.675296,24.713552,5
+1772,2018,Male,Sudan,Medicine and Surgery,Jazan,42.570567,16.889359,5
+1773,2018,Male,Sudan,Medicine and Surgery,Jeddah,39.192505,21.485811,5
+1779,2022,Female,Saudi Arabia,Medicine and Surgery,Tabuk,36.566191,28.383508,5
+1781,2016,Female,Sudan,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,5
+1782,2016,Male,Sudan,Medicine and Surgery,Jazan,42.570567,16.889359,5
+1783,2016,Male,Sudan,Medicine and Surgery,Jeddah,39.192505,21.485811,5
+1785,2017,Male,Egypt,Medicine and Surgery,Makkah,39.857912,21.389082,5
+1786,2018,Male,Saudi Arabia,Medicine and Surgery,Alquriyat,37.361353,31.329635,5
+1788,2020,Male,Sudan,Medicine and Surgery,Madinah,39.569184,24.524654,5
+1791,2019,Male,Yemen,Medicine and Surgery,Makkah,39.857912,21.389082,5
+1795,2019,Male,United Arab Emirates,Medicine and Surgery,Dubai,55.28,25.252,5
+1797,2020,Female,Yemen,Medicine and Surgery,Makkah,39.857912,21.389082,5
+1802,2016,Male,India,Medicine and Surgery,Jeddah,39.192505,21.485811,4
+1805,2022,Female,United Arab Emirates,Medicine and Surgery,Dubai,55.28,25.252,4
+1806,2020,Female,Pakistan,Medicine and Surgery,Riyadh,46.675296,24.713552,4
+1813,2020,Female,Saudi Arabia,Dentistry and Related Specialties,Dhahran,50.039302,26.236125,4
+1824,2016,Female,Pakistan,Medicine and Surgery,Jeddah,39.192505,21.485811,4
+1826,2016,Female,Yemen,Medicine and Surgery,Makkah,39.857912,21.389082,4
+1828,2016,Female,Iraq,Medicine and Surgery,Riyadh,46.675296,24.713552,4
+1831,2019,Male,Saudi Arabia,Dentistry and Related Specialties,Najran,44.228944,17.565604,4
+1833,2020,Female,Bahrain,Medicine and Surgery,Khobar,50.080072,26.182911,4
+1835,2018,Male,Immigrant Tribes,Nursing and Midwifery,Riyadh,46.675296,24.713552,4
+1836,2018,Male,India,Medicine and Surgery,Jeddah,39.192505,21.485811,4
+1837,2020,Female,Kuwait,Medicine and Surgery,Riyadh,46.675296,24.713552,4
+1839,2016,Female,Jordan,Medicine and Surgery,Jeddah,39.192505,21.485811,4
+1840,2019,Male,Yemen,Medicine and Surgery,Najran,44.228944,17.565604,4
+1843,2022,Female,Saudi Arabia,Medicine and Surgery,Arar,41.059564,30.959945,4
+1847,2019,Male,Sudan,Unknown,Riyadh,46.675296,24.713552,4
+1851,2016,Male,Egypt,Medicine and Surgery,Tabuk,36.566191,28.383508,4
+1852,2016,Female,Saudi Arabia,Medicine and Surgery,Hail,41.720824,27.51141,4
+1857,2019,Male,Sudan,Medicine and Surgery,Jeddah,39.192505,21.485811,4
+1859,2019,Male,Sudan,Medicine and Surgery,Madinah,39.569184,24.524654,4
+1862,2016,Female,Sudan,Medicine and Surgery,Dammam,50.088794,26.420683,4
+1864,2019,Male,Yemen,Medicine and Surgery,Dammam,50.088794,26.420683,4
+1866,2022,Male,Egypt,Medicine and Surgery,Jeddah,39.192505,21.485811,4
+1869,2018,Female,United Arab Emirates,Medicine and Surgery,Riyadh,46.675296,24.713552,4
+1871,2018,Male,Saudi Arabia,Dentistry and Related Specialties,Dhahran,50.039302,26.236125,4
+1874,2017,Male,Palestine,Medicine and Surgery,Najran,44.228944,17.565604,4
+1877,2017,Female,India,Medicine and Surgery,Riyadh,46.675296,24.713552,4
+1880,2017,Female,Iraq,Medicine and Surgery,Riyadh,46.675296,24.713552,4
+1881,2017,Female,Jordan,Medicine and Surgery,Jeddah,39.192505,21.485811,4
+1882,2019,Female,United Arab Emirates,Medicine and Surgery,Riyadh,46.675296,24.713552,4
+1889,2018,Female,Pakistan,Medicine and Surgery,Jeddah,39.192505,21.485811,4
+1891,2017,Female,Pakistan,Medicine and Surgery,Jeddah,39.192505,21.485811,4
+1901,2017,Female,Syria,Medicine and Surgery,Jeddah,39.192505,21.485811,4
+1903,2018,Female,Saudi Arabia,Medicine and Surgery,Albahah,41.471273,20.021741,4
+1904,2016,Male,Yemen,Medicine and Surgery,Khobar,50.080072,26.182911,4
+1907,2018,Male,Sudan,Unknown,Riyadh,46.675296,24.713552,4
+1910,2022,Male,Saudi Arabia,Medicine and Surgery,Alquriyat,37.361353,31.329635,4
+1911,2021,Male,Saudi Arabia,Nursing and Midwifery,Dhahran,50.039302,26.236125,4
+1916,2017,Female,Sudan,Medicine and Surgery,Taif,40.424819,21.284078,4
+1917,2020,Male,Saudi Arabia,Nursing and Midwifery,Hofuf,49.588765,25.380026,4
+1921,2021,Male,Syria,Medicine and Surgery,Dubai,55.28,25.252,4
+1922,2017,Male,Pakistan,Medicine and Surgery,Jeddah,39.192505,21.485811,4
+1927,2020,Male,Yemen,Medicine and Surgery,Dammam,50.088794,26.420683,4
+1929,2017,Male,Yemen,Medicine and Surgery,Khobar,50.080072,26.182911,4
+1932,2021,Female,Saudi Arabia,Medicine and Surgery,Hafr Albatin,45.962711,28.378415,4
+1934,2017,Male,Egypt,Medicine and Surgery,Tabuk,36.566191,28.383508,4
+1935,2017,Female,Saudi Arabia,Medicine and Surgery,Najran,44.228944,17.565604,4
+1941,2017,Female,Saudi Arabia,Nursing and Midwifery,Dhahran,50.039302,26.236125,4
+1944,2017,Female,Saudi Arabia,Nursing and Midwifery,Madinah,39.569184,24.524654,4
+1946,2021,Female,Palestine,Medicine and Surgery,Riyadh,46.675296,24.713552,4
+1949,2021,Female,Saudi Arabia,Nursing and Midwifery,Unaizah,43.987546,26.090731,4
+1950,2019,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Khobar,50.080072,26.182911,4
+1952,2020,Male,Saudi Arabia,Nursing and Midwifery,Albahah,41.471273,20.021741,4
+1956,2017,Female,Saudi Arabia,Medicine and Surgery,Albahah,41.471273,20.021741,4
+1959,2019,Female,Syria,Medicine and Surgery,Jeddah,39.192505,21.485811,4
+1960,2021,Female,Palestine,Medicine and Surgery,Jeddah,39.192505,21.485811,4
+1962,2020,Male,Saudi Arabia,Dentistry and Related Specialties,Abha,42.511724,18.246468,4
+1964,2020,Male,Yemen,Medicine and Surgery,Makkah,39.857912,21.389082,4
+1965,2021,Male,Saudi Arabia,Unknown,Riyadh,46.675296,24.713552,4
+1969,2021,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Taif,40.424819,21.284078,4
+1972,2020,Female,Saudi Arabia,Nursing and Midwifery,Unaizah,43.987546,26.090731,4
+1973,2020,Female,Saudi Arabia,Nursing and Midwifery,Yanbu,38.155484,24.056528,4
+1975,2019,Female,Saudi Arabia,Medicine and Surgery,Sakaka,40.104306,29.878003,4
+1977,2020,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Khobar,50.080072,26.182911,4
+1980,2017,Male,Saudi Arabia,Nursing and Midwifery,Yanbu,38.155484,24.056528,4
+1981,2016,Male,Palestine,Medicine and Surgery,Najran,44.228944,17.565604,4
+1983,2020,Female,Saudi Arabia,Unknown,Riyadh,46.675296,24.713552,4
+1988,2021,Male,Saudi Arabia,Nursing and Midwifery,Yanbu,38.155484,24.056528,4
+1990,2017,Male,Saudi Arabia,Nursing and Midwifery,Jazan,42.570567,16.889359,4
+1992,2020,Female,Sudan,Medicine and Surgery,Dubai,55.28,25.252,4
+1993,2017,Female,Yemen,Medicine and Surgery,Dammam,50.088794,26.420683,4
+1998,2016,Male,Jordan,Medicine and Surgery,Jeddah,39.192505,21.485811,4
+1999,2017,Male,Sudan,Medicine and Surgery,Makkah,39.857912,21.389082,4
+2003,2016,Male,Kuwait,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,4
+2004,2017,Male,Sudan,Medicine and Surgery,Albahah,41.471273,20.021741,4
+2008,2021,Female,Syria,Medicine and Surgery,Riyadh,46.675296,24.713552,4
+2011,2017,Male,Sudan,Medicine and Surgery,Abha,42.511724,18.246468,4
+2019,2021,Female,Canada,Medicine and Surgery,Dubai,55.28,25.252,4
+2020,2017,Male,Egypt,Medicine and Surgery,Taif,40.424819,21.284078,4
+2021,2017,Female,Yemen,Medicine and Surgery,Taif,40.424819,21.284078,4
+2024,2016,Male,Sudan,Medicine and Surgery,Tabuk,36.566191,28.383508,4
+2025,2017,Male,Saudi Arabia,Medicine and Surgery,Hafr Albatin,45.962711,28.378415,4
+2029,2019,Female,Saudi Arabia,Nursing and Midwifery,Jazan,42.570567,16.889359,4
+2034,2016,Male,Syria,Medicine and Surgery,Abha,42.511724,18.246468,4
+2035,2017,Male,Bahrain,Medicine and Surgery,Riyadh,46.675296,24.713552,4
+2038,2016,Male,Syria,Medicine and Surgery,Makkah,39.857912,21.389082,4
+2040,2018,Female,Saudi Arabia,Medicine and Surgery,Jouf,39.320624,29.887356,4
+2043,2019,Male,Jordan,Medicine and Surgery,Jeddah,39.192505,21.485811,4
+2044,2021,Male,Yemen,Medicine and Surgery,Dammam,50.088794,26.420683,4
+2045,2016,Male,Sudan,Medicine and Surgery,Dammam,50.088794,26.420683,4
+2046,2019,Male,India,Medicine and Surgery,Riyadh,46.675296,24.713552,4
+2047,2021,Female,Pakistan,Medicine and Surgery,Jeddah,39.192505,21.485811,4
+2048,2021,Male,Saudi Arabia,Nursing and Midwifery,Jazan,42.570567,16.889359,4
+2060,2016,Male,Saudi Arabia,Nursing and Midwifery,Makkah,39.857912,21.389082,4
+2061,2016,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Jeddah,39.192505,21.485811,4
+2062,2016,Male,Sudan,Medicine and Surgery,Albahah,41.471273,20.021741,4
+2065,2018,Male,Saudi Arabia,Dentistry and Related Specialties,Khobar,50.080072,26.182911,3
+2071,2019,Male,Pakistan,Medicine and Surgery,Riyadh,46.675296,24.713552,3
+2073,2019,Female,Saudi Arabia,Dentistry and Related Specialties,Dhahran,50.039302,26.236125,3
+2076,2021,Male,Sudan,Medicine and Surgery,Najran,44.228944,17.565604,3
+2079,2019,Male,Saudi Arabia,Nursing and Midwifery,Hofuf,49.588765,25.380026,3
+2080,2019,Female,Saudi Arabia,Dentistry and Related Specialties,Hail,41.720824,27.51141,3
+2084,2022,Female,Sudan,Medicine and Surgery,Jeddah,39.192505,21.485811,3
+2087,2019,Female,Pakistan,Medicine and Surgery,Riyadh,46.675296,24.713552,3
+2098,2021,Male,Sudan,Medicine and Surgery,Buraidah,43.981812,26.359231,3
+2099,2022,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Jeddah,39.192505,21.485811,3
+2101,2019,Female,Saudi Arabia,Medicine and Surgery,Bisha,42.590167,19.976352,3
+2102,2019,Female,Iraq,Medicine and Surgery,Riyadh,46.675296,24.713552,3
+2107,2019,Female,Saudi Arabia,Medicine and Surgery,Alkharj  ,47.324788,24.157604,3
+2110,2019,Female,India,Medicine and Surgery,Riyadh,46.675296,24.713552,3
+2111,2019,Female,Syria,Medicine and Surgery,Dammam,50.088794,26.420683,3
+2112,2021,Male,Saudi Arabia,Nursing and Midwifery,Unaizah,43.987546,26.090731,3
+2113,2019,Male,Saudi Arabia,Laboratories and Medical Technology,Makkah,39.857912,21.389082,3
+2114,2018,Male,Sudan,Medicine and Surgery,Albahah,41.471273,20.021741,3
+2115,2019,Male,Saudi Arabia,Dentistry and Related Specialties,Taif,40.424819,21.284078,3
+2118,2019,Male,Egypt,Medicine and Surgery,Taif,40.424819,21.284078,3
+2119,2021,Male,Saudi Arabia,Laboratories and Medical Technology,Makkah,39.857912,21.389082,3
+2120,2019,Male,Egypt,Medicine and Surgery,Makkah,39.857912,21.389082,3
+2121,2018,Male,Sudan,Medicine and Surgery,Dubai,55.28,25.252,3
+2129,2022,Female,Egypt,Medicine and Surgery,Jeddah,39.192505,21.485811,3
+2139,2019,Male,India,Medicine and Surgery,Jeddah,39.192505,21.485811,3
+2141,2022,Female,Saudi Arabia,Medicine and Surgery,Jazan,42.570567,16.889359,3
+2148,2021,Male,Saudi Arabia,Dentistry and Related Specialties,Jouf,39.320624,29.887356,3
+2150,2019,Male,Saudi Arabia,Dentistry and Related Specialties,Al-Ahsa,49.365315,21.91133,3
+2151,2022,Female,Saudi Arabia,Medicine and Surgery,Alkharj  ,47.324788,24.157604,3
+2154,2019,Male,Saudi Arabia,Dentistry and Related Specialties,Buraidah,43.981812,26.359231,3
+2156,2019,Male,Saudi Arabia,Dentistry and Related Specialties,Dhahran,50.039302,26.236125,3
+2162,2019,Male,Jordan,Medicine and Surgery,Dubai,55.28,25.252,3
+2169,2021,Male,Yemen,Medicine and Surgery,Najran,44.228944,17.565604,3
+2174,2019,Female,Sudan,Medicine and Surgery,Albahah,41.471273,20.021741,3
+2175,2019,Female,Sudan,Medicine and Surgery,Abha,42.511724,18.246468,3
+2181,2022,Female,Saudi Arabia,Medicine and Surgery,Jubail,49.568742,26.959771,3
+2182,2022,Female,Saudi Arabia,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,3
+2185,2021,Male,Pakistan,Medicine and Surgery,Riyadh,46.675296,24.713552,3
+2189,2021,Male,Saudi Arabia,Nursing and Midwifery,Najran,44.228944,17.565604,3
+2205,2018,Male,Yemen,Medicine and Surgery,Abha,42.511724,18.246468,3
+2208,2018,Male,Yemen,Medicine and Surgery,Madinah,39.569184,24.524654,3
+2214,2021,Male,Palestine,Medicine and Surgery,Najran,44.228944,17.565604,3
+2223,2017,Female,Oman,Medicine and Surgery,Riyadh,46.675296,24.713552,3
+2225,2021,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Dhahran,50.039302,26.236125,3
+2226,2020,Male,Jordan,Medicine and Surgery,Jeddah,39.192505,21.485811,3
+2227,2020,Male,Jordan,Medicine and Surgery,Dubai,55.28,25.252,3
+2228,2017,Female,India,Medicine and Surgery,Dubai,55.28,25.252,3
+2231,2020,Male,India,Medicine and Surgery,Jeddah,39.192505,21.485811,3
+2234,2016,Male,Yemen,Medicine and Surgery,Abha,42.511724,18.246468,3
+2237,2018,Female,Saudi Arabia,Dentistry and Related Specialties,Hail,41.720824,27.51141,3
+2238,2017,Female,Bahrain,Medicine and Surgery,Khobar,50.080072,26.182911,3
+2241,2018,Female,Saudi Arabia,Laboratories and Medical Technology,Riyadh,46.675296,24.713552,3
+2242,2022,Male,Saudi Arabia,Dentistry and Related Specialties,Tabuk,36.566191,28.383508,3
+2244,2016,Male,Yemen,Medicine and Surgery,Bisha,42.590167,19.976352,3
+2252,2017,Female,Saudi Arabia,Medicine and Surgery,Jouf,39.320624,29.887356,3
+2254,2020,Male,Saudi Arabia,Dentistry and Related Specialties,Jazan,42.570567,16.889359,3
+2259,2018,Female,Jordan,Medicine and Surgery,Dubai,55.28,25.252,3
+2262,2021,Female,Saudi Arabia,Nursing and Midwifery,Dhahran,50.039302,26.236125,3
+2267,2017,Female,Saudi Arabia,Dentistry and Related Specialties,Dhahran,50.039302,26.236125,3
+2269,2022,Male,Saudi Arabia,Medicine and Surgery,Hail,41.720824,27.51141,3
+2270,2020,Male,Egypt,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,3
+2271,2016,Male,United Arab Emirates,Medicine and Surgery,Riyadh,46.675296,24.713552,3
+2275,2016,Male,Saudi Arabia,Dentistry and Related Specialties,Taif,40.424819,21.284078,3
+2276,2021,Female,Syria,Medicine and Surgery,Dubai,55.28,25.252,3
+2277,2016,Male,Saudi Arabia,Dentistry and Related Specialties,Dhahran,50.039302,26.236125,3
+2278,2016,Male,Saudi Arabia,Dentistry and Related Specialties,Albahah,41.471273,20.021741,3
+2284,2016,Male,Palestine,Medicine and Surgery,Albahah,41.471273,20.021741,3
+2285,2020,Male,Bahrain,Medicine and Surgery,Riyadh,46.675296,24.713552,3
+2287,2020,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Dhahran,50.039302,26.236125,3
+2296,2022,Male,Jordan,Medicine and Surgery,Riyadh,46.675296,24.713552,3
+2299,2021,Female,Sudan,Medicine and Surgery,Madinah,39.569184,24.524654,3
+2302,2016,Male,Syria,Medicine and Surgery,Dammam,50.088794,26.420683,3
+2303,2016,Male,Syria,Medicine and Surgery,Buraidah,43.981812,26.359231,3
+2304,2022,Male,Saudi Arabia,Dentistry and Related Specialties,Jeddah,39.192505,21.485811,3
+2310,2016,Male,Sudan,Medicine and Surgery,Najran,44.228944,17.565604,3
+2311,2016,Male,Sudan,Medicine and Surgery,Makkah,39.857912,21.389082,3
+2313,2020,Female,United States,Medicine and Surgery,Jeddah,39.192505,21.485811,3
+2314,2016,Male,Saudi Arabia,Nursing and Midwifery,Riyadh,46.675296,24.713552,3
+2315,2016,Male,Saudi Arabia,Medicine and Surgery,Yanbu,38.155484,24.056528,3
+2316,2022,Male,Pakistan,Medicine and Surgery,Riyadh,46.675296,24.713552,3
+2317,2021,Female,Sudan,Medicine and Surgery,Dubai,55.28,25.252,3
+2318,2016,Male,Saudi Arabia,Medicine and Surgery,Hafr Albatin,45.962711,28.378415,3
+2319,2016,Male,Saudi Arabia,Medicine and Surgery,Dubai,55.28,25.252,3
+2322,2020,Male,Saudi Arabia,Laboratories and Medical Technology,Makkah,39.857912,21.389082,3
+2325,2021,Female,Bahrain,Medicine and Surgery,Jeddah,39.192505,21.485811,3
+2326,2021,Female,Bahrain,Medicine and Surgery,Dubai,55.28,25.252,3
+2329,2017,Male,Syria,Medicine and Surgery,Makkah,39.857912,21.389082,3
+2331,2017,Male,United Arab Emirates,Medicine and Surgery,Dubai,55.28,25.252,3
+2334,2017,Male,Yemen,Medicine and Surgery,Abha,42.511724,18.246468,3
+2335,2020,Male,Yemen,Medicine and Surgery,Najran,44.228944,17.565604,3
+2336,2017,Male,India,Medicine and Surgery,Jeddah,39.192505,21.485811,3
+2337,2017,Male,Yemen,Medicine and Surgery,Bisha,42.590167,19.976352,3
+2340,2017,Male,Kuwait,Medicine and Surgery,Khobar,50.080072,26.182911,3
+2342,2017,Male,Yemen,Medicine and Surgery,Madinah,39.569184,24.524654,3
+2345,2017,Male,Iraq,Medicine and Surgery,Riyadh,46.675296,24.713552,3
+2347,2017,Male,Syria,Medicine and Surgery,Dammam,50.088794,26.420683,3
+2348,2021,Female,Bahrain,Medicine and Surgery,Khobar,50.080072,26.182911,3
+2349,2017,Male,Saudi Arabia,Dentistry and Related Specialties,Dhahran,50.039302,26.236125,3
+2351,2021,Female,Iraq,Medicine and Surgery,Dubai,55.28,25.252,3
+2352,2017,Male,Sudan,Medicine and Surgery,Dammam,50.088794,26.420683,3
+2353,2021,Female,India,Medicine and Surgery,Jeddah,39.192505,21.485811,3
+2354,2017,Male,Sudan,Medicine and Surgery,Buraidah,43.981812,26.359231,3
+2356,2017,Male,Saudi Arabia,Nursing and Midwifery,Madinah,39.569184,24.524654,3
+2357,2017,Male,Saudi Arabia,Nursing and Midwifery,Dammam,50.088794,26.420683,3
+2361,2021,Female,Pakistan,Medicine and Surgery,Riyadh,46.675296,24.713552,3
+2363,2022,Male,Syria,Medicine and Surgery,Jeddah,39.192505,21.485811,3
+2365,2021,Female,Egypt,Medicine and Surgery,Dubai,55.28,25.252,3
+2368,2017,Male,Syria,Medicine and Surgery,Buraidah,43.981812,26.359231,3
+2371,2017,Male,Saudi Arabia,Dentistry and Related Specialties,Khobar,50.080072,26.182911,3
+2372,2018,Female,Bahrain,Medicine and Surgery,Dammam,50.088794,26.420683,3
+2373,2017,Male,Immigrant Tribes,Nursing and Midwifery,Riyadh,46.675296,24.713552,3
+2376,2017,Female,Sudan,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,3
+2377,2021,Female,Saudi Arabia,Dentistry and Related Specialties,Najran,44.228944,17.565604,3
+2378,2017,Female,Sudan,Medicine and Surgery,Jazan,42.570567,16.889359,3
+2379,2020,Male,Saudi Arabia,Nursing and Midwifery,Alrass,43.522231,25.851747,3
+2380,2017,Female,Sudan,Medicine and Surgery,Dubai,55.28,25.252,3
+2381,2017,Female,Sudan,Medicine and Surgery,Dammam,50.088794,26.420683,3
+2382,2017,Female,Sudan,Medicine and Surgery,Albahah,41.471273,20.021741,3
+2387,2020,Male,Sudan,Unknown,Riyadh,46.675296,24.713552,3
+2388,2021,Female,Saudi Arabia,Laboratories and Medical Technology,Makkah,39.857912,21.389082,3
+2392,2022,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Jeddah,39.192505,21.485811,3
+2393,2021,Female,Saudi Arabia,Medicine and Surgery,Alquriyat,37.361353,31.329635,3
+2399,2020,Male,Saudi Arabia,Nursing and Midwifery,Najran,44.228944,17.565604,3
+2400,2017,Female,Syria,Medicine and Surgery,Dammam,50.088794,26.420683,3
+2402,2017,Male,Eritrea,Medicine and Surgery,Riyadh,46.675296,24.713552,3
+2404,2017,Male,Egypt,Medicine and Surgery,Madinah,39.569184,24.524654,3
+2405,2017,Male,Egypt,Medicine and Surgery,Abha,42.511724,18.246468,3
+2406,2020,Male,Sudan,Medicine and Surgery,Abha,42.511724,18.246468,3
+2408,2017,Female,Yemen,Medicine and Surgery,Makkah,39.857912,21.389082,3
+2410,2021,Female,Saudi Arabia,Dentistry and Related Specialties,Hail,41.720824,27.51141,3
+2411,2022,Male,Sudan,Medicine and Surgery,Buraidah,43.981812,26.359231,3
+2413,2021,Female,Saudi Arabia,Dentistry and Related Specialties,Jazan,42.570567,16.889359,3
+2417,2017,Female,United States,Medicine and Surgery,Jeddah,39.192505,21.485811,3
+2418,2020,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Jazan,42.570567,16.889359,3
+2419,2017,Female,United Arab Emirates,Medicine and Surgery,Riyadh,46.675296,24.713552,3
+2420,2017,Female,Syria,Medicine and Surgery,Madinah,39.569184,24.524654,3
+2422,2020,Male,Saudi Arabia,Nursing and Midwifery,Unaizah,43.987546,26.090731,3
+2424,2016,Female,Syria,Medicine and Surgery,Jeddah,39.192505,21.485811,3
+2425,2016,Female,Saudi Arabia,Dentistry and Related Specialties,Makkah,39.857912,21.389082,3
+2426,2016,Female,Egypt,Medicine and Surgery,Makkah,39.857912,21.389082,3
+2430,2018,Male,Kuwait,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,3
+2433,2016,Female,United States,Medicine and Surgery,Jeddah,39.192505,21.485811,3
+2438,2016,Female,Syria,Medicine and Surgery,Madinah,39.569184,24.524654,3
+2439,2016,Female,Syria,Medicine and Surgery,Dammam,50.088794,26.420683,3
+2440,2016,Female,India,Medicine and Surgery,Dubai,55.28,25.252,3
+2442,2016,Female,Bahrain,Medicine and Surgery,Manama,50.5831,26.2167,3
+2443,2018,Female,Yemen,Medicine and Surgery,Khobar,50.080072,26.182911,3
+2445,2021,Male,Jordan,Medicine and Surgery,Dubai,55.28,25.252,3
+2447,2019,Male,Syria,Medicine and Surgery,Buraidah,43.981812,26.359231,3
+2448,2016,Male,Bahrain,Medicine and Surgery,Riyadh,46.675296,24.713552,3
+2450,2016,Male,Bahrain,Medicine and Surgery,Manama,50.5831,26.2167,3
+2454,2021,Male,Bahrain,Medicine and Surgery,Riyadh,46.675296,24.713552,3
+2455,2020,Female,Saudi Arabia,Dentistry and Related Specialties,Taif,40.424819,21.284078,3
+2457,2016,Female,Algeria,Medicine and Surgery,Riyadh,46.675296,24.713552,3
+2458,2018,Male,Lebanon,Medicine and Surgery,Riyadh,46.675296,24.713552,3
+2460,2016,Female,Sudan,Medicine and Surgery,Makkah,39.857912,21.389082,3
+2461,2016,Male,Egypt,Medicine and Surgery,Dammam,50.088794,26.420683,3
+2465,2018,Male,Egypt,Medicine and Surgery,Taif,40.424819,21.284078,3
+2467,2018,Male,Bahrain,Medicine and Surgery,Riyadh,46.675296,24.713552,3
+2468,2016,Female,Oman,Medicine and Surgery,Riyadh,46.675296,24.713552,3
+2472,2020,Female,Egypt,Medicine and Surgery,Dubai,55.28,25.252,3
+2475,2016,Female,Saudi Arabia,Dentistry and Related Specialties,Dhahran,50.039302,26.236125,3
+2476,2016,Female,Saudi Arabia,Dentistry and Related Specialties,Abha,42.511724,18.246468,3
+2478,2018,Male,Eritrea,Medicine and Surgery,Riyadh,46.675296,24.713552,3
+2479,2016,Female,India,Medicine and Surgery,Jeddah,39.192505,21.485811,3
+2480,2021,Male,India,Medicine and Surgery,Jeddah,39.192505,21.485811,3
+2481,2016,Female,Sudan,Medicine and Surgery,Jazan,42.570567,16.889359,3
+2484,2016,Female,Sudan,Medicine and Surgery,Dubai,55.28,25.252,3
+2485,2016,Female,Sudan,Medicine and Surgery,Albahah,41.471273,20.021741,3
+2488,2021,Male,Egypt,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,3
+2493,2020,Female,Bahrain,Medicine and Surgery,Jeddah,39.192505,21.485811,3
+2494,2018,Male,Immigrant Tribes,Medicine and Surgery,Riyadh,46.675296,24.713552,3
+2495,2016,Male,Egypt,Medicine and Surgery,Abha,42.511724,18.246468,3
+2498,2016,Male,Egypt,Medicine and Surgery,Taif,40.424819,21.284078,3
+2501,2018,Female,Sudan,Medicine and Surgery,Albahah,41.471273,20.021741,3
+2504,2021,Female,Yemen,Medicine and Surgery,Makkah,39.857912,21.389082,3
+2505,2018,Female,Sudan,Medicine and Surgery,Taif,40.424819,21.284078,3
+2507,2016,Male,Eritrea,Medicine and Surgery,Riyadh,46.675296,24.713552,3
+2509,2018,Male,Saudi Arabia,Dentistry and Related Specialties,Buraidah,43.981812,26.359231,3
+2510,2019,Male,Sudan,Medicine and Surgery,Abha,42.511724,18.246468,3
+2511,2018,Male,Palestine,Medicine and Surgery,Najran,44.228944,17.565604,3
+2512,2019,Male,Sudan,Medicine and Surgery,Albahah,41.471273,20.021741,3
+2513,2018,Female,Syria,Medicine and Surgery,Dammam,50.088794,26.420683,3
+2515,2016,Male,Kuwait,Medicine and Surgery,Khobar,50.080072,26.182911,3
+2518,2016,Male,Egypt,Medicine and Surgery,Madinah,39.569184,24.524654,3
+2519,2020,Female,Saudi Arabia,Medicine and Surgery,Bisha,42.590167,19.976352,3
+2521,2016,Male,Lebanon,Medicine and Surgery,Riyadh,46.675296,24.713552,3
+2526,2018,Female,Bangladesh,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+2527,2019,Female,Egypt,Medicine and Surgery,Dubai,55.28,25.252,2
+2532,2017,Female,United States,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+2533,2017,Female,Yemen,Medicine and Surgery,Madinah,39.569184,24.524654,2
+2534,2022,Male,Yemen,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+2536,2018,Male,Iraq,Medicine and Surgery,Dubai,55.28,25.252,2
+2537,2016,Female,India,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,2
+2538,2018,Male,Iraq,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+2539,2022,Male,Yemen,Medicine and Surgery,Najran,44.228944,17.565604,2
+2540,2019,Female,Jordan,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+2541,2017,Male,Bahrain,Medicine and Surgery,Khobar,50.080072,26.182911,2
+2542,2018,Male,Saudi Arabia,Dentistry and Related Specialties,Hail,41.720824,27.51141,2
+2543,2017,Female,Yemen,Dentistry and Related Specialties,Jeddah,39.192505,21.485811,2
+2544,2016,Female,Jordan,Medicine and Surgery,Khobar,50.080072,26.182911,2
+2545,2018,Female,Egypt,Medicine and Surgery,Makkah,39.857912,21.389082,2
+2546,2018,Female,Egypt,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,2
+2547,2018,Male,Saudi Arabia,Dentistry and Related Specialties,Al-Ahsa,49.365315,21.91133,2
+2548,2017,Male,Sudan,Unknown,Riyadh,46.675296,24.713552,2
+2549,2022,Male,Yemen,Medicine and Surgery,Madinah,39.569184,24.524654,2
+2550,2018,Female,Egypt,Medicine and Surgery,Dubai,55.28,25.252,2
+2551,2017,Female,Yemen,Medicine and Surgery,Khobar,50.080072,26.182911,2
+2554,2018,Female,Egypt,Medicine and Surgery,Tabuk,36.566191,28.383508,2
+2556,2019,Female,Canada,Medicine and Surgery,Dubai,55.28,25.252,2
+2557,2018,Male,Egypt,Medicine and Surgery,Madinah,39.569184,24.524654,2
+2559,2018,Male,Egypt,Medicine and Surgery,Dammam,50.088794,26.420683,2
+2560,2017,Male,Sudan,Medicine and Surgery,Dubai,55.28,25.252,2
+2562,2021,Male,Yemen,Medicine and Surgery,Madinah,39.569184,24.524654,2
+2564,2018,Male,Egypt,Medicine and Surgery,Buraidah,43.981812,26.359231,2
+2566,2018,Female,India,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+2567,2018,Male,Saudi Arabia,Dentistry and Related Specialties,Taif,40.424819,21.284078,2
+2568,2018,Female,Iraq,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+2569,2017,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Dammam,50.088794,26.420683,2
+2570,2016,Female,Pakistan,Medicine and Surgery,Tabuk,36.566191,28.383508,2
+2571,2016,Female,Pakistan,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,2
+2572,2016,Female,Pakistan,Medicine and Surgery,Buraidah,43.981812,26.359231,2
+2573,2017,Female,Syria,Medicine and Surgery,Abha,42.511724,18.246468,2
+2574,2016,Female,Lebanon,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+2575,2017,Male,Saudi Arabia,Unknown,Dammam,50.088794,26.420683,2
+2578,2017,Male,Sudan,Medicine and Surgery,Tabuk,36.566191,28.383508,2
+2579,2018,Male,Saudi Arabia,Dentistry and Related Specialties,Arar,41.059564,30.959945,2
+2582,2018,Male,Egypt,Medicine and Surgery,Tabuk,36.566191,28.383508,2
+2585,2019,Female,Kuwait,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,2
+2586,2017,Female,Sudan,Medicine and Surgery,Makkah,39.857912,21.389082,2
+2589,2017,Male,Egypt,Medicine and Surgery,Buraidah,43.981812,26.359231,2
+2590,2018,Male,Saudi Arabia,Dentistry and Related Specialties,Jazan,42.570567,16.889359,2
+2591,2019,Female,Iraq,Medicine and Surgery,Dubai,55.28,25.252,2
+2595,2017,Male,Palestine,Medicine and Surgery,Dammam,50.088794,26.420683,2
+2596,2022,Male,Sudan,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+2597,2017,Male,Pakistan,Medicine and Surgery,Taif,40.424819,21.284078,2
+2600,2017,Male,Syria,Medicine and Surgery,Abha,42.511724,18.246468,2
+2602,2021,Male,Syria,Medicine and Surgery,Madinah,39.569184,24.524654,2
+2604,2017,Male,United Arab Emirates,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+2605,2017,Male,United Kingdom,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+2608,2022,Female,Sudan,Medicine and Surgery,Dammam,50.088794,26.420683,2
+2612,2018,Male,Palestine,Medicine and Surgery,Dammam,50.088794,26.420683,2
+2615,2017,Male,Saudi Arabia,Dentistry and Related Specialties,Jazan,42.570567,16.889359,2
+2616,2017,Male,Saudi Arabia,Dentistry and Related Specialties,Hail,41.720824,27.51141,2
+2618,2017,Male,Saudi Arabia,Dentistry and Related Specialties,Taif,40.424819,21.284078,2
+2619,2017,Male,Syria,Medicine and Surgery,Dubai,55.28,25.252,2
+2621,2019,Female,Indonesia,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+2622,2021,Male,Syria,Medicine and Surgery,Buraidah,43.981812,26.359231,2
+2623,2022,Male,Sudan,Medicine and Surgery,Najran,44.228944,17.565604,2
+2625,2017,Male,Palestine,Medicine and Surgery,Makkah,39.857912,21.389082,2
+2626,2016,Female,Bahrain,Medicine and Surgery,Khobar,50.080072,26.182911,2
+2627,2022,Female,Syria,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+2628,2017,Male,Saudi Arabia,Medicine and Surgery,Unaizah,43.987546,26.090731,2
+2629,2022,Female,Sudan,Medicine and Surgery,Madinah,39.569184,24.524654,2
+2630,2019,Female,Egypt,Medicine and Surgery,Tabuk,36.566191,28.383508,2
+2631,2016,Female,Egypt,Medicine and Surgery,Tabuk,36.566191,28.383508,2
+2632,2018,Male,Jordan,Medicine and Surgery,Dubai,55.28,25.252,2
+2636,2022,Male,Sudan,Medicine and Surgery,Jazan,42.570567,16.889359,2
+2638,2017,Male,Egypt,Medicine and Surgery,Dhahran,50.039302,26.236125,2
+2640,2022,Male,Yemen,Medicine and Surgery,Abha,42.511724,18.246468,2
+2641,2019,Female,Jordan,Medicine and Surgery,Dammam,50.088794,26.420683,2
+2642,2018,Female,Bahrain,Nursing and Midwifery,Riyadh,46.675296,24.713552,2
+2643,2017,Male,Canada,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+2645,2017,Male,Immigrant Tribes,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+2647,2017,Male,Lebanon,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+2648,2018,Female,Bahrain,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+2649,2021,Male,Yemen,Medicine and Surgery,Makkah,39.857912,21.389082,2
+2650,2016,Female,Bahrain,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+2651,2019,Female,Immigrant Tribes,Nursing and Midwifery,Riyadh,46.675296,24.713552,2
+2652,2017,Male,Yemen,Medicine and Surgery,Buraidah,43.981812,26.359231,2
+2654,2018,Male,Kuwait,Medicine and Surgery,Dammam,50.088794,26.420683,2
+2657,2017,Male,Saudi Arabia,Medicine and Surgery,Dubai,55.28,25.252,2
+2658,2016,Female,Egypt,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,2
+2659,2017,Male,Yemen,Medicine and Surgery,Taif,40.424819,21.284078,2
+2660,2016,Female,Egypt,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,2
+2661,2021,Male,Yemen,Medicine and Surgery,Abha,42.511724,18.246468,2
+2666,2018,Male,Egypt,Medicine and Surgery,Abha,42.511724,18.246468,2
+2667,2016,Male,Egypt,Medicine and Surgery,Buraidah,43.981812,26.359231,2
+2668,2018,Male,Sudan,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,2
+2672,2016,Male,Bangladesh,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+2673,2016,Male,Sudan,Unknown,Riyadh,46.675296,24.713552,2
+2674,2018,Male,Saudi Arabia,Medicine and Surgery,Dubai,55.28,25.252,2
+2676,2016,Male,Canada,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+2679,2022,Male,Saudi Arabia,Dentistry and Related Specialties,Albahah,41.471273,20.021741,2
+2681,2016,Male,Egypt,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,2
+2684,2022,Male,Palestine,Medicine and Surgery,Najran,44.228944,17.565604,2
+2687,2016,Male,Saudi Arabia,Medicine and Surgery,Unaizah,43.987546,26.090731,2
+2688,2016,Male,Syria,Medicine and Surgery,Madinah,39.569184,24.524654,2
+2689,2018,Male,Sudan,Medicine and Surgery,Madinah,39.569184,24.524654,2
+2691,2018,Male,Sudan,Medicine and Surgery,Makkah,39.857912,21.389082,2
+2696,2016,Male,Yemen,Medicine and Surgery,Madinah,39.569184,24.524654,2
+2699,2022,Male,Saudi Arabia,Dentistry and Related Specialties,Najran,44.228944,17.565604,2
+2701,2018,Male,Sudan,Medicine and Surgery,Tabuk,36.566191,28.383508,2
+2703,2016,Female,Yemen,Medicine and Surgery,Khobar,50.080072,26.182911,2
+2704,2016,Female,Yemen,Medicine and Surgery,Madinah,39.569184,24.524654,2
+2705,2022,Male,Saudi Arabia,Dentistry and Related Specialties,Makkah,39.857912,21.389082,2
+2706,2018,Female,Saudi Arabia,Medicine and Surgery,Dubai,55.28,25.252,2
+2707,2018,Female,Saudi Arabia,Medicine and Surgery,Hafr Albatin,45.962711,28.378415,2
+2708,2022,Male,Saudi Arabia,Dentistry and Related Specialties,Jouf,39.320624,29.887356,2
+2709,2016,Male,Bahrain,Medicine and Surgery,Khobar,50.080072,26.182911,2
+2710,2018,Male,Sudan,Medicine and Surgery,Najran,44.228944,17.565604,2
+2711,2016,Male,Saudi Arabia,Medicine and Surgery,Manama,50.5831,26.2167,2
+2714,2018,Female,Sudan,Medicine and Surgery,Jazan,42.570567,16.889359,2
+2715,2022,Male,Federated States Of Micronesia,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+2717,2016,Male,Palestine,Medicine and Surgery,Madinah,39.569184,24.524654,2
+2719,2016,Male,Palestine,Medicine and Surgery,Khobar,50.080072,26.182911,2
+2720,2016,Male,Iraq,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+2722,2022,Female,Jordan,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+2723,2016,Male,Palestine,Medicine and Surgery,Jazan,42.570567,16.889359,2
+2726,2016,Male,Jordan,Medicine and Surgery,Alqatif  ,49.998236,26.576492,2
+2727,2016,Male,Jordan,Medicine and Surgery,Dammam,50.088794,26.420683,2
+2728,2018,Female,Sudan,Medicine and Surgery,Dammam,50.088794,26.420683,2
+2729,2018,Male,Saudi Arabia,Nursing and Midwifery,Dhahran,50.039302,26.236125,2
+2730,2016,Male,Pakistan,Medicine and Surgery,Taif,40.424819,21.284078,2
+2731,2018,Female,Somalia,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+2734,2016,Male,Pakistan,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+2737,2018,Female,Sudan,Medicine and Surgery,Makkah,39.857912,21.389082,2
+2740,2018,Female,Syria,Medicine and Surgery,Madinah,39.569184,24.524654,2
+2742,2018,Male,Saudi Arabia,Unknown,Dammam,50.088794,26.420683,2
+2743,2022,Female,Saudi Arabia,Dentistry and Related Specialties,Makkah,39.857912,21.389082,2
+2744,2016,Male,Saudi Arabia,Medicine and Surgery,Alquriyat,37.361353,31.329635,2
+2745,2022,Female,Saudi Arabia,Dentistry and Related Specialties,Jazan,42.570567,16.889359,2
+2746,2022,Female,India,Medicine and Surgery,Dubai,55.28,25.252,2
+2747,2022,Female,India,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+2749,2018,Female,Sudan,Medicine and Surgery,Tabuk,36.566191,28.383508,2
+2750,2018,Female,Saudi Arabia,Medicine and Surgery,Unaizah,43.987546,26.090731,2
+2751,2022,Female,Palestine,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+2753,2016,Male,Saudi Arabia,Dentistry and Related Specialties,Khobar,50.080072,26.182911,2
+2754,2022,Male,India,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+2755,2016,Male,Saudi Arabia,Dentistry and Related Specialties,Jazan,42.570567,16.889359,2
+2756,2016,Male,Saudi Arabia,Dentistry and Related Specialties,Hail,41.720824,27.51141,2
+2758,2022,Male,Saudi Arabia,Dentistry and Related Specialties,Taif,40.424819,21.284078,2
+2759,2016,Male,Yemen,Medicine and Surgery,Taif,40.424819,21.284078,2
+2760,2016,Male,Yemen,Medicine and Surgery,Yanbu,38.155484,24.056528,2
+2761,2016,Female,Saudi Arabia,Medicine and Surgery,Manama,50.5831,26.2167,2
+2762,2018,Male,Bahrain,Medicine and Surgery,Khobar,50.080072,26.182911,2
+2763,2016,Female,Saudi Arabia,Medicine and Surgery,Albahah,41.471273,20.021741,2
+2764,2016,Female,Saudi Arabia,Medicine and Surgery,Alkharj  ,47.324788,24.157604,2
+2765,2022,Male,Saudi Arabia,Medicine and Surgery,Najran,44.228944,17.565604,2
+2766,2016,Female,Saudi Arabia,Medicine and Surgery,Jouf,39.320624,29.887356,2
+2771,2017,Female,Saudi Arabia,Medicine and Surgery,Hafr Albatin,45.962711,28.378415,2
+2773,2016,Female,Saudi Arabia,Medicine and Surgery,Najran,44.228944,17.565604,2
+2774,2022,Male,Bahrain,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+2778,2017,Female,Saudi Arabia,Medicine and Surgery,Alkharj  ,47.324788,24.157604,2
+2780,2018,Male,Yemen,Medicine and Surgery,Khobar,50.080072,26.182911,2
+2781,2018,Female,Jordan,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+2783,2016,Female,Saudi Arabia,Laboratories and Medical Technology,Makkah,39.857912,21.389082,2
+2784,2018,Male,Yemen,Medicine and Surgery,Taif,40.424819,21.284078,2
+2787,2022,Female,Saudi Arabia,Medicine and Surgery,Jouf,39.320624,29.887356,2
+2788,2019,Female,Bahrain,Medicine and Surgery,Khobar,50.080072,26.182911,2
+2789,2016,Female,Saudi Arabia,Dentistry and Related Specialties,Jubail,49.568742,26.959771,2
+2790,2019,Female,Bahrain,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+2797,2018,Female,Jordan,Medicine and Surgery,Dammam,50.088794,26.420683,2
+2800,2018,Male,Yemen,Unknown,Riyadh,46.675296,24.713552,2
+2802,2016,Female,Saudi Arabia,Dentistry and Related Specialties,Madinah,39.569184,24.524654,2
+2803,2018,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Khobar,50.080072,26.182911,2
+2805,2022,Male,Bangladesh,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+2806,2017,Female,Saudi Arabia,Laboratories and Medical Technology,Makkah,39.857912,21.389082,2
+2807,2022,Male,Egypt,Medicine and Surgery,Abha,42.511724,18.246468,2
+2808,2021,Male,Yemen,Medicine and Surgery,Taif,40.424819,21.284078,2
+2809,2018,Male,Syria,Medicine and Surgery,Makkah,39.857912,21.389082,2
+2810,2017,Female,Egypt,Medicine and Surgery,Makkah,39.857912,21.389082,2
+2811,2017,Female,Egypt,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,2
+2813,2018,Male,Syria,Medicine and Surgery,Dammam,50.088794,26.420683,2
+2814,2016,Female,United States,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+2816,2021,Male,Yemen,Unknown,Riyadh,46.675296,24.713552,2
+2818,2018,Male,Syria,Medicine and Surgery,Buraidah,43.981812,26.359231,2
+2819,2018,Female,Saudi Arabia,Dentistry and Related Specialties,Jazan,42.570567,16.889359,2
+2820,2017,Female,Bangladesh,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+2821,2017,Female,Bahrain,Nursing and Midwifery,Riyadh,46.675296,24.713552,2
+2822,2017,Female,Bahrain,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+2823,2018,Female,Yemen,Dentistry and Related Specialties,Jeddah,39.192505,21.485811,2
+2824,2016,Female,Yemen,Dentistry and Related Specialties,Jeddah,39.192505,21.485811,2
+2825,2017,Female,Algeria,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+2827,2018,Female,United States,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+2828,2018,Female,Yemen,Medicine and Surgery,Dammam,50.088794,26.420683,2
+2830,2016,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Dammam,50.088794,26.420683,2
+2831,2017,Female,Egypt,Medicine and Surgery,Tabuk,36.566191,28.383508,2
+2832,2017,Female,Saudi Arabia,Dentistry and Related Specialties,Madinah,39.569184,24.524654,2
+2835,2018,Male,Yemen,Medicine and Surgery,Bisha,42.590167,19.976352,2
+2836,2016,Female,Somalia,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+2837,2018,Male,United Kingdom,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+2838,2018,Female,Kuwait,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,2
+2839,2018,Female,Lebanon,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+2840,2018,Male,United Arab Emirates,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+2841,2018,Female,Yemen,Medicine and Surgery,Taif,40.424819,21.284078,2
+2842,2017,Female,Palestine,Medicine and Surgery,Abha,42.511724,18.246468,2
+2843,2017,Female,Lebanon,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+2844,2017,Female,Kuwait,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,2
+2846,2018,Female,Palestine,Medicine and Surgery,Abha,42.511724,18.246468,2
+2847,2018,Female,Yemen,Medicine and Surgery,Madinah,39.569184,24.524654,2
+2849,2016,Female,Syria,Medicine and Surgery,Abha,42.511724,18.246468,2
+2850,2017,Female,India,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,2
+2853,2017,Male,Sudan,Medicine and Surgery,Najran,44.228944,17.565604,2
+2854,2020,Male,Saudi Arabia,Dentistry and Related Specialties,Tabuk,36.566191,28.383508,2
+2856,2019,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Dammam,50.088794,26.420683,2
+2860,2020,Male,Saudi Arabia,Dentistry and Related Specialties,Khobar,50.080072,26.182911,2
+2861,2019,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Hail,41.720824,27.51141,2
+2862,2020,Male,Saudi Arabia,Dentistry and Related Specialties,Khamis Mushait,42.766233,18.309339,2
+2868,2021,Female,Saudi Arabia,Nursing and Midwifery,Alrass,43.522231,25.851747,2
+2882,2019,Male,Saudi Arabia,Nursing and Midwifery,Dhahran,50.039302,26.236125,2
+2890,2021,Male,Jordan,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+2896,2021,Male,Iraq,Medicine and Surgery,Dubai,55.28,25.252,2
+2901,2019,Male,Yemen,Medicine and Surgery,Abha,42.511724,18.246468,2
+2904,2020,Male,Kuwait,Medicine and Surgery,Dhahran,50.039302,26.236125,2
+2905,2021,Male,India,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+2906,2019,Male,Yemen,Medicine and Surgery,Madinah,39.569184,24.524654,2
+2907,2020,Male,Kuwait,Medicine and Surgery,Dammam,50.088794,26.420683,2
+2912,2019,Male,Sudan,Medicine and Surgery,Dubai,55.28,25.252,2
+2913,2019,Male,Sudan,Medicine and Surgery,Hail,41.720824,27.51141,2
+2915,2019,Male,Sudan,Medicine and Surgery,Jazan,42.570567,16.889359,2
+2917,2019,Male,Sudan,Medicine and Surgery,Makkah,39.857912,21.389082,2
+2919,2021,Female,Saudi Arabia,Nursing and Midwifery,Hail,41.720824,27.51141,2
+2920,2019,Male,Sudan,Medicine and Surgery,Najran,44.228944,17.565604,2
+2923,2019,Male,Syria,Medicine and Surgery,Abha,42.511724,18.246468,2
+2929,2021,Female,Saudi Arabia,Laboratories and Medical Technology,Najran,44.228944,17.565604,2
+2933,2019,Male,Palestine,Medicine and Surgery,Najran,44.228944,17.565604,2
+2938,2019,Male,Saudi Arabia,Dentistry and Related Specialties,Arar,41.059564,30.959945,2
+2941,2019,Male,Saudi Arabia,Dentistry and Related Specialties,Hail,41.720824,27.51141,2
+2942,2021,Male,Saudi Arabia,Dentistry and Related Specialties,Jazan,42.570567,16.889359,2
+2945,2019,Male,Saudi Arabia,Dentistry and Related Specialties,Jazan,42.570567,16.889359,2
+2947,2019,Male,Pakistan,Medicine and Surgery,Madinah,39.569184,24.524654,2
+2951,2019,Male,Lebanon,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+2952,2020,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Makkah,39.857912,21.389082,2
+2957,2020,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Dammam,50.088794,26.420683,2
+2967,2019,Male,Saudi Arabia,Dentistry and Related Specialties,Khobar,50.080072,26.182911,2
+2978,2020,Male,Saudi Arabia,Medicine and Surgery,Sakaka,40.104306,29.878003,2
+2985,2021,Male,Saudi Arabia,Dentistry and Related Specialties,Albahah,41.471273,20.021741,2
+3004,2020,Female,Bahrain,Medicine and Surgery,Dubai,55.28,25.252,2
+3008,2020,Female,Syria,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,2
+3010,2021,Female,Yemen,Pharmacists and Pharmacy Technicians,Riyadh,46.675296,24.713552,2
+3011,2021,Female,Yemen,Medicine and Surgery,Taif,40.424819,21.284078,2
+3018,2020,Female,Sudan,Medicine and Surgery,Jouf,39.320624,29.887356,2
+3019,2021,Female,United States,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+3021,2021,Male,Afghanistan,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+3032,2020,Female,Saudi Arabia,Dentistry and Related Specialties,Jazan,42.570567,16.889359,2
+3034,2020,Female,Saudi Arabia,Dentistry and Related Specialties,Khamis Mushait,42.766233,18.309339,2
+3037,2020,Female,Saudi Arabia,Laboratories and Medical Technology,Madinah,39.569184,24.524654,2
+3039,2021,Male,Bahrain,Medicine and Surgery,Dubai,55.28,25.252,2
+3041,2020,Female,Sudan,Medicine and Surgery,Jazan,42.570567,16.889359,2
+3047,2020,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Madinah,39.569184,24.524654,2
+3048,2021,Female,Syria,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,2
+3049,2020,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Taif,40.424819,21.284078,2
+3057,2020,Female,Sudan,Medicine and Surgery,Abha,42.511724,18.246468,2
+3058,2020,Female,Sudan,Medicine and Surgery,Albahah,41.471273,20.021741,2
+3061,2020,Female,Saudi Arabia,Nursing and Midwifery,Taif,40.424819,21.284078,2
+3063,2021,Female,Sudan,Medicine and Surgery,Dammam,50.088794,26.420683,2
+3070,2020,Female,Saudi Arabia,Nursing and Midwifery,Najran,44.228944,17.565604,2
+3074,2021,Female,Sudan,Medicine and Surgery,Tabuk,36.566191,28.383508,2
+3078,2020,Female,Yemen,Medicine and Surgery,Taif,40.424819,21.284078,2
+3079,2020,Male,Jordan,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,2
+3080,2020,Male,Eritrea,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+3082,2020,Male,Egypt,Medicine and Surgery,Tabuk,36.566191,28.383508,2
+3085,2020,Female,Immigrant Tribes,Nursing and Midwifery,Riyadh,46.675296,24.713552,2
+3091,2021,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Jazan,42.570567,16.889359,2
+3093,2020,Female,Indonesia,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+3095,2020,Female,Iraq,Medicine and Surgery,Dubai,55.28,25.252,2
+3098,2020,Female,Palestine,Medicine and Surgery,Dubai,55.28,25.252,2
+3102,2020,Male,Iraq,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+3104,2020,Female,Bangladesh,Medicine and Surgery,Dubai,55.28,25.252,2
+3105,2020,Female,Canada,Medicine and Surgery,Dubai,55.28,25.252,2
+3106,2020,Male,India,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+3108,2020,Female,Egypt,Medicine and Surgery,Abha,42.511724,18.246468,2
+3114,2021,Male,Immigrant Tribes,Medicine and Surgery,Madinah,39.569184,24.524654,2
+3117,2020,Female,Iraq,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+3118,2021,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Makkah,39.857912,21.389082,2
+3124,2020,Male,Bahrain,Medicine and Surgery,Dubai,55.28,25.252,2
+3128,2020,Female,Pakistan,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+3129,2020,Male,Afghanistan,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+3130,2021,Male,Bangladesh,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+3132,2020,Female,Palestine,Medicine and Surgery,Abha,42.511724,18.246468,2
+3134,2020,Male,Egypt,Medicine and Surgery,Buraidah,43.981812,26.359231,2
+3140,2021,Male,Eritrea,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+3142,2021,Male,Egypt,Medicine and Surgery,Tabuk,36.566191,28.383508,2
+3144,2021,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Najran,44.228944,17.565604,2
+3147,2020,Male,Egypt,Medicine and Surgery,Makkah,39.857912,21.389082,2
+3148,2020,Male,Egypt,Medicine and Surgery,Madinah,39.569184,24.524654,2
+3158,2019,Female,Sudan,Medicine and Surgery,Dammam,50.088794,26.420683,2
+3160,2019,Female,Somalia,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+3171,2021,Male,Saudi Arabia,Nursing and Midwifery,Alrass,43.522231,25.851747,2
+3172,2019,Female,Saudi Arabia,Nursing and Midwifery,Unaizah,43.987546,26.090731,2
+3174,2021,Female,Bangladesh,Medicine and Surgery,Dubai,55.28,25.252,2
+3175,2021,Female,Djibouti,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+3179,2021,Male,Saudi Arabia,Nursing and Midwifery,Hail,41.720824,27.51141,2
+3180,2019,Female,Saudi Arabia,Nursing and Midwifery,Hofuf,49.588765,25.380026,2
+3195,2021,Male,Saudi Arabia,Medicine and Surgery,Sakaka,40.104306,29.878003,2
+3196,2020,Male,Yemen,Medicine and Surgery,Taif,40.424819,21.284078,2
+3202,2021,Female,Palestine,Medicine and Surgery,Dubai,55.28,25.252,2
+3203,2019,Female,Sudan,Medicine and Surgery,Jazan,42.570567,16.889359,2
+3208,2019,Female,Sudan,Medicine and Surgery,Taif,40.424819,21.284078,2
+3211,2019,Female,Sudan,Medicine and Surgery,Makkah,39.857912,21.389082,2
+3212,2019,Female,Sudan,Medicine and Surgery,Jouf,39.320624,29.887356,2
+3230,2021,Male,Sudan,Medicine and Surgery,Madinah,39.569184,24.524654,2
+3233,2019,Female,Saudi Arabia,Dentistry and Related Specialties,Jazan,42.570567,16.889359,2
+3237,2021,Female,Ethiopia,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+3241,2019,Female,Palestine,Medicine and Surgery,Abha,42.511724,18.246468,2
+3242,2019,Female,Palestine,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,2
+3248,2021,Female,Indonesia,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+3252,2019,Female,Saudi Arabia,Medicine and Surgery,Dubai,55.28,25.252,2
+3259,2021,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Dhahran,50.039302,26.236125,2
+3266,2021,Female,Egypt,Medicine and Surgery,Abha,42.511724,18.246468,2
+3267,2021,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Jazan,42.570567,16.889359,2
+3268,2021,Female,Egypt,Medicine and Surgery,Madinah,39.569184,24.524654,2
+3275,2021,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Makkah,39.857912,21.389082,2
+3276,2021,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Najran,44.228944,17.565604,2
+3278,2021,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Taif,40.424819,21.284078,2
+3286,2020,Male,Sudan,Medicine and Surgery,Hail,41.720824,27.51141,2
+3287,2020,Male,Sudan,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,2
+3288,2019,Male,Egypt,Medicine and Surgery,Dammam,50.088794,26.420683,2
+3289,2019,Male,Egypt,Medicine and Surgery,Buraidah,43.981812,26.359231,2
+3291,2020,Male,Sudan,Medicine and Surgery,Najran,44.228944,17.565604,2
+3295,2019,Male,Bahrain,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+3301,2019,Male,Bahrain,Medicine and Surgery,Khobar,50.080072,26.182911,2
+3302,2019,Male,Bahrain,Medicine and Surgery,Dubai,55.28,25.252,2
+3303,2020,Male,Syria,Medicine and Surgery,Abha,42.511724,18.246468,2
+3305,2020,Male,Syria,Medicine and Surgery,Buraidah,43.981812,26.359231,2
+3309,2021,Female,Jordan,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+3312,2019,Male,Egypt,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,2
+3313,2019,Male,Egypt,Medicine and Surgery,Madinah,39.569184,24.524654,2
+3314,2021,Male,Saudi Arabia,Laboratories and Medical Technology,Jazan,42.570567,16.889359,2
+3315,2021,Male,Saudi Arabia,Dentistry and Related Specialties,Khobar,50.080072,26.182911,2
+3318,2020,Male,Saudi Arabia,Unknown,Dammam,50.088794,26.420683,2
+3320,2019,Male,Kuwait,Medicine and Surgery,Dammam,50.088794,26.420683,2
+3326,2019,Male,Iraq,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+3329,2020,Male,Somalia,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+3332,2019,Male,Eritrea,Medicine and Surgery,Riyadh,46.675296,24.713552,2
+3334,2020,Male,Sudan,Medicine and Surgery,Buraidah,43.981812,26.359231,2
+3338,2020,Male,Sudan,Medicine and Surgery,Dubai,55.28,25.252,2
+3339,2019,Male,Afghanistan,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+3340,2020,Female,Sudan,Medicine and Surgery,Dammam,50.088794,26.420683,2
+3343,2019,Female,Yemen,Medicine and Surgery,Madinah,39.569184,24.524654,2
+3347,2019,Female,United States,Medicine and Surgery,Jeddah,39.192505,21.485811,2
+3350,2021,Female,Pakistan,Medicine and Surgery,Makkah,39.857912,21.389082,1
+3351,2022,Male,Palestine,Medicine and Surgery,Jazan,42.570567,16.889359,1
+3352,2020,Male,Malaysia,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3353,2022,Male,Palestine,Medicine and Surgery,Khobar,50.080072,26.182911,1
+3354,2021,Female,Sudan,Medicine and Surgery,Abha,42.511724,18.246468,1
+3355,2020,Female,Turkmenistan,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3356,2021,Female,Egypt,Medicine and Surgery,Makkah,39.857912,21.389082,1
+3357,2021,Female,Spain,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3358,2018,Female,China,Medicine and Surgery,Taif,40.424819,21.284078,1
+3359,2022,Male,Palestine,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+3360,2018,Female,Djibouti,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3361,2020,Female,Turkey,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3362,2020,Female,Turkestan,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3363,2020,Female,United Kingdom,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3364,2020,Female,Tunisia,Medicine and Surgery,Dubai,55.28,25.252,1
+3365,2020,Female,Thailand,Medicine and Surgery,Taif,40.424819,21.284078,1
+3366,2021,Female,New Zealand,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3367,2022,Male,Pakistan,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,1
+3368,2018,Female,Egypt,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,1
+3369,2020,Female,Syria,Medicine and Surgery,Dubai,55.28,25.252,1
+3370,2022,Male,Tunisia,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3371,2021,Female,Mauritania,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3372,2020,Female,Syria,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3373,2022,Male,Unknown,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3374,2020,Male,Saudi Arabia,Dentistry and Related Specialties,Jouf,39.320624,29.887356,1
+3375,2018,Female,Canada,Medicine and Surgery,Dubai,55.28,25.252,1
+3376,2020,Female,Yemen,Dentistry and Related Specialties,Jeddah,39.192505,21.485811,1
+3377,2020,Female,United States,Medicine and Surgery,Dubai,55.28,25.252,1
+3378,2022,Male,Saudi Arabia,Dentistry and Related Specialties,Abha,42.511724,18.246468,1
+3379,2020,Male,Pakistan,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3380,2018,Female,India,Medicine and Surgery,Abha,42.511724,18.246468,1
+3381,2020,Female,Yemen,Pharmacists and Pharmacy Technicians,Riyadh,46.675296,24.713552,1
+3382,2017,Male,Unknown,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3383,2020,Male,Sudan,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3384,2020,Female,Yemen,Nursing and Midwifery,Riyadh,46.675296,24.713552,1
+3385,2022,Male,Syria,Medicine and Surgery,Jazan,42.570567,16.889359,1
+3386,2020,Male,Pakistan,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3387,2020,Male,Palestine,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3388,2018,Female,France,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3389,2020,Female,Yemen,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3390,2020,Female,Yemen,Medicine and Surgery,Khobar,50.080072,26.182911,1
+3391,2018,Female,Belgium,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3392,2021,Female,Somalia,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3393,2018,Female,Bangladesh,Medicine and Surgery,Dubai,55.28,25.252,1
+3394,2021,Female,Egypt,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,1
+3395,2017,Male,Yemen,Dentistry and Related Specialties,Jeddah,39.192505,21.485811,1
+3396,2020,Male,Sudan,Medicine and Surgery,Albahah,41.471273,20.021741,1
+3397,2020,Male,Spain,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3398,2017,Male,Yemen,Medicine and Surgery,Albahah,41.471273,20.021741,1
+3399,2020,Female,Yemen,Medicine and Surgery,Dubai,55.28,25.252,1
+3400,2020,Female,Yemen,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3401,2021,Female,Mali,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3402,2020,Female,United States,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3403,2020,Male,Palestine,Medicine and Surgery,Dubai,55.28,25.252,1
+3404,2018,Female,Egypt,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,1
+3405,2020,Male,Syria,Medicine and Surgery,Unaizah,43.987546,26.090731,1
+3406,2022,Male,Sudan,Medicine and Surgery,Abha,42.511724,18.246468,1
+3407,2021,Female,Federated States Of Micronesia,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3408,2021,Female,France,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3409,2017,Male,Sudan,Medicine and Surgery,Yanbu,38.155484,24.056528,1
+3410,2021,Female,Saudi Arabia,Dentistry and Related Specialties,Dubai,55.28,25.252,1
+3411,2020,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Dhahran,50.039302,26.236125,1
+3412,2021,Female,Germany,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3413,2017,Male,Sudan,Medicine and Surgery,Taif,40.424819,21.284078,1
+3414,2021,Female,Immigrant Tribes,Medicine and Surgery,Makkah,39.857912,21.389082,1
+3415,2020,Male,Yemen,Medicine and Surgery,Jubail,49.568742,26.959771,1
+3416,2020,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Hail,41.720824,27.51141,1
+3417,2021,Female,Immigrant Tribes,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3418,2020,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Taif,40.424819,21.284078,1
+3419,2021,Female,Syria,Medicine and Surgery,Abha,42.511724,18.246468,1
+3420,2021,Female,Immigrant Tribes,Nursing and Midwifery,Riyadh,46.675296,24.713552,1
+3421,2022,Male,Yemen,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+3422,2022,Male,Jordan,Medicine and Surgery,Dubai,55.28,25.252,1
+3423,2022,Male,Iraq,Medicine and Surgery,Dubai,55.28,25.252,1
+3424,2020,Male,Yemen,Medicine and Surgery,Dhahran,50.039302,26.236125,1
+3425,2020,Male,Uzbekistan,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3426,2020,Male,Saudi Arabia,Dentistry and Related Specialties,Alkharj  ,47.324788,24.157604,1
+3427,2021,Female,Syria,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+3428,2020,Female,Sudan,Medicine and Surgery,Hail,41.720824,27.51141,1
+3429,2022,Male,India,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3430,2021,Female,India,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3431,2020,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Najran,44.228944,17.565604,1
+3432,2021,Female,Iran,Medicine and Surgery,Dubai,55.28,25.252,1
+3433,2018,Female,Egypt,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3434,2021,Female,Iraq,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3435,2021,Female,Saudi Arabia,Dentistry and Related Specialties,Bisha,42.590167,19.976352,1
+3436,2021,Female,Saudi Arabia,Dentistry and Related Specialties,Alkharj  ,47.324788,24.157604,1
+3437,2018,Female,Eritrea,Medicine and Surgery,Dubai,55.28,25.252,1
+3438,2021,Female,Sudan,Medicine and Surgery,Hail,41.720824,27.51141,1
+3439,2022,Male,Pakistan,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3440,2021,Female,Saudi Arabia,Dentistry and Related Specialties,Khobar,50.080072,26.182911,1
+3441,2022,Male,Yemen,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3442,2021,Female,Lebanon,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3443,2022,Male,Somalia,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3444,2020,Female,Sudan,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3445,2021,Female,Lebanon,Medicine and Surgery,Dubai,55.28,25.252,1
+3446,2017,Male,Yemen,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,1
+3447,2021,Female,Saudi Arabia,Dentistry and Related Specialties,Jubail,49.568742,26.959771,1
+3448,2021,Female,Sudan,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+3449,2018,Female,Ethiopia,Medicine and Surgery,Dubai,55.28,25.252,1
+3450,2020,Male,Yemen,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3451,2017,Male,Syria,Dentistry and Related Specialties,Makkah,39.857912,21.389082,1
+3452,2020,Male,Palestine,Medicine and Surgery,Khobar,50.080072,26.182911,1
+3453,2022,Male,Nigeria,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3454,2021,Female,Kuwait,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3455,2020,Male,United Kingdom,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3456,2021,Female,Saudi Arabia,Dentistry and Related Specialties,Al-Ahsa,49.365315,21.91133,1
+3457,2020,Male,United States,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3458,2018,Female,Eritrea,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3459,2020,Male,Palestine,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3460,2022,Male,Mauritania,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3461,2022,Male,Malta,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3462,2021,Female,Kuwait,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3463,2020,Male,Palestine,Medicine and Surgery,Najran,44.228944,17.565604,1
+3464,2021,Female,Ethiopia,Medicine and Surgery,Dubai,55.28,25.252,1
+3465,2022,Male,Lebanon,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3466,2020,Male,United Arab Emirates,Medicine and Surgery,Khobar,50.080072,26.182911,1
+3467,2020,Male,Bahrain,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,1
+3468,2020,Male,Afghanistan,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3469,2017,Male,Syria,Medicine and Surgery,Jazan,42.570567,16.889359,1
+3470,2017,Male,United Arab Emirates,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3471,2018,Female,Palestine,Medicine and Surgery,Yanbu,38.155484,24.056528,1
+3472,2018,Female,Palestine,Nursing and Midwifery,Riyadh,46.675296,24.713552,1
+3473,2017,Male,Syria,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3474,2018,Female,Russia,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3475,2020,Male,Iraq,Medicine and Surgery,Dubai,55.28,25.252,1
+3476,2020,Male,Syria,Medicine and Surgery,Jazan,42.570567,16.889359,1
+3477,2020,Male,Indonesia,Medicine and Surgery,Makkah,39.857912,21.389082,1
+3478,2018,Female,Azerbaijan,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3479,2021,Female,Bahrain,Medicine and Surgery,Abha,42.511724,18.246468,1
+3480,2020,Male,Mauritania,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3481,2020,Male,India,Medicine and Surgery,Dubai,55.28,25.252,1
+3482,2018,Female,Pakistan,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+3483,2020,Male,India,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+3484,2020,Male,Syria,Medicine and Surgery,Dubai,55.28,25.252,1
+3485,2018,Female,Saudi Arabia,Dentistry and Related Specialties,Alkharj  ,47.324788,24.157604,1
+3486,2018,Female,Saudi Arabia,Dentistry and Related Specialties,Buraidah,43.981812,26.359231,1
+3487,2020,Male,Immigrant Tribes,Medicine and Surgery,Tabuk,36.566191,28.383508,1
+3488,2021,Female,Bahrain,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,1
+3489,2018,Female,Ireland,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3490,2022,Male,Sudan,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,1
+3491,2020,Male,Immigrant Tribes,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3492,2018,Female,Bahrain,Medicine and Surgery,Dhahran,50.039302,26.236125,1
+3493,2018,Female,Oman,Medicine and Surgery,Manama,50.5831,26.2167,1
+3494,2021,Female,Bahrain,Medicine and Surgery,Alkharj  ,47.324788,24.157604,1
+3495,2020,Male,Germany,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3496,2021,Female,Bahrain,Medicine and Surgery,Dhahran,50.039302,26.236125,1
+3497,2021,Female,Palestine,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3498,2018,Female,Algeria,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3499,2020,Male,Mauritania,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3500,2017,Male,Yemen,Medicine and Surgery,Yanbu,38.155484,24.056528,1
+3501,2020,Male,Lebanon,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3502,2018,Female,Pakistan,Medicine and Surgery,Makkah,39.857912,21.389082,1
+3503,2017,Male,Tunisia,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3504,2020,Male,Lebanon,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3505,2018,Female,Pakistan,Medicine and Surgery,Taif,40.424819,21.284078,1
+3506,2017,Male,Syria,Medicine and Surgery,Unaizah,43.987546,26.090731,1
+3507,2020,Male,Kuwait,Medicine and Surgery,Taif,40.424819,21.284078,1
+3508,2017,Male,Syria,Medicine and Surgery,Taif,40.424819,21.284078,1
+3509,2018,Female,Palestine,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,1
+3510,2020,Male,Kuwait,Medicine and Surgery,Manama,50.5831,26.2167,1
+3511,2017,Male,Yemen,Medicine and Surgery,Unaizah,43.987546,26.090731,1
+3512,2021,Female,Palestine,Medicine and Surgery,Abha,42.511724,18.246468,1
+3513,2018,Female,Palestine,Medicine and Surgery,Albahah,41.471273,20.021741,1
+3514,2020,Male,Jordan,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,1
+3515,2020,Male,Yemen,Unknown,Riyadh,46.675296,24.713552,1
+3516,2018,Female,Palestine,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+3517,2020,Male,Syria,Medicine and Surgery,Hofuf,49.588765,25.380026,1
+3518,2017,Male,Yemen,Unknown,Riyadh,46.675296,24.713552,1
+3519,2018,Female,Palestine,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3520,2022,Male,Saudi Arabia,Medicine and Surgery,Dubai,55.28,25.252,1
+3521,2020,Male,Kuwait,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,1
+3522,2018,Female,Palestine,Medicine and Surgery,Makkah,39.857912,21.389082,1
+3523,2020,Male,Jordan,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3524,2018,Female,Algeria,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3525,2018,Female,Palestine,Medicine and Surgery,Manama,50.5831,26.2167,1
+3526,2022,Male,Saudi Arabia,Medicine and Surgery,Unaizah,43.987546,26.090731,1
+3527,2022,Male,Saudi Arabia,Medicine and Surgery,Arar,41.059564,30.959945,1
+3528,2018,Female,Oman,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3529,2020,Male,Algeria,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3530,2020,Male,Egypt,Medicine and Surgery,Yanbu,38.155484,24.056528,1
+3531,2021,Female,Saudi Arabia,Nursing and Midwifery,Alkharj  ,47.324788,24.157604,1
+3532,2020,Male,Pakistan,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3533,2022,Male,Syria,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3534,2018,Female,Saudi Arabia,Medicine and Surgery,Alquriyat,37.361353,31.329635,1
+3535,2020,Male,Pakistan,Medicine and Surgery,Dubai,55.28,25.252,1
+3536,2018,Female,Jordan,Medicine and Surgery,Tabuk,36.566191,28.383508,1
+3537,2020,Male,Saudi Arabia,Nursing and Midwifery,Al-Ahsa,49.365315,21.91133,1
+3538,2022,Male,Syria,Medicine and Surgery,Dubai,55.28,25.252,1
+3539,2018,Female,Bahrain,Medicine and Surgery,Makkah,39.857912,21.389082,1
+3540,2021,Female,Egypt,Dentistry and Related Specialties,Jeddah,39.192505,21.485811,1
+3541,2020,Male,Egypt,Medicine and Surgery,Dubai,55.28,25.252,1
+3542,2020,Male,Egypt,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3543,2021,Female,Palestine,Medicine and Surgery,Jazan,42.570567,16.889359,1
+3544,2020,Male,Belize,Medicine and Surgery,Dubai,55.28,25.252,1
+3545,2020,Male,Bangladesh,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3546,2020,Male,Bahrain,Medicine and Surgery,Unknown - Saudi Arabia,45.079162,23.885942,1
+3547,2022,Male,Saudi Arabia,Unknown,Dammam,50.088794,26.420683,1
+3548,2021,Female,Somalia,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3549,2017,Male,United Kingdom,Medicine and Surgery,Dubai,55.28,25.252,1
+3550,2020,Male,Sudan,Medicine and Surgery,Jazan,42.570567,16.889359,1
+3551,2018,Female,Jordan,Medicine and Surgery,Khobar,50.080072,26.182911,1
+3552,2020,Male,Bahrain,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3553,2020,Male,Syria,Medicine and Surgery,Tabuk,36.566191,28.383508,1
+3554,2021,Female,Egypt,Dentistry and Related Specialties,Makkah,39.857912,21.389082,1
+3555,2022,Male,Saudi Arabia,Medicine and Surgery,Hofuf,49.588765,25.380026,1
+3556,2020,Male,Bahrain,Medicine and Surgery,Alqatif  ,49.998236,26.576492,1
+3557,2020,Male,Malta,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3558,2017,Male,United Arab Emirates,Medicine and Surgery,Khobar,50.080072,26.182911,1
+3559,2018,Female,Saudi Arabia,Medicine and Surgery,Alkharj  ,47.324788,24.157604,1
+3560,2020,Male,Syria,Medicine and Surgery,Makkah,39.857912,21.389082,1
+3561,2021,Female,Palestine,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,1
+3562,2020,Male,Egypt,Medicine and Surgery,Taif,40.424819,21.284078,1
+3563,2020,Male,Syria,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,1
+3564,2022,Male,Sudan,Unknown,Riyadh,46.675296,24.713552,1
+3565,2018,Female,Bahrain,Medicine and Surgery,Khobar,50.080072,26.182911,1
+3566,2021,Female,Saudi Arabia,Laboratories and Medical Technology,Jazan,42.570567,16.889359,1
+3567,2021,Female,Saudi Arabia,Dentistry and Related Specialties,Unknown - Saudi Arabia,45.079162,23.885942,1
+3568,2020,Male,Sudan,Medicine and Surgery,Tabuk,36.566191,28.383508,1
+3569,2021,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Hail,41.720824,27.51141,1
+3570,2021,Female,Bahrain,Medicine and Surgery,Makkah,39.857912,21.389082,1
+3571,2021,Female,Saudi Arabia,Dentistry and Related Specialties,Tabuk,36.566191,28.383508,1
+3572,2018,Female,Indonesia,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3573,2018,Female,Morocco,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3574,2018,Female,Bahrain,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3575,2018,Female,Lebanon,Medicine and Surgery,Dubai,55.28,25.252,1
+3576,2022,Male,Saudi Arabia,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,1
+3577,2020,Male,Syria,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3578,2021,Female,Bahrain,Medicine and Surgery,Tabuk,36.566191,28.383508,1
+3579,2021,Female,Bahrain,Medicine and Surgery,Unknown - Saudi Arabia,45.079162,23.885942,1
+3580,2018,Female,India,Medicine and Surgery,Makkah,39.857912,21.389082,1
+3581,2021,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Khobar,50.080072,26.182911,1
+3582,2018,Female,India,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,1
+3583,2021,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Madinah,39.569184,24.524654,1
+3584,2018,Female,Mauritania,Medicine and Surgery,Dubai,55.28,25.252,1
+3585,2021,Female,Canada,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3586,2020,Male,Oman,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3587,2020,Male,Pakistan,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,1
+3588,2017,Male,Yemen,Medicine and Surgery,Jazan,42.570567,16.889359,1
+3589,2019,Female,New Zealand,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3590,2022,Male,Immigrant Tribes,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3591,2022,Female,Bahrain,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3592,2022,Female,Bangladesh,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3593,2022,Female,Egypt,Medicine and Surgery,Abha,42.511724,18.246468,1
+3594,2019,Male,Bangladesh,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3595,2019,Male,Bangladesh,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3596,2019,Male,Belize,Medicine and Surgery,Dubai,55.28,25.252,1
+3597,2019,Male,Canada,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3598,2019,Male,Egypt,Medicine and Surgery,Albahah,41.471273,20.021741,1
+3599,2019,Male,Egypt,Medicine and Surgery,Dhahran,50.039302,26.236125,1
+3600,2019,Male,Egypt,Medicine and Surgery,Dubai,55.28,25.252,1
+3601,2022,Female,Egypt,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,1
+3602,2021,Male,Saudi Arabia,Laboratories and Medical Technology,Najran,44.228944,17.565604,1
+3603,2019,Male,Egypt,Medicine and Surgery,Tabuk,36.566191,28.383508,1
+3604,2018,Male,Sudan,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3605,2019,Male,Egypt,Medicine and Surgery,Yanbu,38.155484,24.056528,1
+3606,2018,Male,Sudan,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+3607,2019,Male,Egypt,Unknown,Jeddah,39.192505,21.485811,1
+3608,2019,Male,Immigrant Tribes,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3609,2019,Male,Immigrant Tribes,Nursing and Midwifery,Riyadh,46.675296,24.713552,1
+3610,2018,Male,Somalia,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3611,2018,Male,Somalia,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3612,2019,Male,India,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+3613,2022,Female,France,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3614,2019,Male,India,Medicine and Surgery,Dubai,55.28,25.252,1
+3615,2019,Male,Bahrain,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3616,2022,Female,Bahrain,Medicine and Surgery,Khobar,50.080072,26.182911,1
+3617,2019,Male,Iraq,Medicine and Surgery,Dubai,55.28,25.252,1
+3618,2022,Female,Bahrain,Medicine and Surgery,Dubai,55.28,25.252,1
+3619,2018,Male,Syria,Medicine and Surgery,Taif,40.424819,21.284078,1
+3620,2018,Male,Syria,Medicine and Surgery,Tabuk,36.566191,28.383508,1
+3621,2019,Female,Yemen,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,1
+3622,2019,Female,Yemen,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+3623,2018,Male,Syria,Medicine and Surgery,Jazan,42.570567,16.889359,1
+3624,2018,Male,Syria,Medicine and Surgery,Dubai,55.28,25.252,1
+3625,2019,Female,Yemen,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3626,2019,Female,Yemen,Medicine and Surgery,Dubai,55.28,25.252,1
+3627,2019,Female,Yemen,Medicine and Surgery,Khobar,50.080072,26.182911,1
+3628,2022,Female,Bahrain,Medicine and Surgery,Abha,42.511724,18.246468,1
+3629,2018,Male,Syria,Medicine and Surgery,Abha,42.511724,18.246468,1
+3630,2018,Male,Syria,Dentistry and Related Specialties,Makkah,39.857912,21.389082,1
+3631,2019,Female,Yemen,Medicine and Surgery,Taif,40.424819,21.284078,1
+3632,2019,Female,Yemen,Medicine and Surgery,Unaizah,43.987546,26.090731,1
+3633,2019,Female,Yemen,Nursing and Midwifery,Riyadh,46.675296,24.713552,1
+3634,2018,Male,Sudan,Medicine and Surgery,Yanbu,38.155484,24.056528,1
+3635,2019,Male,Afghanistan,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3636,2018,Male,Sudan,Medicine and Surgery,Taif,40.424819,21.284078,1
+3637,2019,Male,Algeria,Medicine and Surgery,Dubai,55.28,25.252,1
+3638,2019,Male,Algeria,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3639,2022,Female,Bahrain,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3640,2019,Male,Bahrain,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,1
+3641,2019,Male,Bahrain,Medicine and Surgery,Alqatif  ,49.998236,26.576492,1
+3642,2019,Male,Indonesia,Medicine and Surgery,Makkah,39.857912,21.389082,1
+3643,2019,Male,Jordan,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,1
+3644,2018,Male,Tunisia,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3645,2019,Male,Pakistan,Medicine and Surgery,Tabuk,36.566191,28.383508,1
+3646,2019,Male,Palestine,Medicine and Surgery,Albahah,41.471273,20.021741,1
+3647,2019,Male,Palestine,Medicine and Surgery,Bisha,42.590167,19.976352,1
+3648,2019,Male,Palestine,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+3649,2019,Male,Palestine,Medicine and Surgery,Khobar,50.080072,26.182911,1
+3650,2019,Male,Saudi Arabia,Dentistry and Related Specialties,Albahah,41.471273,20.021741,1
+3651,2019,Male,Saudi Arabia,Dentistry and Related Specialties,Alkharj  ,47.324788,24.157604,1
+3652,2022,Female,Saudi Arabia,Medicine and Surgery,Dubai,55.28,25.252,1
+3653,2021,Male,Saudi Arabia,Dentistry and Related Specialties,Dubai,55.28,25.252,1
+3654,2019,Male,Saudi Arabia,Dentistry and Related Specialties,Tabuk,36.566191,28.383508,1
+3655,2021,Male,Saudi Arabia,Dentistry and Related Specialties,Bisha,42.590167,19.976352,1
+3656,2021,Male,Saudi Arabia,Dentistry and Related Specialties,Alkharj  ,47.324788,24.157604,1
+3657,2018,Male,Saudi Arabia,Laboratories and Medical Technology,Makkah,39.857912,21.389082,1
+3658,2019,Male,Saudi Arabia,Medicine and Surgery,Dubai,55.28,25.252,1
+3659,2021,Male,Palestine,Medicine and Surgery,Makkah,39.857912,21.389082,1
+3660,2021,Male,Palestine,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3661,2021,Male,Palestine,Medicine and Surgery,Jazan,42.570567,16.889359,1
+3662,2021,Male,Palestine,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3663,2021,Male,Palestine,Medicine and Surgery,Bisha,42.590167,19.976352,1
+3664,2021,Male,Palestine,Medicine and Surgery,Albahah,41.471273,20.021741,1
+3665,2021,Male,Pakistan,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3666,2021,Male,Pakistan,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,1
+3667,2021,Male,Pakistan,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,1
+3668,2021,Male,Oman,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3669,2022,Female,Palestine,Medicine and Surgery,Jazan,42.570567,16.889359,1
+3670,2019,Male,Pakistan,Medicine and Surgery,Dubai,55.28,25.252,1
+3671,2019,Male,Jordan,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,1
+3672,2022,Female,Palestine,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3673,2019,Male,Kuwait,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,1
+3674,2022,Female,Iraq,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3675,2018,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Madinah,39.569184,24.524654,1
+3676,2019,Male,Kuwait,Medicine and Surgery,Dhahran,50.039302,26.236125,1
+3677,2018,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Jazan,42.570567,16.889359,1
+3678,2018,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Dammam,50.088794,26.420683,1
+3679,2019,Male,Kuwait,Medicine and Surgery,Manama,50.5831,26.2167,1
+3680,2019,Male,Kuwait,Medicine and Surgery,Najran,44.228944,17.565604,1
+3681,2019,Male,Kuwait,Medicine and Surgery,Taif,40.424819,21.284078,1
+3682,2022,Female,Jordan,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3683,2019,Male,Lebanon,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3684,2022,Female,Jordan,Pharmacists and Pharmacy Technicians,Riyadh,46.675296,24.713552,1
+3685,2022,Female,Lebanon,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3686,2021,Male,Saudi Arabia,Dentistry and Related Specialties,Jubail,49.568742,26.959771,1
+3687,2022,Female,Pakistan,Medicine and Surgery,Dubai,55.28,25.252,1
+3688,2022,Female,Pakistan,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3689,2022,Female,Palestine,Medicine and Surgery,Abha,42.511724,18.246468,1
+3690,2019,Male,Malaysia,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3691,2019,Male,Mauritania,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3692,2019,Male,Mauritania,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3693,2019,Male,Nigeria,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3694,2019,Male,Oman,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3695,2019,Male,Pakistan,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3696,2018,Male,Syria,Medicine and Surgery,Unaizah,43.987546,26.090731,1
+3697,2018,Male,United Arab Emirates,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3698,2020,Female,Spain,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3699,2019,Female,India,Medicine and Surgery,Taif,40.424819,21.284078,1
+3700,2021,Male,Sudan,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3701,2021,Male,Sudan,Medicine and Surgery,Jazan,42.570567,16.889359,1
+3702,2021,Male,Syria,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3703,2019,Female,India,Medicine and Surgery,Makkah,39.857912,21.389082,1
+3704,2021,Male,Sudan,Medicine and Surgery,Dubai,55.28,25.252,1
+3705,2021,Male,Syria,Medicine and Surgery,Hofuf,49.588765,25.380026,1
+3706,2021,Male,Syria,Medicine and Surgery,Jazan,42.570567,16.889359,1
+3707,2021,Male,Sudan,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3708,2019,Female,Saudi Arabia,Medicine and Surgery,Hafr Albatin,45.962711,28.378415,1
+3709,2021,Male,Sudan,Medicine and Surgery,Abha,42.511724,18.246468,1
+3710,2021,Male,Spain,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3711,2021,Male,Somalia,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3712,2021,Male,Saudi Arabia,Unknown,Dammam,50.088794,26.420683,1
+3713,2021,Male,Syria,Medicine and Surgery,Tabuk,36.566191,28.383508,1
+3714,2021,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Madinah,39.569184,24.524654,1
+3715,2021,Male,United Kingdom,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3716,2021,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Khobar,50.080072,26.182911,1
+3717,2021,Male,United States,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3718,2021,Male,Unknown,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3719,2019,Female,Ethiopia,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3720,2021,Male,Yemen,Dentistry and Related Specialties,Jeddah,39.192505,21.485811,1
+3721,2019,Female,Ethiopia,Medicine and Surgery,Dubai,55.28,25.252,1
+3722,2019,Female,Eritrea,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3723,2019,Female,Saudi Arabia,Medicine and Surgery,Alquriyat,37.361353,31.329635,1
+3724,2021,Male,Sudan,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,1
+3725,2021,Male,Yemen,Medicine and Surgery,Albahah,41.471273,20.021741,1
+3726,2019,Female,Saudi Arabia,Laboratories and Medical Technology,Madinah,39.569184,24.524654,1
+3727,2019,Female,Morocco,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3728,2019,Female,Libya,Medicine and Surgery,Dubai,55.28,25.252,1
+3729,2019,Female,Lebanon,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3730,2019,Female,Lebanon,Medicine and Surgery,Dubai,55.28,25.252,1
+3731,2019,Female,Oman,Medicine and Surgery,Manama,50.5831,26.2167,1
+3732,2021,Male,Syria,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,1
+3733,2019,Female,Kuwait,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3734,2019,Female,Pakistan,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+3735,2019,Female,Jordan,Medicine and Surgery,Tabuk,36.566191,28.383508,1
+3736,2019,Female,Palestine,Medicine and Surgery,Albahah,41.471273,20.021741,1
+3737,2019,Female,Palestine,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+3738,2019,Female,Jordan,Medicine and Surgery,Khobar,50.080072,26.182911,1
+3739,2019,Female,Palestine,Medicine and Surgery,Dubai,55.28,25.252,1
+3740,2021,Male,Sudan,Medicine and Surgery,Taif,40.424819,21.284078,1
+3741,2019,Female,Palestine,Medicine and Surgery,Makkah,39.857912,21.389082,1
+3742,2021,Male,Sudan,Medicine and Surgery,Tabuk,36.566191,28.383508,1
+3743,2019,Female,Palestine,Medicine and Surgery,Manama,50.5831,26.2167,1
+3744,2019,Female,Palestine,Medicine and Surgery,Yanbu,38.155484,24.056528,1
+3745,2021,Male,Syria,Medicine and Surgery,Abha,42.511724,18.246468,1
+3746,2019,Female,Saudi Arabia,Dentistry and Related Specialties,Buraidah,43.981812,26.359231,1
+3747,2019,Female,Saudi Arabia,Dentistry and Related Specialties,Jubail,49.568742,26.959771,1
+3748,2019,Female,Ireland,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3749,2019,Female,Saudi Arabia,Dentistry and Related Specialties,Taif,40.424819,21.284078,1
+3750,2019,Female,Eritrea,Medicine and Surgery,Dubai,55.28,25.252,1
+3751,2021,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Dammam,50.088794,26.420683,1
+3752,2019,Female,United States,Medicine and Surgery,Dubai,55.28,25.252,1
+3753,2019,Female,Sudan,Medicine and Surgery,Hail,41.720824,27.51141,1
+3754,2019,Female,Bahrain,Medicine and Surgery,Dhahran,50.039302,26.236125,1
+3755,2021,Male,Saudi Arabia,Nursing and Midwifery,Al-Ahsa,49.365315,21.91133,1
+3756,2019,Female,Bahrain,Medicine and Surgery,Alkharj  ,47.324788,24.157604,1
+3757,2018,Male,Yemen,Medicine and Surgery,Unaizah,43.987546,26.090731,1
+3758,2019,Female,Syria,Medicine and Surgery,Dubai,55.28,25.252,1
+3759,2019,Female,Syria,Medicine and Surgery,Khobar,50.080072,26.182911,1
+3760,2019,Female,Syria,Medicine and Surgery,Unaizah,43.987546,26.090731,1
+3761,2019,Female,Thailand,Medicine and Surgery,Taif,40.424819,21.284078,1
+3762,2019,Female,Tunisia,Medicine and Surgery,Dubai,55.28,25.252,1
+3763,2019,Female,Turkestan,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3764,2019,Female,Turkey,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3765,2018,Male,Yemen,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,1
+3766,2018,Male,Yemen,Medicine and Surgery,Jubail,49.568742,26.959771,1
+3767,2021,Male,Yemen,Medicine and Surgery,Tabuk,36.566191,28.383508,1
+3768,2018,Male,Yemen,Medicine and Surgery,Jazan,42.570567,16.889359,1
+3769,2018,Male,Yemen,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+3770,2018,Male,Yemen,Dentistry and Related Specialties,Jeddah,39.192505,21.485811,1
+3771,2018,Male,Unknown,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3772,2018,Male,United Kingdom,Medicine and Surgery,Dubai,55.28,25.252,1
+3773,2021,Male,Saudi Arabia,Medicine and Surgery,Dubai,55.28,25.252,1
+3774,2019,Female,Turkmenistan,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3775,2018,Male,United Arab Emirates,Medicine and Surgery,Khobar,50.080072,26.182911,1
+3776,2019,Female,United Kingdom,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3777,2019,Female,Bahrain,Medicine and Surgery,Dubai,55.28,25.252,1
+3778,2019,Female,Bahrain,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3779,2021,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Alkharj  ,47.324788,24.157604,1
+3780,2019,Female,Bahrain,Medicine and Surgery,Makkah,39.857912,21.389082,1
+3781,2019,Female,Egypt,Medicine and Surgery,Makkah,39.857912,21.389082,1
+3782,2019,Female,Egypt,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3783,2019,Female,Egypt,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,1
+3784,2021,Male,Yemen,Medicine and Surgery,Dhahran,50.039302,26.236125,1
+3785,2019,Female,Egypt,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,1
+3786,2019,Female,Saudi Arabia,Nursing and Midwifery,Najran,44.228944,17.565604,1
+3787,2019,Female,Egypt,Medicine and Surgery,Abha,42.511724,18.246468,1
+3788,2019,Female,Egypt,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,1
+3789,2019,Female,Djibouti,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3790,2019,Female,Saudi Arabia,Nursing and Midwifery,Yanbu,38.155484,24.056528,1
+3791,2019,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Dhahran,50.039302,26.236125,1
+3792,2019,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Madinah,39.569184,24.524654,1
+3793,2019,Female,China,Medicine and Surgery,Taif,40.424819,21.284078,1
+3794,2019,Female,Belgium,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3795,2021,Male,Yemen,Medicine and Surgery,Jubail,49.568742,26.959771,1
+3796,2019,Female,Bangladesh,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3797,2019,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Makkah,39.857912,21.389082,1
+3798,2021,Male,Saudi Arabia,Nursing and Midwifery,Alkharj  ,47.324788,24.157604,1
+3799,2019,Female,Saudi Arabia,Unknown,Dammam,50.088794,26.420683,1
+3800,2019,Female,Bangladesh,Medicine and Surgery,Dubai,55.28,25.252,1
+3801,2019,Female,Somalia,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3802,2019,Female,Bahrain,Medicine and Surgery,Unknown - Saudi Arabia,45.079162,23.885942,1
+3803,2019,Female,Spain,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3804,2021,Male,Nigeria,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3805,2021,Male,Niger,Medicine and Surgery,Najran,44.228944,17.565604,1
+3806,2021,Male,Mauritania,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3807,2021,Male,Belize,Medicine and Surgery,Dubai,55.28,25.252,1
+3808,2018,Male,Bahrain,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3809,2020,Female,Kuwait,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,1
+3810,2018,Male,Algeria,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3811,2018,Male,Afghanistan,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3812,2018,Male,Afghanistan,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3813,2020,Female,Kuwait,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3814,2018,Female,Yemen,Medicine and Surgery,Unaizah,43.987546,26.090731,1
+3815,2020,Female,Lebanon,Medicine and Surgery,Dubai,55.28,25.252,1
+3816,2020,Female,Lebanon,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3817,2020,Female,Libya,Medicine and Surgery,Dubai,55.28,25.252,1
+3818,2020,Female,Mali,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3819,2022,Male,Egypt,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,1
+3820,2020,Female,New Zealand,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3821,2020,Female,Oman,Medicine and Surgery,Manama,50.5831,26.2167,1
+3822,2020,Female,Pakistan,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+3823,2022,Male,Egypt,Medicine and Surgery,Makkah,39.857912,21.389082,1
+3824,2020,Female,Pakistan,Medicine and Surgery,Makkah,39.857912,21.389082,1
+3825,2020,Female,Palestine,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,1
+3826,2020,Female,Palestine,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3827,2020,Female,Palestine,Medicine and Surgery,Jazan,42.570567,16.889359,1
+3828,2018,Female,Yemen,Medicine and Surgery,Dubai,55.28,25.252,1
+3829,2020,Female,Palestine,Medicine and Surgery,Manama,50.5831,26.2167,1
+3830,2018,Female,Yemen,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+3831,2022,Male,Egypt,Medicine and Surgery,Dhahran,50.039302,26.236125,1
+3832,2021,Male,Egypt,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,1
+3833,2018,Female,Yemen,Medicine and Surgery,Alqatif  ,49.998236,26.576492,1
+3834,2018,Male,Bahrain,Medicine and Surgery,Dhahran,50.039302,26.236125,1
+3835,2018,Male,Bahrain,Nursing and Midwifery,Riyadh,46.675296,24.713552,1
+3836,2020,Female,Ethiopia,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3837,2020,Female,Federated States Of Micronesia,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3838,2020,Female,Germany,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3839,2022,Female,Turkey,Medicine and Surgery,Makkah,39.857912,21.389082,1
+3840,2021,Male,Germany,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3841,2020,Female,India,Medicine and Surgery,Makkah,39.857912,21.389082,1
+3842,2020,Female,India,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3843,2022,Female,United Arab Emirates,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3844,2022,Female,United States,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3845,2020,Female,Iran,Medicine and Surgery,Dubai,55.28,25.252,1
+3846,2022,Female,Yemen,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3847,2018,Male,Bahrain,Medicine and Surgery,Dubai,55.28,25.252,1
+3848,2020,Female,Jordan,Medicine and Surgery,Khobar,50.080072,26.182911,1
+3849,2022,Male,Bahrain,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3850,2022,Male,Bahrain,Medicine and Surgery,Dhahran,50.039302,26.236125,1
+3851,2021,Male,Ethiopia,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3852,2020,Female,Jordan,Medicine and Surgery,Tabuk,36.566191,28.383508,1
+3853,2021,Male,Egypt,Medicine and Surgery,Makkah,39.857912,21.389082,1
+3854,2021,Male,Sudan,Unknown,Riyadh,46.675296,24.713552,1
+3855,2021,Male,Egypt,Medicine and Surgery,Dhahran,50.039302,26.236125,1
+3856,2021,Male,Egypt,Medicine and Surgery,Abha,42.511724,18.246468,1
+3857,2020,Female,Jordan,Pharmacists and Pharmacy Technicians,Riyadh,46.675296,24.713552,1
+3858,2020,Female,Palestine,Medicine and Surgery,Yanbu,38.155484,24.056528,1
+3859,2018,Female,Yemen,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,1
+3860,2021,Male,Mauritania,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3861,2021,Female,Yemen,Laboratories and Medical Technology,Riyadh,46.675296,24.713552,1
+3862,2018,Female,Sudan,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,1
+3863,2021,Female,United States,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3864,2021,Female,United States,Medicine and Surgery,Dubai,55.28,25.252,1
+3865,2018,Female,Sudan,Medicine and Surgery,Hail,41.720824,27.51141,1
+3866,2021,Female,United Kingdom,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3867,2021,Female,Turkmenistan,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3868,2021,Female,Turkey,Medicine and Surgery,Makkah,39.857912,21.389082,1
+3869,2021,Female,Turkey,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3870,2021,Female,Turkestan,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3871,2021,Female,Tunisia,Medicine and Surgery,Dubai,55.28,25.252,1
+3872,2018,Female,Somalia,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3873,2018,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Makkah,39.857912,21.389082,1
+3874,2021,Female,Thailand,Medicine and Surgery,Taif,40.424819,21.284078,1
+3875,2021,Female,Syria,Medicine and Surgery,Makkah,39.857912,21.389082,1
+3876,2018,Female,Saudi Arabia,Nursing and Midwifery,Najran,44.228944,17.565604,1
+3877,2018,Female,Saudi Arabia,Nursing and Midwifery,Khamis Mushait,42.766233,18.309339,1
+3878,2020,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Makkah,39.857912,21.389082,1
+3879,2020,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Najran,44.228944,17.565604,1
+3880,2020,Female,Saudi Arabia,Unknown,Dammam,50.088794,26.420683,1
+3881,2018,Female,Saudi Arabia,Nursing and Midwifery,Buraidah,43.981812,26.359231,1
+3882,2022,Male,Immigrant Tribes,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3883,2020,Female,Somalia,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3884,2020,Female,Somalia,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3885,2021,Female,Yemen,Dentistry and Related Specialties,Jeddah,39.192505,21.485811,1
+3886,2021,Female,Yemen,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3887,2020,Female,Saudi Arabia,Dentistry and Related Specialties,Bisha,42.590167,19.976352,1
+3888,2018,Female,Syria,Medicine and Surgery,Khobar,50.080072,26.182911,1
+3889,2018,Female,United States,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3890,2020,Female,Saudi Arabia,Dentistry and Related Specialties,Jubail,49.568742,26.959771,1
+3891,2022,Male,Egypt,Medicine and Surgery,Tabuk,36.566191,28.383508,1
+3892,2018,Female,United Kingdom,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3893,2021,Male,Bangladesh,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3894,2020,Female,Saudi Arabia,Dentistry and Related Specialties,Najran,44.228944,17.565604,1
+3895,2021,Male,Bahrain,Medicine and Surgery,Unknown - Saudi Arabia,45.079162,23.885942,1
+3896,2018,Female,Turkmenistan,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3897,2020,Female,Saudi Arabia,Laboratories and Medical Technology,Makkah,39.857912,21.389082,1
+3898,2020,Female,Saudi Arabia,Laboratories and Medical Technology,Najran,44.228944,17.565604,1
+3899,2018,Female,Turkey,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3900,2018,Female,Turkestan,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3901,2021,Male,Bahrain,Medicine and Surgery,Alqatif  ,49.998236,26.576492,1
+3902,2021,Male,Bahrain,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,1
+3903,2018,Female,Tunisia,Medicine and Surgery,Dubai,55.28,25.252,1
+3904,2018,Female,Thailand,Medicine and Surgery,Taif,40.424819,21.284078,1
+3905,2021,Male,Algeria,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3906,2018,Female,Syria,Medicine and Surgery,Unaizah,43.987546,26.090731,1
+3907,2020,Female,Saudi Arabia,Medicine and Surgery,Alquriyat,37.361353,31.329635,1
+3908,2021,Male,Afghanistan,Medicine and Surgery,Tabuk,36.566191,28.383508,1
+3909,2021,Male,Afghanistan,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3910,2020,Female,Saudi Arabia,Medicine and Surgery,Dubai,55.28,25.252,1
+3911,2020,Female,Saudi Arabia,Medicine and Surgery,Hafr Albatin,45.962711,28.378415,1
+3912,2020,Female,Ethiopia,Medicine and Surgery,Dubai,55.28,25.252,1
+3913,2018,Male,Bangladesh,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3914,2020,Female,Eritrea,Medicine and Surgery,Dubai,55.28,25.252,1
+3915,2018,Male,Palestine,Medicine and Surgery,Unaizah,43.987546,26.090731,1
+3916,2019,Male,Sudan,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+3917,2019,Male,Sudan,Medicine and Surgery,Dhahran,50.039302,26.236125,1
+3918,2018,Male,Palestine,Medicine and Surgery,Makkah,39.857912,21.389082,1
+3919,2018,Male,Palestine,Medicine and Surgery,Khobar,50.080072,26.182911,1
+3920,2019,Male,Sudan,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,1
+3921,2018,Male,Palestine,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+3922,2018,Male,Palestine,Medicine and Surgery,Bisha,42.590167,19.976352,1
+3923,2018,Male,Palestine,Medicine and Surgery,Albahah,41.471273,20.021741,1
+3924,2018,Male,Pakistan,Medicine and Surgery,Tabuk,36.566191,28.383508,1
+3925,2019,Male,Sudan,Medicine and Surgery,Tabuk,36.566191,28.383508,1
+3926,2018,Male,Pakistan,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3927,2019,Male,Sudan,Medicine and Surgery,Yanbu,38.155484,24.056528,1
+3928,2019,Male,Syria,Dentistry and Related Specialties,Makkah,39.857912,21.389082,1
+3929,2018,Male,Pakistan,Medicine and Surgery,Dubai,55.28,25.252,1
+3930,2018,Male,Pakistan,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3931,2019,Male,Syria,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3932,2019,Male,Syria,Medicine and Surgery,Jazan,42.570567,16.889359,1
+3933,2019,Male,Syria,Medicine and Surgery,Makkah,39.857912,21.389082,1
+3934,2021,Male,Jordan,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3935,2019,Male,Syria,Medicine and Surgery,Tabuk,36.566191,28.383508,1
+3936,2018,Male,Nigeria,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3937,2018,Male,Mauritania,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3938,2019,Male,Syria,Medicine and Surgery,Taif,40.424819,21.284078,1
+3939,2022,Female,Syria,Medicine and Surgery,Khobar,50.080072,26.182911,1
+3940,2022,Female,Syria,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+3941,2018,Male,Belize,Medicine and Surgery,Dubai,55.28,25.252,1
+3942,2019,Male,Spain,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3943,2021,Male,Mauritania,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3944,2021,Male,Malta,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3945,2019,Male,Saudi Arabia,Medicine and Surgery,Sakaka,40.104306,29.878003,1
+3946,2021,Male,Lebanon,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3947,2021,Male,Lebanon,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3948,2021,Male,Kuwait,Medicine and Surgery,Taif,40.424819,21.284078,1
+3949,2019,Male,Saudi Arabia,Nursing and Midwifery,Al-Ahsa,49.365315,21.91133,1
+3950,2019,Male,Saudi Arabia,Nursing and Midwifery,Alrass,43.522231,25.851747,1
+3951,2021,Male,Kuwait,Medicine and Surgery,Manama,50.5831,26.2167,1
+3952,2022,Female,Sudan,Medicine and Surgery,Abha,42.511724,18.246468,1
+3953,2021,Male,Kuwait,Medicine and Surgery,Dhahran,50.039302,26.236125,1
+3954,2022,Female,Sudan,Medicine and Surgery,Dubai,55.28,25.252,1
+3955,2019,Male,Saudi Arabia,Nursing and Midwifery,Unaizah,43.987546,26.090731,1
+3956,2021,Male,Kuwait,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3957,2019,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Dhahran,50.039302,26.236125,1
+3958,2022,Female,Sudan,Medicine and Surgery,Tabuk,36.566191,28.383508,1
+3959,2019,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Jazan,42.570567,16.889359,1
+3960,2019,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Najran,44.228944,17.565604,1
+3961,2022,Female,Syria,Medicine and Surgery,Abha,42.511724,18.246468,1
+3962,2019,Male,Saudi Arabia,Unknown,Dammam,50.088794,26.420683,1
+3963,2019,Male,Somalia,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3964,2019,Male,Somalia,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3965,2018,Male,Saudi Arabia,Dentistry and Related Specialties,Albahah,41.471273,20.021741,1
+3966,2018,Male,Malaysia,Medicine and Surgery,Dammam,50.088794,26.420683,1
+3967,2019,Male,Syria,Medicine and Surgery,Unaizah,43.987546,26.090731,1
+3968,2019,Male,Tunisia,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3969,2021,Male,Jordan,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,1
+3970,2020,Female,Bahrain,Medicine and Surgery,Dhahran,50.039302,26.236125,1
+3971,2018,Male,India,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+3972,2021,Male,India,Medicine and Surgery,Dubai,55.28,25.252,1
+3973,2020,Female,Bahrain,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3974,2018,Male,Immigrant Tribes,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3975,2020,Female,Bahrain,Medicine and Surgery,Makkah,39.857912,21.389082,1
+3976,2018,Male,Egypt,Unknown,Jeddah,39.192505,21.485811,1
+3977,2018,Male,Egypt,Medicine and Surgery,Yanbu,38.155484,24.056528,1
+3978,2020,Female,Bahrain,Medicine and Surgery,Tabuk,36.566191,28.383508,1
+3979,2020,Female,Bahrain,Medicine and Surgery,Unknown - Saudi Arabia,45.079162,23.885942,1
+3980,2020,Female,Bangladesh,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3981,2020,Female,Canada,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3982,2020,Female,Djibouti,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3983,2020,Female,Egypt,Dentistry and Related Specialties,Jeddah,39.192505,21.485811,1
+3984,2021,Male,Immigrant Tribes,Medicine and Surgery,Tabuk,36.566191,28.383508,1
+3985,2018,Male,Egypt,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,1
+3986,2020,Female,Egypt,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,1
+3987,2018,Male,Egypt,Medicine and Surgery,Dhahran,50.039302,26.236125,1
+3988,2020,Female,Egypt,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3989,2018,Male,Egypt,Medicine and Surgery,Albahah,41.471273,20.021741,1
+3990,2020,Female,Egypt,Medicine and Surgery,Makkah,39.857912,21.389082,1
+3991,2018,Male,Canada,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+3992,2018,Male,Canada,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3993,2018,Male,India,Medicine and Surgery,Madinah,39.569184,24.524654,1
+3994,2020,Female,Bahrain,Medicine and Surgery,Alkharj  ,47.324788,24.157604,1
+3995,2019,Male,Yemen,Unknown,Riyadh,46.675296,24.713552,1
+3996,2019,Male,United States,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3997,2018,Male,Lebanon,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+3998,2021,Male,Jordan,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,1
+3999,2018,Male,Kuwait,Medicine and Surgery,Najran,44.228944,17.565604,1
+4000,2018,Male,Kuwait,Medicine and Surgery,Khobar,50.080072,26.182911,1
+4001,2018,Male,Kuwait,Medicine and Surgery,Dhahran,50.039302,26.236125,1
+4002,2021,Male,Indonesia,Medicine and Surgery,Makkah,39.857912,21.389082,1
+4003,2019,Male,United Arab Emirates,Medicine and Surgery,Khobar,50.080072,26.182911,1
+4004,2018,Male,Jordan,Medicine and Surgery,Makkah,39.857912,21.389082,1
+4005,2019,Male,United Kingdom,Medicine and Surgery,Dubai,55.28,25.252,1
+4006,2019,Male,United Kingdom,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+4007,2018,Male,Jordan,Medicine and Surgery,Madinah,39.569184,24.524654,1
+4008,2019,Male,Yemen,Medicine and Surgery,Taif,40.424819,21.284078,1
+4009,2019,Male,Uzbekistan,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+4010,2018,Male,Jordan,Medicine and Surgery,Dammam,50.088794,26.420683,1
+4011,2018,Male,Jordan,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,1
+4012,2019,Male,Yemen,Medicine and Surgery,Bisha,42.590167,19.976352,1
+4013,2018,Male,Jordan,Medicine and Surgery,Abha,42.511724,18.246468,1
+4014,2019,Male,Yemen,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+4015,2019,Male,Yemen,Medicine and Surgery,Jazan,42.570567,16.889359,1
+4016,2019,Male,Yemen,Medicine and Surgery,Jubail,49.568742,26.959771,1
+4017,2018,Male,Iraq,Medicine and Surgery,Alkharj  ,47.324788,24.157604,1
+4018,2018,Male,Indonesia,Medicine and Surgery,Makkah,39.857912,21.389082,1
+4019,2021,Male,Egypt,Medicine and Surgery,Dubai,55.28,25.252,1
+4021,2017,Male,Somalia,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+4881,2017,Male,Somalia,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+4905,2016,Female,Algeria,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+4908,2016,Female,Bangladesh,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+4933,2016,Female,Bahrain,Medicine and Surgery,Dammam,50.088794,26.420683,1
+4934,2016,Female,Belgium,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+4935,2016,Female,Somalia,Medicine and Surgery,Makkah,39.857912,21.389082,1
+4936,2016,Female,Morocco,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+4937,2016,Female,Nigeria,Medicine and Surgery,Makkah,39.857912,21.389082,1
+4938,2016,Female,Pakistan,Medicine and Surgery,Dhahran,50.039302,26.236125,1
+4939,2016,Female,Pakistan,Medicine and Surgery,Makkah,39.857912,21.389082,1
+4940,2016,Female,Pakistan,Medicine and Surgery,Taif,40.424819,21.284078,1
+4941,2016,Female,Palestine,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,1
+4942,2016,Female,Palestine,Medicine and Surgery,Abha,42.511724,18.246468,1
+4943,2016,Female,Palestine,Medicine and Surgery,Albahah,41.471273,20.021741,1
+4944,2016,Female,Palestine,Medicine and Surgery,Dammam,50.088794,26.420683,1
+4945,2016,Female,Palestine,Medicine and Surgery,Makkah,39.857912,21.389082,1
+4946,2016,Female,Palestine,Medicine and Surgery,Manama,50.5831,26.2167,1
+4947,2016,Female,Palestine,Medicine and Surgery,Taif,40.424819,21.284078,1
+4948,2016,Female,Palestine,Medicine and Surgery,Yanbu,38.155484,24.056528,1
+4949,2016,Female,Qatar,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+4950,2016,Female,Russia,Medicine and Surgery,Dammam,50.088794,26.420683,1
+4951,2016,Female,Saudi Arabia,Dentistry and Related Specialties,Alkharj  ,47.324788,24.157604,1
+4952,2016,Female,Saudi Arabia,Dentistry and Related Specialties,Jazan,42.570567,16.889359,1
+4953,2016,Female,Saudi Arabia,Dentistry and Related Specialties,Taif,40.424819,21.284078,1
+4954,2016,Female,Saudi Arabia,Dentistry and Related Specialties,Unknown - Saudi Arabia,45.079162,23.885942,1
+4955,2016,Female,Saudi Arabia,Laboratories and Medical Technology,Riyadh,46.675296,24.713552,1
+4956,2016,Female,Saudi Arabia,Medicine and Surgery,Hafr Albatin,45.962711,28.378415,1
+4957,2016,Female,Saudi Arabia,Nursing and Midwifery,Dammam,50.088794,26.420683,1
+4958,2016,Female,Saudi Arabia,Unknown,Dammam,50.088794,26.420683,1
+4959,2016,Female,Somalia,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+4960,2016,Female,Morocco,Medicine and Surgery,Makkah,39.857912,21.389082,1
+4961,2016,Female,Mauritania,Medicine and Surgery,Dubai,55.28,25.252,1
+4962,2016,Female,Canada,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+4963,2016,Female,Lebanon,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+4964,2016,Female,China,Medicine and Surgery,Taif,40.424819,21.284078,1
+4965,2016,Female,Egypt,Dentistry and Related Specialties,Jeddah,39.192505,21.485811,1
+4966,2016,Female,Egypt,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,1
+4967,2016,Female,Egypt,Medicine and Surgery,Albahah,41.471273,20.021741,1
+4968,2016,Female,Egypt,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+4969,2016,Female,Egypt,Medicine and Surgery,Dubai,55.28,25.252,1
+4970,2016,Female,Eritrea,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+4971,2016,Female,Eritrea,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+4972,2016,Female,France,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+4973,2016,Female,India,Medicine and Surgery,Abha,42.511724,18.246468,1
+4974,2016,Female,India,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+4975,2016,Female,India,Medicine and Surgery,Jazan,42.570567,16.889359,1
+4976,2016,Female,India,Medicine and Surgery,Khobar,50.080072,26.182911,1
+4977,2016,Female,India,Medicine and Surgery,Makkah,39.857912,21.389082,1
+4978,2016,Female,Indonesia,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+4979,2016,Female,Indonesia,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+4980,2016,Female,Jordan,Medicine and Surgery,Dammam,50.088794,26.420683,1
+4981,2016,Female,Jordan,Medicine and Surgery,Madinah,39.569184,24.524654,1
+4982,2016,Female,Jordan,Medicine and Surgery,Tabuk,36.566191,28.383508,1
+4983,2016,Female,Kuwait,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,1
+4984,2016,Female,Kuwait,Medicine and Surgery,Manama,50.5831,26.2167,1
+4985,2016,Female,Kyrgyzstan,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+4986,2016,Female,Lebanon,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,1
+5094,2016,Female,Somalia,Medicine and Surgery,Madinah,39.569184,24.524654,1
+5095,2016,Female,Sudan,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,1
+5097,2017,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Dhahran,50.039302,26.236125,1
+5098,2017,Female,Saudi Arabia,Unknown,Dammam,50.088794,26.420683,1
+5099,2017,Female,Somalia,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+5100,2017,Female,Somalia,Medicine and Surgery,Madinah,39.569184,24.524654,1
+5101,2017,Female,Somalia,Medicine and Surgery,Makkah,39.857912,21.389082,1
+5102,2017,Female,Somalia,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+5103,2017,Female,Sudan,Medicine and Surgery,Dhahran,50.039302,26.236125,1
+5104,2017,Female,Sudan,Medicine and Surgery,Hail,41.720824,27.51141,1
+5105,2017,Female,Syria,Dentistry and Related Specialties,Jeddah,39.192505,21.485811,1
+5106,2017,Female,Syria,Medicine and Surgery,Khobar,50.080072,26.182911,1
+5107,2017,Female,Syria,Medicine and Surgery,Unaizah,43.987546,26.090731,1
+5108,2017,Female,Turkmenistan,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+5109,2017,Female,United Kingdom,Medicine and Surgery,Dammam,50.088794,26.420683,1
+5110,2017,Female,Yemen,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,1
+5111,2017,Female,Yemen,Medicine and Surgery,Alqatif  ,49.998236,26.576492,1
+5112,2017,Female,Yemen,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+5113,2017,Female,Yemen,Medicine and Surgery,Dubai,55.28,25.252,1
+5114,2017,Female,Yemen,Medicine and Surgery,Tabuk,36.566191,28.383508,1
+5115,2017,Female,Yemen,Medicine and Surgery,Unaizah,43.987546,26.090731,1
+5116,2017,Male,Afghanistan,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+5117,2017,Male,Afghanistan,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+5118,2017,Male,Bahrain,Medicine and Surgery,Dammam,50.088794,26.420683,1
+5119,2017,Male,Bahrain,Medicine and Surgery,Dhahran,50.039302,26.236125,1
+5120,2017,Male,Bahrain,Medicine and Surgery,Dubai,55.28,25.252,1
+5121,2017,Female,Saudi Arabia,Pharmacists and Pharmacy Technicians,Makkah,39.857912,21.389082,1
+5122,2017,Female,Saudi Arabia,Nursing and Midwifery,Jazan,42.570567,16.889359,1
+5123,2017,Male,Bangladesh,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+5124,2017,Female,Saudi Arabia,Medicine and Surgery,Unaizah,43.987546,26.090731,1
+5125,2017,Female,Jordan,Medicine and Surgery,Khobar,50.080072,26.182911,1
+5126,2017,Female,Jordan,Medicine and Surgery,Madinah,39.569184,24.524654,1
+5127,2017,Female,Jordan,Medicine and Surgery,Tabuk,36.566191,28.383508,1
+5128,2017,Female,Kuwait,Medicine and Surgery,Manama,50.5831,26.2167,1
+5129,2017,Female,Mauritania,Medicine and Surgery,Dubai,55.28,25.252,1
+5130,2017,Female,Morocco,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+5131,2017,Female,Oman,Medicine and Surgery,Manama,50.5831,26.2167,1
+5132,2017,Female,Pakistan,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+5133,2017,Female,Pakistan,Medicine and Surgery,Makkah,39.857912,21.389082,1
+5134,2017,Female,Pakistan,Medicine and Surgery,Taif,40.424819,21.284078,1
+5135,2017,Female,Palestine,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,1
+5136,2017,Female,Palestine,Medicine and Surgery,Albahah,41.471273,20.021741,1
+5137,2017,Female,Palestine,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+5138,2017,Female,Palestine,Medicine and Surgery,Dammam,50.088794,26.420683,1
+5139,2017,Female,Palestine,Medicine and Surgery,Makkah,39.857912,21.389082,1
+5140,2017,Female,Palestine,Medicine and Surgery,Manama,50.5831,26.2167,1
+5141,2017,Female,Palestine,Medicine and Surgery,Yanbu,38.155484,24.056528,1
+5142,2017,Female,Palestine,Nursing and Midwifery,Riyadh,46.675296,24.713552,1
+5143,2017,Female,Russia,Medicine and Surgery,Dammam,50.088794,26.420683,1
+5144,2017,Female,Saudi Arabia,Dentistry and Related Specialties,Alkharj  ,47.324788,24.157604,1
+5145,2017,Female,Saudi Arabia,Dentistry and Related Specialties,Jazan,42.570567,16.889359,1
+5146,2017,Female,Saudi Arabia,Laboratories and Medical Technology,Riyadh,46.675296,24.713552,1
+5147,2017,Female,Saudi Arabia,Medicine and Surgery,Dubai,55.28,25.252,1
+5148,2017,Male,Bahrain,Nursing and Midwifery,Riyadh,46.675296,24.713552,1
+5149,2017,Male,Canada,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+5150,2016,Female,Sudan,Medicine and Surgery,Dhahran,50.039302,26.236125,1
+5151,2017,Male,Mauritania,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+5152,2017,Male,Mauritania,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+5153,2017,Male,Nigeria,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+5154,2017,Male,Oman,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+5155,2017,Male,Pakistan,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+5156,2017,Male,Pakistan,Medicine and Surgery,Dammam,50.088794,26.420683,1
+5157,2017,Male,Pakistan,Medicine and Surgery,Dubai,55.28,25.252,1
+5158,2017,Male,Pakistan,Medicine and Surgery,Madinah,39.569184,24.524654,1
+5159,2017,Male,Pakistan,Medicine and Surgery,Tabuk,36.566191,28.383508,1
+5160,2017,Male,Palestine,Medicine and Surgery,Abha,42.511724,18.246468,1
+5161,2017,Male,Palestine,Medicine and Surgery,Albahah,41.471273,20.021741,1
+5162,2017,Male,Palestine,Medicine and Surgery,Bisha,42.590167,19.976352,1
+5163,2017,Male,Palestine,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+5164,2017,Male,Palestine,Medicine and Surgery,Khobar,50.080072,26.182911,1
+5165,2017,Male,Palestine,Medicine and Surgery,Madinah,39.569184,24.524654,1
+5166,2017,Male,Palestine,Medicine and Surgery,Unaizah,43.987546,26.090731,1
+5167,2017,Male,Saudi Arabia,Dentistry and Related Specialties,Al-Ahsa,49.365315,21.91133,1
+5168,2017,Male,Saudi Arabia,Dentistry and Related Specialties,Albahah,41.471273,20.021741,1
+5169,2017,Male,Saudi Arabia,Dentistry and Related Specialties,Arar,41.059564,30.959945,1
+5170,2017,Male,Saudi Arabia,Dentistry and Related Specialties,Unknown - Saudi Arabia,45.079162,23.885942,1
+5171,2017,Male,Saudi Arabia,Medicine and Surgery,Alquriyat,37.361353,31.329635,1
+5172,2017,Male,Saudi Arabia,Nursing and Midwifery,Dhahran,50.039302,26.236125,1
+5173,2017,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Jazan,42.570567,16.889359,1
+5174,2017,Male,Saudi Arabia,Pharmacists and Pharmacy Technicians,Madinah,39.569184,24.524654,1
+5175,2017,Male,Mauritania,Medicine and Surgery,Madinah,39.569184,24.524654,1
+5176,2017,Male,Malaysia,Medicine and Surgery,Dammam,50.088794,26.420683,1
+5177,2017,Male,Egypt,Medicine and Surgery,Albahah,41.471273,20.021741,1
+5178,2017,Male,Lebanon,Medicine and Surgery,Manama,50.5831,26.2167,1
+5179,2017,Male,Egypt,Medicine and Surgery,Jazan,42.570567,16.889359,1
+5180,2017,Male,Egypt,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,1
+5181,2017,Male,Egypt,Medicine and Surgery,Yanbu,38.155484,24.056528,1
+5182,2017,Male,Immigrant Tribes,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+5183,2017,Male,India,Medicine and Surgery,Dubai,55.28,25.252,1
+5184,2017,Male,India,Medicine and Surgery,Madinah,39.569184,24.524654,1
+5185,2017,Male,India,Medicine and Surgery,Makkah,39.857912,21.389082,1
+5186,2017,Male,Indonesia,Medicine and Surgery,Makkah,39.857912,21.389082,1
+5187,2017,Male,Iraq,Medicine and Surgery,Alkharj  ,47.324788,24.157604,1
+5188,2017,Male,Iraq,Medicine and Surgery,Bisha,42.590167,19.976352,1
+5189,2017,Male,Iraq,Medicine and Surgery,Dubai,55.28,25.252,1
+5190,2017,Male,Jordan,Medicine and Surgery,Abha,42.511724,18.246468,1
+5191,2017,Male,Jordan,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,1
+5192,2017,Male,Jordan,Medicine and Surgery,Albahah,41.471273,20.021741,1
+5193,2017,Male,Jordan,Medicine and Surgery,Dammam,50.088794,26.420683,1
+5194,2017,Male,Jordan,Medicine and Surgery,Dubai,55.28,25.252,1
+5195,2017,Male,Jordan,Medicine and Surgery,Madinah,39.569184,24.524654,1
+5196,2017,Male,Jordan,Medicine and Surgery,Makkah,39.857912,21.389082,1
+5197,2017,Male,Jordan,Medicine and Surgery,Taif,40.424819,21.284078,1
+5198,2017,Male,Kuwait,Medicine and Surgery,Dammam,50.088794,26.420683,1
+5199,2017,Male,Kuwait,Medicine and Surgery,Dhahran,50.039302,26.236125,1
+5200,2017,Male,Kuwait,Medicine and Surgery,Najran,44.228944,17.565604,1
+5201,2017,Male,Lebanon,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+5202,2017,Female,Jordan,Medicine and Surgery,Dubai,55.28,25.252,1
+5203,2017,Female,Jordan,Medicine and Surgery,Dammam,50.088794,26.420683,1
+5204,2017,Female,Indonesia,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+5205,2016,Male,India,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+5206,2016,Male,India,Medicine and Surgery,Makkah,39.857912,21.389082,1
+5207,2016,Male,Iraq,Medicine and Surgery,Alkharj  ,47.324788,24.157604,1
+5208,2016,Male,Iraq,Medicine and Surgery,Bisha,42.590167,19.976352,1
+5209,2016,Male,Iraq,Medicine and Surgery,Dubai,55.28,25.252,1
+5210,2016,Male,Jordan,Medicine and Surgery,Abha,42.511724,18.246468,1
+5211,2016,Male,Jordan,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,1
+5212,2016,Male,Jordan,Medicine and Surgery,Albahah,41.471273,20.021741,1
+5213,2016,Male,Jordan,Medicine and Surgery,Dubai,55.28,25.252,1
+5214,2016,Male,Jordan,Medicine and Surgery,Madinah,39.569184,24.524654,1
+5215,2016,Male,Jordan,Medicine and Surgery,Taif,40.424819,21.284078,1
+5216,2016,Male,Kuwait,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,1
+5217,2016,Male,Kuwait,Medicine and Surgery,Dammam,50.088794,26.420683,1
+5218,2016,Male,Kuwait,Medicine and Surgery,Dhahran,50.039302,26.236125,1
+5219,2016,Male,Kuwait,Medicine and Surgery,Najran,44.228944,17.565604,1
+5220,2016,Male,Lebanon,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+5221,2016,Male,Mauritania,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+5222,2016,Male,Mauritania,Medicine and Surgery,Madinah,39.569184,24.524654,1
+5223,2016,Male,Mauritania,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+5224,2016,Male,Nigeria,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+5225,2016,Male,Oman,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+5226,2016,Male,Pakistan,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+5227,2016,Male,Pakistan,Medicine and Surgery,Madinah,39.569184,24.524654,1
+5228,2016,Male,Pakistan,Medicine and Surgery,Tabuk,36.566191,28.383508,1
+5229,2016,Male,India,Medicine and Surgery,Madinah,39.569184,24.524654,1
+5230,2016,Male,Immigrant Tribes,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+5231,2017,Female,India,Medicine and Surgery,Makkah,39.857912,21.389082,1
+5232,2016,Male,Egypt,Medicine and Surgery,Yanbu,38.155484,24.056528,1
+5233,2016,Female,Sudan,Medicine and Surgery,Hail,41.720824,27.51141,1
+5234,2016,Female,Sudan,Medicine and Surgery,Khobar,50.080072,26.182911,1
+5235,2016,Female,Syria,Dentistry and Related Specialties,Jeddah,39.192505,21.485811,1
+5236,2016,Female,Syria,Medicine and Surgery,Albahah,41.471273,20.021741,1
+5237,2016,Female,Syria,Medicine and Surgery,Khobar,50.080072,26.182911,1
+5238,2016,Female,Syria,Medicine and Surgery,Najran,44.228944,17.565604,1
+5239,2016,Female,Syria,Medicine and Surgery,Unaizah,43.987546,26.090731,1
+5240,2016,Female,Turkey,Medicine and Surgery,Makkah,39.857912,21.389082,1
+5241,2016,Female,United Arab Emirates,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+5242,2016,Female,United Kingdom,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+5243,2016,Female,Unknown,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+5244,2016,Female,Yemen,Medicine and Surgery,Alqatif  ,49.998236,26.576492,1
+5245,2016,Female,Yemen,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+5246,2016,Female,Yemen,Medicine and Surgery,Tabuk,36.566191,28.383508,1
+5247,2016,Female,Yemen,Medicine and Surgery,Unaizah,43.987546,26.090731,1
+5248,2016,Male,Algeria,Medicine and Surgery,Madinah,39.569184,24.524654,1
+5249,2016,Male,Bahrain,Medicine and Surgery,Dhahran,50.039302,26.236125,1
+5250,2016,Male,Egypt,Dentistry and Related Specialties,Jeddah,39.192505,21.485811,1
+5251,2016,Male,Egypt,Medicine and Surgery,Albahah,41.471273,20.021741,1
+5252,2016,Male,Egypt,Medicine and Surgery,Dhahran,50.039302,26.236125,1
+5253,2016,Male,Egypt,Medicine and Surgery,Jazan,42.570567,16.889359,1
+5254,2016,Male,Egypt,Medicine and Surgery,Jouf,39.320624,29.887356,1
+5255,2016,Male,Egypt,Medicine and Surgery,Khobar,50.080072,26.182911,1
+5256,2016,Male,Palestine,Medicine and Surgery,Abha,42.511724,18.246468,1
+5257,2016,Male,Palestine,Medicine and Surgery,Bisha,42.590167,19.976352,1
+5258,2016,Male,Palestine,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+5259,2016,Male,Palestine,Medicine and Surgery,Dammam,50.088794,26.420683,1
+5260,2016,Male,Yemen,Medicine and Surgery,Buraidah,43.981812,26.359231,1
+5261,2016,Male,Yemen,Medicine and Surgery,Dhahran,50.039302,26.236125,1
+5262,2016,Male,Yemen,Medicine and Surgery,Jazan,42.570567,16.889359,1
+5263,2016,Male,Yemen,Medicine and Surgery,Khamis Mushait,42.766233,18.309339,1
+5264,2016,Male,Yemen,Medicine and Surgery,Unaizah,43.987546,26.090731,1
+5265,2016,Male,Yemen,Unknown,Riyadh,46.675296,24.713552,1
+5266,2017,Female,Algeria,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+5267,2017,Female,Azerbaijan,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+5268,2017,Female,Bahrain,Medicine and Surgery,Dammam,50.088794,26.420683,1
+5269,2017,Female,Bahrain,Medicine and Surgery,Dhahran,50.039302,26.236125,1
+5270,2017,Female,Bahrain,Medicine and Surgery,Madinah,39.569184,24.524654,1
+5271,2017,Female,Bahrain,Medicine and Surgery,Makkah,39.857912,21.389082,1
+5272,2017,Female,Belgium,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+5273,2017,Female,China,Medicine and Surgery,Taif,40.424819,21.284078,1
+5274,2017,Female,Djibouti,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+5275,2017,Female,Egypt,Dentistry and Related Specialties,Riyadh,46.675296,24.713552,1
+5276,2017,Female,Egypt,Medicine and Surgery,Al-Ahsa,49.365315,21.91133,1
+5277,2017,Female,Egypt,Medicine and Surgery,Dubai,55.28,25.252,1
+5278,2017,Female,Eritrea,Medicine and Surgery,Dubai,55.28,25.252,1
+5279,2017,Female,Eritrea,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+5280,2017,Female,France,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+5281,2017,Female,India,Medicine and Surgery,Abha,42.511724,18.246468,1
+5282,2017,Female,India,Medicine and Surgery,Jazan,42.570567,16.889359,1
+5283,2016,Male,Yemen,Medicine and Surgery,Albahah,41.471273,20.021741,1
+5284,2016,Male,Yemen,Dentistry and Related Specialties,Jeddah,39.192505,21.485811,1
+5285,2016,Male,Unknown,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+5286,2016,Male,Sudan,Medicine and Surgery,Yanbu,38.155484,24.056528,1
+5287,2016,Male,Palestine,Medicine and Surgery,Makkah,39.857912,21.389082,1
+5288,2016,Male,Palestine,Medicine and Surgery,Unaizah,43.987546,26.090731,1
+5289,2016,Male,Saudi Arabia,Dentistry and Related Specialties,Al-Ahsa,49.365315,21.91133,1
+5290,2016,Male,Saudi Arabia,Dentistry and Related Specialties,Khamis Mushait,42.766233,18.309339,1
+5291,2016,Male,Saudi Arabia,Dentistry and Related Specialties,Unknown - Saudi Arabia,45.079162,23.885942,1
+5292,2016,Male,Saudi Arabia,Unknown,Dammam,50.088794,26.420683,1
+5293,2016,Male,Somalia,Medicine and Surgery,Khobar,50.080072,26.182911,1
+5294,2016,Male,Somalia,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+5295,2016,Male,Sudan,Medicine and Surgery,Dubai,55.28,25.252,1
+5296,2016,Male,Sudan,Medicine and Surgery,Taif,40.424819,21.284078,1
+5297,2016,Male,Syria,Dentistry and Related Specialties,Jeddah,39.192505,21.485811,1
+5298,2016,Male,United Kingdom,Medicine and Surgery,Jeddah,39.192505,21.485811,1
+5299,2016,Male,Syria,Medicine and Surgery,Dubai,55.28,25.252,1
+5300,2016,Male,Syria,Medicine and Surgery,Hafr Albatin,45.962711,28.378415,1
+5301,2016,Male,Syria,Medicine and Surgery,Jazan,42.570567,16.889359,1
+5302,2016,Male,Syria,Medicine and Surgery,Tabuk,36.566191,28.383508,1
+5303,2016,Male,Syria,Medicine and Surgery,Taif,40.424819,21.284078,1
+5304,2016,Male,Syria,Medicine and Surgery,Unaizah,43.987546,26.090731,1
+5305,2016,Male,Tunisia,Medicine and Surgery,Riyadh,46.675296,24.713552,1
+5306,2016,Male,United Arab Emirates,Medicine and Surgery,Dubai,55.28,25.252,1
+5307,2016,Male,United Arab Emirates,Medicine and Surgery,Khobar,50.080072,26.182911,1
+5308,2016,Male,United Kingdom,Medicine and Surgery,Dubai,55.28,25.252,1

@@ -1,0 +1,41 @@
+,Academic_Year,Current_Medical_Field_En,Number_of_Trainees
+0,2021,Medicine and Surgery,15904
+1,2020,Medicine and Surgery,15059
+2,2019,Medicine and Surgery,13962
+3,2018,Medicine and Surgery,12614
+4,2017,Medicine and Surgery,11111
+5,2016,Medicine and Surgery,9385
+14,2022,Medicine and Surgery,2143
+19,2021,Dentistry and Related Specialties,1036
+24,2020,Dentistry and Related Specialties,849
+25,2019,Dentistry and Related Specialties,721
+26,2018,Dentistry and Related Specialties,591
+27,2017,Dentistry and Related Specialties,560
+28,2021,Nursing and Midwifery,495
+29,2016,Dentistry and Related Specialties,471
+30,2020,Nursing and Midwifery,468
+36,2019,Nursing and Midwifery,359
+40,2018,Nursing and Midwifery,284
+44,2021,Pharmacists and Pharmacy Technicians,204
+45,2017,Nursing and Midwifery,182
+49,2019,Pharmacists and Pharmacy Technicians,151
+51,2020,Pharmacists and Pharmacy Technicians,137
+53,2018,Pharmacists and Pharmacy Technicians,125
+54,2021,Laboratories and Medical Technology,113
+56,2017,Pharmacists and Pharmacy Technicians,103
+57,2020,Laboratories and Medical Technology,90
+58,2016,Pharmacists and Pharmacy Technicians,88
+60,2019,Laboratories and Medical Technology,75
+65,2022,Dentistry and Related Specialties,51
+66,2018,Laboratories and Medical Technology,50
+67,2017,Laboratories and Medical Technology,49
+68,2022,Pharmacists and Pharmacy Technicians,45
+71,2016,Laboratories and Medical Technology,40
+76,2016,Nursing and Midwifery,28
+77,2016,Unknown,28
+78,2018,Unknown,28
+79,2017,Unknown,28
+81,2019,Unknown,24
+84,2020,Unknown,22
+86,2021,Unknown,15
+87,2022,Unknown,13

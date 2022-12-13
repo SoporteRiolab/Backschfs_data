@@ -1,0 +1,1587 @@
+,Year,Current_Speciality_Name_En,Number_of_Cases
+0,2018,Adult Critical Care Nursing,3
+1,2018,Anesthesia,3
+2,2018,Anesthesia Nursing,13
+3,2018,Clinical Nutrition,1
+4,2018,Dermatology,1
+5,2018,Emergency Medical Services,1
+6,2018,Emergency Medicine,5
+7,2018,Family Medicine,1
+8,2018,Food And Nutrition Services,3
+9,2018,General Dentistry,2
+10,2018,General Practice,5
+11,2018,Health Administration,1
+12,2018,Health Care security,2
+13,2018,Health Education,1
+14,2018,Health Services Administration And Hosiptals,2
+15,2018,Internal Medicine,3
+16,2018,Laboratory,1
+17,2018,Nursing,3
+18,2018,Orthopedic Surgery,5
+19,2018,Pediatrics,1
+20,2018,Pharmaceutical Sciences,4
+21,2018,Pharmacy,7
+22,2018,Physiotherapy,1
+23,2018,Psychology,2
+24,2018,Social Service,9
+25,2018,Sociology,2
+26,2018,Unknown,4
+27,2019,Accupancture,2
+28,2019,Acupuncture,3
+29,2019,Acute and critical care nursing,3
+30,2019,Adult Critical Care Nursing,425
+31,2019,Advance Pediatric Gastrointestinal Endoscopy,12
+32,2019,Advanced General Dentistry,260
+33,2019,Allergy and Immumology,66
+34,2019,Anatomic Pathology,519
+35,2019,Andrology,24
+36,2019,Anesthesia,5361
+37,2019,Anesthesia Nursing,3
+38,2019,Anesthesia Technology,1727
+39,2019,Anesthesia and Intensive Care,5
+40,2019,Audiological Medicine,49
+41,2019,Audiology,208
+42,2019,Aviation Medicine,16
+43,2019,BIOETHICS,3
+44,2019,Bariatric Surgery,1
+45,2019,Biology ( Genomic & Biotechnology ),78
+46,2019,Biomedical Engineering,5
+47,2019,Biomedical Genetic,9
+48,2019,Biomedical Statistics,11
+49,2019,Biomedical Technology,140
+50,2019,Biotechnology,10
+51,2019,Blood Bank,1
+52,2019,Blood Transfusion Medicine,42
+53,2019,Body Imaging,10
+54,2019,Cardiac Catheterization,97
+55,2019,Cardiac Catheterization Technology,45
+56,2019,Cardiac Electrophysiology,1
+57,2019,Cardiac Intensive Care,4
+58,2019,Cardiac Perfusion,335
+59,2019,Cardiac Surgery,386
+60,2019,Cardiology,40
+61,2019,Cardiothoracic Surgery,4
+62,2019,Cardiovascular Medicine,1653
+63,2019,Cardiovascular Nursing,158
+64,2019,Cardiovascular Technology,392
+65,2019,Chiropractic,13
+66,2019,Clinical Biochemistry - Clinical Toxicology,59
+67,2019,Clinical Biochemistry - Forensic Toxicology,129
+68,2019,Clinical Dentistry,5
+69,2019,Clinical Nutrition,2475
+70,2019,Clinical Pathology,1702
+71,2019,Clinical Pharmacology - Medical,1
+72,2019,Clinical Pharmacy,2070
+73,2019,Clinical Pharmacy (Cardiology Pharmacotherapy),1
+74,2019,Clinical Pharmacy (Critical Care Pharmacotherapy),12
+75,2019,Clinical Pharmacy (Infectious Diseases Pharmacotherapy),4
+76,2019,Clinical Pharmacy (Nephrology Medicine Pharmacotherapy),1
+77,2019,Clinical Pharmacy (Oncology Pharmacotherapy),4
+78,2019,Clinical Pharmacy (Parenteral Nutrition),8
+79,2019,Clinical Pharmacy (Pediatrics),11
+80,2019,Clinical Pharmacy (Transplant),3
+81,2019,Clinical Physiology,9
+82,2019,Clinical Toxicology,23
+83,2019,Community And Public Health Nursing,69
+84,2019,Community Medicine,6
+85,2019,Conservative Dentistry,240
+86,2019,Cosmetic Dermatology,1
+87,2019,Craniofacial Orthodontic,11
+88,2019,Critical Care Medicine,1543
+89,2019,Cytopathology,1
+90,2019,Dental,320
+91,2019,Dental Assistant,2578
+92,2019,Dental Biomaterials,5
+93,2019,Dental Hygiene,702
+94,2019,Dental Implant,23
+95,2019,Dental Laboraotory,1
+96,2019,Dental Public Health,159
+97,2019,Dental Surgery,1
+98,2019,Dental Technology,1427
+99,2019,Dermatology,3129
+100,2019,Diabetic Care Nursing,11
+101,2019,Diabetic Podiatry Care Nursing,8
+102,2019,Diabites Mellitus,7
+103,2019,Diagnostic Radiology,4269
+104,2019,Diagnostic Ultrasound,7
+105,2019,Disaster And Emergency Nursing,28
+106,2019,Diving Medicine,4
+107,2019,Echocardiography,67
+108,2019,Echocardiography Technology,32
+109,2019,Eeg,4
+110,2019,Electrocardiography,1
+111,2019,Embrology,3
+112,2019,Emergency Care Nursing,213
+113,2019,Emergency Medical Services,5805
+114,2019,Emergency Medical Services - Critical Care,3
+115,2019,Emergency Medical Services - Emergency Management,22
+116,2019,Emergency Medicine,2551
+117,2019,Emergency Medicine Adminstration,1
+118,2019,Endocrinology,137
+119,2019,Endocrinology And Metabolism,7
+120,2019,Endodontic,1
+121,2019,Endodontics,1056
+122,2019,Endoscopy,11
+123,2019,Environmental Health And Safety,42
+124,2019,Epidemiology,453
+125,2019,Epilepsy And Electroencephalography,1
+126,2019,Epilepsy and Electroencephalography,3
+127,2019,Family Dentistry,206
+128,2019,Family Medicine,6426
+129,2019,Female Pelvic Medicine and Reconstruction Surgery,7
+130,2019,Food And Nutrition Services,2904
+131,2019,Food Science And Technology,1424
+132,2019,Food Science And Technology (Food Safety),544
+133,2019,Foot And Ankle Care,4
+134,2019,Forensic And Analytical Science,18
+135,2019,Forensic Dentistry,9
+136,2019,Forensic Laboratories,31
+137,2019,Forensic Laboratory Sciences,14
+138,2019,Forensic Medicine,165
+139,2019,Forensic Pharmacy,1
+140,2019,Fornesic Technician,2
+141,2019,Gastroenterology,287
+142,2019,General Dentistry,14901
+143,2019,General Practice,20071
+144,2019,General Surgery,6104
+145,2019,Genetic Counselling,22
+146,2019,Genetic Engineering,11
+147,2019,Geriatric Medicine,31
+148,2019,Geriatric Nursing,2
+149,2019,Health Administration,8574
+150,2019,Health Administration - Quality Management,52
+151,2019,Health Adminstration,5
+152,2019,Health Assistant - Laboratory,198
+153,2019,Health Bioinformatics,46
+154,2019,Health Care Assistant,7
+155,2019,Health Care security,309
+156,2019,Health Education,614
+157,2019,Health Environmentalist,7
+158,2019,Health Informatics,3217
+159,2019,Health Information Management,58
+160,2019,Health Insurance,325
+161,2019,Health Sciences,6
+162,2019,Health Services Administration And Hosiptals,981
+163,2019,Health Systems management,1
+164,2019,Healthcare Policy And Management,7
+165,2019,Hematological Pathology,124
+166,2019,Hematology,135
+167,2019,Hematology And Ocology,10
+168,2019,Hemodialysis,58
+169,2019,Hemodialysis Nursing,45
+170,2019,Hepatobiliary Surgery,15
+171,2019,Hepatology,20
+172,2019,Histopathology,10
+173,2019,Home Health Care,16
+174,2019,Immunology,17
+175,2019,Implant Dentistry,10
+176,2019,Industrial Pharmacy,1
+177,2019,Infection Control,327
+178,2019,Infection Control Hospitals,3
+179,2019,Infectious Disease,45
+180,2019,Infectious Diseases,11
+181,2019,Infertility Medicine,2
+182,2019,Internal Medicine,11353
+183,2019,Interventional Cardiology,5
+184,2019,Kinesiology,4
+185,2019,LABORATORY TECHNITION (TUBE BABY,1
+186,2019,Laboratory,20185
+187,2019,Laboratory  - Laboratory Quality Management,1
+188,2019,Laboratory ( Microbiology),1471
+189,2019,Laboratory - Clinical Biochemistry,898
+190,2019,Laboratory - Clinical Immunology,231
+191,2019,Laboratory - Cytopathology,39
+192,2019,Laboratory - Embryology,120
+193,2019,Laboratory - Genetics,139
+194,2019,Laboratory - Hematology,534
+195,2019,Laboratory - Histopathology,179
+196,2019,Laboratory - Microbiology,1403
+197,2019,Laboratory - Molecular Genetics,271
+198,2019,Laboratory -Transfusion & Blood Bank,56
+199,2019,Laboratory – Immunopathology,5
+200,2019,Laboratory- Histopathology & Cytopathology,4
+201,2019,Laboratory-Biochemistry,646
+202,2019,Laboratory-Dna,4
+203,2019,Lifestyle Medicine,3
+204,2019,Lithotripsy,4
+205,2019,MOLECULAR BIOLOGY,7
+206,2019,Mallaria,1
+207,2019,Maternal Fetal Medicine,2
+208,2019,Maternity And Child Health Nursing,37
+209,2019,Maxilofacial Surgery And Implant,11
+210,2019,Med.Lab - Med. Immunology,1
+211,2019,Medical And Surgical Nursing,310
+212,2019,Medical Biochemistry,56
+213,2019,Medical Coding,118
+214,2019,Medical Devices,1452
+215,2019,Medical Education,48
+216,2019,Medical Entomology,4
+217,2019,Medical Genetics,50
+218,2019,Medical Laboratory,14
+219,2019,Medical Microbiology,301
+220,2019,Medical Mircobiology,2
+221,2019,Medical Oncology,198
+222,2019,Medical Physics,787
+223,2019,Medical Physics - Medical Nuclear Physics,5
+224,2019,Medical Physics - Radiation Protection,12
+225,2019,Medical Retina and Uveitis,1
+226,2019,Medical Science,6
+227,2019,Medical Secretary,1422
+228,2019,Medical Sterilization,290
+229,2019,Medical Transcription,65
+230,2019,Medicine Economics,10
+231,2019,Metabolic And Genetics Medicine,6
+232,2019,Microbiology - Molecular Microbiology,174
+233,2019,Microbiology - Mycology,2
+234,2019,Microbiology - Parasitology,47
+235,2019,Microbiology - Virology,52
+236,2019,Midwifery,3217
+237,2019,Molecular Biology,2
+238,2019,Molecular Biotechology,47
+239,2019,Molecular Genetic Pathology,11
+240,2019,Molecular Medicine,3
+241,2019,Motililty,62
+242,2019,Musculokeletal Radiology,3
+243,2019,Musculoskeletal System ‎Diseases,3
+244,2019,Neonatal Critical Care Nursing,101
+245,2019,Neonatal Intensive Care,156
+246,2019,Neonatology,10
+247,2019,Nephrology,553
+248,2019,Neuro Rehabiltation,1
+249,2019,Neurology,1092
+250,2019,Neuropathology,5
+251,2019,Neurophysiology,119
+252,2019,Neurosurgery,886
+253,2019,Nuclear Medicine,459
+254,2019,Nuclear Medicine - Nuclear Engineering,2
+255,2019,Nursing,114851
+256,2019,Nursing / Neurophysiology,11
+257,2019,Nursing Administration,278
+258,2019,Nursing Education,117
+259,2019,Nutrition,2
+260,2019,Obstetrics And Gynecologic Nursing,72
+261,2019,Obstetrics And Gynecology,7026
+262,2019,Occupational Medicine,25
+263,2019,Occupational Safety Andhealth,14
+264,2019,Occupational Therapy,638
+265,2019,Oncology,40
+266,2019,Oncology And Nuclear Medicine,2
+267,2019,Oncology and Palliative Care Nursing,129
+268,2019,Operation Rooms,707
+269,2019,Ophthalmology,2747
+270,2019,Optics,1908
+271,2019,Optometry,1476
+272,2019,Optometry - Contact Lens,4
+273,2019,Optometry - Cornea & Clinical Contact Lens,1
+274,2019,Optometry - Orthoptics,4
+275,2019,Optometry – Occupational Health and Safety,1
+276,2019,Oral And Maxillofacial Radiology,69
+277,2019,Oral And Maxillofacial Surgery,1060
+278,2019,Oral Biology,31
+279,2019,Oral Medicine,94
+280,2019,Oral Pathology,66
+281,2019,Oral Surgery,337
+282,2019,Organ Transplant,7
+283,2019,Orofacial Pain,17
+284,2019,Orthodontics,1073
+285,2019,Orthodontics And Dentofacial Orthopdics,1532
+286,2019,Orthognathic Surgery,2
+287,2019,Orthopedic Surgery,3803
+288,2019,Orthopedic Trauma Surgery,5
+289,2019,Otorhinolaryngology ( Ent ),2472
+290,2019,Palliative Medicine,8
+291,2019,Pathology,11
+292,2019,Patient Care,76
+293,2019,Pediatric Allergy and Immunology,2
+294,2019,Pediatric Cardiac Surgery,5
+295,2019,Pediatric Cardiology,13
+296,2019,Pediatric Dentistry,946
+297,2019,Pediatric Dentistry And Orthodontics,3
+298,2019,Pediatric Emergency Medicine,5
+299,2019,Pediatric Endocrinology,8
+300,2019,Pediatric Gastroenterology,3
+301,2019,Pediatric Hematology and Oncology,28
+302,2019,Pediatric Intensive Care,42
+303,2019,Pediatric Neurology,138
+304,2019,Pediatric Neurosurgery,12
+305,2019,Pediatric Nursing,81
+306,2019,Pediatric Nursing Critical Care,15
+307,2019,Pediatric Oncology,36
+308,2019,Pediatric Orthodontics,5
+309,2019,Pediatric Orthopedic Surgery,1
+310,2019,Pediatric Otorhinolaryngology,2
+311,2019,Pediatric Surgery,225
+312,2019,Pediatrics,10557
+313,2019,Periodontics,681
+314,2019,Pharmaceutical Administration,20
+315,2019,Pharmaceutical Analysis,6
+316,2019,Pharmaceutical Chemistry,6
+317,2019,Pharmaceutical Sciences,739
+318,2019,Pharmaceutical administration AND outcomes,46
+319,2019,Pharmaceutical care (Ambulatory),1
+320,2019,Pharmaceutics,10
+321,2019,Pharmacology,88
+322,2019,Pharmacology & Toxicology,5
+323,2019,Pharmacy,30530
+324,2019,Phlebology,2
+325,2019,Phlebotomy,398
+326,2019,Phoniatrics,7
+327,2019,Physical Medicine And Rehabilitation,435
+328,2019,Physiology,14
+329,2019,Physiotherapy,7704
+330,2019,Physiotherapy - Cardiovascular,32
+331,2019,Physiotherapy - Musculoskeletal,57
+332,2019,Physiotherapy - Neurological,14
+333,2019,Physiotherapy - Pediatrics,58
+334,2019,Physiotherapy - Sport Medicine,35
+335,2019,Physiotherapy - Sport Physical Therapy,11
+336,2019,Physiotherapy - Vestibular,2
+337,2019,Plastering,15
+338,2019,Plastic Surgery,662
+339,2019,Podiatry,8
+340,2019,Polysomnography,55
+341,2019,Pre. Intra and Postoperative Nursing Care,10
+342,2019,Preventive Dentistry,10
+343,2019,Preventive Health,147
+344,2019,Preventive Medicine,53
+345,2019,Preventive Medicine And Public Health,905
+346,2019,Primary Care,9
+347,2019,Primary Health Care Nursing,32
+348,2019,Prosthetics & Orthotics,187
+349,2019,Prosthodontics,1488
+350,2019,Psychiatry,1398
+351,2019,Psychological And Mental Health Nursing,86
+352,2019,Psychology,7175
+353,2019,Psychology - Clinical Child Psychology,6
+354,2019,Psychology - Clinical Psychology,303
+355,2019,Psychology - Counseling Psychology,497
+356,2019,Psychology - Health Psychology,4
+357,2019,Psychology - Marital & Family Therapy,56
+358,2019,Psychology - Neuropsychology,41
+359,2019,Public Health,4245
+360,2019,Public Health - Bioethics,1
+361,2019,Public Health - Community Health,17
+362,2019,Public Health - Environment Health,134
+363,2019,Public Health - Health Promotion,74
+364,2019,Public Health - Hospitals Administration,14
+365,2019,Public Health - Nutrition,13
+366,2019,Pulmonology,624
+367,2019,Quality Control Of Pharmaceutical,11
+368,2019,Quality Management,10
+369,2019,Quality Management Of Pharmaceutical Services,1
+370,2019,Radiation Oncology,207
+371,2019,Radiological Technology,9232
+372,2019,Radiological Technology - Magnetic Resonance Technology,91
+373,2019,Radiological Technology - Medical Imaging Informatics,7
+374,2019,Radiological Technology - Radiation Protection,7
+375,2019,Radiological Technology - Ultrasound,131
+376,2019,Radiotherapy,158
+377,2019,Regional Anesthesia,11
+378,2019,Rehabilitation Medicine And Rheumatology,9
+379,2019,Reproductive Tract Tumors And Chest Tumors,6
+380,2019,Research Laboratories And Toxics,5
+381,2019,Respiratory Therapy,3355
+382,2019,Restorative Dentistry,685
+383,2019,Rheumatology,134
+384,2019,Scopes,2
+385,2019,Social Service,3750
+386,2019,Sociology,7015
+387,2019,Speech Medicine,24
+388,2019,Speech Pathologist,19
+389,2019,Speech and Hearing Therapy,743
+390,2019,Sports Nutrition,9
+391,2019,Surgical Oncology,24
+392,2019,Temporomandibular Joint Disorders,11
+393,2019,Thoracic And Cardiac Surgery,160
+394,2019,Thoracic Surgery,117
+395,2019,Toxicology,12
+396,2019,Transfusion Medicine,1
+397,2019,Tropical Medicine,6
+398,2019,Tropical medicine,31
+399,2019,Unknown,28070
+400,2019,Urology,1689
+401,2019,Vascular Surgery,259
+402,2020,Addiction Psychiatry,2
+403,2020,Adolescent Medicine,1
+404,2020,Adult Critical Care Nursing,549
+405,2020,Advance Pediatric Gastrointestinal Endoscopy,9
+406,2020,Advanced Endodontics,2
+407,2020,Advanced Endovascular Surgery,2
+408,2020,Advanced General Dentistry,268
+409,2020,Advanced Obstetric and Gynecology Ultrasound,2
+410,2020,Aerospace Medicine,2
+411,2020,Allergy and Immumology,45
+412,2020,Analytical toxicology and Narcotics( drugs ),1
+413,2020,Anatomic Pathology,717
+414,2020,Anatomic and Clinical Pathology\Hematology,7
+415,2020,Andrology,3
+416,2020,Andrology and Male Infertility,1
+417,2020,Anesthesia,4472
+418,2020,Anesthesia Nursing,3
+419,2020,Anesthesia Technology,1749
+420,2020,Anesthesia and Intensive Care,2
+421,2020,Angiology,1
+422,2020,Audiological Medicine,55
+423,2020,Audiology,141
+424,2020,Aviation Medicine,1
+425,2020,Bariatric Surgery,1
+426,2020,Biochemical Analysis,2
+427,2020,Biological Engineering,4
+428,2020,Biology ( Genomic & Biotechnology ),277
+429,2020,Biomedical Genetic,3
+430,2020,Biomedical Statistics,7
+431,2020,Biomedical Technology,209
+432,2020,Biotechnology,11
+433,2020,Blood Transfusion Medicine,34
+434,2020,Cardiac Catheterization,60
+435,2020,Cardiac Catheterization Technology,43
+436,2020,Cardiac Electrophysiology,22
+437,2020,Cardiac Intensive Care,5
+438,2020,Cardiac Perfusion,234
+439,2020,Cardiac Surgery,317
+440,2020,Cardiology,25
+441,2020,Cardiothoracic Surgery,1
+442,2020,Cardiovascular Medicine,1549
+443,2020,Cardiovascular Nursing,243
+444,2020,Cardiovascular Technology,330
+445,2020,Child And Adolescence Psychiatry,1
+446,2020,Chiropractic,3
+447,2020,Clincal Chemestry,3
+448,2020,Clincal Neurophysiology,5
+449,2020,Clinical Biochemistry - Clinical Toxicology,45
+450,2020,Clinical Biochemistry - Forensic Toxicology,108
+451,2020,Clinical Nutrition,3174
+452,2020,Clinical Pathology,1138
+453,2020,Clinical Pharmacy,1635
+454,2020,Clinical Pharmacy (Cardiology Pharmacotherapy),6
+455,2020,Clinical Pharmacy (Emergency Medicine),2
+456,2020,Clinical Pharmacy (Internal Medicine Pharmacotherapy),2
+457,2020,Clinical Pharmacy (Parenteral Nutrition),3
+458,2020,Clinical Pharmacy (Pediatrics),1
+459,2020,Clinical Pharmacy (Transplant),1
+460,2020,Clinical Physiology,11
+461,2020,Clinical Toxicology,15
+462,2020,Community And Public Health Nursing,138
+463,2020,Community Medicine,1
+464,2020,Conservative Dentistry,332
+465,2020,"Cornea, External Eye Disease and Refractive Surgery",2
+466,2020,Cosmetic Dermatology,5
+467,2020,Craniofacial Orthodontic,6
+468,2020,Critical Care Medicine,1306
+469,2020,Cytopathology,6
+470,2020,Dental,441
+471,2020,Dental Assistant,2750
+472,2020,Dental Hygiene,814
+473,2020,Dental Implant,37
+474,2020,Dental Public Health,224
+475,2020,Dental Surgery,1
+476,2020,Dental Technology,1500
+477,2020,Dermatology,2923
+478,2020,Diabetic Care Nursing,2
+479,2020,Diabetic Podiatry Care Nursing,6
+480,2020,Diabites Mellitus,4
+481,2020,Diagnostic Neuroradiology,6
+482,2020,Diagnostic Radiology,3912
+483,2020,Diagnostic Ultrasound,4
+484,2020,Disaster And Emergency Nursing,22
+485,2020,Diving Medicine,5
+486,2020,ENTOMOLOGY EPIDEMIOLOGIST,1
+487,2020,Echocardiography,36
+488,2020,Echocardiography Technology,33
+489,2020,Eeg,3
+490,2020,Eeg / Emg,1
+491,2020,Embrology,4
+492,2020,Emergency,12
+493,2020,Emergency Care Nursing,335
+494,2020,Emergency Management,5
+495,2020,Emergency Medical Services,9988
+496,2020,Emergency Medical Services - Critical Care,6
+497,2020,Emergency Medical Services - Emergency Management,29
+498,2020,Emergency Medicine,2807
+499,2020,Endocrinology,149
+500,2020,Endocrinology And Metabolism,1
+501,2020,Endodontics,1120
+502,2020,Environmental Health And Safety,62
+503,2020,Epidemiology,564
+504,2020,Family Dentistry,252
+505,2020,Family Medicine,7254
+506,2020,Female Pelvic Medicine and Reconstruction Surgery,3
+507,2020,Food And Nutrition Services,3973
+508,2020,Food Science And Technology,2730
+509,2020,Food Science And Technology (Food Safety),596
+510,2020,Foot And Ankle Care,3
+511,2020,Foot Biomechanics,1
+512,2020,Forensic And Analytical Science,2
+513,2020,Forensic Dentistry,1
+514,2020,Forensic Laboratories,113
+515,2020,Forensic Medicine,175
+516,2020,Fornesic Technician,4
+517,2020,Gastroenterology,348
+518,2020,Gastrointestinal Surgery,9
+519,2020,General Dentistry,14944
+520,2020,General Practice,20230
+521,2020,General Surgery,5701
+522,2020,Genetic Counselling,48
+523,2020,Genetic Engineering,16
+524,2020,Genetics - Cytogenetics,17
+525,2020,Geriatric Medicine,56
+526,2020,Geriatric Nursing,28
+527,2020,Gynecological Oncology,1
+528,2020,Hand Surgery,4
+529,2020,Hand and Microsurgery,1
+530,2020,Head And Neck Cancer-Microvascular Reconstruction,3
+531,2020,Head And Neck Pathology,10
+532,2020,Health Administration,11473
+533,2020,Health Administration - Quality Management,94
+534,2020,Health Adminstration,5
+535,2020,Health Assistant - Laboratory,188
+536,2020,Health Bioinformatics,63
+537,2020,Health Care Assistant,7
+538,2020,Health Care security,863
+539,2020,Health Education,888
+540,2020,Health Environmentalist,9
+541,2020,Health Informatics,4487
+542,2020,Health Information Management,35
+543,2020,Health Insurance,142
+544,2020,Health Sciences,10
+545,2020,Health Services Administration And Hosiptals,1066
+546,2020,Health Systems management,9
+547,2020,Healthcare Policy And Management,2
+548,2020,Hematological Pathology,106
+549,2020,Hematology,145
+550,2020,Hematology - Histocompatibility,6
+551,2020,Hematology And Ocology,13
+552,2020,Hematopathology,1
+553,2020,Hemodialysis,133
+554,2020,Hemodialysis Nursing,73
+555,2020,Hepatobiliary Surgery,3
+556,2020,Hepatology,4
+557,2020,Hip and Knee Arthroplasty Surgery,4
+558,2020,Histopathology,3
+559,2020,Home Health Care,9
+560,2020,Human Anatomy,1
+561,2020,Immunology,28
+562,2020,Implant Dentistry,2
+563,2020,Infection Control,278
+564,2020,Infection Control Hospitals,7
+565,2020,Infectious Disease,63
+566,2020,Infectious Diseases,10
+567,2020,Internal Medicine,11281
+568,2020,Interventional Cardiology,10
+569,2020,Kinesiology,5
+570,2020,LABORATORY TECHNITION (TUBE BABY,2
+571,2020,Laboratory,18178
+572,2020,Laboratory ( Microbiology),3737
+573,2020,Laboratory - Clinical Biochemistry,813
+574,2020,Laboratory - Clinical Immunology,348
+575,2020,Laboratory - Clinical Laboratory Management,1
+576,2020,Laboratory - Cytopathology,40
+577,2020,Laboratory - Embryology,99
+578,2020,Laboratory - Genetics,258
+579,2020,Laboratory - Hematology,478
+580,2020,Laboratory - Histopathology,220
+581,2020,Laboratory - Microbiology,1914
+582,2020,Laboratory - Molecular Genetics,256
+583,2020,Laboratory -Transfusion & Blood Bank,93
+584,2020,Laboratory- Histopathology & Cytopathology,2
+585,2020,Laboratory-Biochemistry,1763
+586,2020,Laboratory-Dna,12
+587,2020,Laser Surgery,1
+588,2020,Leukemia and Bone Marrow Transplantation,1
+589,2020,Lithotripsy,16
+590,2020,MOLECULAR BIOLOGY,27
+591,2020,MOLEUCULAR DIAGNOSTICS,1
+592,2020,Maternal Fetal Medicine,5
+593,2020,Maternity And Child Health Nursing,21
+594,2020,Maxilofacial Surgery And Implant,1
+595,2020,Med.Lab - Med. Immunology,1
+596,2020,Medical And Surgical Nursing,213
+597,2020,Medical Biochemistry,118
+598,2020,Medical Coding,213
+599,2020,Medical Devices,1885
+600,2020,Medical Education,50
+601,2020,Medical Entomology,4
+602,2020,Medical Genetics,58
+603,2020,Medical Laboratories,7
+604,2020,Medical Laboratory,1
+605,2020,Medical Microbiology,296
+606,2020,Medical Oncology,318
+607,2020,Medical Physics,893
+608,2020,Medical Physics - Medical Nuclear Physics,7
+609,2020,Medical Physics - Radiation Protection,12
+610,2020,Medical Retina and Uveitis,1
+611,2020,Medical Secretary,2353
+612,2020,Medical Sterilization,862
+613,2020,Medical Transcription,72
+614,2020,Medicine Economics,23
+615,2020,Metabolic And Genetics Medicine,12
+616,2020,Microbiology - Molecular Microbiology,202
+617,2020,Microbiology - Parasitology,46
+618,2020,Microbiology - Virology,113
+619,2020,Midwifery,3303
+620,2020,Minimally Invasive And Robotic And Heart Transplant Surgery,1
+621,2020,Minimally Lnvasive Surgery,6
+622,2020,Molecular Biotechology,19
+623,2020,Molecular Genetic Pathology,12
+624,2020,Molecular Medicine,2
+625,2020,Motililty,4
+626,2020,Neonatal Critical Care Nursing,56
+627,2020,Neonatal Intensive Care,145
+628,2020,Neonatology,1
+629,2020,Nephrology,496
+630,2020,Neuro Rehabiltation,1
+631,2020,Neurology,1109
+632,2020,Neuropathology,8
+633,2020,Neurophysiology,185
+634,2020,Neurosurgery,933
+635,2020,Nuclear Medicine,418
+636,2020,Nursing,94777
+637,2020,Nursing Administration,474
+638,2020,Nursing Education,223
+639,2020,Nutrition,8
+640,2020,Obstetrics And Gynecologic Nursing,81
+641,2020,Obstetrics And Gynecology,6381
+642,2020,Occupational Medicine,146
+643,2020,Occupational Safety Andhealth,65
+644,2020,Occupational Therapy,732
+645,2020,Oncology,8
+646,2020,Oncology and Palliative Care Nursing,140
+647,2020,Operation Rooms,958
+648,2020,Ophthalmology,2330
+649,2020,Optics,1694
+650,2020,Optometry,1329
+651,2020,Optometry - Contact Lens,2
+652,2020,Optometry - Cornea,3
+653,2020,Optometry – Occupational Health and Safety,1
+654,2020,Oral And Maxillofacial Radiology,75
+655,2020,Oral And Maxillofacial Surgery,842
+656,2020,Oral Biology,81
+657,2020,Oral Diagnosis,4
+658,2020,Oral Medicine,107
+659,2020,Oral Pathology,113
+660,2020,Oral Surgery,306
+661,2020,Organ Transplant,11
+662,2020,Orofacial Pain,7
+663,2020,Orthodontics,970
+664,2020,Orthodontics And Dentofacial Orthopdics,1204
+665,2020,Orthognathic Surgery,2
+666,2020,Orthopedic Surgery,3426
+667,2020,Orthopedic Trauma Surgery,3
+668,2020,Otorhinolaryngology ( Ent ),2244
+669,2020,Pain Management Nursing,1
+670,2020,Palliative Medicine,5
+671,2020,Pathology,6
+672,2020,Patient Care,222
+673,2020,Pediatric Cardiac Surgery,4
+674,2020,Pediatric Cardiology,12
+675,2020,Pediatric Dentistry,973
+676,2020,Pediatric Emergency Medicine,5
+677,2020,Pediatric General Surgery And Pediatric Trauma Surgery,1
+678,2020,Pediatric Genetics and Endocrinology,1
+679,2020,Pediatric Hematology and Oncology,17
+680,2020,Pediatric Hepatology,5
+681,2020,Pediatric Intensive Care,50
+682,2020,Pediatric Nephrology,1
+683,2020,Pediatric Neurology,213
+684,2020,Pediatric Neurosurgery,3
+685,2020,Pediatric Nursing,88
+686,2020,Pediatric Nursing Critical Care,14
+687,2020,Pediatric Oncology,44
+688,2020,Pediatric Orthodontics,2
+689,2020,Pediatric Orthopedic Surgery,4
+690,2020,Pediatric Pulmonary,4
+691,2020,Pediatric Surgery,206
+692,2020,Pediatric Tropical Medicine,1
+693,2020,Pediatrics,10007
+694,2020,Periodontics,792
+695,2020,Pharmaceutical Administration,7
+696,2020,Pharmaceutical Analysis,3
+697,2020,Pharmaceutical Chemistry,3
+698,2020,Pharmaceutical Sciences,761
+699,2020,Pharmaceutical administration AND outcomes,89
+700,2020,Pharmaceutics,22
+701,2020,Pharmacognosy,2
+702,2020,Pharmacology,92
+703,2020,Pharmacy,25126
+704,2020,Phlebotomy,648
+705,2020,Phoniatrics,2
+706,2020,Physical Medicine And Rehabilitation,360
+707,2020,Physiology,5
+708,2020,Physiotherapy,8599
+709,2020,Physiotherapy - Cardiovascular,16
+710,2020,Physiotherapy - Musculoskeletal,66
+711,2020,Physiotherapy - Neurological,50
+712,2020,Physiotherapy - Pediatrics,31
+713,2020,Physiotherapy - Sport Medicine,24
+714,2020,Physiotherapy - Sport Physical Therapy,42
+715,2020,Physiotherapy - Vestibular,2
+716,2020,Plastering,17
+717,2020,Plastic Surgery,613
+718,2020,Podiatry,30
+719,2020,Polysomnography,8
+720,2020,Preventive Cardiology,1
+721,2020,Preventive Dentistry,6
+722,2020,Preventive Health,70
+723,2020,Preventive Medicine,79
+724,2020,Preventive Medicine And Public Health,899
+725,2020,Primary Care,3
+726,2020,Primary Health Care Nursing,127
+727,2020,Prosthetics & Orthotics,228
+728,2020,Prosthodontics,1548
+729,2020,Psychiatry,1514
+730,2020,Psychological And Mental Health Nursing,153
+731,2020,Psychology,10922
+732,2020,Psychology - Clinical Child Psychology,17
+733,2020,Psychology - Clinical Psychology,374
+734,2020,Psychology - Cognitive Behavioural Therapy,6
+735,2020,Psychology - Counseling Psychology,499
+736,2020,Psychology - Forensic psychology,23
+737,2020,Psychology - Health Psychology,2
+738,2020,Psychology - Marital & Family Therapy,39
+739,2020,Psychology - Neuropsychology,40
+740,2020,Psyschotherapy,2
+741,2020,Public Health,4806
+742,2020,Public Health - Community Health,117
+743,2020,Public Health - Environment Health,98
+744,2020,Public Health - Health Promotion,100
+745,2020,Public Health - Nutrition,20
+746,2020,Pulmonary,6
+747,2020,Pulmonary Hypertension,1
+748,2020,Pulmonology,506
+749,2020,Quality Control Of Pharmaceutical,10
+750,2020,Quality Management,21
+751,2020,Radiation Oncology,229
+752,2020,Radiological Technology,9758
+753,2020,Radiological Technology - Magnetic Resonance Technology,101
+754,2020,Radiological Technology - Medical Imaging Informatics,15
+755,2020,Radiological Technology - Radiation Dosimetrist,5
+756,2020,Radiological Technology - Radiation Protection,11
+757,2020,Radiological Technology - Radiopharmacy,7
+758,2020,Radiological Technology - Ultrasound,153
+759,2020,Radiopharmaceutics And Pet Radiochemistry,1
+760,2020,Radiotherapy,158
+761,2020,Regional Anesthesia,1
+762,2020,Rehabilitation Medicine And Rheumatology,5
+763,2020,Reproductive Endocrinology And Infertility,1
+764,2020,Reproductive Tract Tumors And Chest Tumors,1
+765,2020,Respiratory Therapy,3022
+766,2020,Restorative Dentistry,886
+767,2020,Rheumatology,93
+768,2020,Rhinology,1
+769,2020,Social Service,5564
+770,2020,Sociology,7099
+771,2020,Sociology - Family Therapy,5
+772,2020,Special Needs Dentistry,3
+773,2020,Speech Medicine,20
+774,2020,Speech Pathologist,3
+775,2020,Speech and Hearing Therapy,818
+776,2020,Sport Medicine,13
+777,2020,Sports Medicine,6
+778,2020,Sports Nutrition,10
+779,2020,Surgical Oncology,15
+780,2020,Temporomandibular Joint Disorders,5
+781,2020,Thoracic And Cardiac Surgery,128
+782,2020,Thoracic Surgery,89
+783,2020,Toxicology,12
+784,2020,Transfusion Medicine,1
+785,2020,Tropical Medicine,1
+786,2020,Tropical medicine,22
+787,2020,Unknown,24295
+788,2020,Upper Extremity And Shoulder Reconstructive Surgery,1
+789,2020,Urology,1524
+790,2020,Vascular Neurosurgery,4
+791,2020,Vascular Surgery,212
+792,2020,Vitreoretinal Disease and Surgery,6
+793,2021,Acupuncture,5
+794,2021,Acute and critical care nursing,3
+795,2021,Adult Critical Care Nursing,460
+796,2021,Adult Spine Surgery,7
+797,2021,Advance Pediatric Gastrointestinal Endoscopy,3
+798,2021,Advanced Endodontics,5
+799,2021,Advanced Endovascular Surgery,11
+800,2021,Advanced General Dentistry,263
+801,2021,Advanced Obstetric and Gynecology Ultrasound,8
+802,2021,Allergy and Immumology,28
+803,2021,Anatomic Pathology,687
+804,2021,Anatomic and Clinical Pathology\Hematology,21
+805,2021,Andrology,4
+806,2021,Anesthesia,4083
+807,2021,Anesthesia Nursing,7
+808,2021,Anesthesia Technology,1721
+809,2021,Anesthesia and Intensive Care,2
+810,2021,Antimicrobial Stewardship,3
+811,2021,Audiological Medicine,34
+812,2021,Audiology,201
+813,2021,Aviation Medicine,3
+814,2021,BRAIN IMAGINE BY ULTRASOUND,2
+815,2021,Bariatric And Minimally Invasive Surgery,9
+816,2021,Biological Engineering,7
+817,2021,Biology ( Genomic & Biotechnology ),132
+818,2021,Biomedical Engineering,1
+819,2021,Biomedical Genetic,6
+820,2021,Biomedical Statistics,14
+821,2021,Biomedical Technology,139
+822,2021,Biopharmaceutics,1
+823,2021,Biotechnology,7
+824,2021,Blood Transfusion Medicine,32
+825,2021,Breast Oncology Surgery,6
+826,2021,Cardiac Anesthesia,1
+827,2021,Cardiac Catheterization,35
+828,2021,Cardiac Catheterization Technology,63
+829,2021,Cardiac Electrophysiology,11
+830,2021,Cardiac Intensive Care,1
+831,2021,Cardiac Perfusion,160
+832,2021,Cardiac Surgery,397
+833,2021,Cardiology,16
+834,2021,Cardiothoracic Surgery,4
+835,2021,Cardiovascular Critical Care,1
+836,2021,Cardiovascular Medicine,1665
+837,2021,Cardiovascular Nursing,182
+838,2021,Cardiovascular Technology,388
+839,2021,Child And Adolescence Psychiatry,6
+840,2021,Chiropractic,11
+841,2021,Clincal Chemestry,3
+842,2021,Clinical Biochemistry - Clinical Toxicology,52
+843,2021,Clinical Biochemistry - Forensic Toxicology,51
+844,2021,Clinical Dentistry,4
+845,2021,Clinical Nutrition,3059
+846,2021,Clinical Pathology,1084
+847,2021,Clinical Pharmacy,1575
+848,2021,Clinical Pharmacy (Cardiology Pharmacotherapy),3
+849,2021,Clinical Pharmacy (Critical Care Pharmacotherapy),1
+850,2021,Clinical Pharmacy (Infectious Diseases Pharmacotherapy),1
+851,2021,Clinical Pharmacy (Nephrology Medicine Pharmacotherapy),2
+852,2021,Clinical Pharmacy (Oncology Pharmacotherapy),3
+853,2021,Clinical Pharmacy (Pediatrics),4
+854,2021,Clinical Pharmacy (Transplant),3
+855,2021,Clinical Physiology,18
+856,2021,Clinical Toxicology,14
+857,2021,Community And Public Health Nursing,138
+858,2021,Community Medicine,3
+859,2021,Comprehensive Ophthalmology,2
+860,2021,Congenital Cardiac Surgery,4
+861,2021,Conservative Dentistry,361
+862,2021,"Cornea, External Eye Disease and Refractive Surgery",1
+863,2021,Cranial Facial Surgery,1
+864,2021,Craniofacial Orthodontic,7
+865,2021,Critical Care Medicine,1218
+866,2021,Dental,378
+867,2021,Dental Assistant,2576
+868,2021,Dental Biomaterials,3
+869,2021,Dental Hygiene,667
+870,2021,Dental Implant,49
+871,2021,Dental Laboraotory,2
+872,2021,Dental Public Health,204
+873,2021,Dental Surgery,2
+874,2021,Dental Technology,1269
+875,2021,Dermatology,2649
+876,2021,Diabetic Podiatry Care Nursing,2
+877,2021,Diabites Mellitus,6
+878,2021,Diagnostic Neuroradiology,2
+879,2021,Diagnostic Radiology,3675
+880,2021,Diagnostic Ultrasound,6
+881,2021,Disaster And Emergency Nursing,24
+882,2021,Disaster Medicine Management,3
+883,2021,Diving Medicine,2
+884,2021,Echocardiography,25
+885,2021,Echocardiography Technology,83
+886,2021,Eeg / Emg,1
+887,2021,Electrocardiography,7
+888,2021,Electromyography,5
+889,2021,Emergency Care Nursing,311
+890,2021,Emergency Medical Services,7794
+891,2021,Emergency Medical Services - Critical Care,7
+892,2021,Emergency Medical Services - Emergency Management,24
+893,2021,Emergency Medicine,2446
+894,2021,Endocrinology,124
+895,2021,Endodontics,892
+896,2021,Endoscopy,1
+897,2021,Endourology,8
+898,2021,Environmental Health And Safety,100
+899,2021,Epidemiology,492
+900,2021,Epilepsy and Electroencephalography,5
+901,2021,Family Dentistry,197
+902,2021,Family Medicine,5387
+903,2021,Food And Nutrition Services,4576
+904,2021,Food Science And Technology,3147
+905,2021,Food Science And Technology (Food Safety),573
+906,2021,Forensic Laboratories,147
+907,2021,Forensic Laboratory Sciences,3
+908,2021,Forensic Medicine,165
+909,2021,Gastroenterology,441
+910,2021,Gastrointestinal Surgery,6
+911,2021,General Dentistry,11616
+912,2021,General Practice,20397
+913,2021,General Surgery,4951
+914,2021,Genetic Counselling,60
+915,2021,Genetic Engineering,17
+916,2021,Genetics - Cytogenetics,2
+917,2021,Geriatric Medicine,53
+918,2021,Geriatric Nursing,19
+919,2021,Hand Surgery,1
+920,2021,Health Administration,9169
+921,2021,Health Administration - Quality Management,64
+922,2021,Health Administration - Risk Management,2
+923,2021,Health Adminstration,1
+924,2021,Health Assistant - Laboratory,205
+925,2021,Health Bioinformatics,18
+926,2021,Health Care Assistant,10
+927,2021,Health Care security,1119
+928,2021,Health Education,816
+929,2021,Health Environmentalist,5
+930,2021,Health Informatics,3765
+931,2021,Health Information Management,102
+932,2021,Health Insurance,263
+933,2021,Health Sciences,14
+934,2021,Health Services Administration And Hosiptals,991
+935,2021,Health Systems management,5
+936,2021,Healthcare Policy And Management,6
+937,2021,Hematological Pathology,91
+938,2021,Hematology,131
+939,2021,Hematology - Histocompatibility,1
+940,2021,Hematology And Ocology,6
+941,2021,Hematopathology,2
+942,2021,Hemodialysis,60
+943,2021,Hemodialysis Nursing,58
+944,2021,Hepatic Surgery and Transplantation,4
+945,2021,Hepatobiliary Surgery,1
+946,2021,Hepatology,22
+947,2021,Hip And Knee Arthroplasty Surgery,1
+948,2021,Hip and Knee Arthroplasty Surgery,1
+949,2021,Home Health Care,13
+950,2021,Human Anatomy,4
+951,2021,Immunology,8
+952,2021,Implant Dentistry,8
+953,2021,Infection Control,194
+954,2021,Infection Control Hospitals,5
+955,2021,Infectious Disease,73
+956,2021,Infectious Diseases,3
+957,2021,Inrerstitial Lung Disease,7
+958,2021,Internal Medicine,10185
+959,2021,Interventional Cardiology,5
+960,2021,Interventional Neurology,2
+961,2021,Interventional Radiology,1
+962,2021,Kinesiology,24
+963,2021,LABORATORY TECHNITION (TUBE BABY,1
+964,2021,Laboratory,16005
+965,2021,Laboratory  - Laboratory Quality Management,9
+966,2021,Laboratory ( Microbiology),2003
+967,2021,Laboratory - Clinical Biochemistry,858
+968,2021,Laboratory - Clinical Immunology,266
+969,2021,Laboratory - Clinical Laboratory Management,5
+970,2021,Laboratory - Cytopathology,37
+971,2021,Laboratory - Embryology,106
+972,2021,Laboratory - Genetics,359
+973,2021,Laboratory - Hematology,558
+974,2021,Laboratory - Histopathology,242
+975,2021,Laboratory - Microbiology,1672
+976,2021,Laboratory - Molecular Genetics,333
+977,2021,Laboratory -Transfusion & Blood Bank,74
+978,2021,Laboratory-Biochemistry,1234
+979,2021,Laparoscopic Surgery,8
+980,2021,Lifestyle Medicine,1
+981,2021,MOLECULAR BIOLOGY,5
+982,2021,MOLEUCULAR DIAGNOSTICS,1
+983,2021,Maternity And Child Health Nursing,57
+984,2021,Med.Lab - Med. Immunology,3
+985,2021,Medical And Surgical Nursing,208
+986,2021,Medical Biochemistry,32
+987,2021,Medical Coding,365
+988,2021,Medical Dermatology,5
+989,2021,Medical Devices,1675
+990,2021,Medical Education,99
+991,2021,Medical Entomology,1
+992,2021,Medical Genetics,55
+993,2021,Medical Laboratory,6
+994,2021,Medical Microbiology,323
+995,2021,Medical Molecular Biology With Genetics,1
+996,2021,Medical Oncology,271
+997,2021,Medical Physics,964
+998,2021,Medical Physics - Medical Nuclear Physics,11
+999,2021,Medical Physics - Radiation Protection,7
+1000,2021,Medical Resources Admin,5
+1001,2021,Medical Retina and Uveitis,1
+1002,2021,Medical Secretary,2209
+1003,2021,Medical Sterilization,501
+1004,2021,Medical Transcription,4
+1005,2021,Medicine Economics,7
+1006,2021,Microbiology - Molecular Microbiology,239
+1007,2021,Microbiology - Mycology,17
+1008,2021,Microbiology - Parasitology,58
+1009,2021,Microbiology - Virology,139
+1010,2021,Microbiology- Bacteriology,15
+1011,2021,Midwifery,3286
+1012,2021,Minimally Invasive Urology,3
+1013,2021,Molecular Biotechology,27
+1014,2021,Molecular Imaging,1
+1015,2021,Molecular Medicine,1
+1016,2021,Musculoskeletal System ‎Diseases,1
+1017,2021,Neonatal Critical Care Nursing,48
+1018,2021,Neonatal Intensive Care,156
+1019,2021,Nephrology,476
+1020,2021,Neuro Occupational therapy,2
+1021,2021,Neuro Rehabiltation,8
+1022,2021,Neurology,1101
+1023,2021,Neuropathology,8
+1024,2021,Neurophysiology,258
+1025,2021,Neurosurgery,867
+1026,2021,Nuclear Medicine,532
+1027,2021,Nuclear Medicine - Nuclear Engineering,4
+1028,2021,Nursing,103913
+1029,2021,Nursing Administration,460
+1030,2021,Nursing Education,94
+1031,2021,Nutrition,1
+1032,2021,Obstetrics And Gynecologic Nursing,67
+1033,2021,Obstetrics And Gynecology,5447
+1034,2021,Occupational Medicine,64
+1035,2021,Occupational Safety Andhealth,58
+1036,2021,Occupational Therapy,645
+1037,2021,Ocularist,2
+1038,2021,Oncology,20
+1039,2021,Oncology And Nuclear Medicine,3
+1040,2021,Oncology and Palliative Care Nursing,135
+1041,2021,Operation Rooms,774
+1042,2021,Ophthalmology,2414
+1043,2021,Optics,1861
+1044,2021,Optometry,1278
+1045,2021,Optometry - Contact Lens,4
+1046,2021,Optometry - Orthoptics,5
+1047,2021,Oral And Maxillofacial Radiology,72
+1048,2021,Oral And Maxillofacial Surgery,861
+1049,2021,Oral Biology,33
+1050,2021,Oral Medicine,121
+1051,2021,Oral Pathology,68
+1052,2021,Oral Surgery,276
+1053,2021,Organ Transplant,5
+1054,2021,Orofacial Pain,33
+1055,2021,Orthodontics,858
+1056,2021,Orthodontics And Dentofacial Orthopdics,1033
+1057,2021,Orthopedic Oncology Surgery,3
+1058,2021,Orthopedic Surgery,3123
+1059,2021,Orthopedic Trauma Surgery,4
+1060,2021,Otorhinolaryngology ( Ent ),1800
+1061,2021,Pain Medicine,22
+1062,2021,Palliative Medicine,14
+1063,2021,Pathology,3
+1064,2021,Patient Care,329
+1065,2021,Pediatric Allergy and Immunology,5
+1066,2021,Pediatric And Metabolic Genetics,1
+1067,2021,Pediatric Anesthesia,1
+1068,2021,Pediatric Cardiac Surgery,5
+1069,2021,Pediatric Cardiology,13
+1070,2021,Pediatric Dentistry,859
+1071,2021,Pediatric Dentistry And Orthodontics,1
+1072,2021,Pediatric Emergency,13
+1073,2021,Pediatric Emergency Medicine,4
+1074,2021,Pediatric Endocrinology,5
+1075,2021,Pediatric Gastroenterology,4
+1076,2021,Pediatric Hematology and Oncology,32
+1077,2021,Pediatric Hepatology,3
+1078,2021,Pediatric Intensive Care,28
+1079,2021,Pediatric Nephrology,3
+1080,2021,Pediatric Neurology,196
+1081,2021,Pediatric Neurosurgery,13
+1082,2021,Pediatric Nursing,99
+1083,2021,Pediatric Nursing Critical Care,11
+1084,2021,Pediatric Oncology,20
+1085,2021,Pediatric Orthodontics,3
+1086,2021,Pediatric Orthopedic Surgery,8
+1087,2021,Pediatric Surgery,255
+1088,2021,Pediatric Tropical Medicine,1
+1089,2021,Pediatrics,7983
+1090,2021,Periodontics,628
+1091,2021,Pharmaceutical Administration,5
+1092,2021,Pharmaceutical Analysis,4
+1093,2021,Pharmaceutical Chemistry,4
+1094,2021,Pharmaceutical Sciences,615
+1095,2021,Pharmaceutical administration AND outcomes,64
+1096,2021,Pharmaceutical care (Ambulatory),2
+1097,2021,Pharmaceutics,8
+1098,2021,Pharmacognosy,2
+1099,2021,Pharmacology,52
+1100,2021,Pharmacology & Toxicology,12
+1101,2021,Pharmacy,22294
+1102,2021,Phlebology,1
+1103,2021,Phlebotomy,333
+1104,2021,Phoniatrics,5
+1105,2021,Physical Medicine And Rehabilitation,301
+1106,2021,Physiology,9
+1107,2021,Physiotherapy,7357
+1108,2021,Physiotherapy - Cardiovascular,9
+1109,2021,Physiotherapy - Musculoskeletal,79
+1110,2021,Physiotherapy - Neurological,31
+1111,2021,Physiotherapy - Pediatrics,18
+1112,2021,Physiotherapy - Sport Medicine,9
+1113,2021,Physiotherapy - Sport Physical Therapy,32
+1114,2021,Physiotherapy - Vestibular,3
+1115,2021,Plastering,17
+1116,2021,Plastic Surgery,601
+1117,2021,Podiatry,67
+1118,2021,Polysomnography,4
+1119,2021,Preventive Dentistry,10
+1120,2021,Preventive Health,59
+1121,2021,Preventive Medicine,60
+1122,2021,Preventive Medicine And Public Health,820
+1123,2021,Primary Care,5
+1124,2021,Primary Health Care Nursing,65
+1125,2021,Prosthetics & Orthotics,197
+1126,2021,Prosthodontics,1282
+1127,2021,Prosthodontics And Dental Material,2
+1128,2021,Psychiatry,1331
+1129,2021,Psychological And Mental Health Nursing,110
+1130,2021,Psychology,9791
+1131,2021,Psychology - Clinical Child Psychology,10
+1132,2021,Psychology - Clinical Psychology,232
+1133,2021,Psychology - Cognitive Behavioural Therapy,10
+1134,2021,Psychology - Counseling Psychology,288
+1135,2021,Psychology - Forensic psychology,1
+1136,2021,Psychology - Health Psychology,1
+1137,2021,Psychology - Marital & Family Therapy,24
+1138,2021,Psychology - Neuropsychology,8
+1139,2021,Public Health,4417
+1140,2021,Public Health - Bioethics,4
+1141,2021,Public Health - Community Health,48
+1142,2021,Public Health - Environment Health,158
+1143,2021,Public Health - Health Promotion,312
+1144,2021,Public Health - Hospitals Administration,2
+1145,2021,Pulmonary Hypertension,1
+1146,2021,Pulmonology,564
+1147,2021,Quality Control Of Pharmaceutical,20
+1148,2021,Quality Management,8
+1149,2021,Quality Management Of Pharmaceutical Services,2
+1150,2021,Radiation Oncology,209
+1151,2021,Radiation Oncology and Medical Oncology,3
+1152,2021,Radiological Technology,7856
+1153,2021,Radiological Technology - Magnetic Resonance Technology,83
+1154,2021,Radiological Technology - Medical Imaging Informatics,29
+1155,2021,Radiological Technology - Radiation Protection,2
+1156,2021,Radiological Technology - Radiopharmacy,12
+1157,2021,Radiological Technology - Ultrasound,159
+1158,2021,Radiotherapy,83
+1159,2021,Rehabilitation Medicine And Rheumatology,12
+1160,2021,Renal Transplantation,1
+1161,2021,Reproductive Endocrinology And Infertility,2
+1162,2021,Respiratory Therapy,2573
+1163,2021,Restorative Dentistry,770
+1164,2021,Rheumatology,91
+1165,2021,Rhinology,14
+1166,2021,Robotic Surgery,5
+1167,2021,Scopes,3
+1168,2021,Sleep Surgery,9
+1169,2021,Social Service,5729
+1170,2021,Sociology,5930
+1171,2021,Sociology - Family Therapy,6
+1172,2021,Special Needs Dentistry,22
+1173,2021,Speech Medicine,31
+1174,2021,Speech Pathologist,2
+1175,2021,Speech and Hearing Therapy,789
+1176,2021,Sport Medicine,4
+1177,2021,Sports Nutrition,7
+1178,2021,Stem Cell Technology,8
+1179,2021,Structural Heart Disease,1
+1180,2021,Surgical Oncology,29
+1181,2021,Surgical Pathology,1
+1182,2021,Temporomandibular Joint Disorders,2
+1183,2021,Thoracic And Cardiac Surgery,320
+1184,2021,Thoracic Surgery,78
+1185,2021,Toxicology,3
+1186,2021,Tropical Medicine,1
+1187,2021,Tropical medicine,27
+1188,2021,Unknown,54425
+1189,2021,Urology,1455
+1190,2021,Vascular Surgery,292
+1191,2021,Vitreoretinal Disease and Surgery,1
+1192,2021,Women Health,7
+1193,2021,Wound Care Nursing,6
+1194,2022,Acute and critical care nursing,3
+1195,2022,Adult Cardiac Surgical Critical Care,3
+1196,2022,Adult Critical Care Nursing,502
+1197,2022,Adult and Pediatric Spine Surgery,3
+1198,2022,Advance Pediatric Gastrointestinal Endoscopy,1
+1199,2022,Advanced Endodontics,2
+1200,2022,Advanced Endovascular Surgery,4
+1201,2022,Advanced General Dentistry,175
+1202,2022,Advanced Laparoscopic Bariatric And Metabolic Surgery,3
+1203,2022,Advanced Laparoscopic Surgery,9
+1204,2022,Aerospace Medicine,1
+1205,2022,Allergy and Immumology,13
+1206,2022,Ambulatory Anesthesia,1
+1207,2022,Anatomic Pathology,629
+1208,2022,Anatomic and Clinical Pathology\Hematology,21
+1209,2022,Andrology and Male Infertility,5
+1210,2022,Anesthesia,3149
+1211,2022,Anesthesia Technology,1770
+1212,2022,Anesthesia and Intensive Care,6
+1213,2022,Angiology,2
+1214,2022,Arrhythmia Surgery,14
+1215,2022,Audiological Medicine,35
+1216,2022,Audiology,123
+1217,2022,Aviation Medicine,1
+1218,2022,BRAIN IMAGINE BY ULTRASOUND,1
+1219,2022,Bariatric And Minimally Invasive Surgery,9
+1220,2022,Biological Engineering,11
+1221,2022,Biology ( Genomic & Biotechnology ),69
+1222,2022,Biomedical Statistics,2
+1223,2022,Biomedical Technology,134
+1224,2022,Biopharmaceutics,2
+1225,2022,Biotechnology,10
+1226,2022,Blood Transfusion Medicine,21
+1227,2022,Body Imaging,3
+1228,2022,Breast and Lung Oncology,3
+1229,2022,Cardiac Catheterization,62
+1230,2022,Cardiac Catheterization Technology,36
+1231,2022,Cardiac Intensive Care,5
+1232,2022,Cardiac Perfusion,169
+1233,2022,Cardiac Surgery,278
+1234,2022,Cardiology,4
+1235,2022,Cardiothoracic Surgery,2
+1236,2022,Cardiovascular Critical Care,1
+1237,2022,Cardiovascular Medicine,1275
+1238,2022,Cardiovascular Nursing,219
+1239,2022,Cardiovascular Technology,302
+1240,2022,Chiropractic,19
+1241,2022,Clincal Chemestry,4
+1242,2022,Clinical Biochemistry - Clinical Toxicology,23
+1243,2022,Clinical Biochemistry - Forensic Toxicology,82
+1244,2022,Clinical Dentistry,3
+1245,2022,Clinical Gastro Entistinal Physiologist,2
+1246,2022,Clinical Nutrition,3324
+1247,2022,Clinical Pathology,812
+1248,2022,Clinical Pharmacy,1418
+1249,2022,Clinical Pharmacy (Cardiology Pharmacotherapy),5
+1250,2022,Clinical Pharmacy (Emergency Medicine),3
+1251,2022,Clinical Pharmacy (Nephrology Medicine Pharmacotherapy),2
+1252,2022,Clinical Pharmacy (Oncology Pharmacotherapy),3
+1253,2022,Clinical Pharmacy (Pediatrics),1
+1254,2022,Clinical Physiology,6
+1255,2022,Clinical Toxicology,17
+1256,2022,Colorectal Surgery,7
+1257,2022,Community And Public Health Nursing,97
+1258,2022,Congenital Cardiac Surgery,1
+1259,2022,Conservative Dentistry,211
+1260,2022,Conservative Dentistry And Endodontics,2
+1261,2022,Cosmatic Facial Surgery,6
+1262,2022,Craniofacial Orthodontic,13
+1263,2022,Critical Care Medicine,934
+1264,2022,Cytopathology,7
+1265,2022,Dental,271
+1266,2022,Dental Assistant,2878
+1267,2022,Dental Biomaterials,1
+1268,2022,Dental Hygiene,724
+1269,2022,Dental Implant,18
+1270,2022,Dental Public Health,94
+1271,2022,Dental Technology,1125
+1272,2022,Dermatology,2230
+1273,2022,Diabetic Podiatry Care Nursing,2
+1274,2022,Diabites Mellitus,9
+1275,2022,Diagnostic Neuroradiology,3
+1276,2022,Diagnostic Radiology,2995
+1277,2022,Diagnostic Ultrasound,5
+1278,2022,Disaster And Emergency Nursing,15
+1279,2022,Diving Medicine,3
+1280,2022,Echocardiography,11
+1281,2022,Echocardiography Technology,51
+1282,2022,Eeg,4
+1283,2022,Electrocardiography,7
+1284,2022,Embrology,2
+1285,2022,Emergency,2
+1286,2022,Emergency Care Nursing,237
+1287,2022,Emergency Medical Services,7443
+1288,2022,Emergency Medical Services - Emergency Management,15
+1289,2022,Emergency Medicine,2150
+1290,2022,Emergency Medicine Adminstration,1
+1291,2022,Endocrinology,85
+1292,2022,Endodontics,663
+1293,2022,Endoscopy,4
+1294,2022,Environmental Health And Safety,69
+1295,2022,Epidemiology,502
+1296,2022,Epilepsy and Electroencephalography,12
+1297,2022,Family Dentistry,369
+1298,2022,Family Medicine,5309
+1299,2022,Food And Nutrition Services,4023
+1300,2022,Food Science And Technology,2197
+1301,2022,Food Science And Technology (Food Safety),421
+1302,2022,Forensic Laboratories,110
+1303,2022,Forensic Laboratory Sciences,2
+1304,2022,Forensic Medicine,84
+1305,2022,Gastroenterology,279
+1306,2022,Gastrointestinal Surgery,10
+1307,2022,General Dentistry,12856
+1308,2022,General Practice,17698
+1309,2022,General Surgery,3984
+1310,2022,Genetic Counselling,15
+1311,2022,Genetic Engineering,18
+1312,2022,Genetics - Cytogenetics,1
+1313,2022,Geriatric Medicine,58
+1314,2022,Geriatric Nursing,16
+1315,2022,Glucoma,10
+1316,2022,Gynecological Oncology,7
+1317,2022,Haemodialysis,2
+1318,2022,Hand Surgery,1
+1319,2022,Head And Neck Cancer-Microvascular Reconstruction,2
+1320,2022,Health Administration,8690
+1321,2022,Health Administration - Quality Management,36
+1322,2022,Health Adminstration,5
+1323,2022,Health Assistant - Laboratory,88
+1324,2022,Health Bioinformatics,9
+1325,2022,Health Care Assistant,6
+1326,2022,Health Care security,5526
+1327,2022,Health Education,1043
+1328,2022,Health Environmentalist,3
+1329,2022,Health Informatics,5086
+1330,2022,Health Information Management,77
+1331,2022,Health Insurance,223
+1332,2022,Health Sciences,2
+1333,2022,Health Services Administration And Hosiptals,828
+1334,2022,Health Systems management,11
+1335,2022,Hematological Pathology,78
+1336,2022,Hematology,121
+1337,2022,Hematology - Histocompatibility,6
+1338,2022,Hematology And Ocology,9
+1339,2022,Hemodialysis,101
+1340,2022,Hemodialysis Nursing,26
+1341,2022,Hepatic Surgery and Transplantation,3
+1342,2022,Hepatology,18
+1343,2022,Hip And Knee Arthroplasty Surgery,3
+1344,2022,Histopathology,2
+1345,2022,Home Health Care,38
+1346,2022,Human Anatomy,2
+1347,2022,Immunology,11
+1348,2022,Implant Dentistry,5
+1349,2022,Industrial Pharmacy,6
+1350,2022,Infection Control,80
+1351,2022,Infection Control Hospitals,2
+1352,2022,Infectious Disease,72
+1353,2022,Infectious Diseases,7
+1354,2022,Inflammatory Bowel Disease,32
+1355,2022,Internal Medicine,9080
+1356,2022,Interventional Cardiology,8
+1357,2022,Interventional Neurology,8
+1358,2022,Interventional Radiology,17
+1359,2022,Kinesiology,3
+1360,2022,LABORATORY TECHNITION (TUBE BABY,1
+1361,2022,Laboratory,13449
+1362,2022,Laboratory  - Laboratory Quality Management,2
+1363,2022,Laboratory ( Microbiology),901
+1364,2022,Laboratory - Clinical Biochemistry,608
+1365,2022,Laboratory - Clinical Immunology,128
+1366,2022,Laboratory - Cytopathology,38
+1367,2022,Laboratory - Embryology,47
+1368,2022,Laboratory - Genetics,187
+1369,2022,Laboratory - Hematology,432
+1370,2022,Laboratory - Histopathology,108
+1371,2022,Laboratory - Microbiology,1094
+1372,2022,Laboratory - Molecular Genetics,106
+1373,2022,Laboratory -Transfusion & Blood Bank,60
+1374,2022,Laboratory- Histopathology & Cytopathology,1
+1375,2022,Laboratory-Biochemistry,536
+1376,2022,Laboratory-Dna,7
+1377,2022,Laparoscopic Surgery,3
+1378,2022,Leukemia,3
+1379,2022,Leukemia and Bone Marrow Transplantation,1
+1380,2022,MOLECULAR BIOLOGY,4
+1381,2022,MOLEUCULAR DIAGNOSTICS,3
+1382,2022,Mallaria,2
+1383,2022,Management Systems And Quality Of Health,1
+1384,2022,Maternal Fetal Medicine,4
+1385,2022,Maternity And Child Health Nursing,12
+1386,2022,Maxilofacial Surgery And Implant,4
+1387,2022,Med.Lab - Med. Immunology,3
+1388,2022,Medical And Surgical Nursing,128
+1389,2022,Medical Biochemistry,29
+1390,2022,Medical Coding,312
+1391,2022,Medical Dermatology,10
+1392,2022,Medical Devices,1497
+1393,2022,Medical Education,54
+1394,2022,Medical Entomology,4
+1395,2022,Medical Genetics,8
+1396,2022,Medical Laboratories,4
+1397,2022,Medical Laboratory,9
+1398,2022,Medical Microbiology,170
+1399,2022,Medical Molecular Biology With Genetics,2
+1400,2022,Medical Oncology,210
+1401,2022,Medical Physics,1070
+1402,2022,Medical Physics - Radiation Protection,9
+1403,2022,Medical Physics - Radiotherapy,7
+1404,2022,Medical Secretary,2497
+1405,2022,Medical Sterilization,409
+1406,2022,Medical Tech (Clinical Research),1
+1407,2022,Medical Technology,10
+1408,2022,Medical Transcription,5
+1409,2022,Medicine Economics,2
+1410,2022,Microbiology - Molecular Microbiology,123
+1411,2022,Microbiology - Mycology,2
+1412,2022,Microbiology - Parasitology,27
+1413,2022,Microbiology - Virology,90
+1414,2022,Microbiology- Bacteriology,14
+1415,2022,Midwifery,2705
+1416,2022,Minimally Invasive Urology,4
+1417,2022,Minimally Lnvasive Surgery,1
+1418,2022,Molecular Biotechology,24
+1419,2022,Molecular Imaging,4
+1420,2022,Molecular Medicine,1
+1421,2022,Molecular Pathology,9
+1422,2022,Musculokeletal Radiology,2
+1423,2022,Musculoskeletal System ‎Diseases,2
+1424,2022,Neonatal Critical Care Nursing,87
+1425,2022,Neonatal Intensive Care,114
+1426,2022,Nephrology,475
+1427,2022,Neuro Rehabiltation,2
+1428,2022,Neurology,868
+1429,2022,Neuropathology,5
+1430,2022,Neurophysiology,103
+1431,2022,Neurosurgery,838
+1432,2022,Nuclear Medicine,381
+1433,2022,Nursing,92260
+1434,2022,Nursing Administration,443
+1435,2022,Nursing Education,59
+1436,2022,Nutrition,2
+1437,2022,Obstetrics And Gynecologic Nursing,70
+1438,2022,Obstetrics And Gynecology,4666
+1439,2022,Obstetrics and Gynecology,1
+1440,2022,Occupational Medicine,85
+1441,2022,Occupational Safety Andhealth,41
+1442,2022,Occupational Therapy,650
+1443,2022,Oncology,17
+1444,2022,Oncology and Palliative Care Nursing,91
+1445,2022,Operation Rooms,793
+1446,2022,Ophthalmology,1983
+1447,2022,Optics,1498
+1448,2022,Optometry,1190
+1449,2022,Optometry - Contact Lens,1
+1450,2022,Optometry - Orthoptics,3
+1451,2022,Optometry – Occupational Health and Safety,1
+1452,2022,Oral And Maxillofacial Radiology,53
+1453,2022,Oral And Maxillofacial Surgery,735
+1454,2022,Oral Biology,30
+1455,2022,Oral Medicine,76
+1456,2022,Oral Pathology,78
+1457,2022,Oral Surgery,198
+1458,2022,Organ Transplant,1
+1459,2022,Orofacial Pain,14
+1460,2022,Orthodontics,521
+1461,2022,Orthodontics And Dentofacial Orthopdics,1160
+1462,2022,Orthopedic Surgery,2763
+1463,2022,Orthopedic Trauma Surgery,13
+1464,2022,Otology And Neurotology,2
+1465,2022,Otorhinolaryngology ( Ent ),1603
+1466,2022,Pain Management Nursing,1
+1467,2022,Pain Medicine,4
+1468,2022,Palliative Medicine,14
+1469,2022,Parasitology,10
+1470,2022,Pathology,16
+1471,2022,Patient Care,360
+1472,2022,Pediatric Allergy And Immunology,11
+1473,2022,Pediatric And Metabolic Genetics,2
+1474,2022,Pediatric Cardiac Surgery,10
+1475,2022,Pediatric Cardiology,10
+1476,2022,Pediatric Dentistry,719
+1477,2022,Pediatric Dentistry And Orthodontics,1
+1478,2022,Pediatric Emergency Medicine,6
+1479,2022,Pediatric Gastroenterology,4
+1480,2022,Pediatric Genetics and Endocrinology,2
+1481,2022,Pediatric Hematology and Oncology,26
+1482,2022,Pediatric Intensive Care,27
+1483,2022,Pediatric Nephrology,7
+1484,2022,Pediatric Neurology,215
+1485,2022,Pediatric Neurosurgery,21
+1486,2022,Pediatric Nursing,61
+1487,2022,Pediatric Nursing Critical Care,2
+1488,2022,Pediatric Oncology,22
+1489,2022,Pediatric Orthodontics,10
+1490,2022,Pediatric Orthopedic Surgery,11
+1491,2022,Pediatric Surgery,216
+1492,2022,Pediatric and Metabolic Genetics,2
+1493,2022,Pediatrics,7409
+1494,2022,Periodontics,497
+1495,2022,Pharmaceutical Administration,8
+1496,2022,Pharmaceutical Analysis,6
+1497,2022,Pharmaceutical Chemistry,4
+1498,2022,Pharmaceutical Sciences,484
+1499,2022,Pharmaceutical administration AND outcomes,69
+1500,2022,Pharmaceutics,2
+1501,2022,Pharmacognosy,11
+1502,2022,Pharmacology,59
+1503,2022,Pharmacology & Toxicology,8
+1504,2022,Pharmacy,22061
+1505,2022,Phlebotomy,275
+1506,2022,Phoniatrics,9
+1507,2022,Physical Medicine And Rehabilitation,261
+1508,2022,Physiology,3
+1509,2022,Physiotherapy,7942
+1510,2022,Physiotherapy - Cardiovascular,1
+1511,2022,Physiotherapy - Geriatrics,1
+1512,2022,Physiotherapy - Musculoskeletal,28
+1513,2022,Physiotherapy - Neurological,33
+1514,2022,Physiotherapy - Pediatrics,13
+1515,2022,Physiotherapy - Sport Medicine,21
+1516,2022,Physiotherapy - Sport Physical Therapy,13
+1517,2022,Plastering,32
+1518,2022,Plastic Surgery,523
+1519,2022,Podiatry,20
+1520,2022,Polysomnography,4
+1521,2022,Pre. Intra and Postoperative Nursing Care,1
+1522,2022,Preventive Dentistry,16
+1523,2022,Preventive Health,45
+1524,2022,Preventive Medicine,219
+1525,2022,Preventive Medicine And Public Health,423
+1526,2022,Primary Care,3
+1527,2022,Primary Health Care Nursing,26
+1528,2022,Prosthetics & Orthotics,197
+1529,2022,Prosthodontics,1018
+1530,2022,Psychiatry,1184
+1531,2022,Psychological And Mental Health Nursing,167
+1532,2022,Psychology,6790
+1533,2022,Psychology - Clinical Child Psychology,2
+1534,2022,Psychology - Clinical Psychology,186
+1535,2022,Psychology - Counseling Psychology,241
+1536,2022,Psychology - Forensic psychology,10
+1537,2022,Psychology - Neuropsychology,19
+1538,2022,Public Health,4407
+1539,2022,Public Health - Community Health,48
+1540,2022,Public Health - Environment Health,128
+1541,2022,Public Health - Health Promotion,114
+1542,2022,Public Health - Nutrition,6
+1543,2022,Pulmonary Hypertension,1
+1544,2022,Pulmonology,375
+1545,2022,Quality Control Of Pharmaceutical,4
+1546,2022,Quality Management,7
+1547,2022,Radiation Oncology,160
+1548,2022,Radiological Technology,7321
+1549,2022,Radiological Technology - Magnetic Resonance Technology,93
+1550,2022,Radiological Technology - Medical Imaging Informatics,2
+1551,2022,Radiological Technology - Radiation Protection,11
+1552,2022,Radiological Technology - Radiopharmacy,1
+1553,2022,Radiological Technology - Ultrasound,95
+1554,2022,Radiotherapy,173
+1555,2022,Reconstructive Surgery,11
+1556,2022,Regional Anesthesia,18
+1557,2022,Rehabilitation Medicine And Rheumatology,18
+1558,2022,Renal Transplant Surgery,4
+1559,2022,Reproductive Endocrinology And Infertility,15
+1560,2022,Reproductive Tract Tumors And Chest Tumors,1
+1561,2022,Research Laboratories And Toxics,2
+1562,2022,Respiratory Therapy,2670
+1563,2022,Restorative Dentistry,697
+1564,2022,Rheumatology,68
+1565,2022,Social Service,7295
+1566,2022,Social Service - Family Therapy,1
+1567,2022,Sociology,5263
+1568,2022,Special Needs Dentistry,6
+1569,2022,Speech Medicine,7
+1570,2022,Speech and Hearing Therapy,760
+1571,2022,Sports Nutrition,3
+1572,2022,Surgical Oncology,31
+1573,2022,Surgical Pathology,1
+1574,2022,Thoracic And Cardiac Surgery,173
+1575,2022,Thoracic Surgery,57
+1576,2022,Toxicology,12
+1577,2022,Tropical Medicine,1
+1578,2022,Tropical medicine,10
+1579,2022,Unknown,78644
+1580,2022,Upper Gi Oncology Surgery,5
+1581,2022,Urology,1263
+1582,2022,Vascular Anesthesia,3
+1583,2022,Vascular Diagnostic and Intervention,8
+1584,2022,Vascular Neurology,1
+1585,2022,Vascular Surgery,196

@@ -1,0 +1,1132 @@
+,Academic_Year,Current_Medical_Field_En,University_Name,Number_of_Trainees,Exclude_from_chart
+0,2021,Medicine and Surgery,Unknown,13048,yes
+1,2020,Medicine and Surgery,Unknown,10076,yes
+2,2019,Medicine and Surgery,Unknown,7380,yes
+3,2018,Medicine and Surgery,Unknown,4870,yes
+4,2016,Medicine and Surgery,Unknown,2258,yes
+5,2017,Medicine and Surgery,Unknown,2174,yes
+8,2017,Medicine and Surgery,King Abdulaziz University,1410,no
+9,2017,Medicine and Surgery,King Saud University,1366,no
+11,2016,Medicine and Surgery,King Saud University,1302,no
+12,2016,Medicine and Surgery,King Abdulaziz University,1289,no
+15,2018,Medicine and Surgery,King Abdulaziz University,1182,no
+19,2018,Medicine and Surgery,King Saud University,1104,no
+21,2017,Medicine and Surgery,Umm Al Qura University,1039,no
+25,2019,Medicine and Surgery,King Abdulaziz University,973,no
+26,2018,Medicine and Surgery,Umm Al Qura University,915,no
+28,2019,Medicine and Surgery,King Saud University,907,no
+29,2016,Medicine and Surgery,Umm Al Qura University,896,no
+31,2021,Dentistry and Related Specialties,Unknown,855,yes
+33,2017,Medicine and Surgery,King Khalid University,778,no
+37,2020,Medicine and Surgery,King Abdulaziz University,735,no
+38,2019,Medicine and Surgery,Umm Al Qura University,732,no
+42,2020,Medicine and Surgery,King Saud University,657,no
+43,2018,Medicine and Surgery,King Khalid University,648,no
+44,2016,Medicine and Surgery,King Khalid University,647,no
+45,2020,Dentistry and Related Specialties,Unknown,646,yes
+51,2020,Medicine and Surgery,Umm Al Qura University,556,no
+52,2017,Medicine and Surgery,Taibah University,553,no
+54,2017,Medicine and Surgery,King Faisal University,531,no
+55,2019,Medicine and Surgery,King Khalid University,520,no
+57,2017,Medicine and Surgery,Imam Abdulrahman Bin Faisal University,506,no
+58,2016,Medicine and Surgery,Taibah University,505,no
+59,2021,Nursing and Midwifery,Unknown,495,yes
+60,2018,Medicine and Surgery,Taibah University,480,no
+62,2022,Medicine and Surgery,Unknown,475,yes
+63,2020,Nursing and Midwifery,Unknown,466,yes
+64,2018,Medicine and Surgery,King Faisal University,464,no
+65,2017,Medicine and Surgery,King Saud Bin Abdulaziz University For Health Scinces,464,no
+69,2016,Medicine and Surgery,King Faisal University,453,no
+74,2018,Medicine and Surgery,King Saud Bin Abdulaziz University For Health Scinces,423,no
+76,2021,Medicine and Surgery,King Abdulaziz University,419,no
+80,2018,Medicine and Surgery,Imam Abdulrahman Bin Faisal University,403,no
+81,2020,Medicine and Surgery,King Khalid University,399,no
+82,2019,Medicine and Surgery,Taibah University,390,no
+83,2016,Medicine and Surgery,Imam Abdulrahman Bin Faisal University,389,no
+85,2019,Dentistry and Related Specialties,Unknown,386,yes
+86,2019,Medicine and Surgery,Imam Abdulrahman Bin Faisal University,384,no
+87,2021,Medicine and Surgery,King Saud University,383,no
+93,2019,Medicine and Surgery,King Saud Bin Abdulaziz University For Health Scinces,357,no
+94,2019,Medicine and Surgery,King Faisal University,356,no
+97,2019,Nursing and Midwifery,Unknown,354,yes
+100,2017,Medicine and Surgery,Ibn Sina College Of Eligibility For Medical Sciences In Jeddah,344,no
+103,2021,Medicine and Surgery,Umm Al Qura University,330,no
+104,2016,Medicine and Surgery,King Saud Bin Abdulaziz University For Health Scinces,327,no
+112,2018,Medicine and Surgery,Ibn Sina College Of Eligibility For Medical Sciences In Jeddah,300,no
+115,2020,Medicine and Surgery,Taibah University,282,no
+116,2020,Medicine and Surgery,Imam Abdulrahman Bin Faisal University,281,no
+118,2016,Medicine and Surgery,Ibn Sina College Of Eligibility For Medical Sciences In Jeddah,273,no
+120,2020,Medicine and Surgery,King Saud Bin Abdulaziz University For Health Scinces,265,no
+121,2021,Medicine and Surgery,King Khalid University,259,no
+122,2020,Medicine and Surgery,King Faisal University,256,no
+125,2022,Medicine and Surgery,King Abdulaziz University,252,no
+126,2022,Medicine and Surgery,King Saud University,249,no
+127,2019,Medicine and Surgery,Ibn Sina College Of Eligibility For Medical Sciences In Jeddah,247,no
+133,2017,Medicine and Surgery,Taif University,239,no
+135,2018,Medicine and Surgery,Taif University,232,no
+137,2019,Medicine and Surgery,Taif University,229,no
+139,2017,Medicine and Surgery,Qassim University,225,no
+146,2018,Dentistry and Related Specialties,Unknown,205,yes
+149,2018,Medicine and Surgery,University Of Imam Muhammad Bin Saud Islamic University,200,no
+151,2017,Medicine and Surgery,University Of Imam Muhammad Bin Saud Islamic University,198,no
+155,2021,Pharmacists and Pharmacy Technicians,Unknown,185,yes
+156,2018,Medicine and Surgery,Qassim University,185,no
+157,2022,Medicine and Surgery,Umm Al Qura University,184,no
+159,2020,Medicine and Surgery,Taif University,181,no
+162,2020,Medicine and Surgery,Ibn Sina College Of Eligibility For Medical Sciences In Jeddah,180,no
+164,2019,Medicine and Surgery,University Of Imam Muhammad Bin Saud Islamic University,177,no
+169,2021,Medicine and Surgery,Taibah University,164,no
+173,2019,Medicine and Surgery,Qassim University,158,no
+174,2016,Medicine and Surgery,Qassim University,157,no
+175,2021,Medicine and Surgery,King Saud Bin Abdulaziz University For Health Scinces,157,no
+176,2017,Medicine and Surgery,Jazan University,156,no
+178,2018,Nursing and Midwifery,Unknown,153,yes
+184,2021,Medicine and Surgery,Imam Abdulrahman Bin Faisal University,146,no
+185,2022,Medicine and Surgery,King Khalid University,146,no
+190,2018,Medicine and Surgery,Jazan University,143,no
+192,2019,Medicine and Surgery,Jazan University,137,no
+193,2020,Medicine and Surgery,Qassim University,137,no
+194,2020,Pharmacists and Pharmacy Technicians,Unknown,137,yes
+197,2021,Medicine and Surgery,King Faisal University,136,no
+199,2020,Medicine and Surgery,University Of Imam Muhammad Bin Saud Islamic University,134,no
+201,2017,Dentistry and Related Specialties,King Saud University,131,no
+205,2016,Medicine and Surgery,University Of Imam Muhammad Bin Saud Islamic University,128,no
+206,2016,Dentistry and Related Specialties,King Saud University,128,no
+211,2016,Medicine and Surgery,Saudi Commission For Health Specialties,117,no
+214,2019,Pharmacists and Pharmacy Technicians,Unknown,114,yes
+215,2021,Laboratories and Medical Technology,Unknown,113,yes
+219,2017,Medicine and Surgery,University Of Tabuk,108,no
+220,2021,Medicine and Surgery,Taif University,107,no
+221,2022,Medicine and Surgery,Taibah University,107,no
+222,2021,Medicine and Surgery,Ibn Sina College Of Eligibility For Medical Sciences In Jeddah,106,no
+223,2020,Medicine and Surgery,Jazan University,106,no
+224,2016,Dentistry and Related Specialties,King Abdulaziz University,104,no
+226,2018,Medicine and Surgery,University Of Tabuk,102,no
+230,2018,Dentistry and Related Specialties,King Saud University,99,no
+231,2019,Medicine and Surgery,University Of Tabuk,96,no
+232,2017,Dentistry and Related Specialties,King Abdulaziz University,96,no
+235,2022,Medicine and Surgery,King Saud Bin Abdulaziz University For Health Scinces,93,no
+237,2017,Medicine and Surgery,Batterjee Medical College,90,no
+238,2019,Medicine and Surgery,Northern Borders University,90,no
+240,2017,Medicine and Surgery,Northern Borders University,89,no
+243,2018,Medicine and Surgery,Northern Borders University,88,no
+244,2016,Medicine and Surgery,Taif University,88,no
+247,2017,Dentistry and Related Specialties,Unknown,86,yes
+249,2022,Medicine and Surgery,King Faisal University,84,no
+250,2019,Medicine and Surgery,Batterjee Medical College,83,no
+251,2018,Medicine and Surgery,Batterjee Medical College,83,no
+252,2019,Dentistry and Related Specialties,King Saud University,83,no
+253,2022,Medicine and Surgery,Imam Abdulrahman Bin Faisal University,82,no
+254,2020,Laboratories and Medical Technology,Unknown,81,yes
+255,2017,Medicine and Surgery,University Of Hail,80,no
+256,2017,Medicine and Surgery,Saudi Commission For Health Specialties,80,no
+257,2018,Medicine and Surgery,Almaarefa University,79,no
+258,2017,Medicine and Surgery,Almaarefa University,79,no
+259,2019,Medicine and Surgery,Almaarefa University,77,no
+260,2018,Medicine and Surgery,University Of Hail,76,no
+261,2021,Medicine and Surgery,University Of Imam Muhammad Bin Saud Islamic University,76,no
+262,2016,Medicine and Surgery,Jazan University,76,no
+263,2018,Dentistry and Related Specialties,King Khalid University,75,no
+264,2017,Medicine and Surgery,Alfaisal University,75,no
+265,2017,Dentistry and Related Specialties,King Khalid University,75,no
+267,2020,Medicine and Surgery,Northern Borders University,74,no
+268,2020,Medicine and Surgery,Almaarefa University,72,no
+269,2016,Dentistry and Related Specialties,Unknown,72,yes
+271,2020,Medicine and Surgery,Batterjee Medical College,71,no
+273,2019,Medicine and Surgery,University Of Hail,71,no
+275,2020,Medicine and Surgery,University Of Tabuk,70,no
+276,2018,Medicine and Surgery,Alfaisal University,70,no
+277,2021,Medicine and Surgery,Qassim University,69,no
+278,2019,Medicine and Surgery,Alfaisal University,68,no
+280,2020,Medicine and Surgery,University Of Hail,64,no
+281,2019,Dentistry and Related Specialties,King Khalid University,63,no
+284,2020,Medicine and Surgery,Alfaisal University,62,no
+287,2018,Dentistry and Related Specialties,King Abdulaziz University,59,no
+289,2017,Medicine and Surgery,Al Jouf University,57,no
+290,2016,Medicine and Surgery,University Of Tabuk,57,no
+291,2016,Medicine and Surgery,October 6 University - Egypt,57,no
+292,2020,Dentistry and Related Specialties,King Saud University,56,no
+294,2016,Dentistry and Related Specialties,King Khalid University,56,no
+297,2018,Pharmacists and Pharmacy Technicians,Unknown,54,yes
+300,2019,Dentistry and Related Specialties,Riyadh Colleges Of Dentistry And Pharmacy,53,no
+301,2019,Medicine and Surgery,Al Jouf University,53,no
+302,2018,Medicine and Surgery,Al Jouf University,52,no
+303,2022,Medicine and Surgery,University Of Imam Muhammad Bin Saud Islamic University,52,no
+306,2021,Dentistry and Related Specialties,King Saud University,51,no
+307,2022,Medicine and Surgery,Qassim University,50,no
+311,2020,Dentistry and Related Specialties,Riyadh Colleges Of Dentistry And Pharmacy,47,no
+314,2017,Medicine and Surgery,October 6 University - Egypt,47,no
+315,2019,Laboratories and Medical Technology,Unknown,47,yes
+316,2018,Dentistry and Related Specialties,Riyadh Colleges Of Dentistry And Pharmacy,46,no
+317,2022,Medicine and Surgery,Taif University,46,no
+318,2021,Medicine and Surgery,Batterjee Medical College,45,no
+319,2022,Medicine and Surgery,Ibn Sina College Of Eligibility For Medical Sciences In Jeddah,45,no
+322,2017,Dentistry and Related Specialties,Riyadh Colleges Of Dentistry And Pharmacy,43,no
+323,2020,Medicine and Surgery,Al Jouf University,43,no
+325,2016,Pharmacists and Pharmacy Technicians,King Saud University,42,no
+329,2018,Medicine and Surgery,Prince Sattam Bin Abdulaziz University,41,no
+330,2017,Medicine and Surgery,Prince Sattam Bin Abdulaziz University,40,no
+333,2019,Medicine and Surgery,Prince Sattam Bin Abdulaziz University,40,no
+334,2019,Dentistry and Related Specialties,King Abdulaziz University,39,no
+335,2021,Medicine and Surgery,Jazan University,39,no
+341,2018,Medicine and Surgery,Jeddah University,37,no
+343,2017,Medicine and Surgery,Jeddah University,37,no
+346,2018,Medicine and Surgery,October 6 University - Egypt,36,no
+348,2019,Medicine and Surgery,Albaha University,36,no
+350,2021,Medicine and Surgery,University Of Hail,35,no
+351,2018,Medicine and Surgery,Saudi Commission For Health Specialties,35,no
+353,2018,Medicine and Surgery,Albaha University,35,no
+354,2021,Medicine and Surgery,Almaarefa University,35,no
+355,2017,Pharmacists and Pharmacy Technicians,King Saud University,35,no
+356,2019,Medicine and Surgery,Jeddah University,35,no
+357,2017,Medicine and Surgery,Albaha University,35,no
+359,2020,Medicine and Surgery,Albaha University,34,no
+360,2016,Medicine and Surgery,Al Jouf University,34,no
+361,2016,Medicine and Surgery,University Of Hail,34,no
+362,2016,Medicine and Surgery,Batterjee Medical College,34,no
+368,2021,Dentistry and Related Specialties,Riyadh Colleges Of Dentistry And Pharmacy,31,no
+371,2016,Dentistry and Related Specialties,Riyadh Elm University,31,no
+372,2019,Medicine and Surgery,Saudi Commission For Health Specialties,31,no
+373,2021,Medicine and Surgery,University Of Tabuk,31,no
+374,2022,Pharmacists and Pharmacy Technicians,Unknown,30,yes
+377,2020,Medicine and Surgery,Saudi Commission For Health Specialties,30,no
+379,2020,Medicine and Surgery,Prince Sattam Bin Abdulaziz University,29,no
+380,2020,Medicine and Surgery,Jeddah University,28,no
+381,2017,Medicine and Surgery,Najran University,28,no
+390,2021,Medicine and Surgery,Northern Borders University,27,no
+392,2022,Medicine and Surgery,University Of Tabuk,26,no
+393,2021,Medicine and Surgery,Al Jouf University,26,no
+394,2017,Nursing and Midwifery,King Saud University,26,no
+398,2019,Medicine and Surgery,October 6 University - Egypt,25,no
+399,2018,Medicine and Surgery,Najran University,25,no
+400,2021,Medicine and Surgery,Saudi Commission For Health Specialties,25,no
+403,2019,Medicine and Surgery,Najran University,25,no
+405,2016,Medicine and Surgery,Omdurman Islamic University - Sudan,25,no
+407,2016,Medicine and Surgery,Northern Borders University,24,no
+410,2021,Medicine and Surgery,Alfaisal University,23,no
+412,2019,Medicine and Surgery,Arabian Gulf University,23,no
+413,2022,Medicine and Surgery,Jazan University,23,no
+414,2018,Pharmacists and Pharmacy Technicians,King Saud University,23,no
+416,2016,Medicine and Surgery,Prince Sattam Bin Abdulaziz University,23,no
+418,2020,Medicine and Surgery,Najran University,22,no
+420,2017,Medicine and Surgery,Majmaah University,22,no
+422,2018,Medicine and Surgery,Jordan University Of Science And Technology,22,no
+425,2019,Medicine and Surgery,Majmaah University,21,no
+426,2022,Medicine and Surgery,Northern Borders University,21,no
+427,2018,Medicine and Surgery,Arabian Gulf University,21,no
+428,2020,Dentistry and Related Specialties,King Khalid University,21,no
+429,2021,Medicine and Surgery,Prince Sattam Bin Abdulaziz University,21,no
+430,2020,Dentistry and Related Specialties,King Abdulaziz University,21,no
+432,2018,Medicine and Surgery,Majmaah University,21,no
+434,2017,Medicine and Surgery,Omdurman Islamic University - Sudan,21,no
+436,2020,Medicine and Surgery,Majmaah University,21,no
+437,2017,Medicine and Surgery,Arabian Gulf University,20,no
+438,2017,Medicine and Surgery,Jordan University Of Science And Technology,20,no
+439,2019,Medicine and Surgery,Jordan University Of Science And Technology,20,no
+440,2022,Medicine and Surgery,Almaarefa University,20,no
+447,2016,Medicine and Surgery,Arabian Gulf University,19,no
+448,2021,Medicine and Surgery,October 6 University - Egypt,19,no
+449,2017,Pharmacists and Pharmacy Technicians,King Abdulaziz University,19,no
+450,2022,Medicine and Surgery,Batterjee Medical College,18,no
+451,2018,Laboratories and Medical Technology,Unknown,18,yes
+453,2016,Medicine and Surgery,Jordan University Of Science And Technology,18,no
+454,2017,Dentistry and Related Specialties,Riyadh Elm University,18,no
+455,2022,Medicine and Surgery,Alfaisal University,18,no
+460,2020,Medicine and Surgery,Arabian Gulf University,17,no
+461,2020,Medicine and Surgery,October 6 University - Egypt,17,no
+462,2018,Nursing and Midwifery,King Saud University,17,no
+466,2022,Medicine and Surgery,Saudi Commission For Health Specialties,16,no
+468,2018,Medicine and Surgery,Omdurman Islamic University - Sudan,16,no
+470,2022,Medicine and Surgery,October 6 University - Egypt,16,no
+472,2021,Medicine and Surgery,Albaha University,16,no
+473,2017,Dentistry and Related Specialties,Taibah University,16,no
+475,2016,Medicine and Surgery,Misr University For Science And Technology - Egypt,15,no
+476,2021,Dentistry and Related Specialties,King Abdulaziz University,15,no
+480,2016,Pharmacists and Pharmacy Technicians,King Abdulaziz University,15,no
+481,2018,Dentistry and Related Specialties,Taibah University,15,no
+483,2017,Dentistry and Related Specialties,Umm Al Qura University,14,no
+485,2017,Medicine and Surgery,Misr University For Science And Technology - Egypt,14,no
+486,2017,Nursing and Midwifery,Umm Al Qura University,14,no
+488,2019,Dentistry and Related Specialties,Qassim University,14,no
+489,2017,Pharmacists and Pharmacy Technicians,King Saud Bin Abdulaziz University For Health Scinces,14,no
+490,2017,Laboratories and Medical Technology,King Saud University,14,no
+492,2017,Nursing and Midwifery,King Saud Bin Abdulaziz University For Health Scinces,14,no
+493,2022,Medicine and Surgery,University Of Hail,14,no
+494,2019,Medicine and Surgery,Omdurman Islamic University - Sudan,14,no
+497,2016,Medicine and Surgery,Jeddah University,13,no
+498,2016,Laboratories and Medical Technology,King Saud University,13,no
+501,2019,Dentistry and Related Specialties,Umm Al Qura University,13,no
+502,2017,Medicine and Surgery,University Of Khartoum,13,no
+504,2017,Dentistry and Related Specialties,Qassim University,13,no
+505,2018,Dentistry and Related Specialties,Qassim University,13,no
+506,2018,Dentistry and Related Specialties,Umm Al Qura University,13,no
+507,2016,Medicine and Surgery,Alfaisal University,13,no
+508,2017,Laboratories and Medical Technology,King Abdulaziz University,13,no
+509,2016,Medicine and Surgery,Ministry Of Education In Saudi Arabia,13,no
+510,2019,Dentistry and Related Specialties,Taibah University,13,no
+513,2017,Medicine and Surgery,Ministry Of Education In Saudi Arabia,12,no
+514,2018,Medicine and Surgery,University of Aden,12,no
+515,2022,Medicine and Surgery,Al Jouf University,12,no
+517,2016,Dentistry and Related Specialties,Imam Abdulrahman Bin Faisal University,12,no
+518,2018,Pharmacists and Pharmacy Technicians,King Saud Bin Abdulaziz University For Health Scinces,12,no
+519,2020,Medicine and Surgery,Omdurman Islamic University - Sudan,12,no
+520,2016,Dentistry and Related Specialties,Misr University For Science And Technology - Egypt,12,no
+521,2021,Medicine and Surgery,Dubai Medical College For Girls,12,no
+522,2019,Pharmacists and Pharmacy Technicians,King Saud University,12,no
+523,2019,Medicine and Surgery,Ministry Of Education In Saudi Arabia,12,no
+524,2020,Medicine and Surgery,Jordan University Of Science And Technology,12,no
+525,2018,Medicine and Surgery,University Of Khartoum,12,no
+526,2021,Dentistry and Related Specialties,King Khalid University,12,no
+527,2018,Medicine and Surgery,Ministry Of Education In Saudi Arabia,12,no
+528,2022,Medicine and Surgery,Prince Sattam Bin Abdulaziz University,12,no
+531,2022,Dentistry and Related Specialties,King Saud University,12,no
+532,2018,Laboratories and Medical Technology,King Saud University,12,no
+533,2018,Laboratories and Medical Technology,King Abdulaziz University,11,no
+534,2016,Medicine and Surgery,Almaarefa University,11,no
+536,2019,Medicine and Surgery,Cairo University,11,no
+539,2017,Pharmacists and Pharmacy Technicians,Princess Nora Bint Abdul Rahman University,11,no
+540,2021,Medicine and Surgery,Arabian Gulf University,11,no
+541,2017,Nursing and Midwifery,Unknown,11,yes
+542,2017,Medicine and Surgery,Hadhramout University Of Science & Technology,11,no
+543,2017,Nursing and Midwifery,Taif University,11,no
+544,2019,Laboratories and Medical Technology,King Abdulaziz University,11,no
+545,2018,Medicine and Surgery,Hadhramout University Of Science & Technology,11,no
+547,2016,Dentistry and Related Specialties,Taibah University,11,no
+548,2021,Dentistry and Related Specialties,Misr University For Science And Technology - Egypt,11,no
+551,2021,Medicine and Surgery,Najran University,11,no
+552,2018,Dentistry and Related Specialties,Riyadh Elm University,10,no
+553,2018,Nursing and Midwifery,Taif University,10,no
+554,2016,Medicine and Surgery,Albaha University,10,no
+555,2019,Medicine and Surgery,Hadhramout University Of Science & Technology,10,no
+556,2021,Medicine and Surgery,University of Sharjah,10,no
+557,2018,Medicine and Surgery,Sana'A University - Yemen,10,no
+558,2017,Dentistry and Related Specialties,Imam Abdulrahman Bin Faisal University,10,no
+560,2021,Medicine and Surgery,Jeddah University,10,no
+561,2021,Dentistry and Related Specialties,October 6 University - Egypt,10,no
+563,2018,Pharmacists and Pharmacy Technicians,King Abdulaziz University,10,no
+564,2017,Medicine and Surgery,Sana'A University - Yemen,10,no
+565,2016,Pharmacists and Pharmacy Technicians,Princess Nora Bint Abdul Rahman University,10,no
+566,2018,Medicine and Surgery,Misr University For Science And Technology - Egypt,10,no
+568,2019,Medicine and Surgery,University Of Khartoum,10,no
+569,2018,Nursing and Midwifery,King Saud Bin Abdulaziz University For Health Scinces,10,no
+570,2016,Laboratories and Medical Technology,King Abdulaziz University,9,no
+571,2017,Medicine and Surgery,Sulaiman Al Rajhi University,9,no
+573,2019,Dentistry and Related Specialties,Imam Abdulrahman Bin Faisal University,9,no
+574,2018,Medicine and Surgery,Sulaiman Al Rajhi University,9,no
+576,2018,Nursing and Midwifery,Umm Al Qura University,9,no
+577,2019,Medicine and Surgery,Sana'A University - Yemen,9,no
+578,2021,Medicine and Surgery,Jordan University Of Science And Technology,9,no
+582,2017,Dentistry and Related Specialties,October 6 University - Egypt,9,no
+585,2018,Pharmacists and Pharmacy Technicians,Princess Nora Bint Abdul Rahman University,9,no
+586,2016,Unknown,Unknown,9,yes
+590,2019,Medicine and Surgery,Sulaiman Al Rajhi University,9,no
+591,2018,Medicine and Surgery,Alexandria University,9,no
+592,2016,Dentistry and Related Specialties,Saudi Commission For Health Specialties,8,no
+594,2017,Nursing and Midwifery,Taibah University,8,no
+595,2019,Pharmacists and Pharmacy Technicians,King Saud Bin Abdulaziz University For Health Scinces,8,no
+596,2021,Medicine and Surgery,Cairo University,8,no
+602,2022,Medicine and Surgery,Jordan University Of Science And Technology,8,no
+603,2019,Laboratories and Medical Technology,King Saud University,8,no
+604,2017,Laboratories and Medical Technology,Unknown,8,yes
+605,2020,Medicine and Surgery,Cairo University,8,no
+607,2018,Dentistry and Related Specialties,King Saud Bin Abdulaziz University For Health Scinces,8,no
+610,2019,Medicine and Surgery,University of Aden,8,no
+612,2017,Unknown,Unknown,8,yes
+615,2018,Medicine and Surgery,University Of Gezira,8,no
+616,2018,Unknown,Unknown,8,yes
+617,2021,Dentistry and Related Specialties,Alfarabi Colleges,8,no
+618,2017,Nursing and Midwifery,King Abdulaziz University,8,no
+619,2017,Nursing and Midwifery,Fakeeh College For Medical Sciences,8,no
+620,2017,Nursing and Midwifery,King Khalid University,8,no
+622,2016,Dentistry and Related Specialties,October 6 University - Egypt,8,no
+624,2018,Dentistry and Related Specialties,Imam Abdulrahman Bin Faisal University,7,no
+625,2017,Nursing and Midwifery,Albaha University,7,no
+627,2016,Nursing and Midwifery,King Saud University,7,no
+629,2017,Dentistry and Related Specialties,Ibn Sina College Of Eligibility For Medical Sciences In Jeddah,7,no
+630,2021,Pharmacists and Pharmacy Technicians,King Abdulaziz University,7,no
+631,2017,Medicine and Surgery,University of Aden,7,no
+634,2018,Nursing and Midwifery,King Abdulaziz University,7,no
+636,2022,Medicine and Surgery,Najran University,7,no
+637,2019,Dentistry and Related Specialties,King Saud Bin Abdulaziz University For Health Scinces,7,no
+638,2018,Nursing and Midwifery,King Khalid University,7,no
+639,2020,Medicine and Surgery,Sulaiman Al Rajhi University,7,no
+640,2018,Dentistry and Related Specialties,Jazan University,7,no
+641,2017,Dentistry and Related Specialties,Jazan University,7,no
+642,2019,Medicine and Surgery,University Of Gezira,7,no
+643,2019,Pharmacists and Pharmacy Technicians,King Abdulaziz University,7,no
+645,2022,Dentistry and Related Specialties,Misr University For Science And Technology - Egypt,7,no
+646,2018,Medicine and Surgery,Cairo University,7,no
+648,2018,Nursing and Midwifery,Imam Abdulrahman Bin Faisal University,7,no
+649,2017,Nursing and Midwifery,Al Jouf University,7,no
+650,2018,Medicine and Surgery,Mansoura University - Egypt,7,no
+651,2017,Medicine and Surgery,University Of Gezira,7,no
+652,2018,Nursing and Midwifery,Taibah University,7,no
+653,2017,Medicine and Surgery,Cairo University,7,no
+655,2018,Medicine and Surgery,Al-Azhar University,7,no
+656,2017,Nursing and Midwifery,Imam Abdulrahman Bin Faisal University,7,no
+657,2019,Unknown,Unknown,7,yes
+658,2018,Nursing and Midwifery,University Of Hail,6,no
+659,2020,Unknown,Unknown,6,yes
+660,2017,Dentistry and Related Specialties,Saudi Commission For Health Specialties,6,no
+661,2017,Medicine and Surgery,Alexandria University,6,no
+663,2018,Nursing and Midwifery,Alfarabi Colleges,6,no
+664,2017,Dentistry and Related Specialties,Misr University For Science And Technology - Egypt,6,no
+666,2022,Pharmacists and Pharmacy Technicians,King Saud University,6,no
+667,2017,Medicine and Surgery,Mansoura University - Egypt,6,no
+668,2018,Medicine and Surgery,University Of Juba,6,no
+669,2019,Dentistry and Related Specialties,Jazan University,6,no
+670,2016,Medicine and Surgery,Mansoura University - Egypt,6,no
+671,2020,Dentistry and Related Specialties,Alfarabi Colleges,6,no
+672,2016,Medicine and Surgery,Hadhramout University Of Science & Technology,6,no
+673,2016,Dentistry and Related Specialties,Qassim University,6,no
+674,2022,Medicine and Surgery,Arabian Gulf University,6,no
+675,2021,Medicine and Surgery,Majmaah University,6,no
+676,2020,Medicine and Surgery,Misr University For Science And Technology - Egypt,6,no
+677,2021,Medicine and Surgery,Misr University For Science And Technology - Egypt,6,no
+679,2017,Nursing and Midwifery,Majmaah University,6,no
+681,2021,Medicine and Surgery,Sulaiman Al Rajhi University,6,no
+682,2017,Nursing and Midwifery,University Of Hail,6,no
+683,2017,Pharmacists and Pharmacy Technicians,King Faisal University,6,no
+684,2021,Pharmacists and Pharmacy Technicians,King Saud University,6,no
+685,2018,Dentistry and Related Specialties,October 6 University - Egypt,6,no
+687,2018,Dentistry and Related Specialties,Ibn Sina College Of Eligibility For Medical Sciences In Jeddah,6,no
+688,2016,Laboratories and Medical Technology,Unknown,6,yes
+689,2017,Nursing and Midwifery,Alfarabi Colleges,6,no
+690,2020,Dentistry and Related Specialties,Misr University For Science And Technology - Egypt,6,no
+692,2018,Medicine and Surgery,Tanta University,6,no
+694,2019,Dentistry and Related Specialties,Alfarabi Colleges,6,no
+695,2019,Medicine and Surgery,Alexandria University,6,no
+696,2019,Medicine and Surgery,Riyadh Colleges Of Dentistry And Pharmacy,5,no
+697,2021,Medicine and Surgery,Omdurman Islamic University - Sudan,5,no
+699,2020,Medicine and Surgery,Mansoura University - Egypt,5,no
+700,2021,Medicine and Surgery,Rak Medical & Health Sciences University,5,no
+703,2018,Medicine and Surgery,Dubai Medical College For Girls,5,no
+705,2018,Nursing and Midwifery,Fakeeh College For Medical Sciences,5,no
+706,2018,Medicine and Surgery,Damascus University,5,no
+709,2018,Pharmacists and Pharmacy Technicians,Umm Al Qura University,5,no
+710,2017,Nursing and Midwifery,Shaqra University,5,no
+712,2017,Medicine and Surgery,Dubai Medical College For Girls,5,no
+714,2021,Medicine and Surgery,United Arab Emirates University,5,no
+715,2017,Pharmacists and Pharmacy Technicians,Umm Al Qura University,5,no
+716,2020,Dentistry and Related Specialties,Jazan University,5,no
+717,2020,Dentistry and Related Specialties,Imam Abdulrahman Bin Faisal University,5,no
+718,2019,Medicine and Surgery,Dubai Medical College For Girls,5,no
+719,2017,Medicine and Surgery,Al-Azhar University,5,no
+721,2018,Nursing and Midwifery,Shaqra University,5,no
+723,2018,Nursing and Midwifery,Albaha University,5,no
+724,2016,Medicine and Surgery,Alexandria University,5,no
+725,2016,Laboratories and Medical Technology,Umm Al Qura University,5,no
+727,2017,Medicine and Surgery,University Of Juba,5,no
+728,2020,Dentistry and Related Specialties,Qassim University,5,no
+729,2016,Medicine and Surgery,Dubai Medical College For Girls,5,no
+730,2021,Dentistry and Related Specialties,Jazan University,5,no
+732,2022,Medicine and Surgery,Majmaah University,5,no
+733,2016,Medicine and Surgery,Cairo University,5,no
+734,2018,Dentistry and Related Specialties,Alfarabi Colleges,5,no
+735,2020,Dentistry and Related Specialties,October 6 University - Egypt,5,no
+736,2016,Nursing and Midwifery,Umm Al Qura University,5,no
+738,2019,Medicine and Surgery,Misr University For Science And Technology - Egypt,5,no
+739,2016,Unknown,King Saud University,5,no
+740,2017,Nursing and Midwifery,Al-Ghad International College For Applied Medical Sciences,5,no
+741,2020,Laboratories and Medical Technology,King Abdulaziz University,5,no
+742,2018,Nursing and Midwifery,Al Jouf University,5,no
+743,2016,Dentistry and Related Specialties,Ibn Sina College Of Eligibility For Medical Sciences In Jeddah,5,no
+744,2017,Dentistry and Related Specialties,Alfarabi Colleges,5,no
+745,2019,Dentistry and Related Specialties,Ibn Sina College Of Eligibility For Medical Sciences In Jeddah,5,no
+746,2020,Medicine and Surgery,University Of Gezira,5,no
+747,2017,Medicine and Surgery,Tanta University,4,no
+748,2020,Medicine and Surgery,Hadhramout University Of Science & Technology,4,no
+749,2020,Medicine and Surgery,University of Aden,4,no
+750,2020,Dentistry and Related Specialties,Ibn Sina College Of Eligibility For Medical Sciences In Jeddah,4,no
+751,2018,Medicine and Surgery,Riyadh Colleges Of Dentistry And Pharmacy,4,no
+752,2018,Dentistry and Related Specialties,Misr University For Science And Technology - Egypt,4,no
+753,2020,Medicine and Surgery,Riyadh Colleges Of Dentistry And Pharmacy,4,no
+754,2017,Medicine and Surgery,Tishreen University,4,no
+755,2020,Medicine and Surgery,University Of Khartoum,4,no
+756,2020,Medicine and Surgery,University of Sharjah,4,no
+757,2017,Medicine and Surgery,Riyadh Colleges Of Dentistry And Pharmacy,4,no
+758,2018,Medicine and Surgery,Royal College of Surgeons in Ireland - Bahrain,4,no
+759,2018,Unknown,King Faisal University,4,no
+760,2020,Medicine and Surgery,Ministry Of Education In Saudi Arabia,4,no
+761,2017,Nursing and Midwifery,Saad College Of Nursing & Allied Health Sciences,4,no
+762,2020,Medicine and Surgery,Alexandria University,4,no
+763,2017,Nursing and Midwifery,Princess Nora Bint Abdul Rahman University,4,no
+764,2019,Unknown,King Saud University,4,no
+765,2018,Nursing and Midwifery,Al-Ghad International College For Applied Medical Sciences,4,no
+766,2018,Unknown,King Saud University,4,no
+768,2016,Dentistry and Related Specialties,Riyadh Colleges Of Dentistry And Pharmacy,4,no
+769,2019,Medicine and Surgery,Mansoura University - Egypt,4,no
+770,2016,Unknown,King Faisal University,4,no
+771,2021,Medicine and Surgery,University of Aden,4,no
+772,2016,Pharmacists and Pharmacy Technicians,Unknown,4,yes
+773,2016,Pharmacists and Pharmacy Technicians,Umm Al Qura University,4,no
+774,2021,Dentistry and Related Specialties,Ibn Sina College Of Eligibility For Medical Sciences In Jeddah,4,no
+775,2016,Pharmacists and Pharmacy Technicians,King Saud Bin Abdulaziz University For Health Scinces,4,no
+777,2019,Medicine and Surgery,Royal College of Surgeons in Ireland - Bahrain,4,no
+778,2016,Nursing and Midwifery,Unknown,4,yes
+779,2019,Medicine and Surgery,University Of Karachi,4,no
+780,2022,Medicine and Surgery,Hamdard medical college MBBS,4,no
+781,2019,Medicine and Surgery,University Of Aleppo,4,no
+782,2016,Medicine and Surgery,University Of Khartoum,4,no
+783,2021,Dentistry and Related Specialties,Riyadh Elm University,4,no
+790,2016,Medicine and Surgery,Sulaiman Al Rajhi University,4,no
+792,2021,Medicine and Surgery,Ministry Of Education In Saudi Arabia,4,no
+793,2016,Medicine and Surgery,Najran University,4,no
+794,2021,Medicine and Surgery,Mansoura University - Egypt,4,no
+795,2016,Dentistry and Related Specialties,Umm Al Qura University,4,no
+796,2022,Medicine and Surgery,Ministry Of Education In Saudi Arabia,4,no
+798,2022,Medicine and Surgery,Cairo University,4,no
+799,2021,Medicine and Surgery,Hamdard medical college MBBS,4,no
+802,2019,Medicine and Surgery,Kuwait University - Kuwait,4,no
+804,2022,Dentistry and Related Specialties,October 6 University - Egypt,4,no
+805,2017,Laboratories and Medical Technology,Umm Al Qura University,4,no
+807,2019,Medicine and Surgery,University Of Juba,4,no
+808,2022,Dentistry and Related Specialties,Riyadh Colleges Of Dentistry And Pharmacy,4,no
+811,2019,Medicine and Surgery,Zagazig University - Egypt,4,no
+813,2021,Unknown,King Saud University,3,no
+814,2022,Medicine and Surgery,Jeddah University,3,no
+815,2020,Medicine and Surgery,Kuwait University - Kuwait,3,no
+816,2018,Laboratories and Medical Technology,King Khalid University,3,no
+817,2021,Medicine and Surgery,Royal College of Surgeons in Ireland - Bahrain,3,no
+818,2016,Laboratories and Medical Technology,Saudi Commission For Health Specialties,3,no
+819,2022,Dentistry and Related Specialties,King Abdulaziz University,3,no
+820,2021,Unknown,King Faisal University,3,no
+822,2019,Medicine and Surgery,University Of Medical Sciences And Technology,3,no
+824,2018,Medicine and Surgery,Al Neelain University,3,no
+825,2018,Medicine and Surgery,Al Zaiem Al Azhari University,3,no
+828,2022,Dentistry and Related Specialties,King Khalid University,3,no
+829,2022,Dentistry and Related Specialties,Alfarabi Colleges,3,no
+830,2017,Nursing and Midwifery,King Faisal University,3,no
+831,2018,Nursing and Midwifery,Princess Nora Bint Abdul Rahman University,3,no
+832,2018,Medicine and Surgery,Ain Shams University,3,no
+839,2017,Medicine and Surgery,Al Zaiem Al Azhari University,3,no
+840,2019,Medicine and Surgery,Damascus University,3,no
+841,2019,Medicine and Surgery,Menoufia University,3,no
+843,2017,Unknown,Umm Al Qura University,3,no
+845,2018,Pharmacists and Pharmacy Technicians,King Khalid University,3,no
+846,2022,Dentistry and Related Specialties,Unknown,3,yes
+847,2021,Medicine and Surgery,University Of Khartoum,3,no
+848,2019,Medicine and Surgery,Maastricht University - Netherlands,3,no
+849,2017,Unknown,King Saud University,3,no
+852,2022,Medicine and Surgery,Dubai Medical College For Girls,3,no
+853,2018,Unknown,Umm Al Qura University,3,no
+854,2022,Medicine and Surgery,Hadhramout University Of Science & Technology,3,no
+856,2020,Dentistry and Related Specialties,Umm Al Qura University,3,no
+858,2017,Pharmacists and Pharmacy Technicians,King Khalid University,3,no
+864,2020,Medicine and Surgery,Dubai Medical College For Girls,3,no
+865,2018,Medicine and Surgery,University Of Medical Sciences And Technology,3,no
+866,2021,Dentistry and Related Specialties,King Saud Bin Abdulaziz University For Health Scinces,3,no
+867,2019,Laboratories and Medical Technology,King Khalid University,3,no
+869,2020,Medicine and Surgery,University Of Aleppo,3,no
+870,2020,Medicine and Surgery,United Arab Emirates University,3,no
+871,2021,Dentistry and Related Specialties,Imam Abdulrahman Bin Faisal University,3,no
+872,2016,Pharmacists and Pharmacy Technicians,King Faisal University,3,no
+873,2016,Nursing and Midwifery,Fakeeh College For Medical Sciences,3,no
+874,2017,Dentistry and Related Specialties,Al Jouf University,3,no
+875,2018,Medicine and Surgery,University Of Karachi,3,no
+877,2017,Medicine and Surgery,Royal College of Surgeons in Ireland - Bahrain,3,no
+878,2021,Dentistry and Related Specialties,October University For Modern Sciences And Arts,3,no
+880,2021,Dentistry and Related Specialties,Princess Nora Bint Abdul Rahman University,3,no
+881,2022,Pharmacists and Pharmacy Technicians,King Abdulaziz University,3,no
+882,2018,Medicine and Surgery,Zagazig University - Egypt,3,no
+883,2020,Medicine and Surgery,Tanta University,3,no
+884,2017,Laboratories and Medical Technology,Saudi Commission For Health Specialties,3,no
+885,2017,Medicine and Surgery,Al Neelain University,3,no
+886,2020,Medicine and Surgery,University Of Science And Technology - Yemen,3,no
+887,2018,Nursing and Midwifery,Saad College Of Nursing & Allied Health Sciences,3,no
+888,2019,Medicine and Surgery,Tanta University,3,no
+889,2019,Dentistry and Related Specialties,Riyadh Elm University,3,no
+890,2018,Nursing and Midwifery,Majmaah University,3,no
+891,2017,Medicine and Surgery,Damascus University,3,no
+892,2020,Unknown,King Saud University,3,no
+893,2020,Medicine and Surgery,University Of Karachi,3,no
+894,2017,Laboratories and Medical Technology,King Khalid University,3,no
+895,2019,Dentistry and Related Specialties,October 6 University - Egypt,3,no
+896,2019,Dentistry and Related Specialties,Misr University For Science And Technology - Egypt,3,no
+897,2019,Unknown,King Faisal University,3,no
+898,2017,Dentistry and Related Specialties,King Saud Bin Abdulaziz University For Health Scinces,3,no
+899,2019,Medicine and Surgery,Ain Shams University,3,no
+900,2021,Unknown,Unknown,3,yes
+901,2019,Pharmacists and Pharmacy Technicians,Princess Nora Bint Abdul Rahman University,3,no
+902,2018,Medicine and Surgery,University Of Aleppo,3,no
+903,2021,Medicine and Surgery,Alexandria University,3,no
+904,2016,Medicine and Surgery,Royal College of Surgeons in Ireland - Bahrain,3,no
+905,2020,Medicine and Surgery,Sana'A University - Yemen,3,no
+906,2020,Dentistry and Related Specialties,King Saud Bin Abdulaziz University For Health Scinces,3,no
+907,2018,Medicine and Surgery,Tishreen University,3,no
+908,2021,Medicine and Surgery,Hadhramout University Of Science & Technology,3,no
+909,2016,Medicine and Surgery,Sana'A University - Yemen,3,no
+910,2018,Pharmacists and Pharmacy Technicians,Qassim University,2,no
+912,2018,Medicine and Surgery,Dow University Of Health Sciences - Pakistan,2,no
+913,2022,Unknown,King Saud Bin Abdulaziz University For Health Scinces,2,no
+914,2018,Medicine and Surgery,Comenius University In Bratislava,2,no
+915,2020,Dentistry and Related Specialties,October University For Modern Sciences And Arts,2,no
+917,2018,Nursing and Midwifery,Buraydah Colleges,2,no
+918,2019,Unknown,King Saud Bin Abdulaziz University For Health Scinces,2,no
+919,2022,Pharmacists and Pharmacy Technicians,Princess Nora Bint Abdul Rahman University,2,no
+920,2022,Medicine and Surgery,Royal College of Surgeons in Ireland - Bahrain,2,no
+921,2022,Unknown,King Faisal University,2,no
+922,2022,Dentistry and Related Specialties,University Of Science And Technology - Yemen,2,no
+926,2022,Dentistry and Related Specialties,Jazan University,2,no
+931,2020,Dentistry and Related Specialties,Majmaah University,2,no
+933,2022,Medicine and Surgery,Omdurman Islamic University - Sudan,2,no
+934,2022,Unknown,Umm Al Qura University,2,no
+936,2022,Unknown,King Saud University,2,no
+938,2018,Nursing and Midwifery,King Faisal University,2,no
+939,2018,Medicine and Surgery,Punjab Board Of Technical Education Lahore,2,no
+943,2019,Medicine and Surgery,Sudan University Of Science And Technology,2,no
+944,2019,Medicine and Surgery,Punjab Board Of Technical Education Lahore,2,no
+945,2019,Medicine and Surgery,Royal College Of Surgeons In Ireland,2,no
+947,2018,Medicine and Surgery,Kuwait University - Kuwait,2,no
+949,2020,Dentistry and Related Specialties,Riyadh Elm University,2,no
+950,2022,Medicine and Surgery,King Fahad General Hospital,2,no
+951,2018,Medicine and Surgery,Ministry Of Education And Higher Education,2,no
+952,2022,Medicine and Surgery,University of Aden,2,no
+953,2018,Medicine and Surgery,Maastricht University - Netherlands,2,no
+954,2018,Medicine and Surgery,Menoufia University,2,no
+957,2018,Medicine and Surgery,University Of Bahrain,2,no
+959,2022,Medicine and Surgery,Gulf Medical University - UAE,2,no
+960,2018,Pharmacists and Pharmacy Technicians,Jazan University,2,no
+963,2020,Dentistry and Related Specialties,Buraydah Colleges,2,no
+964,2022,Medicine and Surgery,Mansoura University - Egypt,2,no
+965,2022,Medicine and Surgery,Alexandria University,2,no
+966,2019,Unknown,Umm Al Qura University,2,no
+971,2020,Laboratories and Medical Technology,Buraydah Colleges,2,no
+972,2019,Medicine and Surgery,University Of Bahrain,2,no
+973,2019,Pharmacists and Pharmacy Technicians,Qassim University,2,no
+975,2022,Medicine and Surgery,Sulaiman Al Rajhi University,2,no
+976,2018,Pharmacists and Pharmacy Technicians,King Faisal University,2,no
+977,2018,Medicine and Surgery,Sudan University Of Science And Technology,2,no
+978,2020,Medicine and Surgery,Xinxiang Medical University,2,no
+980,2017,Medicine and Surgery,University Of Karachi,2,no
+981,2021,Dentistry and Related Specialties,University Of Science And Technology - Yemen,2,no
+982,2016,Medicine and Surgery,University Of Bahrain,2,no
+983,2019,Medicine and Surgery,Al-Azhar University,2,no
+984,2020,Medicine and Surgery,Royal College of Surgeons in Ireland - Bahrain,2,no
+986,2017,Medicine and Surgery,University Of Bahrain,2,no
+987,2016,Medicine and Surgery,Sudan University Of Science And Technology,2,no
+988,2019,Medicine and Surgery,Thamar University,2,no
+989,2020,Medicine and Surgery,Punjab Board Of Technical Education Lahore,2,no
+990,2019,Medicine and Surgery,Alfarabi Colleges,2,no
+991,2019,Dentistry and Related Specialties,Al Jouf University,2,no
+992,2021,Medicine and Surgery,Dow University Of Health Sciences - Pakistan,2,no
+993,2017,Medicine and Surgery,Sudan University Of Science And Technology,2,no
+994,2017,Medicine and Surgery,University Of Medical Sciences And Technology,2,no
+995,2016,Medicine and Surgery,Dow University Of Health Sciences - Pakistan,2,no
+996,2016,Medicine and Surgery,Comenius University In Bratislava,2,no
+997,2016,Medicine and Surgery,Al Zaiem Al Azhari University,2,no
+998,2021,Medicine and Surgery,King Abdulaziz Medical City,2,no
+999,2019,Medicine and Surgery,King Abdulaziz Medical City,2,no
+1000,2016,Laboratories and Medical Technology,King Khalid University,2,no
+1001,2021,Medicine and Surgery,King Fahad General Hospital,2,no
+1002,2016,Dentistry and Related Specialties,Jazan University,2,no
+1003,2021,Medicine and Surgery,Maastricht University - Netherlands,2,no
+1004,2017,Nursing and Midwifery,Buraydah Colleges,2,no
+1005,2019,Medicine and Surgery,Al Zaiem Al Azhari University,2,no
+1006,2020,Medicine and Surgery,Thamar University,2,no
+1007,2020,Medicine and Surgery,Menoufia University,2,no
+1008,2019,Dentistry and Related Specialties,Majmaah University,2,no
+1009,2020,Medicine and Surgery,University Of Science And Technology - Sudan,2,no
+1010,2020,Medicine and Surgery,Zagazig University - Egypt,2,no
+1011,2017,Medicine and Surgery,Ahfad University for Women,2,no
+1012,2017,Medicine and Surgery,Comenius University In Bratislava,2,no
+1013,2017,Medicine and Surgery,Dow University Of Health Sciences - Pakistan,2,no
+1014,2017,Laboratories and Medical Technology,Buraydah Colleges,2,no
+1015,2019,Dentistry and Related Specialties,Najran University,2,no
+1016,2020,Unknown,Jazan University,2,no
+1017,2017,Dentistry and Related Specialties,Najran University,2,no
+1018,2017,Dentistry and Related Specialties,Majmaah University,2,no
+1019,2020,Unknown,King Saud Bin Abdulaziz University For Health Scinces,2,no
+1020,2020,Unknown,Umm Al Qura University,2,no
+1021,2016,Medicine and Surgery,University of Aden,2,no
+1022,2019,Laboratories and Medical Technology,Buraydah Colleges,2,no
+1023,2017,Medicine and Surgery,Kuwait University - Kuwait,2,no
+1024,2016,Unknown,Jazan University,2,no
+1025,2021,Dentistry and Related Specialties,Buraydah Colleges,2,no
+1026,2017,Medicine and Surgery,Ministry Of Education And Higher Education,2,no
+1027,2021,Dentistry and Related Specialties,Jordan University Of Science And Technology,2,no
+1028,2016,Pharmacists and Pharmacy Technicians,Almaarefa University,2,no
+1029,2019,Dentistry and Related Specialties,Jordan University Of Science And Technology,2,no
+1030,2016,Nursing and Midwifery,Princess Nora Bint Abdul Rahman University,2,no
+1031,2017,Medicine and Surgery,Punjab Board Of Technical Education Lahore,2,no
+1032,2019,Laboratories and Medical Technology,Umm Al Qura University,2,no
+1034,2019,Pharmacists and Pharmacy Technicians,Jazan University,2,no
+1036,2021,Medicine and Surgery,University Of Science And Technology - Yemen,2,no
+1037,2018,Dentistry and Related Specialties,Al Jouf University,2,no
+1039,2019,Medicine and Surgery,University Of Science And Technology - Sudan,2,no
+1040,2018,Unknown,King Saud Bin Abdulaziz University For Health Scinces,2,no
+1041,2020,Medicine and Surgery,Dow University Of Health Sciences - Pakistan,2,no
+1042,2019,Medicine and Surgery,Dow University Of Health Sciences - Pakistan,2,no
+1043,2020,Medicine and Surgery,Damascus University,2,no
+1046,2018,Dentistry and Related Specialties,Majmaah University,2,no
+1048,2018,Dentistry and Related Specialties,Najran University,2,no
+1050,2020,Medicine and Surgery,Comenius University In Bratislava,2,no
+1053,2019,Medicine and Surgery,University Of Jordan - Jordan,2,no
+1055,2018,Laboratories and Medical Technology,Buraydah Colleges,2,no
+1056,2018,Laboratories and Medical Technology,Umm Al Qura University,2,no
+1057,2018,Medicine and Surgery,Ahfad University for Women,2,no
+1058,2018,Medicine and Surgery,Al Fashir University,2,no
+1061,2018,Nursing and Midwifery,Prince Sattam Bin Abdulaziz University,2,no
+1062,2019,Medicine and Surgery,Comenius University In Bratislava,2,no
+1063,2021,Medicine and Surgery,University Of Gezira,2,no
+1066,2017,Pharmacists and Pharmacy Technicians,Jazan University,2,no
+1070,2021,Medicine and Surgery,University Of Bisha,2,no
+1071,2017,Pharmacists and Pharmacy Technicians,Qassim University,2,no
+1072,2020,Medicine and Surgery,King Abdulaziz Medical City,2,no
+1074,2019,Medicine and Surgery,Banha University,2,no
+1075,2017,Unknown,Jazan University,2,no
+1076,2017,Unknown,King Faisal University,2,no
+1077,2017,Nursing and Midwifery,Prince Sattam Bin Abdulaziz University,2,no
+1078,2017,Unknown,King Khalid University,2,no
+1079,2020,Medicine and Surgery,Maastricht University - Netherlands,2,no
+1080,2017,Unknown,King Saud Bin Abdulaziz University For Health Scinces,2,no
+1081,2019,Medicine and Surgery,University Of Kassala,1,no
+1082,2019,Pharmacists and Pharmacy Technicians,King Khalid University,1,no
+1083,2019,Nursing and Midwifery,King Faisal University,1,no
+1084,2019,Medicine and Surgery,The Syrian Private University,1,no
+1085,2019,Medicine and Surgery,University Of Science And Technology - Yemen,1,no
+1086,2019,Pharmacists and Pharmacy Technicians,Massachusetts College Of Pharmacy And Health Science,1,no
+1087,2019,Medicine and Surgery,University Of Kordofan - Sudan,1,no
+1088,2019,Nursing and Midwifery,AlRiyada College for Health Sciences,1,no
+1089,2019,Medicine and Surgery,Tishreen University,1,no
+1090,2019,Medicine and Surgery,The University Of Faisalabad,1,no
+1091,2019,Medicine and Surgery,University Of Bisha,1,no
+1092,2019,Medicine and Surgery,Xinxiang Medical University,1,no
+1093,2019,Nursing and Midwifery,King Saud Bin Abdulaziz University For Health Scinces,1,no
+1094,2019,Medicine and Surgery,University Of Bahr El-Ghazal,1,no
+1095,2019,Medicine and Surgery,University of Sharjah,1,no
+1096,2019,Medicine and Surgery,University Of Kalamoon,1,no
+1097,2019,Nursing and Midwifery,University Of Hail,1,no
+1098,2019,Medicine and Surgery,"University of California, Los Angeles (UCLA)",1,no
+1099,2019,Medicine and Surgery,University Of Tunisia,1,no
+1100,2019,Nursing and Midwifery,Saad College Of Nursing & Allied Health Sciences,1,no
+1101,2019,Medicine and Surgery,University Of Baluchistan,1,no
+1102,2019,Medicine and Surgery,University Of Veterinary & Animal Sciences,1,no
+1103,2019,Pharmacists and Pharmacy Technicians,King Faisal University,1,no
+1104,2019,Medicine and Surgery,Universiteit Maastricht,1,no
+1106,2019,Unknown,Ibn Sina College Of Eligibility For Medical Sciences In Jeddah,1,no
+1107,2021,Medicine and Surgery,Vinnytsia National Pirogov Medical University,1,no
+1108,2021,Medicine and Surgery,Zagazig University - Egypt,1,no
+1109,2021,Medicine and Surgery,Zengzhou Shuqing Medical College,1,no
+1110,2021,Pharmacists and Pharmacy Technicians,Almaarefa University,1,no
+1111,2021,Pharmacists and Pharmacy Technicians,Ibn Sina College Of Eligibility For Medical Sciences In Jeddah,1,no
+1112,2021,Pharmacists and Pharmacy Technicians,King Saud Bin Abdulaziz University For Health Scinces,1,no
+1113,2021,Pharmacists and Pharmacy Technicians,Princess Nora Bint Abdul Rahman University,1,no
+1114,2021,Pharmacists and Pharmacy Technicians,Taif University,1,no
+1115,2021,Pharmacists and Pharmacy Technicians,Umm Al Qura University,1,no
+1116,2021,Unknown,Ibn Sina College Of Eligibility For Medical Sciences In Jeddah,1,no
+1117,2021,Unknown,Jazan University,1,no
+1118,2021,Unknown,King Abdulaziz University,1,no
+1119,2021,Unknown,Umm Al Qura University,1,no
+1120,2021,Unknown,University Of Gezira,1,no
+1121,2021,Unknown,University Of Tabuk,1,no
+1122,2022,Dentistry and Related Specialties,Al Jouf University,1,no
+1123,2021,Medicine and Surgery,Xinxiang Medical University,1,no
+1124,2021,Medicine and Surgery,University Of Medicina Farmacie - Carol Davila,1,no
+1125,2022,Dentistry and Related Specialties,Jordan University Of Science And Technology,1,no
+1126,2021,Medicine and Surgery,University Of Debrecen - Hungary,1,no
+1127,2021,Medicine and Surgery,Al-Ghad International College For Applied Medical Sciences,1,no
+1128,2021,Medicine and Surgery,Bahri University,1,no
+1129,2021,Medicine and Surgery,Canadian Red Cross,1,no
+1130,2021,Medicine and Surgery,Carol Davila University,1,no
+1131,2021,Medicine and Surgery,Kharkov State Medical University,1,no
+1132,2021,Medicine and Surgery,Kuwait University - Kuwait,1,no
+1133,2021,Medicine and Surgery,Omdurman Ahlia University,1,no
+1134,2021,Medicine and Surgery,Poznan University Of Medical Sciences,1,no
+1135,2021,Medicine and Surgery,Punjab Board Of Technical Education Lahore,1,no
+1136,2021,Medicine and Surgery,Riyadh Colleges Of Dentistry And Pharmacy,1,no
+1137,2021,Medicine and Surgery,Royal College Of Surgeons In Ireland,1,no
+1138,2021,Medicine and Surgery,Sana'A University - Yemen,1,no
+1139,2021,Medicine and Surgery,Taiz University,1,no
+1140,2021,Medicine and Surgery,Tianjin Medical University,1,no
+1141,2021,Medicine and Surgery,University Of Aleppo,1,no
+1142,2022,Dentistry and Related Specialties,Alexandria University,1,no
+1143,2022,Dentistry and Related Specialties,King Faisal University,1,no
+1144,2019,Unknown,Jazan University,1,no
+1145,2022,Medicine and Surgery,University Of Gezira,1,no
+1146,2022,Medicine and Surgery,University Of Medicina Farmacie - Carol Davila,1,no
+1147,2022,Medicine and Surgery,University Of Science And Technology - Yemen,1,no
+1148,2022,Medicine and Surgery,University Of Tunisia,1,no
+1149,2022,Medicine and Surgery,University of Sharjah,1,no
+1150,2022,Medicine and Surgery,Vinnytsia National Pirogov Medical University,1,no
+1151,2022,Medicine and Surgery,Wroclaw Medical University - Poland,1,no
+1152,2022,Medicine and Surgery,Xinxiang Medical University,1,no
+1153,2022,Pharmacists and Pharmacy Technicians,Applied Science Private University,1,no
+1154,2022,Pharmacists and Pharmacy Technicians,King Faisal University,1,no
+1155,2022,Pharmacists and Pharmacy Technicians,King Khalid University,1,no
+1156,2022,Pharmacists and Pharmacy Technicians,Mcphs University,1,no
+1157,2022,Unknown,Ibn Sina College Of Eligibility For Medical Sciences In Jeddah,1,no
+1158,2022,Unknown,King Abdulaziz University,1,no
+1159,2022,Unknown,University Of Gezira,1,no
+1160,2022,Unknown,University Of Imam Muhammad Bin Saud Islamic University,1,no
+1161,2022,Medicine and Surgery,University Of Khartoum,1,no
+1162,2022,Medicine and Surgery,University Of Bisha,1,no
+1163,2022,Dentistry and Related Specialties,Medical Academy In Lublin,1,no
+1164,2022,Medicine and Surgery,The National Ribat University,1,no
+1165,2022,Dentistry and Related Specialties,October University For Modern Sciences And Arts,1,no
+1166,2022,Dentistry and Related Specialties,The O.O. Bogomolets National Medical University,1,no
+1167,2022,Dentistry and Related Specialties,University Of Dhaka,1,no
+1168,2022,Medicine and Surgery,Ain Shams University,1,no
+1169,2022,Medicine and Surgery,Albaha University,1,no
+1170,2022,Medicine and Surgery,Bahri University,1,no
+1171,2022,Medicine and Surgery,Banha University,1,no
+1172,2022,Medicine and Surgery,Carol Davila University,1,no
+1173,2022,Medicine and Surgery,Ibn Hayan Academy,1,no
+1174,2022,Medicine and Surgery,Liaquat Medical College,1,no
+1175,2022,Medicine and Surgery,Medical Academy In Bydgoszcz,1,no
+1176,2022,Medicine and Surgery,Ministry Of Education And Higher Education,1,no
+1177,2022,Medicine and Surgery,Princess Nora Bint Abdul Rahman University,1,no
+1178,2022,Medicine and Surgery,Rak Medical & Health Sciences University,1,no
+1179,2022,Medicine and Surgery,Taiz University,1,no
+1180,2021,Medicine and Surgery,Ain Shams University,1,no
+1181,2021,Dentistry and Related Specialties,University of Sharjah,1,no
+1182,2021,Dentistry and Related Specialties,University of Aden,1,no
+1183,2020,Medicine and Surgery,Al-Azhar University,1,no
+1184,2020,Medicine and Surgery,Ama International University,1,no
+1185,2020,Medicine and Surgery,American University Of Beirut,1,no
+1186,2020,Medicine and Surgery,Armed Forces Post Graduate Medical Institute,1,no
+1187,2020,Medicine and Surgery,Banha University,1,no
+1188,2020,Medicine and Surgery,"Dr. D. Y. Patil Vidyapeeth, Pune",1,no
+1189,2020,Medicine and Surgery,Gulf Medical University - UAE,1,no
+1190,2020,Medicine and Surgery,Hamdard medical college MBBS,1,no
+1191,2020,Medicine and Surgery,Kharkov State Medical University,1,no
+1192,2020,Medicine and Surgery,Liaquat Medical College,1,no
+1193,2020,Medicine and Surgery,Omdurman Ahlia University,1,no
+1194,2020,Medicine and Surgery,Pavol Jozef Šafárik University - Slovakia,1,no
+1195,2020,Medicine and Surgery,Poznan University Of Medical Sciences,1,no
+1196,2020,Medicine and Surgery,Princess Nora Bint Abdul Rahman University,1,no
+1197,2020,Medicine and Surgery,RCSI & UCD Malaysia Campus (RUMC),1,no
+1198,2020,Medicine and Surgery,Rak Medical & Health Sciences University,1,no
+1199,2020,Medicine and Surgery,Al-Baath University,1,no
+1200,2020,Medicine and Surgery,Al Zaiem Al Azhari University,1,no
+1201,2021,Dentistry and Related Specialties,University Of Hail,1,no
+1202,2020,Medicine and Surgery,Al Fashir University,1,no
+1203,2019,Unknown,King Abdulaziz University,1,no
+1204,2019,Unknown,Omdurman Islamic University - Sudan,1,no
+1205,2019,Unknown,University Of Gezira,1,no
+1206,2019,Unknown,University Of Imam Muhammad Bin Saud Islamic University,1,no
+1207,2020,Dentistry and Related Specialties,Ajman University of Science and Technology,1,no
+1208,2020,Dentistry and Related Specialties,Al Jouf University,1,no
+1209,2020,Dentistry and Related Specialties,Jordan University Of Science And Technology,1,no
+1210,2020,Dentistry and Related Specialties,Kuwait University - Kuwait,1,no
+1211,2020,Dentistry and Related Specialties,Mustaqbal University,1,no
+1212,2020,Dentistry and Related Specialties,Princess Nora Bint Abdul Rahman University,1,no
+1213,2020,Dentistry and Related Specialties,University Of Hail,1,no
+1214,2020,Dentistry and Related Specialties,University of Aden,1,no
+1215,2020,Laboratories and Medical Technology,King Khalid University,1,no
+1216,2020,Laboratories and Medical Technology,King Saud University,1,no
+1217,2020,Medicine and Surgery,Ain Shams University,1,no
+1218,2020,Medicine and Surgery,Royal College Of Surgeons In Ireland,1,no
+1219,2020,Medicine and Surgery,Ternopil State Medical University,1,no
+1220,2020,Medicine and Surgery,The Syrian Private University,1,no
+1221,2020,Medicine and Surgery,The University Of Faisalabad,1,no
+1222,2020,Unknown,Qassim University,1,no
+1223,2020,Unknown,University Of Gezira,1,no
+1224,2020,Unknown,University Of Imam Muhammad Bin Saud Islamic University,1,no
+1225,2020,Unknown,University Of Tabuk,1,no
+1226,2021,Dentistry and Related Specialties,Ajman University of Science and Technology,1,no
+1227,2021,Dentistry and Related Specialties,Al Jouf University,1,no
+1228,2021,Dentistry and Related Specialties,Alexandria University,1,no
+1229,2021,Dentistry and Related Specialties,King Faisal University,1,no
+1230,2021,Dentistry and Related Specialties,Majmaah University,1,no
+1231,2021,Dentistry and Related Specialties,Medical Academy In Lublin,1,no
+1232,2021,Dentistry and Related Specialties,Mustaqbal University,1,no
+1233,2021,Dentistry and Related Specialties,Qassim University,1,no
+1234,2021,Dentistry and Related Specialties,Taibah University,1,no
+1235,2021,Dentistry and Related Specialties,The O.O. Bogomolets National Medical University,1,no
+1236,2021,Dentistry and Related Specialties,University Of Dhaka,1,no
+1237,2020,Unknown,Omdurman Islamic University - Sudan,1,no
+1238,2020,Unknown,King Faisal University,1,no
+1239,2020,Unknown,Ibn Sina College Of Eligibility For Medical Sciences In Jeddah,1,no
+1240,2020,Medicine and Surgery,University Of Debrecen - Hungary,1,no
+1241,2020,Medicine and Surgery,Tianjin Medical University,1,no
+1242,2020,Medicine and Surgery,Tishreen University,1,no
+1243,2020,Medicine and Surgery,University Of Bahr El-Ghazal,1,no
+1244,2020,Medicine and Surgery,University Of Bahrain,1,no
+1245,2020,Medicine and Surgery,University Of Baluchistan,1,no
+1246,2020,Medicine and Surgery,University Of Bisha,1,no
+1247,2020,Medicine and Surgery,University Of Jordan - Jordan,1,no
+1248,2020,Nursing and Midwifery,King Saud Bin Abdulaziz University For Health Scinces,1,no
+1249,2020,Medicine and Surgery,University Of Juba,1,no
+1250,2020,Medicine and Surgery,University Of Kalamoon,1,no
+1251,2020,Medicine and Surgery,University Of Kassala,1,no
+1252,2020,Medicine and Surgery,University Of Kordofan - Sudan,1,no
+1253,2020,Medicine and Surgery,University Of Medical Sciences And Technology,1,no
+1254,2020,Nursing and Midwifery,AlRiyada College for Health Sciences,1,no
+1255,2019,Medicine and Surgery,The National Ribat University,1,no
+1256,2017,Medicine and Surgery,The University Of Faisalabad,1,no
+1257,2019,Medicine and Surgery,Ternopil State Medical University,1,no
+1282,2016,Dentistry and Related Specialties,Al Jouf University,1,no
+1310,2016,Dentistry and Related Specialties,Batterjee Medical College,1,no
+1311,2016,Dentistry and Related Specialties,Hadhramout University Of Science & Technology,1,no
+1312,2016,Dentistry and Related Specialties,Jordan University Of Science And Technology,1,no
+1313,2016,Medicine and Surgery,Tanta University,1,no
+1314,2016,Medicine and Surgery,Ternopil State Medical University,1,no
+1315,2016,Medicine and Surgery,Thamar University,1,no
+1316,2016,Medicine and Surgery,The National Ribat University,1,no
+1317,2016,Medicine and Surgery,The Syrian Private University,1,no
+1318,2016,Medicine and Surgery,Universiteit Maastricht,1,no
+1319,2016,Medicine and Surgery,University College Dublin,1,no
+1320,2016,Medicine and Surgery,University Of Bisha,1,no
+1321,2016,Medicine and Surgery,University Of Gezira,1,no
+1322,2016,Medicine and Surgery,University Of Jordan - Jordan,1,no
+1323,2016,Medicine and Surgery,University Of Juba,1,no
+1324,2016,Medicine and Surgery,University Of Kalamoon,1,no
+1325,2016,Medicine and Surgery,University Of Karachi,1,no
+1326,2016,Medicine and Surgery,University Of Medical Sciences And Technology,1,no
+1327,2016,Medicine and Surgery,University Of Tunisia,1,no
+1328,2016,Medicine and Surgery,University Of Veterinary & Animal Sciences,1,no
+1329,2016,Medicine and Surgery,"University of California, Los Angeles (UCLA)",1,no
+1330,2016,Medicine and Surgery,University of Sharjah,1,no
+1331,2016,Medicine and Surgery,Xinxiang Medical University,1,no
+1332,2016,Medicine and Surgery,Zagazig University - Egypt,1,no
+1333,2016,Nursing and Midwifery,Al Jouf University,1,no
+1334,2016,Nursing and Midwifery,Al-Ghad International College For Applied Medical Sciences,1,no
+1335,2016,Nursing and Midwifery,Ibn Sina College Of Eligibility For Medical Sciences In Jeddah,1,no
+1336,2016,Nursing and Midwifery,King Khalid University,1,no
+1337,2016,Medicine and Surgery,Technical and Vocational Training Corporation ( TVTC ) ,1,no
+1338,2016,Medicine and Surgery,Taiz University,1,no
+1339,2016,Dentistry and Related Specialties,King Faisal University,1,no
+1340,2016,Medicine and Surgery,Sher-i-Kashmir Institute of Medical Sciences,1,no
+1341,2016,Dentistry and Related Specialties,King Saud Bin Abdulaziz University For Health Scinces,1,no
+1342,2016,Dentistry and Related Specialties,Liaquat University Of Medical & Health Sciences,1,no
+1343,2016,Dentistry and Related Specialties,Najran University,1,no
+1344,2016,Laboratories and Medical Technology,Batterjee Medical College,1,no
+1345,2016,Laboratories and Medical Technology,Curtin University,1,no
+1346,2016,Medicine and Surgery,Africa College,1,no
+1347,2016,Medicine and Surgery,Al-Baath University,1,no
+1348,2016,Medicine and Surgery,Ama International University,1,no
+1349,2016,Medicine and Surgery,Bahri University,1,no
+1350,2016,Medicine and Surgery,Banha University,1,no
+1351,2016,Medicine and Surgery,Beirut Arab University,1,no
+1352,2016,Medicine and Surgery,Damascus University,1,no
+1353,2016,Medicine and Surgery,Elrazi College Of Medical &Technological Sciences,1,no
+1354,2016,Medicine and Surgery,Health Affaires Of The National Guard,1,no
+1355,2016,Medicine and Surgery,Hodeidah University,1,no
+1356,2016,Medicine and Surgery,Ibn Hayan Academy,1,no
+1357,2016,Medicine and Surgery,Liaquat Medical College,1,no
+1358,2016,Medicine and Surgery,Maastricht University - Netherlands,1,no
+1359,2016,Medicine and Surgery,Magadh University,1,no
+1360,2016,Medicine and Surgery,Menoufia University,1,no
+1361,2016,Medicine and Surgery,Pavol Jozef Šafárik University - Slovakia,1,no
+1362,2016,Medicine and Surgery,Poznan University Of Medical Sciences,1,no
+1363,2016,Medicine and Surgery,Princess Nora Bint Abdul Rahman University,1,no
+1366,2019,Medicine and Surgery,Taiz University,1,no
+1473,2016,Nursing and Midwifery,King Saud Bin Abdulaziz University For Health Scinces,1,no
+1474,2016,Nursing and Midwifery,Murdoch University,1,no
+1475,2016,Nursing and Midwifery,University Of Southern Queensland,1,no
+1476,2018,Medicine and Surgery,The Punjab Madical Faculty,1,no
+1477,2018,Medicine and Surgery,Marmara University,1,no
+1478,2018,Medicine and Surgery,Patna University,1,no
+1479,2018,Medicine and Surgery,Poznan University Of Medical Sciences,1,no
+1480,2018,Medicine and Surgery,Princess Nora Bint Abdul Rahman University,1,no
+1481,2018,Medicine and Surgery,South Valley University,1,no
+1482,2018,Medicine and Surgery,Sumy State University,1,no
+1483,2018,Medicine and Surgery,Tabuk Chamber Of Commerce In Collaboration With The King Abdulaziz University,1,no
+1484,2018,Medicine and Surgery,Taiz University,1,no
+1485,2018,Medicine and Surgery,Ternopil State Medical University,1,no
+1486,2018,Medicine and Surgery,Thamar University,1,no
+1487,2018,Medicine and Surgery,The National Ribat University,1,no
+1488,2018,Medicine and Surgery,The Syrian Private University,1,no
+1489,2016,Pharmacists and Pharmacy Technicians,Creighton University,1,no
+1490,2018,Medicine and Surgery,The University Of Faisalabad,1,no
+1491,2018,Medicine and Surgery,Universiteit Maastricht,1,no
+1492,2018,Medicine and Surgery,University Of Bahr El-Ghazal,1,no
+1493,2018,Medicine and Surgery,University Of Baluchistan,1,no
+1494,2018,Medicine and Surgery,University Of Bisha,1,no
+1495,2018,Medicine and Surgery,University Of Jordan - Jordan,1,no
+1496,2018,Medicine and Surgery,University Of Kalamoon,1,no
+1497,2018,Medicine and Surgery,University Of Kassala,1,no
+1498,2018,Medicine and Surgery,University Of Tunisia,1,no
+1499,2018,Medicine and Surgery,University Of Veterinary & Animal Sciences,1,no
+1500,2018,Medicine and Surgery,"University of California, Los Angeles (UCLA)",1,no
+1501,2018,Medicine and Surgery,Magadh University,1,no
+1502,2018,Medicine and Surgery,Liaquat University Of Medical & Health Sciences,1,no
+1503,2018,Medicine and Surgery,Liaquat Medical College,1,no
+1504,2018,Medicine and Surgery,King Faisal Specialist Hospital And Research Center,1,no
+1505,2018,Laboratories and Medical Technology,Batterjee Medical College,1,no
+1506,2018,Laboratories and Medical Technology,Curtin University,1,no
+1507,2018,Medicine and Surgery,Africa College,1,no
+1508,2018,Medicine and Surgery,Al-Baath University,1,no
+1509,2018,Medicine and Surgery,Ama International University,1,no
+1510,2018,Medicine and Surgery,American University Of Beirut,1,no
+1511,2018,Medicine and Surgery,Arab Board of Health specializations - Syria,1,no
+1512,2018,Medicine and Surgery,Armed Forces Post Graduate Medical Institute,1,no
+1513,2018,Medicine and Surgery,Assiut University,1,no
+1514,2018,Medicine and Surgery,Azerbaijan Medical University (N.Narimanov),1,no
+1515,2018,Medicine and Surgery,Bahri University,1,no
+1516,2018,Medicine and Surgery,Banha University,1,no
+1517,2018,Medicine and Surgery,Bataan Peninsula State University (BPSU),1,no
+1518,2018,Medicine and Surgery,Beirut Arab University,1,no
+1519,2018,Medicine and Surgery,Elrazi College Of Medical &Technological Sciences,1,no
+1520,2018,Medicine and Surgery,Health Affaires Of The National Guard,1,no
+1521,2018,Medicine and Surgery,Hodeidah University,1,no
+1522,2018,Medicine and Surgery,Imam Mahdi University,1,no
+1523,2018,Medicine and Surgery,International Islamic University,1,no
+1524,2018,Medicine and Surgery,Kabardino-Balkarian State University,1,no
+1525,2018,Medicine and Surgery,"Karnatak University,Dharwad",1,no
+1526,2018,Medicine and Surgery,Katholieke Universiteit Nijmegen,1,no
+1527,2018,Medicine and Surgery,Kharkov State Medical University,1,no
+1528,2018,Medicine and Surgery,University of Sharjah,1,no
+1529,2018,Medicine and Surgery,Xinxiang Medical University,1,no
+1530,2018,Nursing and Midwifery,AlRiyada College for Health Sciences,1,no
+1531,2019,Medicine and Surgery,Al Neelain University,1,no
+1532,2019,Medicine and Surgery,Ama International University,1,no
+1533,2019,Medicine and Surgery,American University Of Beirut,1,no
+1534,2019,Medicine and Surgery,Arab Board of Health specializations - Syria,1,no
+1535,2019,Medicine and Surgery,Arab Development Institute (Private),1,no
+1536,2019,Medicine and Surgery,Armed Forces Post Graduate Medical Institute,1,no
+1537,2019,Medicine and Surgery,Bahri University,1,no
+1538,2019,Medicine and Surgery,Bataan Peninsula State University (BPSU),1,no
+1539,2019,Medicine and Surgery,Beirut Arab University,1,no
+1540,2019,Medicine and Surgery,"Dr. D. Y. Patil Vidyapeeth, Pune",1,no
+1541,2019,Medicine and Surgery,Elrazi College Of Medical &Technological Sciences,1,no
+1542,2019,Medicine and Surgery,Hodeidah University,1,no
+1543,2019,Medicine and Surgery,International Islamic University,1,no
+1544,2019,Medicine and Surgery,Kharkov State Medical University,1,no
+1545,2019,Medicine and Surgery,Liaquat Medical College,1,no
+1546,2019,Medicine and Surgery,Magadh University,1,no
+1547,2019,Medicine and Surgery,Ministry Of Education And Higher Education,1,no
+1548,2019,Medicine and Surgery,Mustaqbal University,1,no
+1549,2019,Medicine and Surgery,Pavol Jozef Šafárik University - Slovakia,1,no
+1550,2019,Medicine and Surgery,Poznan University Of Medical Sciences,1,no
+1551,2019,Medicine and Surgery,Princess Nora Bint Abdul Rahman University,1,no
+1552,2019,Medicine and Surgery,Shaqra University,1,no
+1553,2019,Medicine and Surgery,South Valley University,1,no
+1554,2019,Medicine and Surgery,Sumy State University,1,no
+1555,2019,Medicine and Surgery,Al-Baath University,1,no
+1556,2019,Medicine and Surgery,Al Fashir University,1,no
+1557,2018,Nursing and Midwifery,Batterjee Medical College,1,no
+1558,2019,Medicine and Surgery,Africa College,1,no
+1559,2018,Nursing and Midwifery,Inaya Medical Science College,1,no
+1560,2018,Nursing and Midwifery,Mohammed AlMana College for Medical Sciences,1,no
+1561,2018,Nursing and Midwifery,Najran University,1,no
+1562,2018,Nursing and Midwifery,The Ministry Of Health In Collaboration With The World Health Organization,1,no
+1563,2018,Pharmacists and Pharmacy Technicians,Creighton University,1,no
+1564,2018,Pharmacists and Pharmacy Technicians,Ibn Sina College Of Eligibility For Medical Sciences In Jeddah,1,no
+1565,2018,Pharmacists and Pharmacy Technicians,Taibah University,1,no
+1566,2018,Unknown,Jazan University,1,no
+1567,2018,Unknown,King Abdulaziz University,1,no
+1568,2018,Unknown,King Khalid University,1,no
+1569,2018,Unknown,Omdurman Islamic University - Sudan,1,no
+1570,2018,Unknown,University Of Gezira,1,no
+1571,2018,Unknown,University Of Imam Muhammad Bin Saud Islamic University,1,no
+1572,2018,Unknown,University Of Tabuk,1,no
+1573,2019,Dentistry and Related Specialties,Batterjee Medical College,1,no
+1574,2019,Dentistry and Related Specialties,Buraydah Colleges,1,no
+1575,2019,Dentistry and Related Specialties,Kuwait University - Kuwait,1,no
+1576,2019,Dentistry and Related Specialties,Prince Sattam Bin Abdulaziz University,1,no
+1577,2019,Dentistry and Related Specialties,University Of Hail,1,no
+1578,2019,Dentistry and Related Specialties,University Of Jordan - Jordan,1,no
+1579,2019,Dentistry and Related Specialties,University of Aden,1,no
+1580,2019,Laboratories and Medical Technology,Batterjee Medical College,1,no
+1581,2019,Laboratories and Medical Technology,Curtin University,1,no
+1582,2018,Dentistry and Related Specialties,University Of Hail,1,no
+1583,2018,Dentistry and Related Specialties,Prince Sattam Bin Abdulaziz University,1,no
+1584,2018,Dentistry and Related Specialties,Jordan University Of Science And Technology,1,no
+1585,2017,Medicine and Surgery,Al-Baath University,1,no
+1586,2017,Medicine and Surgery,Ama International University,1,no
+1587,2017,Medicine and Surgery,Arab Board of Health specializations - Syria,1,no
+1588,2017,Medicine and Surgery,Armed Forces Post Graduate Medical Institute,1,no
+1589,2017,Medicine and Surgery,Assiut University,1,no
+1590,2017,Medicine and Surgery,Azerbaijan Medical University (N.Narimanov),1,no
+1591,2017,Medicine and Surgery,Bahri University,1,no
+1592,2017,Medicine and Surgery,Banha University,1,no
+1593,2017,Medicine and Surgery,Bataan Peninsula State University (BPSU),1,no
+1594,2017,Medicine and Surgery,Beirut Arab University,1,no
+1595,2017,Medicine and Surgery,"Dr. D. Y. Patil Vidyapeeth, Pune",1,no
+1596,2017,Medicine and Surgery,Elrazi College Of Medical &Technological Sciences,1,no
+1597,2017,Medicine and Surgery,Health Affaires Of The National Guard,1,no
+1598,2017,Medicine and Surgery,Hodeidah University,1,no
+1599,2017,Medicine and Surgery,Imam Mahdi University,1,no
+1600,2017,Medicine and Surgery,Kabardino-Balkarian State University,1,no
+1601,2017,Medicine and Surgery,"Karnatak University,Dharwad",1,no
+1602,2017,Medicine and Surgery,Katholieke Universiteit Nijmegen,1,no
+1603,2017,Medicine and Surgery,King Faisal Specialist Hospital And Research Center,1,no
+1604,2017,Medicine and Surgery,Liaquat Medical College,1,no
+1605,2017,Medicine and Surgery,Maastricht University - Netherlands,1,no
+1606,2017,Medicine and Surgery,Magadh University,1,no
+1607,2017,Medicine and Surgery,Mansfield University Pa,1,no
+1608,2017,Medicine and Surgery,Marmara University,1,no
+1609,2017,Medicine and Surgery,Al-Ghad International College For Applied Medical Sciences,1,no
+1610,2017,Medicine and Surgery,Al Fashir University,1,no
+1611,2017,Medicine and Surgery,Patna University,1,no
+1612,2017,Medicine and Surgery,Ain Shams University,1,no
+1613,2016,Pharmacists and Pharmacy Technicians,King Khalid University,1,no
+1614,2016,Pharmacists and Pharmacy Technicians,Taibah University,1,no
+1615,2016,Pharmacists and Pharmacy Technicians,Taif University,1,no
+1616,2016,Unknown,Ibn Sina College Of Eligibility For Medical Sciences In Jeddah,1,no
+1617,2016,Unknown,King Abdulaziz University,1,no
+1618,2016,Unknown,King Khalid University,1,no
+1619,2016,Unknown,King Saud Bin Abdulaziz University For Health Scinces,1,no
+1620,2016,Unknown,Omdurman Islamic University - Sudan,1,no
+1621,2016,Unknown,Qassim University,1,no
+1622,2016,Unknown,Taibah University,1,no
+1623,2016,Unknown,Umm Al Qura University,1,no
+1624,2016,Unknown,University Of Tabuk,1,no
+1625,2017,Dentistry and Related Specialties,Batterjee Medical College,1,no
+1626,2017,Dentistry and Related Specialties,Buraydah Colleges,1,no
+1627,2017,Dentistry and Related Specialties,Hadhramout University Of Science & Technology,1,no
+1628,2017,Dentistry and Related Specialties,Hyderabad Medical Training College,1,no
+1629,2017,Dentistry and Related Specialties,Jordan University Of Science And Technology,1,no
+1630,2017,Dentistry and Related Specialties,Liaquat University Of Medical & Health Sciences,1,no
+1631,2017,Dentistry and Related Specialties,Prince Sattam Bin Abdulaziz University,1,no
+1632,2017,Dentistry and Related Specialties,University Of Hail,1,no
+1633,2017,Laboratories and Medical Technology,Batterjee Medical College,1,no
+1634,2017,Laboratories and Medical Technology,Curtin University,1,no
+1635,2017,Medicine and Surgery,Africa College,1,no
+1636,2017,Medicine and Surgery,Menoufia University,1,no
+1637,2017,Medicine and Surgery,Pavol Jozef Šafárik University - Slovakia,1,no
+1638,2018,Dentistry and Related Specialties,Hyderabad Medical Training College,1,no
+1639,2017,Nursing and Midwifery,Batterjee Medical College,1,no
+1640,2017,Nursing and Midwifery,Inaya Medical Science College,1,no
+1641,2017,Nursing and Midwifery,Mohammed AlMana College for Medical Sciences,1,no
+1642,2017,Nursing and Midwifery,Murdoch University,1,no
+1643,2017,Nursing and Midwifery,Najran University,1,no
+1644,2017,Nursing and Midwifery,Prince Sultan Military College Of Health Sciences Dhahran,1,no
+1645,2017,Nursing and Midwifery,The Ministry Of Health In Collaboration With The World Health Organization,1,no
+1646,2017,Nursing and Midwifery,University Of Tabuk,1,no
+1647,2017,Pharmacists and Pharmacy Technicians,Almaarefa University,1,no
+1648,2017,Pharmacists and Pharmacy Technicians,Creighton University,1,no
+1649,2017,Pharmacists and Pharmacy Technicians,Ibn Sina College Of Eligibility For Medical Sciences In Jeddah,1,no
+1650,2017,Pharmacists and Pharmacy Technicians,Taibah University,1,no
+1651,2017,Pharmacists and Pharmacy Technicians,Taif University,1,no
+1652,2017,Pharmacists and Pharmacy Technicians,Unknown,1,yes
+1653,2017,Unknown,Ibn Sina College Of Eligibility For Medical Sciences In Jeddah,1,no
+1654,2017,Unknown,King Abdulaziz University,1,no
+1655,2017,Unknown,Omdurman Islamic University - Sudan,1,no
+1656,2017,Unknown,Qassim University,1,no
+1657,2017,Unknown,Taibah University,1,no
+1658,2017,Unknown,University Of Imam Muhammad Bin Saud Islamic University,1,no
+1659,2017,Unknown,University Of Tabuk,1,no
+1660,2018,Dentistry and Related Specialties,Batterjee Medical College,1,no
+1661,2018,Dentistry and Related Specialties,Buraydah Colleges,1,no
+1662,2018,Dentistry and Related Specialties,Hadhramout University Of Science & Technology,1,no
+1663,2017,Nursing and Midwifery,Ibn Sina College Of Eligibility For Medical Sciences In Jeddah,1,no
+1664,2017,Nursing and Midwifery,AlRiyada College for Health Sciences,1,no
+1665,2017,Medicine and Surgery,Poznan University Of Medical Sciences,1,no
+1666,2017,Medicine and Surgery,Zagazig University - Egypt,1,no
+1667,2017,Medicine and Surgery,Princess Nora Bint Abdul Rahman University,1,no
+1668,2017,Medicine and Surgery,Sher-i-Kashmir Institute of Medical Sciences,1,no
+1669,2017,Medicine and Surgery,South Valley University,1,no
+1670,2017,Medicine and Surgery,Sumy State University,1,no
+1671,2017,Medicine and Surgery,Tabuk Chamber Of Commerce In Collaboration With The King Abdulaziz University,1,no
+1672,2017,Medicine and Surgery,Taiz University,1,no
+1673,2017,Medicine and Surgery,Ternopil State Medical University,1,no
+1674,2017,Medicine and Surgery,Thamar University,1,no
+1675,2017,Medicine and Surgery,The National Ribat University,1,no
+1676,2017,Medicine and Surgery,The Punjab Madical Faculty,1,no
+1677,2017,Medicine and Surgery,The Syrian Private University,1,no
+1678,2017,Medicine and Surgery,Universiteit Maastricht,1,no
+1679,2017,Medicine and Surgery,University Of Aleppo,1,no
+1680,2017,Medicine and Surgery,University Of Baluchistan,1,no
+1681,2017,Medicine and Surgery,University Of Bisha,1,no
+1682,2017,Medicine and Surgery,University Of Jordan - Jordan,1,no
+1683,2017,Medicine and Surgery,University Of Kalamoon,1,no
+1684,2017,Medicine and Surgery,University Of Kassala,1,no
+1685,2017,Medicine and Surgery,University Of Tunisia,1,no
+1686,2017,Medicine and Surgery,University Of Veterinary & Animal Sciences,1,no
+1687,2017,Medicine and Surgery,"University of California, Los Angeles (UCLA)",1,no
+1688,2017,Medicine and Surgery,University of Sharjah,1,no
+1689,2017,Medicine and Surgery,Xinxiang Medical University,1,no
+1690,2022,Unknown,Unknown,1,yes

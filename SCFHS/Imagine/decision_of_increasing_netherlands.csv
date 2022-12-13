@@ -1,0 +1,61 @@
+Year ,Nationality,Region,Medicine field ,Mortality rate ,Readmission rate ,Training center 
+2022,Sudan,Riyadh,General Physician and Surgeons,10%,28 %,69
+2022,Sudan,Makkah,General Physician and Surgeons,10%,28 %,21
+2022,Sudan,Eastern Province,General Physician and Surgeons,10%,28 %,37
+2022,Sudan,Asir,General Physician and Surgeons,10%,28 %,6
+2022,Sudan,Al-Qassim,General Physician and Surgeons,10%,28 %,12
+2022,Sudan,Al Madinah,General Physician and Surgeons,10%,28 %,23
+2022,Sudan,Jizan,General Physician and Surgeons,10%,28 %,2
+2022,Sudan,Tabuk,General Physician and Surgeons,10%,28 %,9
+2022,Sudan,Najran,General Physician and Surgeons,10%,28 %,2
+2022,Sudan,Al Jawf,General Physician and Surgeons,10%,28 %,7
+2023,Netherlands,Riyadh,General Physician and Surgeons,9.00%,23%,72
+2023,Netherlands,Makkah,General Physician and Surgeons,9.00%,23%,24
+2023,Netherlands,Eastern Province,General Physician and Surgeons,9.00%,23%,40
+2023,Netherlands,Asir,General Physician and Surgeons,9.00%,23%,9
+2023,Netherlands,Al-Qassim,General Physician and Surgeons,9.00%,23%,15
+2023,Netherlands,Al Madinah,General Physician and Surgeons,9.00%,23%,26
+2023,Netherlands,Jizan,General Physician and Surgeons,9.00%,23%,5
+2023,Netherlands,Tabuk,General Physician and Surgeons,9.00%,23%,12
+2023,Netherlands,Najran,General Physician and Surgeons,9.00%,23%,5
+2023,Netherlands,Al Jawf,General Physician and Surgeons,9.00%,23%,10
+2024,Netherlands,Riyadh,General Physician and Surgeons,8%,19%,79
+2024,Netherlands,Makkah,General Physician and Surgeons,8%,19%,31
+2024,Netherlands,Eastern Province,General Physician and Surgeons,8%,19%,47
+2024,Netherlands,Asir,General Physician and Surgeons,8%,19%,16
+2024,Netherlands,Al-Qassim,General Physician and Surgeons,8%,19%,22
+2024,Netherlands,Al Madinah,General Physician and Surgeons,8%,19%,33
+2024,Netherlands,Jizan,General Physician and Surgeons,8%,19%,12
+2024,Netherlands,Tabuk,General Physician and Surgeons,8%,19%,19
+2024,Netherlands,Najran,General Physician and Surgeons,8%,19%,12
+2024,Netherlands,Al Jawf,General Physician and Surgeons,8%,19%,17
+2025,Netherlands,Riyadh,General Physician and Surgeons,7.00%,17%,84
+2025,Netherlands,Makkah,General Physician and Surgeons,7.00%,17%,36
+2025,Netherlands,Eastern Province,General Physician and Surgeons,7.00%,17%,52
+2025,Netherlands,Asir,General Physician and Surgeons,7.00%,17%,21
+2025,Netherlands,Al-Qassim,General Physician and Surgeons,7.00%,17%,27
+2025,Netherlands,Al Madinah,General Physician and Surgeons,7.00%,17%,38
+2025,Netherlands,Jizan,General Physician and Surgeons,7.00%,17%,17
+2025,Netherlands,Tabuk,General Physician and Surgeons,7.00%,17%,24
+2025,Netherlands,Najran,General Physician and Surgeons,7.00%,17%,17
+2025,Netherlands,Al Jawf,General Physician and Surgeons,7.00%,17%,22
+2026,Netherlands,Riyadh,General Physician and Surgeons,7.00%,15%,88
+2026,Netherlands,Makkah,General Physician and Surgeons,7.00%,15%,40
+2026,Netherlands,Eastern Province,General Physician and Surgeons,7.00%,15%,56
+2026,Netherlands,Asir,General Physician and Surgeons,7.00%,15%,25
+2026,Netherlands,Al-Qassim,General Physician and Surgeons,7.00%,15%,31
+2026,Netherlands,Al Madinah,General Physician and Surgeons,7.00%,15%,42
+2026,Netherlands,Jizan,General Physician and Surgeons,7.00%,15%,21
+2026,Netherlands,Tabuk,General Physician and Surgeons,7.00%,15%,28
+2026,Netherlands,Najran,General Physician and Surgeons,7.00%,15%,21
+2026,Netherlands,Al Jawf,General Physician and Surgeons,7.00%,15%,26
+2027,Netherlands,Riyadh,General Physician and Surgeons,7.00%,13%,88
+2027,Netherlands,Makkah,General Physician and Surgeons,7.00%,13%,40
+2027,Netherlands,Eastern Province,General Physician and Surgeons,7.00%,13%,56
+2027,Netherlands,Asir,General Physician and Surgeons,7.00%,13%,25
+2027,Netherlands,Al-Qassim,General Physician and Surgeons,7.00%,13%,31
+2027,Netherlands,Al Madinah,General Physician and Surgeons,7.00%,13%,42
+2027,Netherlands,Jizan,General Physician and Surgeons,7.00%,13%,21
+2027,Netherlands,Tabuk,General Physician and Surgeons,7.00%,13%,28
+2027,Netherlands,Najran,General Physician and Surgeons,7.00%,13%,21
+2027,Netherlands,Al Jawf,General Physician and Surgeons,7.00%,13%,26
